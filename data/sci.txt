@@ -1,0 +1,130 @@
+ATOME|Plus petite partie d'un élément chimique
+MOLECULE|Assemblage d'atomes
+ELECTRON|Particule de charge négative
+PROTON|Particule positive du noyau
+NEUTRON|Particule neutre du noyau
+NOYAU|Centre de l'atome
+OXYGENE|Gaz indispensable à la respiration
+HYDROGENE|Élément le plus léger
+CARBONE|Élément de base du vivant
+AZOTE|Gaz majoritaire de l'air
+HELIUM|Gaz qui fait s'envoler les ballons
+FER|Métal de symbole Fe
+CUIVRE|Métal de symbole Cu
+ARGENT|Métal de symbole Ag
+PLOMB|Métal de symbole Pb
+MERCURE|Métal liquide à température ambiante
+NEWTON|Il formula la gravitation universelle
+EINSTEIN|Père de la relativité
+CURIE|Marie ___, double prix Nobel
+PASTEUR|Inventeur du vaccin contre la rage
+DARWIN|Théoricien de l'évolution des espèces
+GALILEE|Il observa les lunes de Jupiter
+GRAVITE|Force qui fait tomber les objets
+ENERGIE|Elle se mesure en joules
+VITESSE|Distance parcourue par unité de temps
+LUMIERE|Elle file à près de 300 000 km/s
+PRISME|Il décompose la lumière blanche
+AIMANT|Il attire le fer
+ELECTRICITE|Elle circule dans les fils
+VOLT|Unité de tension électrique
+WATT|Unité de puissance
+JOULE|Unité d'énergie
+CELLULE|Unité de base du vivant
+ADN|Molécule support de l'hérédité
+GENE|Portion d'ADN transmise aux descendants
+MICROBE|Organisme microscopique
+BACTERIE|Micro-organisme sans noyau
+VIRUS|Agent infectieux qui détourne une cellule
+VACCIN|Il prépare l'immunité
+FOSSILE|Trace d'un être vivant conservée dans la roche
+VOLCAN|Il crache de la lave
+SEISME|Tremblement de terre
+FUSION|Passage de l'état solide à l'état liquide
+VAPEUR|Eau à l'état gazeux
+ACIDE|Le jus de citron l'est
+ALGEBRE|Branche des maths des équations
+GEOMETRIE|Branche des maths des figures
+TRIANGLE|Polygone à trois côtés
+CERCLE|Ses points sont tous à égale distance du centre
+EQUATION|Égalité avec une inconnue
+FRACTION|Trois quarts en est une
+MICROSCOPE|Il grossit l'infiniment petit
+TELESCOPE|Il observe le ciel lointain
+LABORATOIRE|Lieu des expériences
+THEOREME|Celui de Pythagore est célèbre
+PYTHAGORE|Mathématicien du triangle rectangle
+CHLOROPHYLLE|Pigment vert des plantes
+# --- définitions supplémentaires ---
+ATOME|Les Grecs le croyaient insécable|On le fissionne dans une centrale|___ crochu : affinité
+MOLECULE|L'eau en est une, H2O|Particule faite de plusieurs atomes liés|Plus petite portion d'un corps pur
+ELECTRON|Il gravite autour du noyau|Particule découverte par Thomson|___ libre : esprit indépendant
+PROTON|Son nombre définit l'élément|Noyau de l'atome d'hydrogène|Il est 1 836 fois plus lourd qu'un électron
+NEUTRON|Découvert par Chadwick en 1932|Particule sans charge|Il entretient la réaction en chaîne
+NOYAU|Partie dure de la cerise|Cœur de la cellule|Groupe restreint et soudé
+OXYGENE|O dans le tableau|Gaz produit par la photosynthèse|Bol d'air pur, au figuré
+HYDROGENE|H dans le tableau|Combustible du Soleil|Il forme l'eau avec l'oxygène
+CARBONE|Diamant et graphite sont faits de lui|Sa datation au 14 date les fossiles|Papier qui sert à copier
+AZOTE|78 % de notre atmosphère|Élément N|Engrais pour les plantes
+HELIUM|Il rend la voix aiguë|Gaz rare découvert dans le Soleil|Deuxième élément du tableau
+FER|Il rouille|Métal du forgeron|Outil pour repasser
+CUIVRE|Métal rougeâtre des fils électriques|Métal des casseroles de chef|Instrument à vent de l'orchestre, au pluriel
+ARGENT|Métal de la deuxième place|Monnaie, au sens courant|Le temps, c'en est
+PLOMB|Métal lourd et toxique|Fusible d'autrefois|Il n'a pas de ___ dans la cervelle
+MERCURE|Planète la plus proche du Soleil|Messager des dieux romains|Il monte dans les thermomètres d'antan
+NEWTON|Une pomme lui tomba dessus|Isaac, physicien anglais|Unité de force
+EINSTEIN|E = mc²|Albert, génie à la langue tirée|Prix Nobel de physique 1921
+CURIE|Marie, découvreuse du radium|Pierre, son mari physicien|Unité de radioactivité ancienne
+PASTEUR|Il a donné son nom à la pasteurisation|Louis, chimiste de Dole|Ministre du culte protestant
+DARWIN|Charles, passager du Beagle|Auteur de L'Origine des espèces|Il observa les pinsons des Galápagos
+GALILEE|« Et pourtant elle tourne »|Astronome condamné par l'Église|Région de Nazareth
+GRAVITE|Sérieux d'une situation|Pesanteur|Centre de ___
+ENERGIE|Vigueur, dynamisme|Elle peut être renouvelable|Celle du désespoir
+VITESSE|Excès de ___|Elle se mesure en km/h|Boîte de ___
+LUMIERE|Clarté|Siècle des ___|Frères pionniers du cinéma
+PRISME|Solide à deux bases parallèles|Point de vue, au figuré|Il fait apparaître un arc-en-ciel
+AIMANT|Il colle au frigo|Qui donne de l'amour|Il a un pôle nord et un pôle sud
+ELECTRICITE|Fée des expositions universelles|Courant dans la maison|Facture de l'EDF
+VOLT|Unité honorant le physicien de Côme|220 dans les prises d'autrefois|Unité de la pile
+WATT|Inventeur écossais de la machine à vapeur moderne|Unité de puissance d'une ampoule|Il se compte en kilo pour un radiateur
+JOULE|Unité de travail|James, physicien anglais|Unité valant une calorie divisée par quatre environ
+CELLULE|Pièce d'une prison|Alvéole de ruche|___ photoélectrique
+ADN|Acide désoxyribonucléique|Double hélice|Il trahit les coupables
+GENE|Il code une protéine|Unité d'hérédité|Embarras
+MICROBE|Petite bête invisible|Tout petit enfant, en plaisantant|Germe
+BACTERIE|Le colibacille en est une|Elle peut être lactique|Les antibiotiques la combattent
+VIRUS|Celui de la grippe mute chaque année|Programme malveillant|Passion contagieuse
+VACCIN|Jenner l'inventa contre la variole|Piqûre de rappel|Il stimule les anticorps
+FOSSILE|Ammonite pétrifiée|Vieux réactionnaire, au figuré|Énergie ___ : pétrole ou charbon
+VOLCAN|L'Etna en est un|Son cratère fume|Il peut être endormi
+SEISME|Il se mesure sur l'échelle de Richter|Bouleversement brutal|Secousse tellurique
+FUSION|Mariage de deux entreprises|Réaction nucléaire des étoiles|Cuisine ___, mélange des genres
+VAPEUR|Locomotive à ___|Cuisson diététique|Buée
+ACIDE|Pluie ___|Aigre|Propos mordant
+ALGEBRE|Mot venu de l'arabe al-jabr|Science des x et des y|C'est de l'___ pour moi : incompréhensible
+GEOMETRIE|Science d'Euclide|À ___ variable : changeant|Étude des angles et des droites
+TRIANGLE|Il peut être isocèle|Instrument de percussion|Celui des Bermudes est maudit
+CERCLE|Rond parfait|Club fermé|___ vicieux
+EQUATION|Problème à x inconnues|Formule à résoudre|Situation complexe à démêler
+FRACTION|Partie d'un tout|Numérateur sur dénominateur|Groupe dissident d'un parti
+MICROSCOPE|Instrument du biologiste|Sous son œil, on examine en détail|Il a des lentilles et une platine
+TELESCOPE|Hubble en est un spatial|Lunette astronomique à miroir|Instrument de l'observatoire
+LABORATOIRE|Lieu de recherche|Celui d'analyses traite les prises de sang|Le labo, en entier
+THEOREME|Proposition démontrée|Celui de Thalès parle de droites parallèles|Vérité mathématique
+PYTHAGORE|Son théorème parle d'hypoténuse|Sage de Samos|Table de multiplication à son nom
+CHLOROPHYLLE|Elle capte la lumière du soleil|Elle verdit les feuilles|Molécule de la photosynthèse
+# --- nouveaux mots ---
+PHOTOSYNTHESE|Fabrication de sucre par la lumière|Processus des plantes vertes|Elle libère de l'oxygène|Usine des feuilles
+ISOTOPE|Atome au nombre de neutrons différent|Le carbone 14 en est un|Variante d'un élément|Il peut être radioactif
+RADIOACTIVITE|Découverte par Becquerel|Émission de rayonnements|Phénomène mesuré au compteur Geiger|Elle touche l'uranium
+THERMOMETRE|Il mesure la température|Il a un réservoir d'alcool ou de mercure|Instrument du médecin|Il descend sous zéro en hiver
+ALGORITHME|Recette mathématique|Suite d'instructions|Il gouverne les réseaux sociaux|Mot venu d'al-Khwarizmi
+ENTROPIE|Mesure du désordre|Elle augmente toujours, dit la thermodynamique|Grandeur de Clausius|Désorganisation progressive
+CATALYSEUR|Il accélère une réaction|Pot d'échappement épurant|Élément déclencheur|Le platine en est un
+DENSITE|Masse rapportée au volume|Elle fait flotter le bois|Épaisseur d'une population|Compacité
+ORBITE|Trajectoire autour d'un astre|Cavité de l'œil|Mettre en ___ : lancer|Elle est elliptique chez Kepler
+ARCHIMEDE|« Eurêka ! »|Sa poussée fait flotter|Savant de Syracuse|Il demandait un levier pour soulever le monde
+MENDELEIEV|Inventeur du tableau périodique|Chimiste russe|Il prédit des éléments inconnus|Élément 101 à son nom
+HYPOTENUSE|Côté opposé à l'angle droit|Le plus long côté du triangle rectangle|Son carré vaut la somme des deux autres|Ligne de Pythagore
+POLYGONE|Le carré en est un|Figure à plusieurs côtés|Terrain militaire de tir|L'hexagone en est un
+DIAMETRE|Il passe par le centre|Deux fois le rayon|Corde maximale|Taille d'un tuyau

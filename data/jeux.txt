@@ -1,0 +1,120 @@
+ECHECS|Jeu du roi et de la dame
+DAMES|Jeu de pions sur damier
+DOMINO|Pièce à points qu'on aligne
+DES|On les lance au 421
+TAROT|Jeu de cartes avec l'Excuse
+BELOTE|Jeu de cartes à trente-deux cartes et à atout
+POKER|Jeu de cartes et de bluff
+BRIDGE|Jeu de cartes à enchères par paires
+SCRABBLE|Jeu de lettres sur plateau
+MONOPOLY|Jeu de la rue de la Paix
+PUZZLE|Pièces à assembler
+SUDOKU|Grille de chiffres de 1 à 9
+RUBIK|Son cube a six faces colorées
+LOTO|Jeu de tirage de numéros
+TOMBOLA|Loterie de kermesse
+BILLARD|Jeu de queue et de boules
+BOWLING|Jeu de quilles
+FLECHETTES|On les lance sur une cible
+MARELLE|Jeu de cour à cloche-pied
+TOUPIE|Elle tourne sur sa pointe
+YOYO|Il monte et descend sur son fil
+BILLE|Petite boule de verre
+LEGO|Briques de construction danoises
+POUPEE|Jouet à figure humaine
+PELUCHE|Doudou en tissu
+PION|Pièce la plus modeste des échecs
+CAVALIER|Pièce qui avance en L
+FOU|Pièce qui file en diagonale
+TOUR|Pièce qui roque avec le roi
+MAT|Fin de la partie d'échecs
+JOKER|Carte qui remplace toutes les autres
+ATOUT|Couleur maîtresse
+PIQUE|Couleur noire des cartes
+CARREAU|Couleur rouge des cartes
+MANETTE|On la tient pour jouer à la console
+CONSOLE|Machine de jeux vidéo
+PACMAN|Il avale des pastilles dans un labyrinthe
+TETRIS|Jeu de blocs qui tombent
+MARIO|Plombier de Nintendo
+ZELDA|Princesse de la saga de Link
+BRICOLAGE|Petits travaux manuels
+TRICOT|Ouvrage aux aiguilles
+CROCHET|Ouvrage à l'aiguille recourbée
+PECHE|Loisir au bord de l'eau
+KARAOKE|Chanter sur une musique
+ORIGAMI|Art du pliage de papier
+LABYRINTHE|Dédale
+JARDINAGE|Loisir des mains vertes
+COLLECTION|Objets réunis par passion
+CHARADE|Devinette en plusieurs parties
+REBUS|Devinette en images
+DEVINETTE|Question pour faire deviner
+MIKADO|Jeu de baguettes
+# --- définitions supplémentaires ---
+ECHECS|Jeu de Kasparov|Revers|Il se joue sur 64 cases
+DAMES|Jeu à 100 cases|Mesdemoiselles devenues grandes|On y souffle les pions
+DOMINO|Effet en cascade|Costume de bal masqué|Double-six
+DES|Les ___ sont jetés|Cubes à six faces|Petits cubes de légumes
+TAROT|Cartes de la voyante|Jeu de 78 cartes|Jeu du petit au bout
+BELOTE|Jeu du dix de der|Jeu des bistrots|Partie de coinche, sa cousine
+POKER|Texas hold'em|Jeu du flush et du full|Faire un coup de ___
+BRIDGE|Jeu du mort|Prothèse dentaire|Pont en anglais
+SCRABBLE|Jeu du mot compte triple|Jeu de 102 jetons|Tirage de sept lettres
+MONOPOLY|Jeu des hôtels et des gares|Position de seul vendeur|Allez directement en prison
+PUZZLE|Casse-tête|Affaire à reconstituer|Jeu de mille pièces
+SUDOKU|Grille 9 × 9|Casse-tête japonais|Jeu de logique chiffré
+RUBIK|Ernő, inventeur hongrois|Cube ___|Le casse-tête aux 43 trillions de positions
+LOTO|Jeu de la Française des Jeux|Grille à cocher|Quine !
+TOMBOLA|Lots à gagner|Tirage de fête|Billets numérotés
+BILLARD|Table au tapis vert|Il peut être américain ou français|Passer sur le ___ : à l'hôpital
+BOWLING|Strike !|Jeu de quilles américain|Piste de boules lourdes
+FLECHETTES|Jeu des pubs anglais|Jeu de la cible à 501|Darts
+MARELLE|Du ciel à la terre sur une jambe|Jeu à cases tracées à la craie|Jeu de récréation
+TOUPIE|Sabot|Jouet qui ronfle|Vieille ___ : femme désagréable
+YOYO|Effet ___ : hausses et baisses|Jouet à ficelle|Faire le ___
+BILLE|Agate de cour d'école|Stylo à ___|Toucher sa ___ : être doué
+LEGO|Je joue en latin|Briques à tenons|Petit personnage jaune
+POUPEE|Barbie|Jolie fille|Matriochka
+PELUCHE|Nounours|Tissu velu|Gros câlin
+PION|Surveillant de lycée|Pièce de dames|Pièce qui peut devenir dame
+CAVALIER|Désinvolte|Partenaire de danse|Homme à cheval
+FOU|Dingue|Bouffon du roi|Amoureux ___
+TOUR|Celle de Pise|Ronde|Celle de contrôle
+MAT|Sans éclat|Échec et ___|Coup final aux échecs
+JOKER|Ennemi de Batman|Carte au bouffon|Aide au jeu télévisé
+ATOUT|Avantage|Carte maîtresse|Point fort
+PIQUE|Brouille|Lance ancienne|Couleur des cartes en fer de lance
+CARREAU|Vitre|Motif de tissu à damier|Rester sur le ___
+MANETTE|Levier|Joystick|Elle commande
+CONSOLE|PlayStation|Table d'appui|Elle réconforte, au verbe
+PACMAN|Boule jaune affamée|Héros d'arcade de 1980|Il fuit les fantômes
+TETRIS|Jeu russe de Pajitnov|Jeu de lignes complètes|Jeu des Game Boy
+MARIO|Héros à moustache|Frère de Luigi|Kart à son nom
+ZELDA|Légende de Link|Héroïne d'Hyrule|Épouse de Scott Fitzgerald
+BRICOLAGE|Système D|Travail à la va-vite|Activité du dimanche
+TRICOT|Pull fait main|Maille à l'endroit|Activité des mamies
+CROCHET|Signe [ ]|Détour|Coup de poing de boxe
+PECHE|Fruit à noyau|Faute morale|Avoir la ___ : être en forme
+KARAOKE|Bar à micro|Chant amateur|Il se fait en soirée
+ORIGAMI|Grue de papier|Pliage japonais|Art des cocottes
+LABYRINTHE|Celui du Minotaure|Lieu où l'on se perd|Oreille interne
+JARDINAGE|Bêchage et semis|Loisir vert|Activité potagère
+COLLECTION|Celle de timbres|Série de livres|Défilé de mode saisonnier
+CHARADE|Mon premier est…|Énigme à tiroirs|Devinette en syllabes
+REBUS|Dessin-devinette|Énigme graphique|Casse-tête en pictogrammes
+DEVINETTE|Petite énigme|Question pour rire|Qui suis-je ?
+MIKADO|Jeu des baguettes empilées|Empereur du Japon|Biscuit chocolaté
+# --- nouveaux mots ---
+CLUEDO|Le colonel Moutarde avec le chandelier|Jeu d'enquête|Jeu du docteur Lenoir|Meurtre au manoir en jeu de société
+UNO|Jeu de cartes colorées|Un en espagnol|Carte +4|Il faut l'annoncer à la dernière carte
+YAMS|Jeu de cinq dés|Yahtzee|Il faut faire un full|Patate douce en anglais
+BATAILLE|Jeu de cartes des enfants|Combat|Jeu où l'on crie touché-coulé|Champ de ___
+SOLITAIRE|Jeu de patience|Diamant unique|Ermite|Navigateur seul
+CROQUET|Jeu de maillets et d'arceaux|Biscuit sec|Jeu d'Alice au pays des merveilles|Jeu de pelouse
+PATIENCE|Réussite aux cartes|Vertu|Elle a ses limites|Elle est mère de toutes les vertus
+CASSETETE|Problème difficile|Puzzle|Énigme|Rubik's Cube, par exemple
+JENGA|Tour de blocs de bois|Jeu d'adresse qui s'écroule|Il ne faut pas faire tomber la pile|Jeu de briques retirées
+ESCAPEGAME|Jeu d'évasion grandeur nature|On y cherche la sortie|Énigmes en équipe|Salle à s'échapper
+PETANQUE|Jeu au cochonnet|Boules de Provence|Mener la partie à 13|Jeu provençal des boulistes
+FIGURINE|Petite statue|Pièce peinte du jeu de guerre|Personnage miniature|Santon, par exemple

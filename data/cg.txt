@@ -1,0 +1,138 @@
+PARIS|Capitale de la France
+EIFFEL|Ingénieur de la tour parisienne de 1889
+LOUVRE|Musée parisien de la Joconde
+JOCONDE|Portrait célèbre de Léonard de Vinci
+NAPOLEON|Empereur sacré en 1804
+ATLANTIQUE|Océan entre l'Europe et l'Amérique
+SAHARA|Plus grand désert chaud du monde
+EVEREST|Plus haut sommet du monde
+NIL|Fleuve d'Égypte
+AMAZONE|Fleuve au plus fort débit du monde
+OLYMPE|Mont des dieux grecs
+ALPHABET|Suite ordonnée des lettres
+DICTIONNAIRE|Ouvrage qui définit les mots
+ENCYCLOPEDIE|Œuvre dirigée par Diderot et d'Alembert
+MARIANNE|Figure symbolique de la République
+COQ|Emblème sportif de la France
+EURO|Monnaie de la France depuis 2002
+BISSEXTILE|Se dit d'une année de 366 jours
+SIECLE|Période de cent ans
+MILLENAIRE|Période de mille ans
+DECENNIE|Période de dix ans
+ZERO|Nombre nul
+DOUZAINE|Groupe de douze
+HEXAGONE|Surnom de la France métropolitaine
+ARCENCIEL|Il a sept couleurs
+BOUSSOLE|Elle indique le nord
+CALENDRIER|Il découpe l'année en jours et en mois
+HORLOGE|Elle donne l'heure
+SABLIER|Il mesure le temps avec du sable
+NOBEL|Prix créé par testament d'un chimiste suédois
+UNESCO|Agence de l'ONU pour l'éducation et la culture
+OLYMPIQUE|Se dit des Jeux tous les quatre ans
+MARATHON|Course de 42,195 km
+BAGUETTE|Pain long typiquement français
+FROMAGE|Le camembert en est un
+CHAMPAGNE|Vin effervescent de la Marne
+VERSAILLES|Château de Louis XIV
+CATHEDRALE|Notre-Dame de Paris en est une
+PYRAMIDE|Monument de Gizeh
+SPHINX|Gardien de pierre près de Gizeh
+COLISEE|Amphithéâtre de Rome
+PHARE|Il guide les navires la nuit
+ECLIPSE|La Lune cache le Soleil
+SAISON|L'automne en est une
+EQUINOXE|Le jour et la nuit y ont la même durée
+SOLSTICE|Jour le plus long ou le plus court
+METRE|Unité de longueur
+KILOGRAMME|Unité de masse
+LITRE|Unité de volume
+SECONDE|Unité de temps
+LATITUDE|Distance angulaire à l'équateur
+EQUATEUR|Ligne qui partage la Terre en deux hémisphères
+GREENWICH|Méridien d'origine
+PALINDROME|Mot qui se lit dans les deux sens
+ANAGRAMME|Mot formé en mélangeant les lettres d'un autre
+PROVERBE|Court énoncé de sagesse populaire
+DEVISE|Liberté, égalité, fraternité
+DRAPEAU|Le français est bleu, blanc, rouge
+HYMNE|La Marseillaise en est un
+TREFLE|Il porte bonheur à quatre feuilles
+# --- définitions supplémentaires ---
+PARIS|Ville Lumière|Ville traversée par la Seine|On dit qu'elle vaut bien une messe
+EIFFEL|Gustave, bâtisseur de la Dame de fer|Il a aussi conçu l'ossature de la statue de la Liberté|Sa tour mesure 330 mètres
+LOUVRE|Musée à la pyramide de verre|Ancien palais des rois au bord de la Seine|Le plus visité des musées du monde
+JOCONDE|Mona Lisa pour les Anglais|Dame au sourire énigmatique|Volée au Louvre en 1911
+NAPOLEON|Le Petit Caporal|Bonaparte devenu empereur|Né à Ajaccio en 1769
+ATLANTIQUE|Lindbergh l'a traversé en solitaire|Le Titanic y a sombré|Deuxième océan du globe
+SAHARA|Désert du Petit Prince|Mer de dunes en Afrique du Nord|Désert du Paris-Dakar d'antan
+EVEREST|Toit du monde|Sommet de 8 849 mètres|Hillary et Tensing l'ont vaincu en 1953
+NIL|Fleuve des pharaons|Il se jette en Méditerranée par un delta|Long fleuve africain bleu ou blanc
+AMAZONE|Fleuve de la grande forêt sud-américaine|Guerrière mythique|Cavalière en jupe longue
+OLYMPE|Demeure de Zeus|Plus haut sommet de Grèce|Prénom de la féministe de Gouges
+ALPHABET|De A à Z|Il en compte vingt-six chez nous|Mot venu d'alpha et bêta
+DICTIONNAIRE|Le Robert ou le Larousse|Il va de A à Z|On y cherche le sens des mots
+ENCYCLOPEDIE|Somme des connaissances|Le savoir en plusieurs volumes|Wikipédia en est une
+MARIANNE|Son buste trône dans les mairies|Elle porte le bonnet phrygien|Effigie des timbres français
+COQ|Il chante au lever du jour|Mâle de la poule|Il est fier sur son tas de fumier
+EURO|Il a remplacé le franc|Monnaie unique européenne|Son symbole ressemble à un E barré
+BISSEXTILE|Février y compte 29 jours|Comme l'année 2024|Elle revient tous les quatre ans
+SIECLE|Celui des Lumières est le XVIIIe|Cent ans|Le Grand ___, celui de Louis XIV
+MILLENAIRE|Le troisième a commencé en 2001|Mille ans d'existence|Très, très ancien
+DECENNIE|Les années 80 en forment une|Dix années|Période de deux lustres
+ZERO|Le chiffre de l'œuf|Avant un, après moins un|Note qui fâche
+DOUZAINE|Œufs vendus par boîte de ___|Douze unités|Une ___ d'huîtres
+HEXAGONE|Polygone à six côtés|La France, vue de haut|Figure des alvéoles d'abeilles
+ARCENCIEL|Il apparaît après la pluie|Écharpe d'Iris|Pont de couleurs dans le ciel
+BOUSSOLE|Instrument du randonneur égaré|Son aiguille est aimantée|Perdre la ___, c'est s'affoler
+CALENDRIER|Celui de l'Avent s'ouvre en décembre|Grégorien depuis 1582|On y coche les jours
+HORLOGE|Celle de la gare est parlante|Coucou suisse, par exemple|Elle a des aiguilles
+SABLIER|Il se retourne pour compter les minutes|Minuteur à grains|Il règle la cuisson de l'œuf à la coque
+NOBEL|Alfred, inventeur de la dynamite|Prix remis à Stockholm|Camus l'a obtenu en 1957
+UNESCO|Elle classe le patrimoine mondial|Son siège est place de Fontenoy, à Paris|Organisation onusienne de la culture
+OLYMPIQUE|Flamme ___|Comme une piscine de 50 mètres|Se dit d'un calme parfait
+MARATHON|Ville grecque d'une course célèbre|Épreuve reine de l'endurance|Négociation interminable
+BAGUETTE|Elle est dite magique chez les fées|Pain inscrit au patrimoine de l'Unesco|Celle du chef d'orchestre
+FROMAGE|Entre la salade et le dessert|Brie, comté ou roquefort|Plateau de fin de repas
+CHAMPAGNE|Bulles des grandes fêtes|Région de Reims et d'Épernay|Dom Pérignon y a son nom
+VERSAILLES|Ville de la galerie des Glaces|Traité de 1919|Château du Roi-Soleil
+CATHEDRALE|Église d'un évêque|Celle de Chartres est gothique|Elle a souvent deux tours
+PYRAMIDE|Tombeau de Khéops|Elle trône dans la cour du Louvre|Celle des âges montre la population
+SPHINX|Monstre qui posait une énigme à Œdipe|Lion à tête humaine|Papillon de nuit
+COLISEE|Arène des gladiateurs|Monument flavien de Rome|Amphithéâtre de 50 000 places
+PHARE|Celui d'Alexandrie était une merveille|Tour lumineuse sur la côte|Feu avant de voiture
+ECLIPSE|Totale ou partielle dans le ciel|Disparition passagère|Ombre d'un astre sur un autre
+SAISON|Le printemps, par exemple|Période de récolte|Haute ou basse pour les touristes
+EQUINOXE|Celle de printemps tombe vers le 20 mars|Égalité du jour et de la nuit|Moment de l'année deux fois l'an
+SOLSTICE|Celui d'été tombe vers le 21 juin|Le Soleil semble s'y arrêter|Fête de la Saint-Jean autour de lui
+METRE|Cent centimètres|Ruban du couturier|Il est étalonné à Sèvres
+KILOGRAMME|Mille grammes|Unité redéfinie en 2019|Le kilo, en entier
+LITRE|Une bouteille d'eau en contient souvent un et demi|Mille millilitres|Volume d'un cube de dix centimètres
+SECONDE|Soixantième de minute|Classe qui suit la troisième|Deuxième en importance
+LATITUDE|Elle se compte en degrés nord ou sud|Marge de manœuvre|Avec la longitude, elle situe un lieu
+EQUATEUR|Pays de Quito|Ligne de latitude zéro|Cercle imaginaire de la Terre
+GREENWICH|Quartier de Londres de l'heure universelle|Son observatoire fixe la longitude zéro|Méridien du GMT
+PALINDROME|Comme « kayak » ou « radar »|Il se lit à l'endroit comme à l'envers|Ésope reste ici et se repose, par exemple
+ANAGRAMME|« Chien » et « niche » en sont l'un de l'autre|Jeu de lettres permutées|Marie devient aimer
+PROVERBE|Qui vole un œuf vole un bœuf, par exemple|Dicton|Sagesse des nations
+DEVISE|Monnaie étrangère|Formule d'un blason|Phrase qui résume un idéal
+DRAPEAU|Il flotte sur les mairies|Étendard national|Il se lève au mât
+HYMNE|Chant national|Poème à la gloire de quelqu'un|On le chante avant les matchs
+TREFLE|Couleur de cartes noire|Plante fourragère des prés|Emblème de l'Irlande
+# --- nouveaux mots ---
+ATLAS|Recueil de cartes|Titan qui porte le ciel|Première vertèbre du cou|Massif montagneux du Maroc
+MAPPEMONDE|Carte du globe en deux hémisphères|Le monde à plat|Elle orne les salles de classe|Planisphère d'autrefois
+CONTINENT|L'Océanie en est un|Grande masse de terre|Les Anglais y désignent l'Europe|Il y en a cinq aux anneaux olympiques
+VOLCAN|Le Vésuve en est un|Montagne qui crache du feu|Le Piton de la Fournaise en est un actif|Il entre parfois en éruption
+TRESOR|Il est caché sur une île chez Stevenson|Coffre de pirate|Mot doux pour l'être aimé|Le ___ public gère l'argent de l'État
+ENIGME|Devinette du Sphinx|Mystère à élucider|Problème qui donne sa langue au chat|Ce que résout un détective
+CENTENAIRE|Personne de cent ans|Anniversaire d'un siècle|Guerre de Cent Ans, presque|Vieux chêne, peut-être
+ALMANACH|Calendrier enrichi de conseils|Celui du facteur se vend en fin d'année|Annuaire populaire illustré|Recueil de dictons et de dates
+LUSTRE|Plafonnier à pampilles|Période de cinq ans|Éclat d'une surface polie|Il brille à l'opéra
+FUSEAU|___ horaire|Pantalon de ski moulant|Outil de la dentellière|Bobine du fileur
+BIBLIOTHEQUE|Lieu où l'on emprunte des livres|Celle d'Alexandrie a brûlé|Meuble à étagères pour les livres|La BnF en est une
+RECORD|Il est fait pour être battu|Performance inégalée|Livre Guinness des ___|Temps ___
+JUBILE|Fête des cinquante ans|Celui de la reine Élisabeth fut de platine|Anniversaire solennel|Année sainte catholique
+OCEAN|Pacifique, par exemple|Vaste étendue d'eau salée|Il y en a cinq sur Terre|Un ___ d'indifférence
+PLANISPHERE|Carte du monde entier à plat|Projection de Mercator, par exemple|Globe déroulé|Représentation plane de la sphère terrestre
+DEVINETTE|Qu'est-ce qui a des dents mais ne mord pas ?|Énigme pour enfants|Question à double sens|Charade, en plus simple

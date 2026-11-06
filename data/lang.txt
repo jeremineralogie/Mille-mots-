@@ -1,0 +1,136 @@
+JOIE|Gaieté
+COLERE|Rage, fureur
+PEUR|Crainte
+RAPIDE|Véloce
+LENT|Contraire de rapide
+GENTIL|Aimable
+TIMIDE|Réservé, intimidé
+COURAGE|Bravoure
+MALIN|Rusé
+BAVARD|Qui parle beaucoup
+AVARE|Grippe-sou
+FIER|Orgueilleux
+CALME|Paisible
+PROMESSE|Engagement
+SECRET|Ce qu'on garde pour soi
+MENSONGE|Contraire de la vérité
+NOSTALGIE|Regret du passé
+ESPOIR|Attente confiante
+HASARD|Fortune, chance
+DESTIN|Fatalité
+CHAT|Avoir un ___ dans la gorge
+LOUP|Quand on parle du ___…
+POMMES|Tomber dans les ___
+LAPIN|Poser un ___
+MOUCHE|Quelle ___ t'a piqué ?
+CAROTTES|Les ___ sont cuites
+OIGNONS|Occupe-toi de tes ___
+LUNE|Être dans la ___
+VERS|Tirer les ___ du nez
+COUDES|Se serrer les ___
+GRUE|Faire le pied de ___
+POIL|Être de mauvais ___
+MOUTARDE|La ___ me monte au nez
+CHEVEUX|Couper les ___ en quatre
+BEURRE|Vouloir le ___ et l'argent du ___
+VERBE|Mot qui exprime une action
+ADJECTIF|Mot qui qualifie le nom
+ADVERBE|Mot invariable qui modifie le verbe
+PRONOM|Il remplace le nom
+SUJET|Il fait l'action
+VIRGULE|Signe de ponctuation pour une pause
+CEDILLE|Signe placé sous le c
+TREMA|Deux points sur une voyelle
+APOSTROPHE|Signe de l'élision
+PARENTHESE|Elle s'ouvre et se ferme
+SYLLABE|Groupe de sons émis d'une seule voix
+VOYELLE|A, E, I, O, U ou Y
+CONSONNE|B, C ou D
+SYNONYME|Mot de même sens
+ANTONYME|Mot de sens contraire
+HOMONYME|Mot qui se prononce de la même façon
+PLURIEL|Contraire du singulier
+FEMININ|Genre de « table »
+CONJUGAISON|Variation du verbe
+SUBJONCTIF|Mode de « que je sois »
+IMPARFAIT|Temps de « je chantais »
+ACADEMIE|___ française, gardienne de la langue
+ORTHOGRAPHE|Manière correcte d'écrire les mots
+DICTEE|Exercice d'orthographe
+ACCENT|Aigu, grave ou circonflexe
+# --- définitions supplémentaires ---
+JOIE|Allégresse|Feu de ___|Ode à la ___
+COLERE|Péché capital|Courroux|Elle est mauvaise conseillère
+PEUR|Frousse|Trouille|Elle donne des ailes
+RAPIDE|Prompt|Train à grande vitesse d'autrefois|Remous de rivière
+LENT|Traînard|Lambin|Comme une tortue
+GENTIL|Brave|Sage comme une image|Non-juif, dans la Bible
+TIMIDE|Qui rougit facilement|Craintif|Un peu sauvage
+COURAGE|Cran|Il faut en avoir à deux mains|Vaillance
+MALIN|Futé|Le Démon|Petit ___ : enfant espiègle
+BAVARD|Moulin à paroles|Pipelette|Indiscret
+AVARE|Rat, radin|Harpagon l'est|Pingre
+FIER|Altier|Hautain|Content de soi
+CALME|Plat comme la mer d'huile|Sérénité|Du ___ !
+PROMESSE|Serment|Elle n'engage que ceux qui y croient|Parole donnée
+SECRET|Confidentiel|Celui de Polichinelle est connu de tous|Mystère
+MENSONGE|Bobard|Craque|Il fait allonger le nez de Pinocchio
+NOSTALGIE|Mal du pays|C'était mieux avant|Mélancolie du souvenir
+ESPOIR|Jeune talent prometteur|Il fait vivre|Dernière chose qui meurt
+HASARD|Coup de dés|Par ___ : fortuitement|Jeu de ___
+DESTIN|Sort|Fatum|Ce qui est écrit
+CHAT|Discussion en ligne|Félin domestique|Donner sa langue au ___
+LOUP|Il en voit la queue|Être connu comme le ___ blanc|Crier au ___
+POMMES|Fruits du verger|Se sucrer la ___, au singulier|___ de terre
+LAPIN|Chaud ___|Courir comme un ___|Il en pose un en n'allant pas au rendez-vous
+MOUCHE|Prendre la ___ : se vexer|Faire ___ : viser juste|Fine ___
+CAROTTES|Elles rendent aimable, dit-on|Légumes orange|Elles sont cuites, tout est fini
+OIGNONS|Ils font pleurer|Aux petits ___ : avec soin|Bulbes de la soupe à l'oignon
+LUNE|Promettre la ___|Voyage de noces, ou astre des nuits|Elle est rousse en avril
+VERS|Alexandrins, par exemple|Lombrics|Ils se tirent du nez
+COUDES|Huile de ___ : effort|Jouer des ___|Articulations qu'on se serre
+GRUE|Engin de chantier|Échassier cendré|Le pied de ___ se fait en attendant
+POIL|À ___ : tout nu|Au quart de ___|Avoir un ___ dans la main
+MOUTARDE|Condiment de Dijon|Elle monte au nez|Après dîner, c'est trop tard
+CHEVEUX|Tiré par les ___|Avoir un ___ sur la langue, au singulier|Ils se dressent sur la tête
+BEURRE|Compter pour du ___|Petit ___ nantais|Il met dans les épinards
+VERBE|Chanter en est un|Parole, éloquence|Au commencement était le ___
+ADJECTIF|Grand ou petit|Épithète ou attribut|Qualificatif
+ADVERBE|Souvent en -ment|Vite ou bien|Mot qui nuance
+PRONOM|Il ou elle|Mot de substitution|Personnel ou relatif
+SUJET|Thème de dissertation|Il commande le verbe|Citoyen d'un royaume
+VIRGULE|Petite marque de pause|Point-___|Elle sépare les décimales
+CEDILLE|Elle fait chanter le ç|Crochet sous une lettre|Petite queue du garçon
+TREMA|Il est sur le ï de maïs|Signe de diérèse|Double point de Noël
+APOSTROPHE|Interpellation|Émission littéraire de Pivot|Petit signe en hauteur
+PARENTHESE|Digression|Courte période à part|Elle se referme
+SYLLABE|Pied de vers|Ne pas dire une ___|Unité de prononciation
+VOYELLE|Lettre sonore|Rimbaud les colorait|Elle forme le noyau de la syllabe
+CONSONNE|Elle sonne avec une autre|Lettre comme le R|Elle peut être muette
+SYNONYME|Équivalent|Mot interchangeable|Son ___ est quasi le même
+ANTONYME|Contraire|Chaud pour froid|Mot opposé
+HOMONYME|Ver et vert|Personne qui porte le même nom|Mot sosie
+PLURIEL|Souvent en -s|Multiple|La gauche ___
+FEMININ|Le genre de lune|Genre de la femme|Il s'accorde souvent en -e
+CONJUGAISON|Tableau de Bescherelle|Union|Exercice des temps verbaux
+SUBJONCTIF|Mode du doute|Il suit « il faut que »|Mode du souhait
+IMPARFAIT|Temps du passé qui dure|Défectueux|Pas fini
+ACADEMIE|Ses membres portent l'habit vert|Quarante immortels|Elle rédige un dictionnaire
+ORTHOGRAPHE|Écriture correcte|Celle d'usage|Ses fautes font hurler les puristes
+DICTEE|Celle de Pivot était redoutable|Exercice d'écoute écrite|Texte lu par l'instituteur
+ACCENT|Prononciation régionale|Mettre l'___ sur|Signe sur le é
+# --- nouveaux mots ---
+OXYMORE|Une obscure clarté|Alliance de contraires|Figure de style paradoxale|Silence assourdissant, par exemple
+ALLITERATION|Répétition de consonnes|Pour qui sont ces serpents…|Figure sonore|Écho de sons initiaux
+HYPERBOLE|Exagération|Figure de l'emphase|Courbe mathématique|Mourir de rire, par exemple
+EUPHEMISME|Atténuation|Il nous a quittés, pour il est mort|Litote cousine|Adoucissement
+LITOTE|Va, je ne te hais point|Dire moins pour suggérer plus|Figure de l'understatement|Pas mal, pour très bien
+NEOLOGISME|Mot nouveau|Courriel en fut un|Création lexicale|Innovation de vocabulaire
+ARGOT|Langue verte|Parler populaire|Le verlan en est une forme|Langage des voyous d'antan
+VERLAN|Langage à l'envers|Ouf pour fou|Meuf vient de lui|Parler inversé
+PROVERBE|Pierre qui roule n'amasse pas mousse|Adage|Maxime populaire|Sentence
+ETYMOLOGIE|Origine d'un mot|Science des racines|Histoire d'un mot|Filiation lexicale
+GRAMMAIRE|Règles de la langue|Livre de Grevisse|Elle régit la syntaxe|Science de la phrase
+PONCTUATION|Points et virgules|Signes de l'écrit|Ensemble des pauses écrites|Elle rythme la phrase
+POINT|Il clôt la phrase|Unité d'un score|Nœud de couture|À ___ : juste à temps
+GUILLEMETS|Ils encadrent une citation|Chevrons de citation|Signes « et »|Ils mettent à distance

@@ -1,0 +1,130 @@
+COEUR|Organe qui pompe le sang
+POUMON|Organe de la respiration
+FOIE|Plus grosse glande du corps
+REIN|Il filtre le sang
+CERVEAU|Siège de la pensée
+ESTOMAC|Poche de la digestion
+INTESTIN|Long tube digestif
+SQUELETTE|Ensemble des os
+FEMUR|Plus long os du corps
+CRANE|Boîte osseuse de la tête
+COLONNE|___ vertébrale
+VERTEBRE|Os de la colonne
+COTE|Os du thorax
+MUSCLE|Il se contracte pour bouger
+TENDON|Il relie le muscle à l'os
+ARTERE|Vaisseau qui part du cœur
+VEINE|Vaisseau qui revient au cœur
+SANG|Liquide rouge du corps
+PLAQUETTE|Cellule de la coagulation
+GLOBULE|___ rouge ou blanc
+NEURONE|Cellule nerveuse
+PEAU|Plus grand organe du corps
+ONGLE|Lame cornée au bout du doigt
+CHEVEU|Il pousse sur la tête
+DENT|Elle a une couronne et une racine
+LANGUE|Organe du goût
+PUPILLE|Ouverture noire de l'œil
+RETINE|Membrane sensible au fond de l'œil
+TYMPAN|Membrane de l'oreille
+GENOU|Articulation de la jambe
+COUDE|Articulation du bras
+EPAULE|Elle relie le bras au tronc
+CHEVILLE|Articulation du pied
+POIGNET|Articulation de la main
+NOMBRIL|Cicatrice du cordon ombilical
+DIAPHRAGME|Muscle de la respiration
+INSULINE|Hormone produite par le pancréas
+PANCREAS|Glande de l'insuline
+HORMONE|Messager chimique du corps
+SOMMEIL|Repos de la nuit
+FIEVRE|Hausse de la température du corps
+RHUME|Il fait couler le nez
+ALLERGIE|Réaction excessive au pollen par exemple
+MEDECIN|Il soigne les malades
+INFIRMIER|Soignant de l'hôpital
+PHARMACIE|On y achète des médicaments
+ORDONNANCE|Prescription du médecin
+VITAMINE|L'orange est riche en C
+CALORIE|Unité d'énergie des aliments
+PROTEINE|Nutriment des muscles
+STETHOSCOPE|Instrument pour écouter le cœur
+POULS|Battement perçu au poignet
+CICATRICE|Marque laissée par une plaie
+ANTIBIOTIQUE|Médicament contre les bactéries
+CORNEE|Partie transparente à l'avant de l'œil
+SALIVE|Liquide de la bouche
+# --- définitions supplémentaires ---
+COEUR|Il bat la chamade|Siège des sentiments|Couleur rouge des cartes
+POUMON|Celui de la ville est un parc|Il en existe un d'acier|On les remplit d'air
+FOIE|Le gras du Périgord|Il fabrique la bile|Crise de ___ après les fêtes
+REIN|Ses calculs font souffrir|Il fabrique l'urine|Avoir les ___ solides
+CERVEAU|Matière grise|Organisateur d'un complot|Ordinateur du corps
+ESTOMAC|Avoir de l'___ : du culot|Il digère avec des sucs acides|Creux de la faim
+INTESTIN|Grêle ou gros|Siège du microbiote|Boyau
+SQUELETTE|Charpente du corps|Il est là le jour d'Halloween|Personne très maigre
+FEMUR|Os de la cuisse|Il s'articule avec la hanche|Os qui casse chez les personnes âgées au col
+CRANE|Il protège le cerveau|Faire le ___ : se vanter|Il orne le drapeau des pirates
+COLONNE|Pilier|___ Morris|Celle de la Bastille est surmontée d'un génie
+VERTEBRE|Les cervicales en sont|Elle a un disque|Petit os empilé dans le dos
+COTE|Il y en a douze paires|Rivage|Se tenir les ___ : rire
+MUSCLE|Le biceps en est un|Il grossit à la gym|Force
+TENDON|Celui d'Achille est au talon|Il peut s'enflammer : tendinite|Lien fibreux
+ARTERE|Grande avenue|L'aorte en est une|Vaisseau qui transporte un sang oxygéné
+VEINE|Chance|Filon d'une mine|Inspiration poétique
+SANG|Liquide vital|Celui-ci est bleu chez les nobles|Être de même ___
+PLAQUETTE|Petit livre|Celle de chocolat|Elle aide à cicatriser
+GLOBULE|Hématie|Petite sphère|Le leucocyte en est un blanc
+NEURONE|Il transmet l'influx nerveux|On en a des milliards|Il a des dendrites
+PEAU|Épiderme|Enveloppe de la pomme|Faire ___ neuve
+ONGLE|On le ronge par nervosité|On le vernit|Griffe humaine
+CHEVEU|Couper les ___ en quatre|Il y en a un sur la soupe|Il peut être blanc
+DENT|Celle de sagesse pousse tard|Sommet pointu de montagne|Avoir la ___ dure
+LANGUE|Le français en est une|Tirer la ___|Bavarde, mauvaise ___
+PUPILLE|Orphelin sous tutelle|Elle se dilate dans le noir|Prunelle
+RETINE|Elle capte les images|Membrane aux cônes et bâtonnets|Son décollement menace la vue
+TYMPAN|Il peut être percé par un bruit|Fronton sculpté d'église|Peau de l'oreille moyenne
+GENOU|Il porte la rotule|À ___ ! pour demander pardon|Articulation du ménisque
+COUDE|Courbe d'un tuyau|Lever le ___ : boire|Il a un petit os sensible
+EPAULE|Elle porte la tête des sacs à dos|Gigot d'agneau, aussi|Donner un coup d'___
+CHEVILLE|Elle se tord souvent|Pièce de bois pour assembler|Ne pas lui arriver à la ___
+POIGNET|Il porte la montre|Main de fer, ___ souple|Il a un canal carpien
+NOMBRIL|Centre du ventre|Il se croit le ___ du monde|Ombilic
+DIAPHRAGME|Il sépare thorax et abdomen|Pièce de l'objectif photo|Moyen contraceptif
+INSULINE|Hormone qui fait baisser la glycémie|Traitement du diabétique|Découverte en 1921 au Canada
+PANCREAS|Glande derrière l'estomac|Organe aux îlots de Langerhans|Producteur de sucs digestifs
+HORMONE|L'adrénaline en est une|Elle agit à distance|Croissance ou thyroïde, par exemple
+SOMMEIL|Paradoxal ou profond|Bras de Morphée|Il porte conseil, dit-on
+FIEVRE|Elle se mesure au thermomètre|Excitation intense|Celle du samedi soir
+RHUME|Coryza|Il se soigne au mouchoir|Celui des foins est une allergie
+ALLERGIE|Rhume des foins|Elle donne de l'urticaire|Intolérance
+MEDECIN|Docteur|Généraliste ou spécialiste|Il prête le serment d'Hippocrate
+INFIRMIER|Il fait les piqûres|Soignant en blouse blanche|Il assiste le médecin
+PHARMACIE|Officine à la croix verte|Armoire à médicaments|Elle est de garde le dimanche
+ORDONNANCE|Elle est signée par le docteur|Texte du gouvernement ayant force de loi|Agencement
+VITAMINE|Elle combat le scorbut|La D vient du soleil|Petit coup de fouet
+CALORIE|Elle fait grossir|Unité des étiquettes alimentaires|Pas assez dans un régime
+PROTEINE|L'œuf en est riche|Chaîne d'acides aminés|Aliment du sportif
+STETHOSCOPE|Le médecin l'a autour du cou|Inventé par Laennec|Il ausculte la poitrine
+POULS|On le prend au poignet|Rythme cardiaque|Prendre le ___ de l'opinion
+CICATRICE|Trace d'une blessure|Souvenir indélébile|Celle de Harry Potter est en éclair
+ANTIBIOTIQUE|La pénicilline en est un|C'est pas automatique|Arme anti-infection
+CORNEE|Elle peut être greffée|Lentille naturelle de l'œil|Membrane bombée et transparente
+SALIVE|Elle met l'eau à la bouche|Crachat|Elle commence la digestion
+# --- nouveaux mots ---
+ROTULE|Os du genou|Être sur les ___ : épuisé|Patella|Pièce de mécanique articulée
+CLAVICULE|Os de l'épaule|Elle se casse en tombant à vélo|Os en forme de S|Os entre sternum et omoplate
+OMOPLATE|Os plat du dos|Scapula|Elle forme l'aile du dos|Os de l'épaule à l'arrière
+ESTOMPE|Petit rouleau de papier du dessinateur|Outil d'artiste pour flouter|Ombre effacée|Il adoucit les traits
+SINUS|Cavités du nez|Fonction trigonométrique|Leur inflammation fait mal|Problème de ___
+LARYNX|Il contient les cordes vocales|Pomme d'Adam|Organe de la voix|Il est au-dessus de la trachée
+TRACHEE|Conduit de l'air|Tube qui va aux bronches|Elle peut être intubée|Chemin respiratoire
+BRONCHE|Ramification de la trachée|Son inflammation est une bronchite|Elle mène aux poumons|Tuyau des poumons
+ADRENALINE|Hormone du stress|Elle accélère le cœur|Montée d'émotion forte|Les sports extrêmes en donnent
+GLYCEMIE|Taux de sucre dans le sang|Elle monte après un repas|Le diabétique la surveille|Mesure au doigt
+CARDIOLOGUE|Médecin du cœur|Il fait des électrocardiogrammes|Spécialiste de la tension|Docteur en cardiologie
+DERMATOLOGUE|Médecin de la peau|Il traite l'acné|Il surveille les grains de beauté|Spécialiste de l'eczéma
+PEDIATRE|Médecin des enfants|Docteur des bébés|Il suit les vaccins de l'enfance|Spécialiste des petits
+OSTEOPATHE|Il manipule le corps|Thérapeute des douleurs de dos|Il fait craquer|Praticien manuel
+MIGRAINE|Violent mal de tête|Elle fait fuir la lumière|Céphalée|Prétexte classique pour décliner
+VERTIGE|Peur du vide|Tête qui tourne|Film d'Hitchcock en français, Sueurs froides|Étourdissement

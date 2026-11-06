@@ -1,0 +1,141 @@
+MADRID|Capitale de l'Espagne
+LISBONNE|Capitale du Portugal
+LONDRES|Capitale du Royaume-Uni
+BERLIN|Capitale de l'Allemagne
+ROME|Capitale de l'Italie
+ATHENES|Capitale de la Grèce
+VIENNE|Capitale de l'Autriche
+VARSOVIE|Capitale de la Pologne
+MOSCOU|Capitale de la Russie
+OSLO|Capitale de la Norvège
+DUBLIN|Capitale de l'Irlande
+PRAGUE|Capitale de la Tchéquie
+BUDAPEST|Capitale de la Hongrie
+TOKYO|Capitale du Japon
+PEKIN|Capitale de la Chine
+OTTAWA|Capitale du Canada
+LIMA|Capitale du Pérou
+DAKAR|Capitale du Sénégal
+RABAT|Capitale du Maroc
+CAIRE|Le ___, capitale de l'Égypte
+NAIROBI|Capitale du Kenya
+CANBERRA|Capitale de l'Australie
+BRASILIA|Capitale du Brésil
+BERNE|Ville fédérale de la Suisse
+ANKARA|Capitale de la Turquie
+HANOI|Capitale du Viêt Nam
+LOIRE|Plus long fleuve de France
+SEINE|Fleuve qui traverse Paris
+RHONE|Fleuve de Lyon et d'Avignon
+GARONNE|Fleuve de Toulouse et de Bordeaux
+RHIN|Fleuve frontière avec l'Allemagne
+DANUBE|Fleuve de Vienne et de Budapest
+TAMISE|Fleuve de Londres
+GANGE|Fleuve sacré de l'Inde
+MISSISSIPPI|Grand fleuve des États-Unis
+VOLGA|Plus long fleuve d'Europe
+ALPES|Chaîne du mont Blanc
+PYRENEES|Chaîne entre la France et l'Espagne
+ANDES|Cordillère d'Amérique du Sud
+HIMALAYA|Chaîne de l'Everest
+VOSGES|Massif de l'est de la France
+JURA|Massif franco-suisse
+KILIMANDJARO|Plus haut sommet d'Afrique
+ISLANDE|Île des geysers et des volcans
+GROENLAND|Plus grande île du monde
+MADAGASCAR|Grande île de l'océan Indien
+CORSE|Île de Beauté
+SICILE|Île de l'Etna
+PACIFIQUE|Plus grand océan du monde
+MEDITERRANEE|Mer entre l'Europe et l'Afrique
+BALTIQUE|Mer de Stockholm et de Riga
+DETROIT|Bras de mer resserré
+ARCHIPEL|Groupe d'îles
+PENINSULE|Terre entourée d'eau sauf d'un côté
+DELTA|Embouchure en éventail
+FJORD|Vallée glaciaire envahie par la mer
+TOUNDRA|Végétation rase des régions arctiques
+SAVANE|Prairie tropicale à hautes herbes
+MOUSSON|Vent saisonnier d'Asie du Sud
+TROPIQUE|Ligne du Cancer ou du Capricorne
+BRETAGNE|Région de Rennes
+ALSACE|Région de Strasbourg
+PROVENCE|Région de Marseille et d'Aix
+LYON|Ville confluence du Rhône et de la Saône
+# --- définitions supplémentaires ---
+MADRID|Ville du Prado|Capitale castillane|Ville du Real
+LISBONNE|Ville du fado et des tramways jaunes|Cité détruite par un séisme en 1755|Port sur le Tage
+LONDRES|Ville de Big Ben|Cité sur la Tamise|Ville olympique de 2012
+VIENNE|Ville des valses et de Mozart|Ville de Sissi|Département de Poitiers
+VARSOVIE|Ville de Chopin|Cité sur la Vistule|Son pacte réunit le bloc de l'Est
+MOSCOU|Ville du Kremlin|Capitale de la place Rouge|Ville du Bolchoï
+OSLO|Ville du prix Nobel de la paix|Ville du Cri de Munch|Ses accords de 1993 concernaient le Proche-Orient
+DUBLIN|Ville de Joyce et de la Guinness|Ville sur la Liffey|Capitale verte d'Erin
+PRAGUE|Ville aux cent clochers|Son printemps fut écrasé en 1968|Ville de Kafka
+BUDAPEST|Ville des bains thermaux|Bude et Pest réunies|Perle du Danube
+TOKYO|Ancienne Edo|Ville de Shibuya|Mégapole japonaise
+PEKIN|Ville de la Cité interdite|Beijing|Ville olympique de 2008
+OTTAWA|Ville du Parlement canadien|Capitale sur la rivière des Outaouais|Ville de l'Ontario
+LIMA|Ville des Rois du Pérou|Capitale andine côtière|Haricot de ___
+DAKAR|Ville de l'île de Gorée|Fin d'un célèbre rallye|Port de l'Afrique de l'Ouest
+RABAT|Ville de la tour Hassan|Remise commerciale|Capitale chérifienne
+CAIRE|Ville du Khan el-Khalili|Ville sur le Nil|Grande ville près de Gizeh
+NAIROBI|Ville du safari|Capitale est-africaine|Capitale de 1963 indépendante
+CANBERRA|Capitale choisie entre Sydney et Melbourne|Ville du Commonwealth austral|Elle n'est pas Sydney !
+BRASILIA|Capitale bâtie par Niemeyer|Ville en forme d'avion|Elle a remplacé Rio en 1960
+BERNE|Ville des ours|Capitale confédérale|Ville de l'horloge Zytglogge
+ANKARA|Elle a succédé à Istanbul en 1923|Ville d'Atatürk|Capitale anatolienne
+HANOI|Ville du lac de l'Épée restituée|Capitale du Tonkin|Cité sur le fleuve Rouge
+LOIRE|Fleuve des châteaux|Dernier fleuve sauvage de France|Elle arrose Nantes et Tours
+SEINE|Elle naît sur le plateau de Langres|Fleuve du Havre|Département des Hauts-de-___
+RHONE|Il naît en Suisse|Il se jette en Camargue|Fleuve d'Avignon
+GARONNE|Fleuve de la Gironde|Elle naît en Espagne|Fleuve d'Agen
+RHIN|Fleuve de la Lorelei|Fleuve de Strasbourg|Il sépare l'Alsace du pays de Bade
+DANUBE|Le beau ___ bleu|Fleuve de Belgrade|Il finit dans la mer Noire
+TAMISE|Fleuve d'Oxford|Ses bords accueillent le Parlement anglais|Fleuve de Windsor
+GANGE|Fleuve de Bénarès|Ses eaux purifient les hindous|Il finit au golfe du Bengale
+MISSISSIPPI|Fleuve de La Nouvelle-Orléans|Fleuve de Tom Sawyer|Le Père des eaux
+VOLGA|Fleuve de Stalingrad|Elle se jette dans la Caspienne|Fleuve russe chanté par ses bateliers
+ALPES|Massif du Cervin|Chaîne du Tour de France en juillet|Montagnes de Heidi
+PYRENEES|Montagnes d'Andorre|Chaîne du Tourmalet|Barrière franco-ibérique
+ANDES|Cordillère de l'Aconcagua|Montagnes des lamas|Chaîne du Pérou et du Chili
+HIMALAYA|Demeure des neiges|Massif des sherpas|Chaîne népalaise
+VOSGES|Massif du ballon d'Alsace|Département d'Épinal|Leur place est à Paris
+JURA|Massif du comté|Département de Lons-le-Saunier|Il a donné son nom à une ère géologique
+KILIMANDJARO|Ses neiges inspirèrent Hemingway|Volcan tanzanien|Toit de l'Afrique
+ISLANDE|Pays de Reykjavik|Terre de glace et de feu|Île des sagas
+GROENLAND|Terre verte, pourtant glacée|Île rattachée au Danemark|Île des Inuits
+MADAGASCAR|Île des lémuriens|La Grande Île|Pays d'Antananarivo
+CORSE|Île de Napoléon|Île d'Ajaccio et de Bastia|Elle a sa langue et ses polyphonies
+SICILE|Île de Palerme|Triangle au bout de la botte|Île du Parrain
+PACIFIQUE|Calme et paisible|Océan des Fidji|Océan de Polynésie
+MEDITERRANEE|Mare nostrum|Mer de Nice et de Marseille|Mer au milieu des terres
+BALTIQUE|Mer de Gdansk|Mer intérieure du Nord|Mer d'Helsinki
+DETROIT|Ville de l'automobile américaine|Celui de Gibraltar ouvre la Méditerranée|Passage maritime étroit
+ARCHIPEL|Les Açores en forment un|Chapelet d'îles|Celui du Goulag selon Soljenitsyne
+PENINSULE|La Bretagne en est une|Presqu'île de grande taille|L'Italie en est une
+DELTA|Lettre grecque triangulaire|Celui du Nil est fertile|Aile volante
+FJORD|Paysage norvégien|Bras de mer encaissé|Golfe glaciaire
+TOUNDRA|Pays du renne et du lichen|Paysage de Sibérie arctique|Steppe froide
+SAVANE|Terrain de chasse du lion|Brousse tropicale|Paysage du Serengeti
+MOUSSON|Pluies d'été en Inde|Saison des pluies asiatique|Vent qui change de sens
+TROPIQUE|Parallèle à 23° de latitude|Celui du Capricorne passe au Brésil|Climat chaud et humide
+BRETAGNE|Pays des crêpes et des calvaires|Armorique|Région du Finistère
+ALSACE|Région de Colmar|Terre de choucroute et de cigognes|Région du riesling
+PROVENCE|Terre de lavande|Région de Pagnol|Région du mistral
+LYON|Capitale des Gaules|Ville des bouchons|Ville des frères Lumière
+# --- nouveaux mots ---
+AMAZONIE|Poumon vert de la planète|Plus grande forêt tropicale|Région de Manaus|Bassin d'un grand fleuve sud-américain
+CAUCASE|Chaîne entre mer Noire et Caspienne|Montagne de l'Elbrouz|Prométhée y fut enchaîné|Région de Géorgie et d'Arménie
+OASIS|Point d'eau dans le désert|Havre de paix|Groupe de rock britannique|Palmeraie saharienne
+GEYSER|Source jaillissante|Celui d'Old Faithful est réglé comme une horloge|Jet d'eau chaude islandais|Phénomène volcanique d'Islande
+GLACIER|Fleuve de glace|Vendeur de sorbets|La mer de Glace en est un|Il recule avec le réchauffement
+BOCAGE|Paysage de haies normand|Champs entourés d'arbres|Petit bois|Paysage vendéen
+ESTUAIRE|Embouchure évasée|Celui de la Gironde est le plus grand d'Europe|Rencontre du fleuve et de la marée|Il s'oppose au delta
+ATOLL|Île en anneau|Récif corallien circulaire|Mururoa en est un|Lagon entouré de corail
+STEPPE|Grande plaine herbeuse d'Asie centrale|Paysage mongol|Plaine sans arbres|Elle fut parcourue par les nomades
+CANYON|Celui du Colorado est grand|Gorge profonde|Vallée encaissée américaine|Le Verdon en a un en France
+ISTANBUL|Ville sur deux continents|Ancienne Constantinople|Ville de Sainte-Sophie|Cité du Bosphore
+MONTREAL|Ville du Québec|Métropole francophone d'Amérique|Ville des JO de 1976|Ville du mont Royal
+BRUXELLES|Ville du Manneken-Pis|Capitale de l'Europe|Siège de la Commission européenne|Ville de la Grand-Place
+MARSEILLE|Cité phocéenne|Ville de la Bonne Mère|Port du Vieux-Port|Ville de l'OM

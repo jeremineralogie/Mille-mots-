@@ -1,0 +1,122 @@
+FOOTBALL|Sport de la Coupe du monde FIFA
+RUGBY|Sport au ballon ovale
+TENNIS|Sport de Roland-Garros
+GOLF|Sport des greens et des trous
+JUDO|Art martial japonais à ceintures
+KARATE|Art martial japonais de percussion
+ESCRIME|Sport du fleuret et de l'épée
+NATATION|Sport de bassin
+AVIRON|Sport de rame
+VOILE|Sport des régates
+CYCLISME|Sport du maillot jaune
+BIATHLON|Ski de fond et tir
+SLALOM|Épreuve de ski entre des portes
+SNOWBOARD|Glisse sur une seule planche
+HANDBALL|Sport collectif à la main
+BASKET|Sport du panier
+VOLLEY|Sport du filet et des smashs
+PETANQUE|Jeu de boules provençal
+BOXE|Sport du ring
+ARBITRE|Il siffle les fautes
+PENALTY|Tir au but face au gardien
+CORNER|Coup de pied de coin
+HORSJEU|Position irrégulière au football
+ESSAI|Il vaut cinq points au rugby
+MELEE|Phase de jeu groupé au rugby
+SMASH|Coup violent au tennis
+SERVICE|Mise en jeu au tennis
+ACE|Service gagnant direct
+PODIUM|Estrade des trois premiers
+MEDAILLE|D'or, d'argent ou de bronze
+RECORD|Meilleure performance jamais réalisée
+STADE|Lieu des matchs
+ZIDANE|Double buteur de la finale de 1998
+MBAPPE|Attaquant champion du monde en 2018
+PLATINI|Français triple Ballon d'or
+NADAL|Quatorze fois vainqueur à Roland-Garros
+FEDERER|Joueur suisse aux huit Wimbledon
+BOLT|Sprinteur jamaïcain, recordman du 100 m
+PHELPS|Nageur aux 23 titres olympiques
+RINER|Judoka français aux nombreux titres mondiaux
+MARCHAND|Léon ___, star de la natation à Paris 2024
+HINAULT|Breton cinq fois vainqueur du Tour
+PELOTON|Groupe principal des coureurs
+SPRINT|Course de vitesse finale
+RELAIS|Course où l'on passe le témoin
+HAIES|Obstacles du 110 m
+PERCHE|Saut avec une longue tige
+JAVELOT|Lancer d'une lance
+DECATHLON|Épreuve de dix disciplines
+TROPHEE|Coupe du vainqueur
+COACH|Entraîneur
+DRIBBLE|Action d'éviter l'adversaire balle au pied
+GARDIEN|Il protège les buts
+ALPINISME|Sport des sommets
+# --- définitions supplémentaires ---
+FOOTBALL|Ballon rond|Sport de Pelé|Sport du PSG et de l'OM
+RUGBY|Sport du Tournoi des Six Nations|Sport de mêlée|Né dans une école anglaise
+TENNIS|Sport de Wimbledon|Raquette et balle jaune|Jeu, set et match
+GOLF|Sport de Tiger Woods|Jeu de dix-huit trous|Sport du swing et du birdie
+JUDO|Sport de Teddy Riner|Il se pratique en kimono|La voie de la souplesse
+KARATE|Main vide|Kata et kumite|Il casse des planches
+ESCRIME|Sport du sabre|Elle se pratique en piste|Touché !
+NATATION|Brasse et crawl|Sport du papillon|Sport de Laure Manaudou
+AVIRON|Sport d'Oxford contre Cambridge|Rame|Sport en skiff
+VOILE|Sport du Vendée Globe|Toile du bateau|Mariée sous un ___
+CYCLISME|Sport de la petite reine|Sport du Tour de France|Sport des pistards
+BIATHLON|Discipline de Martin Fourcade|Sport d'hiver à la carabine|Glisse et tir couché
+SLALOM|Zigzag entre les obstacles|Épreuve à portes rouges et bleues|Géant ou spécial
+SNOWBOARD|Surf des neiges|Glisse sur le half-pipe|Sport de Shaun White
+HANDBALL|Sport des Experts|Sport de Nikola Karabatic|Sport du jet de sept mètres
+BASKET|Sport de la NBA|Chaussure de sport|Sport des dunks
+VOLLEY|Sport de plage, en beach|Retour de volée|Sport à six joueurs
+PETANQUE|Sport des pieds tanqués|Pointer ou tirer|Jeu au cochonnet
+BOXE|Noble art|Sport de Mohamed Ali|Uppercut et crochet
+ARBITRE|Homme en noir du terrain|Juge du match|Libre ___
+PENALTY|Tir de onze mètres|Sanction dans la surface|Séance des tirs au but
+CORNER|Coup de coin|Angle du terrain|Tir du poteau de coin
+HORSJEU|Le drapeau du juge de touche se lève|Règle de football discutée|Position illicite de l'attaquant
+ESSAI|Tentative|Texte argumentatif|Aplatir derrière la ligne
+MELEE|Bousculade|Phase de poussée à huit|Combat confus
+SMASH|Coup écrasé|Frappe au-dessus de la tête|Coup du volleyeur
+SERVICE|Faveur rendue|Pourboire inclus|Première frappe du jeu
+ACE|Service non retourné|Atout en anglais|As du court
+PODIUM|Marches des vainqueurs|Il a trois marches|Celui des mannequins, c'est le défilé
+MEDAILLE|Récompense olympique|Bijou pendu au cou|Le revers de la ___
+RECORD|Celui du monde est homologué|Exploit chiffré|Meilleure marque
+STADE|Le Vélodrome en est un|Étape d'une évolution|Enceinte de Saint-Denis
+ZIDANE|Zizou|Il donna un coup de tête en 2006|Entraîneur du Real titré trois fois en C1
+MBAPPE|Kylian de Bondy|Triple buteur en finale 2022|Attaquant au départ du PSG pour le Real
+PLATINI|Michel, numéro 10 des Bleus|Champion d'Europe 1984|Ancien président de l'UEFA
+NADAL|Rafa|Roi de la terre battue|Gaucher de Majorque
+FEDERER|Roger, maître de Bâle|Le Maestro du tennis|Vingt titres du Grand Chelem
+BOLT|Usain, la foudre|Éclair en anglais|9 secondes 58
+PHELPS|Michael, requin des bassins|Le Baltimore Bullet|Nageur aux 28 médailles olympiques
+RINER|Teddy, géant des tatamis|Judoka guadeloupéen|Triple champion olympique individuel
+MARCHAND|Commerçant|Léon aux quatre titres de 2024|Nageur toulousain
+HINAULT|Le Blaireau|Bernard aux cinq Tours|Dernier Français vainqueur du Tour en 1985
+PELOTON|Pelote de laine|Unité militaire|Groupe de coureurs serrés
+SPRINT|Emballage final|Accélération|Course de 100 mètres
+RELAIS|Le 4 × 100 en est un|Antenne de transmission|Prendre le ___
+HAIES|Barrières à franchir|Rangées d'arbustes|400 m ___
+PERCHE|Sport de Renaud Lavillenie|Poisson d'eau douce|Tendre la ___
+JAVELOT|Arme des légionnaires|Lancer d'athlétisme|Pique à lancer
+DECATHLON|Épreuve de Kevin Mayer|Enseigne de sport|Dix épreuves en deux jours
+TROPHEE|Coupe à soulever|Récompense|Tête de cerf au mur
+COACH|Il conseille|Entraîneur personnel|Mentor sportif
+DRIBBLE|Crochet ballon au pied|Feinte|Il élimine le défenseur
+GARDIEN|Il garde le zoo|Portier de l'équipe|Cerbère
+ALPINISME|Il se pratique en cordée|Sport de Chamonix|Sport de la face nord
+# --- nouveaux mots ---
+MARATHONIEN|Coureur de 42 km|Athlète d'endurance|Il vise Boston ou New York|Spécialiste du fond
+TRIATHLON|Natation, vélo et course|Épreuve de l'Ironman|Sport à trois disciplines|Il comporte deux transitions
+PENTATHLON|Épreuve à cinq disciplines|Le moderne combine escrime et équitation|Sport de l'officier|Cinq épreuves
+EQUITATION|Sport de l'écuyer|Saut d'obstacles et dressage|Sport du cavalier|Il se pratique au manège
+PATINAGE|Sport de glace|Artistique ou de vitesse|Sport de Surya Bonaly|Glissade sur lames
+CURLING|Pétanque sur glace|On balaie devant la pierre|Sport écossais d'hiver|Il se joue sur une piste de glace
+PINGPONG|Tennis de table|Sport de raquette en bois|Diplomatie sino-américaine de 1971|Échange rapide
+BADMINTON|Sport du volant|Raquette légère|Sport indonésien populaire|Smash de plumes
+TOURDEFRANCE|Grande Boucle|Course de juillet|Il finit sur les Champs-Élysées|Épreuve du maillot jaune
+DOPAGE|Triche aux produits|Il fait l'objet de contrôles|Affaire Festina|Usage d'EPO
+SURF|Glisse sur les vagues|Sport de Biarritz|Navigation sur Internet|Planche et océan
+ESCALADE|Grimpe|Hausse rapide, comme celle des prix|Sport de Janja Garnbret|Ascension d'un mur

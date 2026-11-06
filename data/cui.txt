@@ -1,0 +1,127 @@
+RATATOUILLE|Plat provençal de légumes mijotés
+CASSOULET|Plat de haricots du Sud-Ouest
+CHOUCROUTE|Spécialité alsacienne au chou
+TARTIFLETTE|Gratin savoyard au reblochon
+FONDUE|Plat savoyard au fromage fondu
+QUICHE|___ lorraine
+CREPE|On la fait sauter à la Chandeleur
+GALETTE|___ des rois
+CROISSANT|Viennoiserie en forme de lune
+BRIOCHE|Pain sucré au beurre
+MACARON|Petit gâteau rond de meringue
+ECLAIR|Pâtisserie allongée au chocolat ou au café
+MADELEINE|Gâteau rendu célèbre par Proust
+CLAFOUTIS|Dessert aux cerises
+TIRAMISU|Dessert italien au café
+SUSHI|Bouchée japonaise de riz et de poisson
+PAELLA|Plat espagnol de riz safrané
+PIZZA|Spécialité de Naples
+RISOTTO|Riz italien crémeux
+COUSCOUS|Plat de semoule du Maghreb
+TAJINE|Plat mijoté marocain
+OMELETTE|Œufs battus cuits à la poêle
+VINAIGRETTE|Sauce d'huile et de vinaigre
+MAYONNAISE|Sauce d'œuf et d'huile
+BECHAMEL|Sauce blanche au lait
+SAFRAN|Épice la plus chère
+CANNELLE|Épice tirée d'une écorce
+VANILLE|Gousse parfumée
+BASILIC|Herbe du pesto
+PERSIL|Herbe plate ou frisée
+THYM|Herbe de Provence
+ROMARIN|Herbe aux feuilles en aiguilles
+AIL|Bulbe à gousses
+ECHALOTE|Petit bulbe proche de l'oignon
+POIREAU|Légume vert et blanc des soupes
+COURGETTE|Légume vert de la ratatouille
+AUBERGINE|Légume violet
+ARTICHAUT|On en mange le cœur
+CAMEMBERT|Fromage normand
+ROQUEFORT|Fromage de brebis persillé
+COMTE|Fromage du Jura
+REBLOCHON|Fromage de Savoie
+BRIE|Fromage de Meaux
+FOUET|Ustensile pour monter les blancs
+CASSEROLE|Récipient à manche
+POELE|Elle sert à faire sauter
+LOUCHE|Grande cuillère à soupe
+CHEF|Il dirige la cuisine
+MENU|Liste des plats proposés
+DESSERT|Fin du repas
+ENTREE|Début du repas
+APERITIF|On le prend avant le repas
+GOURMET|Amateur de bonne chère
+BEURRE|Matière grasse du lait
+FARINE|Poudre de blé
+CONFITURE|Fruits cuits avec du sucre
+# --- définitions supplémentaires ---
+RATATOUILLE|Film de Pixar avec un rat cuisinier|Tambouille de courgettes et aubergines|Plat niçois d'été
+CASSOULET|Fierté de Castelnaudary|Haricots, confit et saucisse|Plat mijoté en cassole
+CHOUCROUTE|Chou fermenté|Plat garni de Strasbourg|Pétard de cheveux, en argot
+TARTIFLETTE|Pommes de terre, lardons et fromage|Plat des stations de ski|Recette inventée dans les années 1980
+FONDUE|On y perd parfois son pain|Plat au caquelon|Celle bourguignonne se fait à l'huile
+QUICHE|Tarte salée|Lardons, œufs et crème en tarte|Elle est lorraine
+CREPE|Elle se mange avec du cidre|Fine galette sucrée|Tissu ondulé
+GALETTE|Elle cache la fève|Crêpe de sarrasin|Pièce de monnaie, en argot
+CROISSANT|Il peut être au beurre ou ordinaire|Fait de lune|Le ___ fertile
+BRIOCHE|Qu'ils mangent de la ___ !|Gros ventre, familièrement|Vendéenne ou parisienne
+MACARON|Spécialité de Ladurée|Gâteau coloré à la ganache|Décoration ronde
+ECLAIR|Lueur de l'orage|Il est rapide comme lui|Choux allongé glacé
+MADELEINE|Petit gâteau de Commercy|Pleurer comme une ___|En forme de coquille
+CLAFOUTIS|Flan du Limousin|On y laisse les noyaux|Gâteau aux fruits cuits dans l'appareil
+TIRAMISU|Il signifie « remonte-moi »|Mascarpone et biscuits imbibés|Dessert de Trévise
+SUSHI|Bouchée crue nippone|Maki, son cousin|Il se trempe dans la sauce soja
+PAELLA|Fierté de Valence|Riz aux fruits de mer|Grand plat à deux anses
+PIZZA|Margherita|Galette au four à bois|Elle se commande à domicile
+RISOTTO|Riz arborio|Plat milanais au safran|Il demande de remuer sans cesse
+COUSCOUS|Semoule et légumes|Plat préféré des Français, souvent|Plat aux merguez
+TAJINE|Plat à couvercle conique|Mijoté aux citrons confits|Ragoût de Marrakech
+OMELETTE|On ne la fait pas sans casser d'œufs|Celle norvégienne est glacée|Baveuse
+VINAIGRETTE|Assaisonnement de la salade|Sauce acidulée|Poireaux ___
+MAYONNAISE|La sauce qui prend… ou pas|Sauce de Mahón|Elle accompagne les frites en Belgique
+BECHAMEL|Sauce des lasagnes|Beurre, farine et lait|Sauce du croque-monsieur
+SAFRAN|Or rouge des épices|Pistils d'un crocus|Il colore la paella
+CANNELLE|Épice du vin chaud|Couleur brun clair|Bâton parfumé
+VANILLE|Parfum de glace classique|Orchidée parfumée de Madagascar|Gousse noire
+BASILIC|Herbe de la pizza|Serpent fabuleux|Plante du pistou
+PERSIL|Il s'ajoute en garniture|Herbe de la persillade|Avoir du ___ dans les oreilles
+THYM|Il parfume le bouquet garni|Farigoule|Plante de garrigue
+ROMARIN|Herbe des grillades|Plante aromatique à fleurs bleues|Rosée de mer, selon son nom latin
+AIL|Il éloigne les vampires|Ingrédient de l'aïoli|Haleine forte
+ECHALOTE|Elle relève le beurre blanc|Bulbe de la sauce béarnaise|Cousine de l'oignon
+POIREAU|Asperge du pauvre|Faire le ___ : attendre|Légume de la vichyssoise
+COURGETTE|Elle a une fleur farcie|Elle prolifère au potager|Cucurbitacée verte
+AUBERGINE|Base de la moussaka|Caviar d'___|Contractuelle d'autrefois
+ARTICHAUT|Il a un cœur d'___|Légume aux bractées|Il se mange feuille à feuille
+CAMEMBERT|Il coule quand il est fait|Diagramme circulaire|Boîte ronde en bois
+ROQUEFORT|Affiné en grotte|Fromage aveyronnais|Il est bleu
+COMTE|Fromage à pâte pressée cuite|Titre de noblesse|Dracula en est un
+REBLOCHON|Fromage de la tartiflette|Pâte molle savoyarde|Fromage du Grand-Bornand
+BRIE|Roi des fromages|Fromage en galette|Région de Meaux et de Melun
+FOUET|Il monte la mayonnaise|Instrument du dompteur|Coup de ___ : remontant
+CASSEROLE|Chanter comme une ___|Affaire compromettante|Récipient en cuivre
+POELE|Tenir la queue de la ___|Elle brûle dans la cheminée|Ustensile à long manche
+LOUCHE|Suspect|Elle sert le potage|Qui a l'air douteux
+CHEF|Cuisinier étoilé|Patron|Celui d'orchestre tient la baguette
+MENU|Petit, fin|Liste sur l'ardoise|Ce qui défile à l'écran
+DESSERT|Douceur finale|Plateau de pâtisseries|Il précède le café
+ENTREE|Hors-d'œuvre|Porte d'une maison|Billet de spectacle
+APERITIF|Apéro|Pastis ou kir|Moment des cacahuètes
+GOURMET|Fin gourmand|Gastronome|Fine bouche
+BEURRE|Le ___ et l'argent du ___|Il est demi-sel en Bretagne|Faire son ___ : s'enrichir
+FARINE|Base du pain|Rouler dans la ___ : duper|Blanche, elle salit les mains
+CONFITURE|Elle se tartine|Pot de fruits|Donner de la ___ aux cochons
+# --- nouveaux mots ---
+BOUILLABAISSE|Soupe de poisson marseillaise|Elle se sert avec de la rouille|Plat de rascasse|Fierté du Vieux-Port
+BLANQUETTE|Veau en sauce blanche|Vin pétillant de Limoux|Plat bourgeois à la crème|Ragoût au riz
+POTAUFEU|Bœuf et légumes bouillis|Plat d'hiver en marmite|Pantouflard, au figuré|Il donne un bon bouillon
+PROFITEROLE|Chou à la crème glacée|Nappé de chocolat chaud|Dessert de brasserie|Petit chou au chocolat
+CHOUQUETTE|Petit chou au sucre perlé|Viennoiserie de boulangerie|Gourmandise à grignoter|Pâte à choux sans crème
+MILLEFEUILLE|Napoléon pâtissier|Feuilletage et crème pâtissière|Gâteau difficile à couper|Plante aux feuilles découpées
+SOUFFLE|Gonflé au four|Haleine|Il retombe si on ouvre trop tôt|Couper le ___
+GRATIN|Le ___ dauphinois|Croûte dorée|L'élite de la société|Plat passé au four
+VELOUTE|Potage onctueux|Doux comme de la soie|Crème mixée|Velours liquide
+ROUX|Base de la béchamel|Couleur de cheveux|Cuisson beurre-farine|Poil de carotte
+SARRASIN|Blé noir|Farine des galettes bretonnes|Envahisseur médiéval|Céréale sans gluten
+BAVAROISE|Dessert à la crème gélifiée|Femme de Munich|Charlotte froide|Entremets en moule
+EPINARD|Légume de Popeye|Mettre du beurre dans les ___|Légume vert riche en fer, dit-on|Feuille du florentine

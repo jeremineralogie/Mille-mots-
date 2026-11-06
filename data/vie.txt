@@ -1,0 +1,122 @@
+BOULANGER|Il fait le pain
+BOUCHER|Il vend la viande
+FACTEUR|Il distribue le courrier
+POMPIER|Il éteint les incendies
+POLICIER|Gardien de la paix
+PLOMBIER|Il répare les fuites
+MACON|Il monte les murs
+MENUISIER|Il travaille le bois
+ELECTRICIEN|Il installe les circuits
+JARDINIER|Il entretient les plantes
+COIFFEUR|Il coupe les cheveux
+AVOCAT|Il plaide au tribunal
+NOTAIRE|Il rédige les actes de vente immobilière
+JUGE|Il rend la justice
+ARCHITECTE|Il dessine les bâtiments
+INGENIEUR|Il conçoit des solutions techniques
+VETERINAIRE|Médecin des animaux
+DENTISTE|Il soigne les caries
+PHARMACIEN|Il délivre les médicaments
+INSTITUTEUR|Maître d'école
+PROFESSEUR|Il enseigne au collège
+JOURNALISTE|Il informe le public
+AGRICULTEUR|Il cultive la terre
+VIGNERON|Il cultive la vigne
+PECHEUR|Il attrape des poissons
+CUISINIER|Il prépare les plats
+CAISSIER|Il encaisse au supermarché
+CORDONNIER|Il répare les chaussures
+HORLOGER|Il répare les montres
+BIJOUTIER|Il vend des bagues
+FLEURISTE|Il compose des bouquets
+MARIN|Homme de mer
+SOLDAT|Militaire
+SECRETAIRE|Il gère le courrier et l'agenda
+COMPTABLE|Il tient les comptes
+BANQUIER|Il prête de l'argent
+PEINTRE|Il peint
+MUSICIEN|Il joue d'un instrument
+COUTURIER|Créateur de mode
+TAILLEUR|Il coud les costumes sur mesure
+FORGERON|Il bat le fer
+POTIER|Il façonne l'argile
+APICULTEUR|Il élève des abeilles
+BERGER|Il garde les moutons
+CHAUFFEUR|Il conduit le véhicule
+LIVREUR|Il apporte les colis
+GARAGISTE|Il répare les voitures
+MECANICIEN|Il répare les moteurs
+DETECTIVE|Enquêteur privé
+SERRURIER|Il ouvre les portes claquées
+RAMONEUR|Il nettoie les cheminées
+CHARPENTIER|Il pose la charpente
+TRADUCTEUR|Il passe d'une langue à l'autre
+METEOROLOGUE|Il prévoit le temps
+# --- définitions supplémentaires ---
+BOULANGER|Il se lève tôt|Artisan de la baguette|Mitron, son apprenti
+BOUCHER|Il manie le hachoir|Obstruer|Artisan de l'étal
+FACTEUR|Il fait sa tournée à vélo jaune|Élément d'un produit|Préposé de La Poste
+POMPIER|Soldat du feu|Style académique pompeux|Sapeur
+POLICIER|Flic|Roman ___|Agent
+PLOMBIER|Il débouche les canalisations|Artisan du chauffage|Il est polonais dans un débat célèbre
+MACON|Ville de Bourgogne|Franc-___|Il gâche le mortier
+MENUISIER|Ébéniste cousin|Artisan des portes et fenêtres|Il utilise le rabot
+ELECTRICIEN|Il tire des câbles|Artisan des tableaux électriques|Il connaît les ampères
+JARDINIER|Paysagiste|Celui de Versailles fut Le Nôtre|Il taille les haies
+COIFFEUR|Figaro|Merlan, en argot|Artisan du brushing
+AVOCAT|Fruit vert à noyau|Défenseur|___ du diable
+NOTAIRE|Il garde les testaments|Officier public|Son étude est dans le centre-ville
+JUGE|Magistrat|Celui d'instruction|On ne peut être ___ et partie
+ARCHITECTE|Maître d'œuvre|Concepteur|Le Grand ___ de l'Univers
+INGENIEUR|Polytechnicien, souvent|Il calcule les structures|Ingénu, presque, mais savant
+VETERINAIRE|Il vaccine le chien|Docteur des chevaux|Véto
+DENTISTE|Chirurgien des molaires|Il pose des couronnes|Son fauteuil fait peur
+PHARMACIEN|Apothicaire|Il exerce en officine|Il prépare des onguents
+INSTITUTEUR|Hussard noir de la République|Professeur des écoles|Maître
+PROFESSEUR|Prof|Celui Tournesol|Enseignant
+JOURNALISTE|Reporter|Plume de la presse|Il interviewe
+AGRICULTEUR|Paysan|Exploitant|Il conduit un tracteur
+VIGNERON|Il vendange|Viticulteur|Il fait du vin
+PECHEUR|Il lance sa ligne|Il commet des fautes|Marin du chalutier
+CUISINIER|Cuistot|Il passe en cuisine|Chef de rang ou commis
+CAISSIER|Il rend la monnaie|Employé de banque au guichet|Préposé au tiroir-caisse
+CORDONNIER|Le plus mal chaussé, dit-on|Bottier|Il ressemelle
+HORLOGER|Il travaille à la loupe|Artisan du Jura suisse|Il règle les mouvements
+BIJOUTIER|Joaillier|Il sertit les pierres|Orfèvre de vitrine
+FLEURISTE|Elle vend des roses|Composition florale|Marchand de fleurs
+MARIN|Matelot|Bleu ___|Relatif à la mer
+SOLDAT|Troufion|Il obéit aux ordres|___ inconnu
+SECRETAIRE|Meuble à abattant|Assistant|Oiseau rapace d'Afrique
+COMPTABLE|Il tient le grand livre|Responsable|Expert-___
+BANQUIER|Il tient la banque au jeu|Gestionnaire de comptes|Financier
+PEINTRE|Artiste en bâtiment|Il manie le rouleau|Il a une palette
+MUSICIEN|Instrumentiste|Membre d'un orchestre|Artiste du conservatoire
+COUTURIER|Chanel en fut un|Il habille les mannequins|Il signe une collection
+TAILLEUR|Tenue de femme|Celui de pierre|Assis en ___
+FORGERON|C'est en forgeant qu'on le devient|Maréchal-ferrant|Il bat l'enclume
+POTIER|Il tourne l'argile|Céramiste|Harry, le jeune sorcier, presque
+APICULTEUR|Il récolte le miel|Il porte une voilette|Éleveur de ruches
+BERGER|Pâtre|Chien de garde allemand|L'étoile du ___
+CHAUFFEUR|Il conduit le bus|Chauffard, en pire|Celui de salle
+LIVREUR|Il sonne avec un paquet|Coursier|Il pédale avec un sac isotherme
+GARAGISTE|Il fait la vidange|Mécano|Il tient un garage
+MECANICIEN|Mécano|Celui navigant|Il démonte les moteurs
+DETECTIVE|Privé|Fin limier|Sherlock en est un
+SERRURIER|Il change les verrous|Artisan des clés|Il force les portes
+RAMONEUR|Il porte bonheur|Visage noir de suie|Il passe le hérisson
+CHARPENTIER|Compagnon du devoir|Il assemble les poutres|Métier de Joseph
+TRADUCTEUR|Interprète écrit|Traître selon l'adage italien|Il fait des versions
+METEOROLOGUE|Il lit les cartes isobares|Prévisionniste|Spécialiste des dépressions
+# --- nouveaux mots ---
+INFIRMIERE|Elle soigne à l'hôpital|Florence Nightingale en fut une|Soignante de garde|Elle prend la tension
+CHIRURGIEN|Il opère au bloc|Il manie le scalpel|Ambroise Paré en fut un|Médecin en blouse verte
+CHAUDRONNIER|Artisan du métal en feuille|Il façonne les cuves|Métier de l'industrie lourde|Il travaille le cuivre
+EBENISTE|Il travaille les bois précieux|Artisan de meubles fins|Boulle en était un|Marqueteur
+SOMMELIER|Il choisit les vins|Échanson moderne|Il goûte au tastevin|Expert en accords mets-vins
+PATISSIER|Il fait les éclairs|Artisan des gâteaux|Il manie la poche à douille|Confiseur cousin
+CHARCUTIER|Il fait le pâté|Traiteur porcin|Il vend du saucisson|Artisan du jambon
+STEWARD|Hôte de l'air|Membre d'équipage|Il sert à bord|Agent de cabine
+GENDARME|Militaire de la sécurité|Hareng saur|Il fait la loi à Saint-Tropez|Pandore
+HUISSIER|Il signifie les actes|Commissaire de justice|Il saisit les biens|Appariteur
+ASTRONOME|Il observe les étoiles|Copernic en était un|Il travaille la nuit|Savant de l'Observatoire
+FERMIER|Exploitant agricole|Le ___ général percevait les impôts|Œuf de ___|Homme de la ferme

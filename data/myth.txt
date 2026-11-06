@@ -1,0 +1,128 @@
+ZEUS|Roi des dieux grecs
+HERA|Épouse de Zeus
+ATHENA|Déesse grecque de la sagesse
+APOLLON|Dieu de la lumière et des arts
+ARTEMIS|Déesse de la chasse
+POSEIDON|Dieu grec des mers
+HADES|Dieu des Enfers
+HERMES|Messager des dieux
+ARES|Dieu grec de la guerre
+APHRODITE|Déesse grecque de l'amour
+DIONYSOS|Dieu du vin
+HEPHAISTOS|Dieu forgeron
+JUPITER|Équivalent romain de Zeus
+VENUS|Déesse romaine de l'amour
+MARS|Dieu romain de la guerre
+NEPTUNE|Dieu romain des mers
+HERCULE|Héros des douze travaux
+ULYSSE|Héros de l'Odyssée
+ACHILLE|Héros vulnérable au talon
+PERSEE|Il trancha la tête de Méduse
+THESEE|Vainqueur du Minotaure
+JASON|Chef des Argonautes
+ORPHEE|Musicien descendu aux Enfers
+PROMETHEE|Il vola le feu aux dieux
+ICARE|Il vola trop près du soleil
+DEDALE|Architecte du Labyrinthe
+MINOTAURE|Monstre mi-homme mi-taureau
+MEDUSE|Gorgone au regard pétrifiant
+CYCLOPE|Géant à un seul œil
+CENTAURE|Mi-homme mi-cheval
+PEGASE|Cheval ailé
+SIRENE|Elle charme les marins par son chant
+HYDRE|Monstre aux têtes qui repoussent
+TROIE|Cité du cheval de bois
+HELENE|Beauté à l'origine de la guerre de Troie
+PANDORE|Elle ouvrit la boîte des maux
+NARCISSE|Amoureux de son propre reflet
+OLYMPE|Demeure des dieux grecs
+ODIN|Dieu suprême nordique
+THOR|Dieu nordique du tonnerre
+LOKI|Dieu nordique de la ruse
+WALKYRIE|Guerrière d'Odin
+VALHALLA|Paradis des guerriers nordiques
+OSIRIS|Dieu égyptien des morts
+ISIS|Épouse d'Osiris
+ANUBIS|Dieu égyptien à tête de chacal
+HORUS|Dieu faucon égyptien
+SPHINX|Il posait des énigmes à Thèbes
+ROMULUS|Fondateur légendaire de Rome
+MERLIN|Enchanteur de la légende arthurienne
+EXCALIBUR|Épée du roi Arthur
+GRAAL|Coupe recherchée par les chevaliers
+TITAN|Cronos en était un
+NECTAR|Boisson des dieux
+AMBROISIE|Nourriture des dieux
+LICORNE|Cheval légendaire à une corne
+# --- définitions supplémentaires ---
+ZEUS|Maître de la foudre|Fils de Cronos|Il se changea en cygne pour séduire Léda
+HERA|Déesse jalouse de l'Olympe|Protectrice du mariage|Junon chez les Romains
+ATHENA|Née tout armée du crâne de son père|Déesse à la chouette|Minerve chez les Romains
+APOLLON|Dieu de Delphes|Phébus|Beau comme lui
+ARTEMIS|Sœur jumelle d'Apollon|Diane chez les Romains|Vierge chasseresse
+POSEIDON|Porteur de trident|Père de Polyphème|Dieu des chevaux et des séismes
+HADES|Frère de Zeus aux Enfers|Ravisseur de Perséphone|Pluton chez les Romains
+HERMES|Dieu aux sandales ailées|Mercure grec|Marque de carrés de soie
+ARES|Amant d'Aphrodite|Dieu belliqueux|Unités de surface agricole
+APHRODITE|Née de l'écume|Elle reçut la pomme de Pâris|Mère d'Éros
+DIONYSOS|Bacchus grec|Dieu des bacchantes|Dieu du théâtre et de l'ivresse
+HEPHAISTOS|Vulcain grec|Mari boiteux d'Aphrodite|Il forgea les armes d'Achille
+JUPITER|Plus grosse planète du système solaire|Dieu du Capitole|Il y a de quoi en tomber de la cuisse
+VENUS|Étoile du Berger|Déesse au coquillage|Planète la plus chaude
+MARS|Planète rouge|Mois du printemps|Barre chocolatée
+NEPTUNE|Dernière planète du système solaire|Dieu au trident romain|Fontaine de la place Navone
+HERCULE|Il nettoya les écuries d'Augias|Héraclès romain|Travail d'___ : tâche colossale
+ULYSSE|Il résista aux sirènes attaché au mât|Il aveugla le Cyclope|Son retour dura dix ans
+ACHILLE|Fils de Thétis|Vainqueur d'Hector|Son tendon est fragile
+PERSEE|Fils de Danaé|Héros au bouclier-miroir|Sauveur d'Andromède
+THESEE|Héros athénien du fil d'Ariane|Fils d'Égée|Il abandonna Ariane à Naxos
+JASON|Conquérant de la Toison d'or|Époux de Médée|Masque de hockey de Vendredi 13
+ORPHEE|Il se retourna et perdit Eurydice|Poète à la lyre|Opéra de Gluck
+PROMETHEE|Son foie était dévoré chaque jour par un aigle|Titan bienfaiteur des hommes|Il façonna l'homme dans l'argile
+ICARE|Ses ailes étaient collées à la cire|Fils de Dédale|Il tomba dans la mer
+DEDALE|Labyrinthe, au figuré|Inventeur crétois|Il construisit des ailes
+MINOTAURE|Monstre de Crète|Fils de Pasiphaé|Il dévorait de jeunes Athéniens
+MEDUSE|Tête coupée sur l'égide|Gorgone mortelle|Stupéfaite
+CYCLOPE|Polyphème en était un|Œil unique au front|Forgeron de Zeus
+CENTAURE|Chiron en était un sage|Créature hybride|Constellation australe
+PEGASE|Né du sang de Méduse|Monture de Bellérophon|Constellation automnale
+SIRENE|Alarme stridente|Petite ___ de Copenhague|Femme-poisson
+HYDRE|Monstre de Lerne|Elle a de nombreuses têtes|Danger qui se multiplie
+TROIE|Cité d'Hector|Elle tomba par la ruse|Guerre de dix ans
+HELENE|Fille de Léda et de Zeus|Enlevée par Pâris|La belle de Sparte
+PANDORE|Première femme selon les Grecs|Sa boîte gardait l'espérance|Gendarme, en argot
+NARCISSE|Fleur printanière|Égocentrique|Amoureux non partagé d'Écho
+OLYMPE|Montagne divine|Jeux d'Olympie, presque|Prénom de féministe révolutionnaire
+ODIN|Dieu borgne|Wotan|Père de Thor
+THOR|Dieu au marteau Mjöllnir|Il a donné son nom au jeudi anglais|Héros Marvel
+LOKI|Frère adoptif de Thor chez Marvel|Dieu farceur|Père du loup Fenrir
+WALKYRIE|Chevauchée de Wagner|Vierge guerrière|Elle conduit les héros au Valhalla
+VALHALLA|Palais d'Odin|Séjour des héros tombés|Paradis viking
+OSIRIS|Il fut découpé par Seth|Dieu vert de la résurrection|Juge des morts
+ISIS|Déesse magicienne|Mère d'Horus|Elle reconstitua son époux
+ANUBIS|Il pèse les âmes|Dieu des embaumeurs|Chacal sacré
+HORUS|Son œil protège|Fils d'Isis et d'Osiris|Dieu du ciel égyptien
+SPHINX|Personne énigmatique|Il fut vaincu par Œdipe|Créature de Thèbes
+ROMULUS|Jumeau de Rémus|Allaité par une louve|Premier roi de Rome
+MERLIN|Fils d'un démon|Enchanteur de Brocéliande|Il aimait Viviane
+EXCALIBUR|Épée tirée du rocher|Lame de la Dame du Lac|Épée légendaire d'Arthur
+GRAAL|Saint ___|Quête de Perceval|Objectif suprême
+TITAN|Géant|Satellite de Saturne|Atlas en était un
+NECTAR|Jus de fruit épais|Liquide sucré des fleurs|Délice
+AMBROISIE|Plante allergisante|Mets divin|Délice exquis
+LICORNE|Start-up valant un milliard|Créature des tapisseries de Cluny|Animal fabuleux blanc
+# --- nouveaux mots ---
+CERBERE|Chien à trois têtes|Gardien des Enfers|Portier intraitable|Il garde l'entrée d'Hadès
+CHIMERE|Monstre lion, chèvre et serpent|Illusion|Rêve irréalisable|Créature hybride
+PERSEPHONE|Reine des Enfers|Fille de Déméter|Elle mangea des pépins de grenade|Proserpine
+EURYDICE|Épouse d'Orphée|Elle mourut d'une morsure de serpent|Perdue au dernier regard|Nymphe des Enfers
+ARIANE|Fille de Minos au fil célèbre|Fusée européenne|Abandonnée à Naxos|Son fil guide hors du labyrinthe
+OEDIPE|Il tua son père sans le savoir|Héros de Sophocle|Complexe freudien|Roi de Thèbes aveuglé
+ANTIGONE|Fille d'Œdipe|Pièce d'Anouilh|Elle enterra son frère malgré l'interdit|Héroïne de la désobéissance
+CASSANDRE|Prophétesse que personne ne croit|Fille de Priam|Oiseau de mauvais augure|Personne qui prédit le pire
+PENELOPE|Épouse d'Ulysse|Elle tisse et défait sa toile|Femme fidèle|Prénom de reine d'Ithaque
+EROS|Cupidon grec|Dieu de l'amour|Pulsion de vie freudienne|Il tire des flèches
+GORGONE|Méduse en était une|Monstre aux cheveux de serpents|Femme effrayante|Euryale ou Sthéno
+NYMPHE|Divinité des sources|Stade de l'insecte|Jeune femme gracieuse|Écho en était une
+TRIDENT|Fourche de Poséidon|Sous-marin nucléaire|Fourche à trois dents|Marque de chewing-gum
+ARGONAUTES|Compagnons de Jason|Équipage de l'Argo|Chercheurs de la Toison d'or|Héros navigateurs

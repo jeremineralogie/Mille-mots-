@@ -1,0 +1,127 @@
+PIANO|Instrument à 88 touches
+VIOLON|Instrument à quatre cordes et archet
+GUITARE|Instrument à six cordes
+BATTERIE|Percussions du rock
+TROMPETTE|Cuivre à pistons
+SAXOPHONE|Instrument inventé par Adolphe Sax
+FLUTE|Instrument à vent, traversière ou à bec
+HARPE|Instrument aux nombreuses cordes pincées
+ACCORDEON|Piano à bretelles
+VIOLONCELLE|Grand violon qu'on joue assis
+ORGUE|Instrument des églises
+CONTREBASSE|La plus grave des cordes frottées
+TAMBOUR|Peau tendue qu'on frappe
+MOZART|Compositeur de « La Flûte enchantée »
+BEETHOVEN|Compositeur devenu sourd
+BACH|Compositeur des « Variations Goldberg »
+CHOPIN|Pianiste romantique polonais
+VIVALDI|Compositeur des « Quatre Saisons »
+DEBUSSY|Compositeur de « Clair de lune »
+RAVEL|Compositeur du « Boléro »
+VERDI|Compositeur de « La Traviata »
+PIAF|Interprète de « La Vie en rose »
+BREL|Chanteur de « Ne me quitte pas »
+BRASSENS|Chanteur de « Les Copains d'abord »
+GAINSBOURG|Auteur de « La Javanaise »
+AZNAVOUR|Interprète de « La Bohème »
+HALLYDAY|Johnny, l'idole des jeunes
+GOLDMAN|Jean-Jacques, auteur d'« Envole-moi »
+STROMAE|Chanteur belge d'« Alors on danse »
+BEATLES|Groupe de Liverpool
+ELVIS|Le King du rock
+MADONNA|Reine de la pop
+OPERA|Spectacle entièrement chanté
+SYMPHONIE|Grande œuvre pour orchestre
+ORCHESTRE|Ensemble de musiciens
+PARTITION|Musique écrite
+PORTEE|Cinq lignes de la partition
+SOLFEGE|Apprentissage de la lecture musicale
+NOTE|Do, ré ou mi
+CLE|___ de sol
+TEMPO|Vitesse d'exécution
+REFRAIN|Partie répétée d'une chanson
+COUPLET|Strophe d'une chanson
+MELODIE|Suite de notes chantante
+RYTHME|Pulsation de la musique
+JAZZ|Musique née à La Nouvelle-Orléans
+BLUES|Musique mélancolique du sud des États-Unis
+REGGAE|Musique de Bob Marley
+RAP|Musique parlée sur un rythme
+SLAM|Poésie déclamée
+ROCK|Musique des guitares électriques
+TECHNO|Musique électronique née à Detroit
+CONCERT|Spectacle musical
+FESTIVAL|Les Vieilles Charrues en sont un
+DISQUE|___ d'or
+VINYLE|Disque microsillon
+# --- définitions supplémentaires ---
+PIANO|Doucement en musique|Il peut être à queue|Cuisinière de chef
+VIOLON|Celui d'Ingres est un passe-temps|Prison du poste de police|Stradivarius
+GUITARE|Instrument de Django Reinhardt|Elle a une rosace|Acoustique ou électrique
+BATTERIE|Ensemble de pièces d'artillerie|Accumulateur de voiture|Grosse caisse et cymbales
+TROMPETTE|Instrument de Louis Armstrong|Nez en ___|Instrument de Jéricho
+SAXOPHONE|Instrument du jazz en laiton|Sax|Il peut être alto ou ténor
+FLUTE|Verre à champagne|Pain long et fin|Zut !
+HARPE|Instrument des anges|Emblème de l'Irlande|Cordes pincées dans le dos de la harpiste
+ACCORDEON|Instrument du bal musette|Soufflet de musette|En ___ : plissé
+VIOLONCELLE|Instrument de Rostropovitch|Il se joue entre les genoux|Cello
+ORGUE|Celui de Barbarie a une manivelle|Instrument à tuyaux|Masculin au singulier, féminin au pluriel
+CONTREBASSE|Grand-mère des cordes|Instrument du jazzman pizzicato|Elle se joue debout
+TAMBOUR|Sans ___ ni trompette|Machine à laver, en partie|Celui de Grass est en fer-blanc
+MOZART|Wolfgang Amadeus|Enfant prodige de Salzbourg|Compositeur du Requiem inachevé
+BEETHOVEN|Auteur de l'Hymne à la joie|Ludwig de Bonn|Compositeur de la Lettre à Élise
+BACH|Jean-Sébastien, cantor de Leipzig|Auteur de la Toccata et fugue|Fleurs de ___ : remèdes
+CHOPIN|Frédéric, ami de George Sand|Auteur de nocturnes|Il repose au Père-Lachaise
+VIVALDI|Le Prêtre roux|Antonio de Venise|Baroque des Saisons
+DEBUSSY|Claude, impressionniste en musique|Auteur de La Mer|Compositeur de Pelléas et Mélisande
+RAVEL|Maurice de Ciboure|Auteur de Daphnis et Chloé|Son Boléro répète un thème
+VERDI|Compositeur de Nabucco|Giuseppe d'Aida|Maître de l'opéra italien
+PIAF|La Môme|Édith de l'Hymne à l'amour|Moineau de Paris
+BREL|Jacques d'Amsterdam|Chanteur belge du Plat Pays|Il mourut aux Marquises
+BRASSENS|Tonton Georges|Chanteur de Sète|Il chantait Le Gorille
+GAINSBOURG|Gainsbarre|Serge de Je t'aime moi non plus|Poinçonneur des Lilas
+AZNAVOUR|Charles des Comédiens|Chanteur franco-arménien|La Mamma
+HALLYDAY|Que je t'aime, chantait-il|Johnny des stades|Jean-Philippe Smet
+GOLDMAN|Jean-Jacques de Quand la musique est bonne|Auteur pour Céline Dion|Il a quitté la scène en 2002
+STROMAE|Papaoutai|Maestro à l'envers|Auteur de Formidable
+BEATLES|Fab Four|Groupe de Yellow Submarine|John, Paul, George et Ringo
+ELVIS|Presley|Il chantait Love Me Tender|Il a quitté le bâtiment
+MADONNA|Material Girl|Vierge en italien|Like a Virgin
+OPERA|Celui de Paris est un Garnier|Grande œuvre lyrique|Navigateur web norvégien
+SYMPHONIE|La Neuvième de Beethoven|Celle du Nouveau Monde|Harmonie parfaite
+ORCHESTRE|Chef d'___|Places du parterre au théâtre|Philharmonique
+PARTITION|Division d'un territoire|Feuille du musicien|Celle de l'Inde en 1947
+PORTEE|Petits d'une même mise bas|Distance atteinte|À ___ de main
+SOLFEGE|Do-ré-mi-fa-sol|Cours du conservatoire|Lecture des notes
+NOTE|Elle est salée au restaurant|Résultat d'un devoir|Petit mot écrit
+CLE|Elle ouvre la porte|Solution d'une énigme|___ à molette
+TEMPO|Rythme d'une action|Allegro ou adagio|Cadence
+REFRAIN|Rengaine|Chorus|On le chante en chœur
+COUPLET|Paragraphe d'une chanson|Tirade répétée|Partie entre deux refrains
+MELODIE|Air|Celle du bonheur|Mélopée
+RYTHME|Cadence|Celui cardiaque|Battement régulier
+JAZZ|Musique d'Ella Fitzgerald|Musique de l'improvisation|Elle swingue
+BLUES|Spleen|Musique des douze mesures|Cafard américain
+REGGAE|Musique jamaïcaine|Rythme rastafari|Musique de Peter Tosh
+RAP|Hip-hop|Musique de NTM|Il se scande
+SLAM|Poésie de Grand Corps Malade|Joute oratoire|Fermeture violente en anglais
+ROCK|Musique des Rolling Stones|Danse à deux|Roc en anglais
+TECHNO|Musique de la Love Parade|Boum-boum électronique|Rave
+CONCERT|Accord|De ___ : ensemble|Récital
+FESTIVAL|Celui d'Avignon est de théâtre|Woodstock en fut un|Fête prolongée
+DISQUE|Rond de métal à lancer|Platine|Celui dur d'un ordinateur
+VINYLE|Matière plastique|Galette noire|33 ou 45 tours
+# --- nouveaux mots ---
+MICROPHONE|Il amplifie la voix|Micro|Il se tend au journaliste|Outil du chanteur
+CHORALE|Ensemble de choristes|Chœur|Les Choristes, film de 2004|Chant à plusieurs voix
+TENOR|Voix aiguë d'homme|Pavarotti en était un|Grand nom d'un milieu|Saxophone ___
+SOPRANO|Voix la plus aiguë|Callas en était une|Tony, mafieux de série|Diva
+DIVA|Prima donna|Cantatrice adulée|Star capricieuse|Film de Beineix
+METRONOME|Il bat la mesure|Régularité d'horloge|Instrument du pianiste débutant|Tic-tac musical
+UKULELE|Petite guitare hawaïenne|Instrument à quatre cordes|Instrument dont le nom signifie puce sauteuse|Instrument d'Israel Kamakawiwo'ole
+XYLOPHONE|Lames de bois frappées|Instrument des enfants|Percussion mélodique|Marimba, son cousin
+CORNEMUSE|Instrument écossais|Biniou|Elle a une poche d'air|Bagpipe
+TROMBONE|Cuivre à coulisse|Agrafe de bureau|Instrument de jazz|Instrument de Glenn Miller
+CLARINETTE|Instrument de Benny Goodman|Bois à anche simple|Instrument du klezmer|Elle a un bec
+TUBA|Le plus grave des cuivres|Gros instrument de fanfare|Tube en latin|Il se porte en bandoulière
+KARAOKE|Chanter sur des paroles défilantes|Loisir japonais|Micro et écran|Soirée de chanteurs amateurs

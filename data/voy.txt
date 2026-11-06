@@ -1,0 +1,123 @@
+AVION|Il décolle de l'aéroport
+TRAIN|Il roule sur des rails
+TGV|Train à grande vitesse
+METRO|Transport souterrain urbain
+TRAMWAY|Il circule sur rails en ville
+TAXI|Voiture avec chauffeur payante
+BATEAU|Il flotte
+PAQUEBOT|Grand navire de passagers
+FERRY|Il embarque les voitures entre deux rives
+VOILIER|Bateau poussé par le vent
+CAMPING|Vacances sous la tente
+CARAVANE|Remorque habitable
+VALISE|Bagage à poignée
+PASSEPORT|Document pour voyager à l'étranger
+VISA|Autorisation d'entrée dans un pays
+BILLET|Titre de transport
+AEROPORT|Lieu des décollages
+GARE|Lieu des trains
+QUAI|On y attend le train
+HOTEL|On y passe la nuit en voyage
+AUBERGE|___ de jeunesse
+ITINERAIRE|Chemin à suivre
+CARTE|Elle représente le territoire
+GUIDE|Il fait visiter
+TOURISTE|Il visite un pays
+CROISIERE|Voyage en paquebot
+ESCALE|Arrêt en cours de voyage
+DOUANE|Contrôle des marchandises à la frontière
+FRONTIERE|Limite entre deux pays
+DECALAGE|___ horaire
+VACANCES|Période de congés
+PLAGE|Étendue de sable au bord de l'eau
+RANDONNEE|Longue marche
+TENTE|Abri de toile
+DIRIGEABLE|Ballon motorisé et orientable
+MONTGOLFIERE|Ballon à air chaud
+HELICOPTERE|Aéronef à rotor
+PILOTE|Il conduit l'avion
+HOTESSE|___ de l'air
+EQUIPAGE|Personnel de bord
+LOCOMOTIVE|Elle tire les wagons
+WAGON|Voiture de train
+ROULOTTE|Maison sur roues tirée par un cheval
+MOTO|Deux-roues motorisé
+SCOOTER|Deux-roues à plancher
+AUTOROUTE|Route à chaussées séparées
+PEAGE|On y paie l'autoroute
+PERMIS|___ de conduire
+GPS|Navigation par satellite
+EXCURSION|Courte sortie touristique
+SAFARI|Voyage pour observer les animaux sauvages
+BOUSSOLE|Instrument d'orientation
+SOUVENIR|Objet rapporté de voyage
+TUNNEL|Passage souterrain, sous la Manche par exemple
+PONT|Il enjambe le fleuve
+# --- définitions supplémentaires ---
+AVION|Aéroplane|Il laisse une traînée blanche|Mode ___ du téléphone
+TRAIN|Il siffle trois fois|Allure|Mener grand ___
+TGV|Il relie Paris à Lyon en deux heures|Rame orange puis blanche|Train de la SNCF à 320 km/h
+METRO|Celui de Paris a quatorze lignes|Métropolitain|___, boulot, dodo
+TRAMWAY|Tram|Il a des caténaires|Un ___ nommé Désir
+TAXI|Celui de la Marne|Il se hèle dans la rue|Il a un lumineux sur le toit
+BATEAU|Mener en ___|Embarcation|Sujet rebattu
+PAQUEBOT|France ou Normandie|Ville flottante|Transatlantique
+FERRY|Bateau entre Calais et Douvres|Navire transmanche|Bac maritime
+VOILIER|Ketch ou sloop|Il navigue au vent|Grand oiseau qui vole loin
+CAMPING|Sport des tentes|Film avec Patrick Chirac|Car ___
+CARAVANE|Convoi du désert|Celle publicitaire du Tour|Les chiens aboient, elle passe
+VALISE|Faire sa ___|Malle|Mot-___ : mot composé
+PASSEPORT|Il est biométrique|Livret à tampons|Sésame de frontière
+VISA|Carte bancaire|Tampon consulaire|Approbation
+BILLET|Celui doux est une lettre d'amour|Coupure|Je vous en donne mon ___
+AEROPORT|Roissy en est un|Plateforme aérienne|Terminal
+GARE|Celle de Lyon à Paris|Attention !|___ routière
+QUAI|Celui d'Orsay|Berge aménagée|Celui des brumes chez Carné
+HOTEL|Celui particulier|Palace|___ de ville
+AUBERGE|On n'est pas sorti de l'___|Taverne|Celle espagnole est hétéroclite
+ITINERAIRE|Feuille de route|Parcours|Trajet balisé
+CARTE|Menu du restaurant|Celle de visite|___ blanche
+GUIDE|Celui du Routard|Il mène la cordée|Michelin rouge
+TOURISTE|Vacancier|Visiteur|En classe ___
+CROISIERE|Vitesse de ___|Voyage sur l'eau|Escale à Santorin
+ESCALE|Halte|Port de relâche|Correspondance aérienne
+DOUANE|Rien à déclarer ?|Contrôle aux frontières|Droit d'entrée
+FRONTIERE|Ligne de démarcation|Limite|Sans ___ : universel
+DECALAGE|Jet lag|Écart|Retard
+VACANCES|Celles de M. Hulot|Grandes ___|Absence
+PLAGE|Celle de Normandie au débarquement|Lieu de bronzage|Bord de mer
+RANDONNEE|Trek|Balade au long cours|Sentier de grande ___
+TENTE|Elle a des sardines|Igloo de toile|Canadienne ou igloo
+DIRIGEABLE|Zeppelin|Aérostat|Ballon allongé
+MONTGOLFIERE|Ballon des frères de 1783|Nacelle sous un ballon|Ballon chauffé au brûleur
+HELICOPTERE|Il fait du vol stationnaire|Hélico|Il a des pales
+PILOTE|Celui automatique|Projet ___|Aviateur
+HOTESSE|Celle d'accueil|Maîtresse de maison|Stewardess
+EQUIPAGE|Membres d'un navire|Chevaux et voitures|Il obéit au commandant
+LOCOMOTIVE|Motrice|Élément moteur d'un groupe|Elle crache de la vapeur
+WAGON|Celui-lit|Il est tiré par la locomotive|Voiture de marchandises
+ROULOTTE|Maison des Gitans d'autrefois|Caravane de bois|Vol à la ___
+MOTO|Bécane|Deux-roues de motard|Bolide à deux roues
+SCOOTER|Vespa|Deux-roues urbain|Petite moto à carénage
+AUTOROUTE|A6, par exemple|Route du soleil|Voie rapide
+PEAGE|Barrière payante|Télépéage|Droit de passage
+PERMIS|Autorisé|Celui à points|___ de construire
+GPS|Navigateur de bord|Il recalcule l'itinéraire|Système de positionnement
+EXCURSION|Promenade organisée|Sortie|Balade
+SAFARI|Chasse photographique|Voyage en Afrique|Parc ___
+BOUSSOLE|Rose des vents en boîtier|Aiguille aimantée|Compas de route
+SOUVENIR|Babiole touristique|Réminiscence|Bon ___ de vacances
+TUNNEL|Celui sous la Manche|Long passage pénible|Voir le bout du ___
+PONT|Celui d'Avignon|Jour chômé entre deux fêtes|Il enjambe les douves
+# --- nouveaux mots ---
+VOYAGEUR|Passager|Celui de commerce|Pigeon ___|Il a sa valise
+BAGAGE|Valise ou sac|Savoir accumulé|Plier ___ : partir|Paquetage
+ROUTARD|Voyageur sac au dos|Guide du ___|Bourlingueur|Backpacker
+NAVIGATION|Art de diriger un bateau|Pilotage|Surf sur Internet|Celle de plaisance
+COMPOSTER|Valider son billet|Transformer en engrais|Poinçonner|Marquer d'un tampon
+TELEPHERIQUE|Cabine suspendue|Transport par câble|Il monte à l'Aiguille du Midi|Benne de montagne
+FUNICULAIRE|Il monte à Montmartre|Train à crémaillère ou à câble|Rame en pente|Montée de Fourvière
+GONDOLE|Barque vénitienne|Rayon de supermarché|Tête de ___|Nacelle de téléphérique
+PIROGUE|Embarcation creusée|Canoë africain|Barque longue|Pagaie et tronc
+BIVOUAC|Campement de fortune|Nuit à la belle étoile|Halte en montagne|Camp provisoire
+KAYAK|Canoë inuit|Palindrome nautique|Embarcation à pagaie double|Sport d'eaux vives

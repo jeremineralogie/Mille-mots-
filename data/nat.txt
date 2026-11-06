@@ -1,0 +1,129 @@
+CHENE|Arbre des glands
+SAPIN|Arbre de Noël
+BOULEAU|Arbre à l'écorce blanche
+PLATANE|Arbre des routes du Midi
+SAULE|___ pleureur
+PEUPLIER|Grand arbre des bords de rivière
+OLIVIER|Arbre méditerranéen
+ERABLE|Sa feuille orne le drapeau canadien
+BAOBAB|Arbre géant d'Afrique
+SEQUOIA|Arbre géant de Californie
+CACTUS|Plante grasse du désert
+FOUGERE|Plante sans fleurs des sous-bois
+MOUSSE|Petite plante qui forme des tapis verts
+LIERRE|Plante grimpante toujours verte
+TOURNESOL|Fleur qui suit le soleil
+TULIPE|Fleur emblème des Pays-Bas
+MARGUERITE|On l'effeuille : un peu, beaucoup…
+COQUELICOT|Fleur rouge des champs
+LAVANDE|Plante parfumée de Provence
+MUGUET|On l'offre le 1er mai
+JONQUILLE|Narcisse jaune du printemps
+ORCHIDEE|Fleur tropicale raffinée
+PETALE|Partie colorée de la fleur
+POLLEN|Poudre transportée par les abeilles
+RACINE|Partie souterraine de la plante
+GRAINE|Elle germe
+BOURGEON|Il éclot au printemps
+SEVE|Liquide qui circule dans la plante
+ECORCE|Peau de l'arbre
+FORET|Grand ensemble d'arbres
+BOCAGE|Paysage de haies et de prés
+PRAIRIE|Terrain couvert d'herbe
+MARAIS|Zone humide
+TOURBIERE|Zone humide où se forme la tourbe
+CASCADE|Chute d'eau
+RIVIERE|Cours d'eau qui se jette dans un autre
+SOURCE|Lieu où naît un cours d'eau
+GLACIER|Fleuve de glace
+NUAGE|Masse de gouttelettes dans le ciel
+ORAGE|Tonnerre et éclairs
+BRUME|Brouillard léger
+ROSEE|Gouttes du matin sur l'herbe
+GIVRE|Glace blanche sur les branches
+AUTOMNE|Saison des feuilles mortes
+PRINTEMPS|Saison du renouveau
+HUMUS|Terre issue des débris végétaux
+CHAMPIGNON|Le cèpe en est un
+CEPE|Champignon recherché des forêts
+MYRTILLE|Petite baie bleue des bois
+NOISETTE|Fruit du noisetier
+CHATAIGNE|Fruit du châtaignier
+GLAND|Fruit du chêne
+HERBIER|Collection de plantes séchées
+JARDIN|Lieu des fleurs et des légumes
+COMPOST|Engrais issu des déchets organiques
+BRUYERE|Arbrisseau des landes à fleurs mauves
+# --- définitions supplémentaires ---
+CHENE|Symbole de force|Vert, liège ou pédonculé|Le roseau plie, lui pas
+SAPIN|Résineux de montagne|Il a des aiguilles|Costume en ___ : cercueil
+BOULEAU|Arbre de Russie|Son écorce servait de papier|Arbre aux chatons
+PLATANE|Son écorce se détache par plaques|Arbre des boulistes|Rentrer dans le ___
+SAULE|Arbre à osier|Il pleure au bord de l'eau|Son écorce a donné l'aspirine
+PEUPLIER|Arbre élancé des allées|Tremble, son cousin|Bois des cagettes
+OLIVIER|Son rameau signifie la paix|Il donne de l'huile|Arbre de Gethsémani
+ERABLE|Il donne un sirop|Arbre du Québec|Ses fruits tournent en hélice
+BAOBAB|Arbre du Petit Prince|Arbre à l'envers|Arbre-bouteille
+SEQUOIA|Plus grand arbre vivant|Résineux géant|Le général Sherman en est un
+CACTUS|Problème épineux|Plante à piquants|Saguaro
+FOUGERE|Elle est royale ou aigle|Plante à spores|Feuilles qui se déroulent en crosse
+MOUSSE|Elle pousse au nord des arbres|Écume de la bière|Dessert au chocolat
+LIERRE|Il s'attache où il meurt|Grimpant des vieux murs|Plante des façades
+TOURNESOL|Il donne de l'huile|Professeur de Tintin|Héliotrope géant
+TULIPE|Fleur de bulbe|Elle a provoqué une spéculation folle en 1637|Lampe en forme de fleur
+MARGUERITE|Fleur des amoureux|Reine de Navarre|Pâquerette géante
+COQUELICOT|Pavot des champs|Rouge comme un ___|Fleur de souvenir des Anglais
+LAVANDE|Ses champs bleus colorent Valensole|Elle parfume les armoires|Couleur mauve
+MUGUET|Clochettes porte-bonheur|Fleur blanche toxique|Brin du 1er Mai
+JONQUILLE|Fleur jaune de mars|Narcisse des poètes|Bulbe printanier
+ORCHIDEE|La vanille en est une|Fleur de Proust|Phalaenopsis
+PETALE|Il se détache de la corolle|Feuille de rose|Pièce de la fleur
+POLLEN|Allergène de printemps|Poudre jaune|Il féconde les fleurs
+RACINE|Origine profonde|Auteur de Phèdre|Carré en maths
+GRAINE|Semence|Mauvaise ___ : vaurien|En prendre de la ___
+BOURGEON|Futur rameau|Bouton sur la branche|Jeune pousse
+SEVE|Vigueur|Elle monte au printemps|Liquide nourricier
+ECORCE|Celle du chêne-liège donne des bouchons|Peau d'orange|Partie extérieure du tronc
+FORET|Celle de Brocéliande est enchantée|Outil de perceuse|Futaie
+BOCAGE|Paysage de l'Ouest|Haies et chemins creux|Petit bois charmant
+PRAIRIE|Pâturage|Petite maison dans la ___|Pré
+MARAIS|Poitevin, dit Venise verte|Quartier de Paris|Terre gorgée d'eau
+TOURBIERE|Milieu des sphaignes|Marais acide|Elle conserve les corps
+CASCADE|Suite d'événements en chaîne|Acrobatie de film|Chute en paliers
+RIVIERE|Celle de diamants est un collier|Elle coule vers le fleuve|Ruisseau devenu grand
+SOURCE|Origine de l'information|Eau de ___|Fontaine naturelle
+GLACIER|Celui du mont Blanc|Sa langue descend la vallée|Sorbetier
+NUAGE|Cumulus|Être dans les ___|Un ___ de lait
+ORAGE|Il éclate en été|Colère soudaine|Il y a de l'___ dans l'air
+BRUME|Elle monte de la rivière|Flou de l'esprit|Matin voilé
+ROSEE|Perles de l'aube|Point de ___|Elle fait briller les toiles d'araignée
+GIVRE|Frimas|Fou, en argot|Cristaux du matin d'hiver
+AUTOMNE|Saison des vendanges|Saison des champignons|Elle commence en septembre
+PRINTEMPS|Saison des hirondelles|Celui des poètes|Saison de Vivaldi la plus connue
+HUMUS|Terreau naturel|Couche fertile du sol|Matière organique décomposée
+CHAMPIGNON|Il pousse après la pluie|Appuyer sur le ___ : accélérer|Bouton de rose ou rosé des prés
+CEPE|Bolet de Bordeaux|Champignon à chapeau brun|Roi des poêlées d'automne
+MYRTILLE|Elle tache les doigts en bleu|Baie des tartes de montagne|Brimbelle des Vosges
+NOISETTE|Couleur de certains yeux|Une ___ de beurre|Fruit de l'écureuil
+CHATAIGNE|Elle se grille en hiver|Son bogue pique|Coup de poing
+GLAND|Fruit du sanglier|Imbécile, en argot|Il tombe du chêne
+HERBIER|Album du botaniste|Pré sous-marin|Plantes séchées entre deux pages
+JARDIN|Celui d'Éden|Côté ___ au théâtre|Potager ou d'agrément
+COMPOST|Engrais du jardinier|Tas de déchets verts|Il transforme les épluchures
+BRUYERE|Pipe en ___|Callune|Lande violette
+# --- nouveaux mots ---
+LILAS|Fleur mauve de mai|Couleur violet pâle|Porte de Paris|Arbuste parfumé
+HORTENSIA|Fleur qui bleuit en sol acide|Arbuste breton|Boules de fleurs|Hydrangea
+ROSE|Elle a des épines|Couleur pâle|Vie en ___|Ronsard la cueillait
+VIOLETTE|Fleur des timides|Couleur proche du mauve|Fleur de Toulouse|Petite fleur parfumée
+PISSENLIT|Il se mange en salade|Manger les ___ par la racine|Dent-de-lion|Ses graines volent
+ORTIE|Elle pique|Plante en purin|Soupe de printemps|Jeter son froc aux ___
+ROSEAU|Il plie mais ne rompt pas|Tige des marais|Pensant chez Pascal|Il sert de flûte
+NENUPHAR|Fleur de l'étang|Grosse feuille flottante|Monet le peignait|Plante aquatique
+GENET|Arbuste à fleurs jaunes|Écrivain des Bonnes|Plantagenêt|Buisson de lande
+ACACIA|Mimosa, en fait|Arbre des girafes|Miel très clair|Bois imputrescible
+PALMIER|Arbre des oasis|Biscuit feuilleté|Il donne des dattes|Arbre des plages tropicales
+HETRE|Arbre au bois clair|Fayard|Sa faine se mange|Arbre des forêts d'Île-de-France
+TILLEUL|Sa tisane fait dormir|Arbre des places|Proust y trempait sa madeleine|Infusion du soir
+CERISIER|Le Japon fête sa floraison|Arbre à griottes|Sakura|Arbre fruitier rouge
+GUI|On s'embrasse dessous|Plante des druides|Parasite des pommiers|Boules blanches de Noël

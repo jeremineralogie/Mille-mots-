@@ -1,0 +1,125 @@
+ORDINATEUR|Machine de traitement de l'information
+CLAVIER|Il a des touches AZERTY
+SOURIS|Elle déplace le curseur
+ECRAN|Surface d'affichage
+INTERNET|Réseau mondial
+COURRIEL|Équivalent français d'e-mail
+LOGICIEL|Programme informatique
+APPLICATION|On la télécharge sur son téléphone
+PROGRAMME|Suite d'instructions pour l'ordinateur
+CODE|Texte écrit par le développeur
+BUG|Erreur dans un programme
+PIXEL|Point élémentaire d'une image numérique
+OCTET|Groupe de huit bits
+BINAIRE|Système de numération en 0 et 1
+PROCESSEUR|Cerveau de l'ordinateur
+MEMOIRE|Elle stocke les données
+SERVEUR|Ordinateur qui répond aux requêtes
+WIFI|Connexion sans fil
+BLUETOOTH|Liaison sans fil à courte portée
+ANTENNE|Elle capte les ondes
+SATELLITE|Il tourne autour de la Terre
+ROBOT|Machine automatique
+DRONE|Aéronef sans pilote
+IMPRIMANTE|Elle met le document sur papier
+SCANNER|Il numérise les documents
+USB|Clé ___
+PIRATE|Intrus informatique
+ANTIVIRUS|Logiciel de protection
+CHIFFREMENT|Codage qui protège les données
+HASHTAG|Mot-clé précédé de #
+EMOJI|Petite icône d'émotion
+NAVIGATEUR|Firefox ou Chrome
+MOTEUR|___ de recherche
+LIEN|Il mène vers une autre page
+SITE|___ web
+BLOG|Journal en ligne
+TABLETTE|Écran tactile sans clavier
+ECOUTEURS|On les met dans les oreilles
+CHARGEUR|Il remplit la batterie
+LINUX|Système libre à la mascotte manchot
+PYTHON|Langage de programmation au nom de serpent
+JAVASCRIPT|Langage des pages web interactives
+TURING|Alan, pionnier de l'informatique
+LOVELACE|Ada, pionnière de la programmation
+JOBS|Steve, cofondateur d'Apple
+GATES|Bill, cofondateur de Microsoft
+MINITEL|Ancêtre français d'Internet
+MODEM|Il relie l'ordinateur à la ligne
+DONNEES|Informations numériques
+CAPTEUR|Il mesure une grandeur physique
+TACTILE|Écran qu'on touche du doigt
+ICONE|Petit symbole cliquable
+FICHIER|Document enregistré
+DOSSIER|Il regroupe des fichiers
+CURSEUR|Il clignote à l'écran
+WEBCAM|Caméra de l'ordinateur
+# --- définitions supplémentaires ---
+ORDINATEUR|Mot créé par un linguiste pour IBM en 1955|PC|Machine à calculer moderne
+CLAVIER|Celui du piano|Il peut être QWERTY|Instrument de saisie
+SOURIS|Rongeur gris|Elle danse quand le chat n'est pas là|Elle clique
+ECRAN|Petit ou grand|Protection|Celui total protège du soleil
+INTERNET|La Toile|Réseau des réseaux|Né d'Arpanet
+COURRIEL|Mél|Message électronique|Mot québécois pour mail
+LOGICIEL|Software|Traitement de texte, par exemple|Programme installé
+APPLICATION|Zèle au travail|Mise en pratique|App
+PROGRAMME|Projet politique|Grille de télévision|Contenu des cours
+CODE|Celui de la route|Celui source|Mot de passe chiffré
+BUG|Bogue|Celui de l'an 2000|Insecte en anglais
+PIXEL|Il forme l'image|Point de l'écran|Il peut se voir en gros plan
+OCTET|Byte|Kilo-, méga- ou giga-|Huit bits
+BINAIRE|Composé de deux éléments|Langage des 0 et des 1|Étoile double
+PROCESSEUR|Puce|Unité centrale de calcul|Intel en fabrique
+MEMOIRE|Souvenir|Thèse d'étudiant|Vive ou morte
+SERVEUR|Garçon de café|Celui de tennis|Machine de data center
+WIFI|Sans-fil|Il se capte en terrasse|Code de la box
+BLUETOOTH|Dent bleue|Connexion des écouteurs|Nommé d'après un roi danois
+ANTENNE|Organe de l'insecte|Celle de télévision|À l'___ : en direct
+SATELLITE|La Lune en est un|Pays sous influence|Ville ___
+ROBOT|Mot créé par Čapek|Androïde|Celui de cuisine
+DRONE|Faux bourdon|Appareil télécommandé|Œil volant
+IMPRIMANTE|Elle a des cartouches|Machine à jet d'encre|Elle peut être en 3D
+SCANNER|Imagerie médicale|Numériseur|Examiner de près en anglais
+USB|Port universel|Port des périphériques|Prise rectangulaire
+PIRATE|Barbe-Noire|Flibustier|Hacker
+ANTIVIRUS|Bouclier numérique|Logiciel de sécurité|Protection du PC
+CHIFFREMENT|Cryptage|Code secret|Protection de bout en bout
+HASHTAG|Mot-dièse|Étiquette de réseau social|Mot-clic
+EMOJI|Smiley|Cœur ou pouce levé|Pictogramme japonais
+NAVIGATEUR|Marin|Logiciel pour surfer|Il a des onglets
+MOTEUR|Il fait avancer la voiture|Action !|Celui de recherche
+LIEN|Attache|Hypertexte|Il se partage par message
+SITE|Lieu|Il a une adresse web|Paysage remarquable
+BLOG|Carnet en ligne|Journal personnel du Web|Weblog
+TABLETTE|Celle de chocolat|Petite planche|iPad
+ECOUTEURS|Oreillettes|Ils peuvent être sans fil|Petits casques
+CHARGEUR|Partie d'une arme|Alimentation du téléphone|Câble à brancher
+LINUX|Logiciel libre de Linus Torvalds|Système de Tux|Système open source
+PYTHON|Serpent constricteur|Langage de Guido van Rossum|Monty ___
+JAVASCRIPT|Langage du navigateur|JS|Script du Web
+TURING|Alan, déchiffreur d'Enigma|Son test juge les machines|Prix ___ : Nobel de l'informatique
+LOVELACE|Ada, fille de Byron|Pionnière de la machine analytique|Comtesse mathématicienne
+JOBS|Steve à col roulé|Petits boulots|Fondateur d'Apple
+GATES|Bill, philanthrope|Portes en anglais|Fondateur de Microsoft
+MINITEL|Terminal 3615|Petit boîtier marron|Télétel
+MODEM|Modulateur-démodulateur|Box d'autrefois|Il couinait en se connectant
+DONNEES|Data|Informations|Big ___
+CAPTEUR|Sonde|Détecteur|Élément d'un appareil photo
+TACTILE|Qui se touche|Relatif au toucher|Écran du smartphone
+ICONE|Image sainte orthodoxe|Star emblématique|Pictogramme d'écran
+FICHIER|Il a une extension|Document numérique|Classeur à fiches
+DOSSIER|Répertoire|Chemise cartonnée|Affaire en cours
+CURSEUR|Il clignote|Indicateur sur une règle|Flèche de la souris
+WEBCAM|Caméra intégrée|Elle filme les visios|Œil de l'ordinateur
+# --- nouveaux mots ---
+CLOUD|Nuage informatique|Stockage en ligne|Serveurs à distance|Espace distant de sauvegarde
+MOTDEPASSE|Sésame|Code d'accès|Il doit être complexe|Il se cache sous des astérisques
+PASSWORD|Mot de passe en anglais|Sésame anglais|Code d'accès anglais|Jeu télévisé d'indices
+SPAM|Courrier indésirable|Pourriel|Publicité de masse|Jambon en boîte, à l'origine
+PROGRAMMEUR|Codeur|Développeur|Il écrit des lignes de code|Ingénieur logiciel
+HACKER|Pirate informatique|Bidouilleur|Expert en intrusion|Il peut être éthique
+CLIC|Bruit de la souris|Pression du doigt|Il fait mouche|Déclic
+SMARTWATCH|Montre connectée|Bracelet intelligent|Apple Watch|Écran au poignet
+QRCODE|Code carré à scanner|Pictogramme des menus de restaurant|Code-barres en 2D|Lien en mosaïque
+PIXELLISE|Flouté par carreaux|Visage anonymisé|Image en gros grains|Brouillé à l'écran
+GIGAOCTET|Mille mégaoctets|Go|Unité de stockage|Capacité d'une clé USB

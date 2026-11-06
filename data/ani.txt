@@ -1,0 +1,132 @@
+LION|Roi des animaux
+TIGRE|Grand félin rayé
+GUEPARD|Animal terrestre le plus rapide
+ELEPHANT|Plus grand animal terrestre
+GIRAFE|Mammifère le plus haut
+BALEINE|Grand cétacé
+DAUPHIN|Cétacé joueur
+REQUIN|Poisson aux rangées de dents
+PIEUVRE|Mollusque à huit bras
+MEDUSE|Animal marin gélatineux
+TORTUE|Reptile à carapace
+CROCODILE|Reptile du Nil
+CAMELEON|Lézard qui change de couleur
+SERPENT|Reptile sans pattes
+VIPERE|Serpent venimeux de France
+AIGLE|Rapace royal
+HIBOU|Rapace nocturne à aigrettes
+CHOUETTE|Rapace nocturne sans aigrettes
+MANCHOT|Oiseau de l'Antarctique qui ne vole pas
+AUTRUCHE|Plus grand oiseau du monde
+PERROQUET|Oiseau qui imite la parole
+COLIBRI|Oiseau capable de voler sur place
+FLAMANT|Échassier rose
+CIGOGNE|Échassier qui revient au printemps
+ABEILLE|Elle fait le miel
+FOURMI|Insecte social qui vit en colonie
+PAPILLON|Il naît d'une chenille
+LIBELLULE|Insecte aux quatre ailes transparentes
+COCCINELLE|Insecte rouge à points noirs
+ARAIGNEE|Elle tisse une toile
+SCORPION|Arachnide à dard
+GRENOUILLE|Amphibien qui coasse
+TETARD|Larve de grenouille
+SAUMON|Poisson qui remonte les rivières
+KANGOUROU|Marsupial sauteur d'Australie
+KOALA|Marsupial mangeur d'eucalyptus
+PANDA|Ours mangeur de bambou
+GORILLE|Plus grand des primates
+CHIMPANZE|Primate très proche de l'homme
+LOUP|Ancêtre du chien
+RENARD|Goupil des fables
+SANGLIER|Cochon sauvage
+CERF|Mâle de la biche
+HERISSON|Petit mammifère à piquants
+ECUREUIL|Rongeur à queue touffue
+CASTOR|Rongeur bâtisseur de barrages
+MARMOTTE|Elle hiberne en montagne
+LOUTRE|Mammifère aquatique joueur
+ZEBRE|Équidé rayé
+HIPPOPOTAME|Gros mammifère des fleuves africains
+RHINOCEROS|Mammifère à corne sur le nez
+CHAMEAU|Il a deux bosses
+DROMADAIRE|Il n'a qu'une bosse
+POULAIN|Petit du cheval
+AGNEAU|Petit de la brebis
+VEAU|Petit de la vache
+PHOQUE|Mammifère marin à moustaches
+# --- définitions supplémentaires ---
+LION|Roi de la savane|Signe du zodiaque de l'été|Il rugit sur le logo de la MGM
+TIGRE|Shere Khan dans Le Livre de la jungle|Le Bengale est sa patrie|Surnom de Clemenceau
+GUEPARD|Félin aux larmes noires|Sprinter de la savane|Film de Visconti avec Delon
+ELEPHANT|Pachyderme à trompe|Il a une mémoire légendaire|Dumbo en est un
+GIRAFE|Elle broute les acacias|Son cou compte sept vertèbres|Peigner la ___ : ne rien faire
+BALEINE|La bleue est le plus grand animal|Elle chante sous l'eau|Tige de parapluie
+DAUPHIN|Flipper en est un|Héritier du trône de France|Deuxième du classement
+REQUIN|Les Dents de la mer|Homme d'affaires impitoyable|Le blanc est le plus redouté
+PIEUVRE|Poulpe|Elle crache de l'encre|Organisation tentaculaire
+MEDUSE|Elle pique les baigneurs|Gorgone aux serpents|Radeau peint par Géricault
+TORTUE|Elle gagne la course contre le lièvre|Elle vit très vieille|Elle pond sur les plages
+CROCODILE|Ses larmes sont hypocrites|Saurien aux dents apparentes|Logo d'une marque de polos
+CAMELEON|Opportuniste qui change d'avis|Sa langue est plus longue que son corps|Ses yeux bougent indépendamment
+SERPENT|Le Python en est un|Tentateur d'Ève|Il mue et rampe
+VIPERE|Langue de ___|Son museau est retroussé|Aspic
+AIGLE|Symbole impérial|Il a la vue perçante|Celui de Meaux, c'est Bossuet
+HIBOU|Il ulule|Le grand-duc en est un|Oiseau de nuit aux oreilles de plumes
+CHOUETTE|Oiseau de sagesse d'Athéna|Super !|L'effraie en est une
+MANCHOT|Il couve sur ses pattes en hiver|Bandit à un bras|Pingouin pour le profane
+AUTRUCHE|Elle se cache la tête dans le sable, dit-on|Oiseau coureur d'Afrique|Son œuf est le plus gros
+PERROQUET|Il répète sans comprendre|Ara ou cacatoès|Pastis à la menthe
+COLIBRI|Oiseau-mouche|Il butine en vol|Il fait sa part, selon la légende amérindienne
+FLAMANT|Oiseau rose de Camargue|Il se tient sur une patte|Échassier qui filtre les crevettes
+CIGOGNE|Elle apporte les bébés, dit-on|Emblème de l'Alsace|Elle niche sur les cheminées
+ABEILLE|Butineuse|Ouvrière de la ruche|Elle danse pour indiquer les fleurs
+FOURMI|Prêteuse à contrecœur chez La Fontaine|Ouvrière infatigable|Avoir des ___ dans les jambes
+PAPILLON|Celui de nuit est la phalène|Nœud de cravate|Contravention sur le pare-brise
+LIBELLULE|Demoiselle des étangs|Insecte aux grands yeux|Elle chasse en vol au-dessus de l'eau
+COCCINELLE|Bête à bon Dieu|Mangeuse de pucerons|Voiture de Volkswagen
+ARAIGNEE|Elle a huit pattes|Avoir une ___ au plafond|La veuve noire en est une
+SCORPION|Signe astrologique d'octobre-novembre|Il pique avec sa queue|Arachnide du désert
+GRENOUILLE|Elle veut se faire aussi grosse que le bœuf|Rainette|Ses cuisses se mangent
+TETARD|Il a une queue puis la perd|Petit d'amphibien|Tête ronde nageuse
+SAUMON|Poisson rose fumé|Couleur orangée|Poisson d'Écosse et de Norvège
+KANGOUROU|Il porte son petit dans sa poche|Boxeur d'Australie|Emblème austral
+KOALA|Il dort vingt heures par jour|Peluche australienne vivante|Faux ours gris
+PANDA|Emblème du WWF|Ours noir et blanc|Le roux est un cousin plus petit
+GORILLE|Garde du corps|Le dos argenté|King Kong en est un
+CHIMPANZE|Bonobo cousin|Singe de Jane Goodall|Cheeta, compagnon de Tarzan
+LOUP|Il a mangé le Petit Chaperon rouge|Masque de velours|Bar de Méditerranée
+RENARD|Ami du Petit Prince|Rusé personnage|Goupil roux
+SANGLIER|Animal d'Obélix|Laie et marcassin|Il fouille le sol avec son groin
+CERF|Il brame en automne|Sa ramure tombe chaque année|Animal du brame
+HERISSON|Il se met en boule|Sonic en est un|Mangeur de limaces
+ECUREUIL|Il amasse des noisettes|Emblème d'une caisse d'épargne|Roux des forêts
+CASTOR|Il ronge les troncs|Frère de Pollux|Rongeur canadien
+MARMOTTE|Elle siffle|Grosse dormeuse|Celle qui met le chocolat dans le papier d'alu
+LOUTRE|Elle flotte sur le dos|Fourrure brune|Elle casse les coquillages sur son ventre
+ZEBRE|Un drôle de ___|Il a des rayures blanches et noires|Cousin du cheval
+HIPPOPOTAME|Cheval du fleuve|Il passe la journée dans l'eau|Il a une gueule énorme
+RHINOCEROS|Pièce de Ionesco|Il charge|Animal blanc ou noir menacé
+CHAMEAU|Vaisseau du désert|Personne méchante|Il a la bosse… deux fois
+DROMADAIRE|Méhari|Monture des caravanes|Chameau d'Arabie
+POULAIN|Protégé d'un parrain|Jeune cheval|Pouliche, au féminin
+AGNEAU|Doux comme un ___|Son gigot se mange à Pâques|Petit mouton
+VEAU|Pleurer comme un ___|Le ___ d'or|Escalope de boucherie
+PHOQUE|Mammifère marin de la banquise|Il bat des nageoires|Ses bébés sont blancs
+# --- nouveaux mots ---
+LEOPARD|Félin tacheté grimpeur|Panthère|Symbole de la Normandie|Ses taches sont des rosettes
+JAGUAR|Félin d'Amérique du Sud|Voiture britannique|Il nage volontiers|Grand félin à rosettes
+ORQUE|Épaulard|Baleine tueuse|Dauphin noir et blanc|Elle chasse les phoques
+CORBEAU|Il a laissé tomber son fromage|Oiseau noir|Auteur de lettres anonymes|Croasse
+PIGEON|Voyageur à plumes|Dupe d'une arnaque|Il hante les places de Venise|Ramier
+MOUSTIQUE|Il pique la nuit|Insecte vecteur du paludisme|Tout petit garçon, en plaisantant|Il bourdonne à l'oreille
+GUEPE|Taille de ___|Elle pique sans miel|Frelon miniature|Jaune et noir
+ESCARGOT|Il porte sa coquille|Mollusque de Bourgogne|Lent comme lui|Gastéropode au beurre d'ail
+LIMACE|Escargot sans coquille|Personne molle|Ennemie du potager|Elle laisse une trace gluante
+CHAUVESOURIS|Mammifère volant|Elle dort la tête en bas|Elle s'oriente par écholocation|Vampire ailé
+PINGOUIN|Oiseau de l'Arctique qui vole|On le confond avec le manchot|Alque torda|Type, gars
+OURS|Brun ou blanc|Personne peu sociable|Peluche des enfants|Il hiberne
+CHENILLE|Future papillon|Courroie de char|Elle fait des processions|Tissu de velours
+LAMA|Il crache|Ruminant des Andes|Moine tibétain|Cousin de l'alpaga
+PAON|Il fait la roue|Vaniteux comme lui|Oiseau aux ocelles|Il criaille
+MOUETTE|Oiseau du bord de mer|Rieuse|Elle suit les chalutiers|Pièce de Tchekhov

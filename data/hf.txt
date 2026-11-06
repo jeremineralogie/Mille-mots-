@@ -1,0 +1,137 @@
+GAULOIS|Peuple de Vercingétorix
+ALESIA|Siège perdu par Vercingétorix en 52 av. J.-C.
+CLOVIS|Roi franc baptisé à Reims
+CHARLEMAGNE|Empereur couronné en l'an 800
+CAPETIENS|Dynastie fondée par Hugues Capet
+MEROVINGIENS|Dynastie de Clovis
+CAROLINGIENS|Dynastie de Charlemagne
+ORLEANS|Ville délivrée par Jeanne d'Arc en 1429
+CROISADE|Expédition militaire vers Jérusalem
+TEMPLIERS|Ordre de moines-soldats dissous en 1312
+MARIGNAN|Victoire de François Ier en 1515
+RENAISSANCE|Époque des châteaux de la Loire
+NANTES|Ville d'un édit de tolérance en 1598
+RICHELIEU|Cardinal ministre de Louis XIII
+MAZARIN|Cardinal successeur de Richelieu
+FRONDE|Révolte sous la minorité de Louis XIV
+SOLEIL|Le Roi-___, surnom de Louis XIV
+COLBERT|Ministre des Finances de Louis XIV
+BASTILLE|Prison prise le 14 juillet 1789
+REVOLUTION|Elle éclate en 1789
+TERREUR|Période sanglante de 1793-1794
+ROBESPIERRE|Figure de la Terreur, guillotiné en 1794
+DANTON|Révolutionnaire guillotiné en avril 1794
+GUILLOTINE|Instrument d'exécution révolutionnaire
+CONSULAT|Régime de Bonaparte de 1799 à 1804
+AUSTERLITZ|Victoire de Napoléon en 1805
+WATERLOO|Défaite finale de Napoléon en 1815
+ELBE|Île du premier exil de Napoléon
+HELENE|Sainte-___, île où mourut Napoléon
+RESTAURATION|Retour des Bourbons après 1814
+COMMUNE|Insurrection parisienne de 1871
+DREYFUS|Capitaine au cœur d'une affaire célèbre
+ZOLA|Auteur de « J'accuse… ! »
+VERDUN|Grande bataille de 1916
+ARMISTICE|Signé le 11 novembre 1918
+CLEMENCEAU|Homme politique surnommé le Tigre
+POILU|Soldat français de 14-18
+BLUM|Chef du gouvernement du Front populaire
+VICHY|Ville du régime de Pétain
+RESISTANCE|Lutte clandestine contre l'occupant
+MOULIN|Jean ___, unificateur de la Résistance
+DEBARQUEMENT|Opération alliée du 6 juin 1944
+NORMANDIE|Région du Débarquement
+DEGAULLE|Auteur de l'appel du 18 Juin
+APPEL|Discours radiophonique du 18 juin 1940
+LIBERATION|Paris la fête en août 1944
+CINQUIEME|Numéro de la République fondée en 1958
+MAI|Mois des événements de 1968
+MITTERRAND|Président élu en 1981
+VEIL|Simone ___, loi sur l'IVG en 1975
+LASCAUX|Grotte ornée de Dordogne
+CARNAC|Site breton d'alignements de menhirs
+CHEVALIER|Combattant à cheval du Moyen Âge
+DONJON|Tour maîtresse du château fort
+SERF|Paysan attaché à la terre du seigneur
+DIME|Impôt versé à l'Église
+GABELLE|Impôt sur le sel
+MARSEILLAISE|Chant composé par Rouget de Lisle
+VALMY|Victoire révolutionnaire de 1792
+VARENNES|Ville où Louis XVI fut arrêté en fuite
+# --- définitions supplémentaires ---
+GAULOIS|Ancêtres revendiqués des Français|Habitants de la Gaule|Cigarette brune d'autrefois
+ALESIA|Oppidum assiégé par César|Lieu de la reddition gauloise|Son site est en Côte-d'Or
+CLOVIS|Vainqueur à Tolbiac|Roi du vase de Soissons|Fils de Childéric
+CHARLEMAGNE|Il aurait inventé l'école selon la chanson|Le roi à la barbe fleurie|Fils de Pépin le Bref
+CAPETIENS|Rois de 987 à 1328 en ligne directe|Famille de Saint Louis|Dynastie de Philippe Auguste
+MEROVINGIENS|Les rois fainéants|Première dynastie franque|Descendants de Mérovée
+CAROLINGIENS|Dynastie des Pépin|Elle succède aux Mérovingiens|Famille de Louis le Pieux
+ORLEANS|La Pucelle d'___|Ville sur la Loire|Famille de Louis-Philippe
+CROISADE|Campagne pour une grande cause|Celle des Albigeois visait les cathares|Urbain II prêcha la première
+TEMPLIERS|Moines-chevaliers de Jacques de Molay|Ordre au trésor légendaire|Chevaliers du Temple
+MARIGNAN|1515, la date la plus connue|Bataille où Bayard adouba son roi|Victoire contre les Suisses
+RENAISSANCE|Retour aux modèles antiques|Époque de Léonard de Vinci|Nouveau départ
+NANTES|Ville de l'édit d'Henri IV|Préfecture de la Loire-Atlantique|Cité des ducs de Bretagne
+RICHELIEU|Rival des mousquetaires chez Dumas|Fondateur de l'Académie française|L'Éminence rouge
+MAZARIN|Cardinal d'origine italienne|Ses ennemis écrivaient des mazarinades|Parrain politique du jeune Louis XIV
+FRONDE|Arme de David contre Goliath|Esprit de rébellion|Révolte des princes et des parlementaires
+SOLEIL|Astre du jour|Fleur qui suit la lumière|Il brille pour tout le monde
+COLBERT|Il créa les manufactures royales|Ministre du mercantilisme|Rival de Fouquet
+BASTILLE|Place de l'Opéra moderne à Paris|Forteresse démolie après 1789|Le 14 juillet, on la fête
+REVOLUTION|Tour complet autour d'un axe|Bouleversement radical|Celle de 1830 dura trois jours
+TERREUR|Peur intense|Régime du Comité de salut public|Enfant qui sème la panique
+ROBESPIERRE|L'Incorruptible|Avocat d'Arras devenu révolutionnaire|Tombé le 9 Thermidor
+DANTON|Tribun de la Révolution|« De l'audace, encore de l'audace »|Ministre de la Justice en 1792
+GUILLOTINE|La Veuve|Elle tranche les têtes|Proposée par le docteur Guillotin
+CONSULAT|Bureau diplomatique à l'étranger|Régime des trois consuls|Charge d'un consul romain
+AUSTERLITZ|Bataille des Trois Empereurs|Gare parisienne|Victoire sous le soleil de 1805
+WATERLOO|Morne plaine chez Victor Hugo|Défaite contre Wellington|Chanson d'ABBA
+ELBE|Fleuve de Hambourg|Île toscane d'exil|Napoléon y fut souverain de 1814 à 1815
+HELENE|Épouse de Ménélas|Belle de Troie|Prénom féminin grec
+RESTAURATION|Remise en état d'un monument|Métier de la cuisine|Règne de Louis XVIII et Charles X
+COMMUNE|Plus petite division administrative|Banale, ordinaire|Celle de Paris dura 72 jours
+DREYFUS|Officier injustement condamné en 1894|Déporté à l'île du Diable|Réhabilité en 1906
+ZOLA|Auteur des Rougon-Macquart|Défenseur de Dreyfus|Émile, naturaliste
+VERDUN|L'enfer de 1916|Ville de la Meuse|Son traité partagea l'empire carolingien en 843
+ARMISTICE|Fin des combats|Signé dans un wagon à Rethondes|Trêve avant la paix
+CLEMENCEAU|Le Père la Victoire|Fondateur de L'Aurore|Georges, président du Conseil en 1917
+POILU|Velu|Combattant des tranchées|Héros du monument aux morts
+BLUM|Léon des congés payés|Socialiste de 1936|Président du Conseil du Front populaire
+VICHY|Ville d'eaux de l'Allier|Pastille de l'Allier|Capitale de l'État français
+RESISTANCE|Endurance physique|Opposition à l'oppresseur|Composant électrique en ohms
+MOULIN|Celui de Daudet est à Fontvieille|Il moud le grain|___ à paroles
+DEBARQUEMENT|Arrivée à quai des passagers|D-Day|Opération Overlord
+NORMANDIE|Région du camembert|Province de Guillaume le Conquérant|Pays de Caen et de Rouen
+DEGAULLE|Le Général|Fondateur de la Ve République|Charles de Colombey
+APPEL|Il précède la cour de cassation|Coup de téléphone|Faire l'___ en classe
+LIBERATION|Délivrance|Fin de l'Occupation|Journal fondé par Sartre en 1973
+CINQUIEME|Après la quatrième|Cette République est la nôtre|Colonne de la trahison
+MAI|Mois du muguet|Joli mois|En ___, fais ce qu'il te plaît
+MITTERRAND|Le Sphinx de la politique|Président de 1981 à 1995|François de Jarnac
+VEIL|Simone, rescapée d'Auschwitz entrée au Panthéon|Présidente du premier Parlement européen élu|Ministre de la Santé en 1974
+LASCAUX|La chapelle Sixtine de la préhistoire|Grotte découverte en 1940 par des adolescents|Taureaux peints de Montignac
+CARNAC|Ville du Morbihan aux mégalithes|Ses menhirs s'alignent par milliers|Site néolithique breton
+CHEVALIER|Lancelot en est un|Bayard, sans peur et sans reproche|Titre de la Légion d'honneur
+DONJON|Il domine le château|Prison dans la tour|___ et Dragons
+SERF|Il dépend de son seigneur|Paysan non libre|Corvéable à merci
+DIME|Dixième des récoltes|Contribution ecclésiastique|Pièce de dix cents
+GABELLE|Taxe du grenier à sel|Impôt honni de l'Ancien Régime|Ses contrebandiers étaient les faux-sauniers
+MARSEILLAISE|Chant de guerre pour l'armée du Rhin|Hymne national|Femme de la cité phocéenne
+VALMY|Bataille du moulin de 1792|« Vive la nation ! » y fut crié|Victoire de Kellermann et Dumouriez
+VARENNES|Fin de la fuite royale de 1791|Ville de la Meuse|Lieu de l'arrestation de Louis XVI
+# --- nouveaux mots ---
+VERCINGETORIX|Chef arverne|Vaincu d'Alésia|Il jeta ses armes aux pieds de César|Héros gaulois de Gergovie
+GERGOVIE|Victoire gauloise de 52 av. J.-C.|Plateau auvergnat assiégé par César|Oppidum arverne|Échec de César en Auvergne
+POITIERS|Charles Martel y arrêta les Arabes en 732|Ville du Futuroscope|Préfecture de la Vienne|Défaite de Jean le Bon en 1356
+BOUVINES|Victoire de Philippe Auguste en 1214|Bataille du dimanche|Village du Nord|Premier triomphe national selon Duby
+CHAMBORD|Château de François Ier|Son escalier est à double révolution|Plus grand château de la Loire|Domaine de Sologne
+HENRI|Prénom du Vert Galant|Roi de la poule au pot|Prénom de quatre rois de France|Il trouvait que Paris valait bien une messe
+SULLY|Ministre d'Henri IV|Labourage et pâturage, ses deux mamelles|Pont de Paris|Duc et surintendant des finances
+FOUQUET|Surintendant arrêté en 1661|Bâtisseur de Vaux-le-Vicomte|Disgracié par Louis XIV|Prisonnier de Pignerol
+TUILERIES|Palais incendié en 1871|Jardin entre le Louvre et la Concorde|Résidence de Louis XVI en 1792|Leur journée du 10 août 1792 fut fatale
+THERMIDOR|Mois de l'été révolutionnaire|Homard gratiné|Coup d'État de 1794|Onzième mois républicain
+BRUMAIRE|Coup d'État du 18 de ce mois|Mois des brumes|Deuxième mois républicain|Bonaparte y prit le pouvoir
+SEDAN|Défaite de Napoléon III en 1870|Ville des Ardennes|Voiture à quatre portes|Elle a un château fort immense
+JAURES|Fondateur de L'Humanité|Socialiste assassiné en 1914|Pacifiste tué au Café du Croissant|Tribun tarnais
+PETAIN|Vainqueur de Verdun devenu maréchal|Chef de l'État français|Condamné en 1945|Exilé à l'île d'Yeu
+PANTHEON|Temple des grands hommes|Monument de la montagne Sainte-Geneviève|Les dieux d'une religion|Il abrite Hugo et Zola
