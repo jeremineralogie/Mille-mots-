@@ -28,4 +28,15 @@ ${css}</style>
 `;
 fs.writeFileSync(path.join(ROOT,'docs/index.html'),html);
 fs.writeFileSync(path.join(ROOT,'docs/game.js'),js);
-console.log('docs/index.html + docs/game.js OK');
+// Variante pour l'hébergement en Artifact : sans squelette html/head/body (ajouté à la publication)
+const art=`<title>Mille Cases</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<style>
+${css}</style>
+<div id="app"><p style="padding:40px 8px;text-align:center">Chargement…</p></div>
+<script src="levels.js?v=${v}"></script>
+<script src="game.js?v=${v}"></script>
+`;
+fs.mkdirSync(path.join(ROOT,'build'),{recursive:true});
+fs.writeFileSync(path.join(ROOT,'build/artifact.html'),art);
+console.log('docs/index.html + docs/game.js + build/artifact.html OK');

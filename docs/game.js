@@ -118,7 +118,7 @@ function renderHome(){
   app.querySelector('#daily').onclick=()=>openLevel(dl.mode,dT,dl.n,true);
   app.querySelector('#rand').onclick=()=>{
     const free=[];ALLTHEMES.forEach(t=>{for(let i=1;i<=levelsOf(t.id,mode);i++)if(!sol[lvKey(mode,t.id,i)]&&!store.get(P+'g:'+lvKey(mode,t.id,i),null))free.push([t,i])});
-    if(!free.length){alert('Vous avez ouvert toutes les grilles de ce mode !');return}
+    if(!free.length){app.querySelector('#rand').textContent='Tout est déjà ouvert !';return}
     const [t,i]=free[Math.floor(Math.random()*free.length)];openLevel(mode,t,i)};
   window.scrollTo(0,0);
 }
