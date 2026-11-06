@@ -11,7 +11,7 @@ function renderHome(){
   app.innerHTML=`
   <header class="home-top"><div class="pills">${pills()}</div>
     <h1 class="logo"><span>Mille</span><span>Cases</span></h1>
-    <p class="tag">${fmtN(TOTAL)} grilles · ${fmtN(CLUES_TOTAL)} définitions · ${THEMES.length} thèmes · 5 façons de jouer</p></header>
+    <p class="tag">${fmtN(TOTAL)} grilles · ${fmtN(WORDS_TOTAL)} mots · ${THEMES.length} thèmes · 5 façons de jouer</p></header>
   <button class="daily${dDone?' done':''}" id="daily" style="--c:${dT.color}">${DECO}
     <span class="d-k">Défi du jour · ${esc(dateLbl)}</span>
     <span class="d-t">${esc(dT.name)}</span>
@@ -27,7 +27,8 @@ function renderHome(){
       <div><h3>iPhone</h3><ol><li>Ouvrez cette page dans Safari.</li><li>Touchez le bouton Partager (carré avec une flèche).</li><li>Choisissez « Sur l'écran d'accueil ».</li></ol></div>
       <div><h3>Android</h3><ol><li>Ouvrez cette page dans Chrome.</li><li>Touchez le menu ⋮ en haut à droite.</li><li>Choisissez « Ajouter à l'écran d'accueil ».</li></ol></div></div>
     <p class="fine">Une fois installée, l'application fonctionne sans connexion. Pièces et progression restent enregistrées sur cet appareil.</p></details>
-  <p class="fine foot">Aucune définition n'apparaît plus de ${D.cap} fois dans tout le jeu. Chaque grille gagnée rapporte des pièces, à dépenser en indices. Réponses sans accents ni traits d'union.</p>`;
+  <p class="fine foot">Chaque mot n'apparaît qu'une seule fois dans tout le jeu : jamais deux fois le même. Chaque grille gagnée rapporte des pièces, à dépenser en indices. Réponses sans accents ni traits d'union.</p>
+  <p class="fine foot">Définitions issues du <a href="https://fr.wiktionary.org/" target="_blank" rel="noopener">Wiktionnaire</a> (CC BY-SA 4.0), via le jeu de données libre verbarium/french-dictionary ; fréquences Lexique 3.83 et wordfreq.</p>`;
   app.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>{store.set(P+'mode',b.dataset.m);renderHome()});
   app.querySelectorAll('.th').forEach(b=>b.onclick=()=>renderTheme(b.dataset.t));
   app.querySelector('#daily').onclick=()=>openLevel(dl.mode,dT,dl.n,true);
@@ -41,11 +42,12 @@ function renderHome(){
 /* ------------------ Thème ------------------ */
 function openLevel(mode,t,n,fromDaily){const L=levels(t.id,mode);if(!L[n-1])return;
   play({mode,theme:t,n,diff:L[n-1].d,key:lvKey(mode,t.id,n),label:fromDaily?'Défi du jour':'Grille '+n,fromDaily})}
+const PAGE=60;
 function renderTheme(id){
   leave();
   const t=themeById(id),mode=getMode(),sol=solvedMap(),L=levels(id,mode),col=colorOf(t);
   let next=1;while(next<=L.length&&sol[lvKey(mode,id,next)])next++;if(next>L.length)next=1;
-  const sec=[0,1,2].map(d=>({d,items:L.map((x,i)=>x.d===d?i+1:0).filter(Boolean)})).filter(s=>s.items.length);
+  const sec=[0,1,2,3].map(d=>({d,items:L.map((x,i)=>x.d===d?i+1:0).filter(Boolean)})).filter(s=>s.items.length);
   const c=L.filter((x,i)=>sol[lvKey(mode,id,i+1)]).length;
   app.innerHTML=`
   <header class="banner big" style="--c:${col}">${DECO}
@@ -56,12 +58,13 @@ function renderTheme(id){
   <div class="modes mini" role="tablist" aria-label="Façon de jouer">${MODE_IDS.map(m=>`<button role="tab" aria-selected="${m===mode}" data-m="${m}"><b>${MODES[m]}</b><span>${levelsOf(id,m)} grilles</span></button>`).join('')}</div>
   ${L.length?`<button class="cta" id="go">${c?'Continuer':'Commencer'} · grille ${next}</button>`:'<p class="fine">Pas encore de grille dans ce mode pour ce thème.</p>'}
   ${sec.map(s=>`<section class="lv"><h2>${DIFF[s.d]} <span>${s.items[0]} à ${s.items[s.items.length-1]}</span></h2>
-    <div class="lv-g">${s.items.map(n=>{const k=lvKey(mode,id,n),done=sol[k],started=!done&&store.get(P+'g:'+k,null);
-      return `<button data-n="${n}" class="${done?'ok':started?'st':''}" aria-label="Grille ${n}${done?', résolue':''}">${n}${done?ICON.star:''}</button>`}).join('')}</div></section>`).join('')}`;
+    <div class="lv-g" data-d="${s.d}">${s.items.map((n,j)=>{const k=lvKey(mode,id,n),done=sol[k],started=!done&&store.get(P+'g:'+k,null);
+      return `<button data-n="${n}" class="${done?'ok':started?'st':''}"${j>=PAGE?' hidden':''} aria-label="Grille ${n}${done?', résolue':''}">${n}${done?ICON.star:''}</button>`}).join('')}</div>${s.items.length>PAGE?`<button class="chip more" data-more="${s.d}">Afficher les ${s.items.length-PAGE} autres grilles</button>`:''}</section>`).join('')}`;
   app.querySelector('#back').onclick=renderHome;
   app.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>{store.set(P+'mode',b.dataset.m);renderTheme(id)});
   const go=app.querySelector('#go');if(go)go.onclick=()=>openLevel(mode,t,next);
   app.querySelectorAll('.lv-g button').forEach(b=>b.onclick=()=>openLevel(mode,t,+b.dataset.n));
+  app.querySelectorAll('[data-more]').forEach(b=>b.onclick=()=>{app.querySelectorAll(`.lv-g[data-d="${b.dataset.more}"] button[hidden]`).forEach(x=>x.hidden=false);b.remove()});
   window.scrollTo(0,0);
 }
 
@@ -69,7 +72,11 @@ function renderTheme(id){
 function play(ctx){
   leave();
   const back=()=>ctx.fromDaily?renderHome():renderTheme(ctx.theme.id);
-  const data=decode(ctx.mode,levels(ctx.theme.id,ctx.mode)[ctx.n-1].lv);
+  if(!(window.MC_LV&&window.MC_LV[ctx.theme.id])){
+    app.innerHTML='<p class="loading">Chargement des grilles…</p>';
+    loadTheme(ctx.theme.id).then(()=>play(ctx),()=>{app.innerHTML='<div class="loading"><p>Impossible de charger les grilles. Vérifiez la connexion.</p><button class="btn" id="re">Réessayer</button></div>';app.querySelector('#re').onclick=()=>play(ctx)});
+    return}
+  const data=decode(ctx.mode,rawLevel(ctx.theme.id,ctx.mode,ctx.n),window.MC_LV[ctx.theme.id]);
   if(ctx.mode==='meles')return playMeles(ctx,data,back);
   if(ctx.mode==='cache')return playCache(ctx,data,back);
   if(ctx.mode==='ana')return playAna(ctx,data,back);
@@ -107,7 +114,7 @@ function helpSheet(ui,items,note,onAct,onReset){
 function resetGame(ctx,SK){store.del(SK);const sol=solvedMap();delete sol[ctx.key];store.set(P+'solved',sol);play(ctx)}
 function winSheet(ui,ctx,S,back,extra){
   const sol=solvedMap();let gain=0,dailyWin=false;
-  if(!sol[ctx.key]){gain=[10,15,20][ctx.diff]+(S.help?0:5);sol[ctx.key]={t:S.t,h:S.help||0}}
+  if(!sol[ctx.key]){gain=[10,15,20,25][ctx.diff]+(S.help?0:5);sol[ctx.key]={t:S.t,h:S.help||0}}
   const dk='daily-'+todayStr();
   if(isDailyPick(ctx.mode,ctx.theme.id,ctx.n)&&!sol[dk]){sol[dk]=1;dailyWin=true;gain=gain*2||10}
   if(gain){store.set(P+'solved',sol);setCoins(coins()+gain);refreshCoins()}
@@ -257,7 +264,7 @@ function playGrid(ctx,G,back){
 
 /* ------------------ Mots mêlés ------------------ */
 function playMeles(ctx,M,back){
-  const hard=ctx.diff===2;
+  const hard=ctx.diff>=2;
   const ui=shell(ctx,false);addToast(ui);
   const {SK,S,save}=newState(ctx,()=>({found:[],t:0,done:false,help:0}));
   const N=M.N,gap=3;
@@ -291,7 +298,7 @@ function playMeles(ctx,M,back){
   grid.addEventListener('pointercancel',()=>{start=null;paint(pending?[pending]:[])});
   app.querySelector('#pb-back').onclick=()=>{save();back()};
   app.querySelector('#pb-help').onclick=()=>helpSheet(ui,[{a:'hint',label:'Montrer une première lettre',cost:COST.letter},{a:'rw',label:'Révéler un mot',cost:COST.word}],
-    `Glissez le doigt sur un mot, ou touchez sa première puis sa dernière lettre. Les mots se lisent ${['de gauche à droite, de haut en bas et en diagonale','dans cinq directions, parfois à l\'envers','dans les huit directions'][ctx.diff]}.`,a=>{
+    `Glissez le doigt sur un mot, ou touchez sa première puis sa dernière lettre. Les mots se lisent ${['de gauche à droite, de haut en bas et en diagonale','dans cinq directions, parfois à l\'envers','dans les huit directions','dans les huit directions'][ctx.diff]}.`,a=>{
       const left=M.words.map((w,i)=>i).filter(i=>!S.found.includes(i));if(!left.length)return;
       if(a==='hint'&&spend(COST.letter,ui)){const w=M.words[left[0]];S.help++;save();ui.close();paint();const e=els[w.r][w.c];e.classList.add('hint');setTimeout(()=>e.classList.remove('hint'),2600)}
       if(a==='rw'&&spend(COST.word,ui)){S.help++;ui.close();evaluate(cellsOf(M.words[left[Math.floor(Math.random()*left.length)]]));if(!S.done)paint()}},()=>resetGame(ctx,SK));

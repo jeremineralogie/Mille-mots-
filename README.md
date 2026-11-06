@@ -12,17 +12,26 @@ Jeu de lettres en français, jouable sur téléphone et installable comme une ap
 | Mots mêlés | Glisser le doigt sur les mots cachés (en difficile : on cherche à partir des définitions) |
 | Anagrammes | Remettre les lettres dans l'ordre à partir d'une définition |
 
-## La règle d'or : jamais plus de 3 fois la même définition
+## Les règles du générateur
 
-Toutes les grilles sont **pré-calculées** par `tools/build.mjs`, qui tient un compteur global :
+Toutes les grilles sont **pré-calculées** par `tools/build.mjs` :
 
-- chaque définition (comparée sans tenir compte des accents ni de la ponctuation) apparaît **au maximum 3 fois dans l'ensemble du jeu**, tous modes et thèmes confondus ;
-- quand un mot revient dans une nouvelle grille, le générateur choisit **sa définition la moins utilisée** : un mot qui a 4 définitions les montre toutes avant d'en répéter une ;
-- les grilles sont générées « en tourniquet » (thème après thème, mode après mode) pour que tous les thèmes aient leur part ;
-- dans les mots mêlés sans définitions, un même mot n'apparaît pas dans plus de 3 grilles ;
-- le **défi du jour** propose toujours une grille du catalogue que le joueur n'a jamais ouverte : il ne crée aucune utilisation supplémentaire.
+- **chaque mot n'apparaît qu'une seule fois dans tout le jeu**, tous modes, thèmes et niveaux confondus : on ne retombe jamais sur un mot déjà vu ;
+- une définition n'est jamais affichée plus de 3 fois ;
+- la **difficulté suit la fréquence d'usage réelle** du mot (wordfreq) : Facile = mots courants, Moyen, Difficile, puis **Expert** pour les mots rares absents des corpus de fréquence ;
+- les mots d'un thème lui sont réservés ; une grille thématique contient au moins 30 % de mots du thème, complétée par du vocabulaire général ;
+- le défi du jour propose une grille que le joueur n'a jamais ouverte.
 
-Le nombre de grilles découle donc directement de la quantité de définitions : **ajouter des définitions agrandit le jeu automatiquement.**
+Le nombre de grilles découle du nombre de mots : **ajouter des mots agrandit le jeu automatiquement.**
+
+## Sources du vocabulaire
+
+- `data/<thème>.txt` : environ 2 000 mots aux définitions écrites à la main (prioritaires) ;
+- `data/dico.tsv.gz` : environ 37 000 mots importés du **Wiktionnaire** par `tools/import_dico.py`, depuis le jeu de données libre [verbarium/french-dictionary](https://github.com/verbarium/french-dictionary) (Wiktionnaire via kaikki.org, Lexique 3.83, wordfreq). Ces données sont sous licence **CC BY-SA 4.0** : le fichier `data/dico.tsv.gz` reste sous cette licence et la source est créditée dans le jeu.
+
+L'import filtre et nettoie : mots vulgaires ou injurieux exclus, définitions qui contiennent la réponse ou sa racine rejetées, noms latins et renvois (« cette dignité ») retirés, classement par thème selon le domaine (botanique → Nature…).
+
+Pour réimporter : `python3 -I tools/import_dico.py <chemin>/lemmas.csv.gz data/dico.tsv.gz`
 
 ## Structure
 
@@ -30,9 +39,10 @@ Le nombre de grilles découle donc directement de la quantité de définitions :
 data/themes.json     liste des thèmes (id, nom, couleur)
 data/<theme>.txt     MOT|définition 1|définition 2|…  (une ligne peut être répétée : les définitions sont fusionnées)
 src/                 code du jeu (core.js, icons.js, ui.js, style.css)
-tools/build.mjs      génère docs/levels.js (toutes les grilles) et affiche un rapport
+tools/import_dico.py importe le dictionnaire (Wiktionnaire) dans data/dico.tsv.gz
+tools/build.mjs      génère docs/levels/ (un fichier par thème + index.js) et affiche un rapport
 tools/page.mjs       assemble docs/index.html et docs/game.js
-tools/verify.mjs     vérifie le plafond de 3 et la validité de chaque grille
+tools/verify.mjs     vérifie qu'aucun mot n'est répété et que chaque grille est valide
 tools/test.cjs       test de jouabilité : un iPhone simulé résout une grille de chaque mode
 tools/icons.cjs      génère les icônes
 docs/                le site prêt à publier (GitHub Pages : dossier /docs)

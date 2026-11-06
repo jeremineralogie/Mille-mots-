@@ -22,7 +22,8 @@ const html=`<!doctype html>
 ${css}</style>
 </head><body>
 <div id="app"><p style="padding:40px 8px;text-align:center">Chargement…</p></div>
-<script src="levels.js?v=${v}"></script>
+<script>window.MC_V="${v}"</script>
+<script src="levels/index.js?v=${v}"></script>
 <script src="game.js?v=${v}"></script>
 </body></html>
 `;
@@ -34,7 +35,8 @@ const art=`<title>Mille Cases</title>
 <style>
 ${css}</style>
 <div id="app"><p style="padding:40px 8px;text-align:center">Chargement…</p></div>
-<script src="levels.js?v=${v}"></script>
+<script>window.MC_V="${v}"</script>
+<script src="levels/index.js?v=${v}"></script>
 <script src="game.js?v=${v}"></script>
 `;
 fs.mkdirSync(path.join(ROOT,'build'),{recursive:true});

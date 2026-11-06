@@ -1,6 +1,6 @@
 'use strict';
 /* ------------------ Données pré-calculées (tools/build.mjs) ------------------ */
-const D=window.MC_DATA;
+const D=window.MC_INDEX;
 const norm=s=>s.normalize('NFD').replace(/[̀-ͯ]/g,'').toUpperCase().replace(/Œ/g,'OE').replace(/[^A-Z]/g,'');
 function hashStr(s){let h=2166136261>>>0;for(let i=0;i<s.length;i++){h^=s.charCodeAt(i);h=Math.imul(h,16777619)}return h>>>0}
 function rng(seed){let a=seed>>>0;return function(){a=a+0x6D2B79F5|0;let t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
@@ -10,21 +10,29 @@ const ALLTHEMES=D.T;
 const THEMES=ALLTHEMES.filter(t=>t.id!=='mix');
 const themeById=id=>ALLTHEMES.find(t=>t.id===id);
 const colorOf=t=>t.id==='mix'?'#e0a21a':t.color;
-const DIFF=['Facile','Moyen','Difficile'];
+const DIFF=['Facile','Moyen','Difficile','Expert'];
 const MODES={cache:'Mot caché',croises:'Mots croisés',fleches:'Mots fléchés',meles:'Mots mêlés',ana:'Anagrammes'};
 const MODE_DESC={cache:'Une définition par ligne, un mot mystère en colonne',croises:'La grille classique à numéros',fleches:'Les définitions dans la grille',meles:'Retrouvez les mots cachés',ana:'Remettez les lettres dans l’ordre'};
 const MODE_IDS=['cache','croises','fleches','meles','ana'];
 
 // Liste ordonnée des grilles d'un thème pour un mode : Facile, puis Moyen, puis Difficile
 const LVL={};
-for(const t of ALLTHEMES)for(const m of MODE_IDS){const out=[];(D.L[t.id]&&D.L[t.id][m]||[[],[],[]]).forEach((arr,d)=>arr.forEach(lv=>out.push({d,lv})));LVL[t.id+'/'+m]=out}
+for(const t of ALLTHEMES)for(const m of MODE_IDS){const out=[];((D.counts[t.id]||{})[m]||[]).forEach((n,d)=>{for(let i=0;i<n;i++)out.push({d,i})});LVL[t.id+'/'+m]=out}
 const levels=(tid,m)=>LVL[tid+'/'+m];
 const levelsOf=(tid,m)=>levels(tid,m).length;
-const TOTAL=Object.values(LVL).reduce((s,a)=>s+a.length,0);
-const CLUES_TOTAL=D.C.length;
+const TOTAL=D.total;
+const WORDS_TOTAL=D.words;
 
-const W_=i=>D.A[i],C_=i=>i<0?'':D.C[i];
-function decode(mode,lv){
+// Les grilles d'un thème sont chargées à la demande (docs/levels/<thème>.js)
+const loading={};
+function loadTheme(tid){
+  if(window.MC_LV&&window.MC_LV[tid])return Promise.resolve(window.MC_LV[tid]);
+  return loading[tid]||(loading[tid]=new Promise((ok,ko)=>{const s=document.createElement('script');s.src='levels/'+tid+'.js?v='+(window.MC_V||'');
+    s.onload=()=>window.MC_LV&&window.MC_LV[tid]?ok(window.MC_LV[tid]):ko(new Error('vide'));s.onerror=()=>{delete loading[tid];ko(new Error('réseau'))};document.head.appendChild(s)}));
+}
+function rawLevel(tid,m,n){const x=levels(tid,m)[n-1];return window.MC_LV[tid].L[m][x.d][x.i]}
+let W_,C_;
+function decode(mode,lv,T){W_=i=>T.A[i];C_=i=>i<0?'':T.C[i];
   if(mode==='cache'){const rows=lv[1].map(([w,c,p])=>({a:W_(w),clue:C_(c),p}));return{hid:{a:W_(lv[0][0]),clue:C_(lv[0][1])},rows,W:Math.max(...rows.map(x=>x.a.length))}}
   if(mode==='meles'){const N=lv[0],g=lv[1],grid=[];for(let r=0;r<N;r++)grid.push([...g.slice(r*N,r*N+N)]);
     return{N,grid,words:lv[2].map(([w,c,r,cc,dr,dc])=>({a:W_(w),clue:C_(c),r,c:cc,dr,dc}))}}
@@ -41,7 +49,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const fmtT=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
 const fmtN=n=>n.toLocaleString('fr-FR');
 const COST={letter:5,word:15};
-const P='mk:';
+const P='mk2:';
 const todayStr=(d=new Date())=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
 const lvKey=(mode,tid,n)=>mode+'-'+tid+'-'+n;
 function getMode(){const m=store.get(P+'mode','cache');return MODES[m]?m:'cache'}

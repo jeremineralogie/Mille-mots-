@@ -1,14 +1,20 @@
-// Génère toutes les grilles du jeu à partir de data/*.txt
-// Règle d'or : une même définition n'est jamais proposée plus de CAP fois dans l'ensemble du jeu.
+// Génère toutes les grilles du jeu.
+// Sources : data/<theme>.txt (définitions écrites à la main) + data/dico.tsv.gz (Wiktionnaire, CC BY-SA 4.0).
+// Règles :
+//   - un MOT n'apparaît qu'une seule fois dans tout le jeu (WORD_CAP), tous modes et thèmes confondus ;
+//   - une DÉFINITION n'est jamais affichée plus de CLUE_CAP fois ;
+//   - la difficulté suit la fréquence d'usage réelle du mot (Facile = mots courants).
 // Usage : node tools/build.mjs
 import fs from 'fs';
 import path from 'path';
+import zlib from 'zlib';
 import { fileURLToPath } from 'url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-const CAP = 3;              // utilisations maximales d'une définition, tous jeux confondus
-const MELES_WORD_CAP = 3;   // apparitions max d'un mot dans les mots mêlés sans définition
-const MAX_PER_SLOT = 80;    // grilles max par thème × mode × difficulté
+const WORD_CAP = 1;
+const CLUE_CAP = 3;
+const MAX_PER_SLOT = 6000;
+const FLECHE_MAXLEN = 70;     // définition affichable dans une case de mots fléchés
 
 const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toUpperCase().replace(/Œ/g, 'OE').replace(/Æ/g, 'AE').replace(/[^A-Z]/g, '');
 const clueKey = c => c.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
@@ -20,62 +26,116 @@ function shuffle(arr, r) { for (let i = arr.length - 1; i > 0; i--) { const j = 
 const THEMES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/themes.json'), 'utf8'));
 const byA = new Map();
 const warnings = [];
+const getW = a => { let w = byA.get(a); if (!w) { w = { a, clues: [], themes: new Set(), z: null, hand: false }; byA.set(a, w) } return w };
+const addClue = (w, c, where) => {
+  c = c.trim().replace(/\s+/g, ' '); if (!c) return;
+  if (w.clues.some(x => clueKey(x) === clueKey(c))) return;
+  const toks = clueKey(c).split(' ').map(norm);
+  if (toks.some(t => t === w.a || (w.a.length >= 4 && t.startsWith(w.a) && t.length <= w.a.length + 3))) { if (where) warnings.push(`${where} la définition contient la réponse : ${w.a} | ${c}`); return }
+  w.clues.push(c);
+};
+// 1. définitions écrites à la main (prioritaires)
 for (const t of THEMES) {
   const txt = fs.readFileSync(path.join(ROOT, 'data', t.id + '.txt'), 'utf8');
   txt.split('\n').forEach((line, ln) => {
     line = line.trim(); if (!line || line.startsWith('#')) return;
     const parts = line.split('|'); const a = norm(parts[0]);
     if (a.length < 3 || a.length > 13) { warnings.push(`${t.id}:${ln + 1} longueur ${a.length} : ${parts[0]}`); return }
-    let w = byA.get(a); if (!w) { w = { a, clues: [], themes: new Set() }; byA.set(a, w) }
-    w.themes.add(t.id);
-    for (let c of parts.slice(1)) {
-      c = c.trim().replace(/\s+/g, ' '); if (!c) continue;
-      if (w.clues.some(x => clueKey(x) === clueKey(c))) continue;
-      const toks = clueKey(c).split(' ').map(norm);
-      if (toks.some(t => t === a || (a.length >= 4 && t.startsWith(a) && t.length <= a.length + 3))) { warnings.push(`${t.id}:${ln + 1} la définition contient la réponse : ${a} | ${c}`); continue }
-      w.clues.push(c);
-    }
+    const w = getW(a); w.themes.add(t.id); w.hand = true;
+    parts.slice(1).forEach(c => addClue(w, c, `${t.id}:${ln + 1}`));
   });
 }
-const WORDS = [...byA.values()].filter(w => w.clues.length);
-WORDS.forEach((w, i) => w.id = i);
+// 2. dictionnaire importé (tools/import_dico.py)
+let dicoN = 0;
+const dicoPath = path.join(ROOT, 'data/dico.tsv.gz');
+if (fs.existsSync(dicoPath)) {
+  for (const line of zlib.gunzipSync(fs.readFileSync(dicoPath)).toString('utf8').split('\n')) {
+    if (!line) continue;
+    const [a, z, th, defs] = line.split('\t');
+    const w = getW(a); dicoN++;
+    w.z = Math.max(w.z ?? 0, +z);
+    if (!w.hand) th.split(',').forEach(x => w.themes.add(x));
+    else th.split(',').forEach(x => { if (x !== 'cg') w.themes.add(x) });
+    defs.split('|').forEach(c => addClue(w, c, null));
+  }
+}
+const WORDS = [...byA.values()].filter(w => w.clues.length && w.themes.size);
+WORDS.forEach((w, i) => { w.id = i; if (w.z == null) w.z = 3.6; w.tier = w.z >= 3.3 ? 0 : w.z >= 2.3 ? 1 : w.z >= 1 ? 2 : 3; w.short = Math.min(...w.clues.map(c => c.length)) });
 
 /* ---------- Compteurs globaux ---------- */
-const clueUse = new Map(); // clé normalisée -> nombre d'utilisations
+const clueUse = new Map();
+const wordUse = new Uint8Array(WORDS.length);
 const useOf = c => clueUse.get(clueKey(c)) || 0;
-const melesUse = new Map();
-const remaining = w => w.clues.reduce((s, c) => s + Math.max(0, CAP - useOf(c)), 0);
-const hasClue = w => w.clues.some(c => useOf(c) < CAP);
+const free = w => wordUse[w.id] < WORD_CAP && w.clues.some(c => useOf(c) < CLUE_CAP);
 
-function pickClue(w, r, opts = {}) {
-  const avail = w.clues.filter(c => useOf(c) < CAP && !(opts.taken && opts.taken.has(clueKey(c))));
+function pickClue(w, r, taken, short) {
+  let avail = w.clues.filter(c => useOf(c) < CLUE_CAP && !taken.has(clueKey(c)));
+  if (short) avail = avail.filter(c => c.length <= FLECHE_MAXLEN);
   if (!avail.length) return null;
   const mu = Math.min(...avail.map(useOf));
-  let best = avail.filter(c => useOf(c) === mu);
-  if (opts.short) { const ml = Math.min(...best.map(c => c.length)); best = best.filter(c => c.length <= ml + 6); best.sort((x, y) => x.length - y.length); return best[0] }
-  return best[Math.floor(r() * best.length)];
+  const best = avail.filter(c => useOf(c) === mu);
+  if (short) { best.sort((x, y) => x.length - y.length); return best[0] }
+  return w.hand ? best[0] : best[Math.floor(r() * Math.min(2, best.length))]; // les premières définitions sont les sens principaux
 }
-// Attribue une définition à chaque mot d'une grille (sans doublon dans la grille), ou échoue.
 function assignClues(list, r, short) {
   const taken = new Set(), out = [];
-  for (const w of list) { const c = pickClue(w, r, { taken, short }); if (!c) return null; taken.add(clueKey(c)); out.push(c) }
+  for (const w of list) { const c = pickClue(w, r, taken, short); if (!c) return null; taken.add(clueKey(c)); out.push(c) }
   return out;
 }
-function commit(clues) { for (const c of clues) { const k = clueKey(c); clueUse.set(k, (clueUse.get(k) || 0) + 1) } }
-
-// Sélection d'un vivier de candidats : privilégie les mots qui ont le plus de définitions encore disponibles
-function biasedPool(cand, r, n) {
-  return cand.map(w => ({ w, k: remaining(w) + r() * 4 })).sort((x, y) => y.k - x.k).slice(0, n).map(x => x.w);
+function commit(words, clues) {
+  for (const w of words) wordUse[w.id]++;
+  for (const c of clues) { if (!c) continue; const k = clueKey(c); clueUse.set(k, (clueUse.get(k) || 0) + 1) }
 }
 
+/* ---------- Viviers : par thème et par niveau, échantillonnés au hasard ---------- */
+const MIXT = { id: 'mix', name: 'Grand mélange', color: '#e0a21a' };
+const ALL = [MIXT, ...THEMES];
+const POOLS = {};
+for (const t of ALL) {
+  // les mots d'un thème lui sont réservés ; le Grand mélange et la Culture générale partagent le vocabulaire général
+  const ws = t.id === 'mix' ? WORDS.filter(w => w.themes.has('cg')) : WORDS.filter(w => w.themes.has(t.id));
+  POOLS[t.id] = [0, 1, 2, 3].map(d => ws.filter(w => w.tier === d));
+}
+// Pour un thème trop petit à un niveau, on complète avec le niveau voisin
+const POOLCACHE = new Map();
+function poolFor(tid, d) {
+  const k = tid + d; if (POOLCACHE.has(k)) return POOLCACHE.get(k);
+  const P = POOLS[tid]; let out = P[d];
+  if (out.length < 150) out = out.concat(...[d - 1, d + 1].filter(x => x >= 0 && x < 4).map(x => P[x]));
+  if (out.length < 150) out = P.flat();
+  POOLCACHE.set(k, out); return out;
+}
+// tire jusqu'à n mots libres satisfaisant le filtre, sans parcourir tout le vivier
+function sample(arr, n, r, ok) {
+  const out = [], seen = new Set(); let tries = 0;
+  const lim = Math.min(arr.length * 2, n * 30);
+  while (out.length < n && tries < lim) {
+    tries++; const w = arr[Math.floor(r() * arr.length)];
+    if (seen.has(w.id)) continue; seen.add(w.id);
+    if (free(w) && (!ok || ok(w))) out.push(w);
+  }
+  if (out.length < n && arr.length < 4000) { for (const w of arr) if (out.length < n && !seen.has(w.id) && free(w) && (!ok || ok(w))) out.push(w) }
+  return out;
+}
+
+// Candidats d'une grille thématique : d'abord les mots du thème, complétés par du vocabulaire général
+const FILLER = id => id !== 'mix' && id !== 'cg';
+function candidates(tid, d, n, r, ok, thMax = n) {
+  const th = sample(poolFor(tid, d), FILLER(tid) ? Math.min(n, thMax) : n, r, ok);
+  th.forEach(w => w._th = true);
+  if (!FILLER(tid) || th.length >= n) return th;
+  const fill = sample(POOLS.cg[d], n - th.length, r, ok); fill.forEach(w => w._th = false);
+  return th.concat(fill);
+}
+const themedEnough = (tid, words) => !FILLER(tid) || (() => { const k = words.filter(w => w._th).length; return k >= 3 && k >= words.length * .3 })();
+
 /* ---------- Mots croisés / fléchés ---------- */
-function buildLayout(words, r, maxSize, target, tries) {
+function buildLayout(cand, r, maxSize, target, tries) {
   let best = null;
-  const cand = words.filter(w => w.a.length <= maxSize);
   if (cand.length < 4) return null;
   for (let att = 0; att < tries; att++) {
-    const pool = shuffle(biasedPool(cand, r, Math.min(cand.length, 110)), r);
-    pool.sort((x, y) => (y.a.length - x.a.length) + (r() - .5) * 6);
+    const pool = shuffle(cand.slice(), r);
+    pool.sort((x, y) => ((y._th ? 1 : 0) - (x._th ? 1 : 0)) * 100 + (y.a.length - x.a.length) + (r() - .5) * 6);
     const g = new Map(), byL = {}, placed = [], used = new Set();
     let b = { r0: 0, r1: 0, c0: 0, c1: 0 };
     const put = (w, rr, cc, d) => {
@@ -126,7 +186,6 @@ function buildLayout(words, r, maxSize, target, tries) {
   }
   return best;
 }
-
 function finalize(best, fleche) {
   const entries = best.placed.map(p => ({ w: p.w, a: p.w.a, r: p.r, c: p.c, d: p.d }));
   let r0 = 1e9, c0 = 1e9, r1 = -1e9, c1 = -1e9;
@@ -142,159 +201,160 @@ function finalize(best, fleche) {
   for (let C = 0; C < W; C++) { let R = 0; while (R < H) { if (L[R][C]) { const s = R; while (R < H && L[R][C]) R++; if (R - s > 1) runs.add('D' + s + ',' + C) } else R++ } }
   const want = new Set(entries.map(e => e.d + e.r + ',' + e.c));
   if (runs.size !== want.size || [...runs].some(x => !want.has(x))) ok = false;
-  if (fleche) {
-    const qs = new Set();
-    entries.forEach(e => { const R = e.d === 'A' ? e.r : e.r - 1, C = e.d === 'A' ? e.c - 1 : e.c; if (R < 0 || C < 0 || L[R][C]) ok = false; qs.add(R + ',' + C) });
-  }
+  if (fleche) entries.forEach(e => { const R = e.d === 'A' ? e.r : e.r - 1, C = e.d === 'A' ? e.c - 1 : e.c; if (R < 0 || C < 0 || L[R][C]) ok = false });
   return { H, W, entries, ok };
 }
-
-const SIZES = { croises: [[9, 11], [11, 15], [13, 20]], fleches: [[9, 10], [10, 13], [11, 16]], meles: [[9, 8], [11, 11], [12, 14]] };
-// nombre minimal de mots pour qu'une grille soit retenue
-const MINW = { croises: [8, 10, 12], fleches: [6, 8, 8] };
-function genGrid(mode, pool, r, diff) {
-  const sz = SIZES[mode][diff], fl = mode === 'fleches';
-  const words = pool.filter(hasClue);
-  for (let k = 0; k < 6; k++) {
-    const best = buildLayout(words, r, fl ? sz[0] - 1 : sz[0], sz[1], 30); if (!best) return null;
-    if (best.placed.length < MINW[mode][diff]) continue;
+const SIZES = { croises: [[9, 11], [11, 15], [13, 20], [11, 15]], fleches: [[9, 10], [10, 13], [11, 16], [10, 13]], meles: [[9, 8], [11, 11], [12, 14], [11, 11]] };
+const MINW = { croises: [8, 10, 12, 9], fleches: [7, 8, 9, 7] };
+function genGrid(mode, tid, r, d) {
+  const sz = SIZES[mode][d], fl = mode === 'fleches', max = fl ? sz[0] - 1 : sz[0];
+  const P = poolFor(tid, d);
+  for (let k = 0; k < 5; k++) {
+    const cand = candidates(tid, d, 140, r, w => w.a.length <= max && (!fl || w.short <= FLECHE_MAXLEN), Math.ceil(sz[1] * .6));
+    const best = buildLayout(cand, r, max, sz[1], 16); if (!best) return null;
+    if (best.placed.length < MINW[mode][d]) continue;
     const g = finalize(best, fl); if (!g.ok) continue;
-    const clues = assignClues(g.entries.map(e => e.w), r, fl); if (!clues) continue;
-    return { level: { H: g.H, W: g.W, e: g.entries.map((e, i) => [e.w.id, clues[i], e.r, e.c, e.d === 'A' ? 0 : 1]) }, clues };
+    const words = g.entries.map(e => e.w); if (!themedEnough(tid, words)) continue;
+    const clues = assignClues(words, r, fl); if (!clues) continue;
+    return { words, clues, level: { H: g.H, W: g.W, e: g.entries.map((e, i) => [e.w, clues[i], e.r, e.c, e.d === 'A' ? 0 : 1]) } };
   }
   return null;
 }
 
 /* ---------- Mots mêlés ---------- */
 const FILL = 'EEEEEEEEAAAAAIIIIISSSSSNNNNNTTTTTRRRRRUUUULLLLOOOODDDCCCPPMMMVGFBHQXJYZK';
-function genMeles(pool, r, diff) {
-  const sz = SIZES.meles[diff], N = sz[0], target = sz[1], withClue = diff === 2;
-  const dirs = [[0, 1], [1, 0], [1, 1], [0, -1], [-1, 0], [-1, -1], [1, -1], [-1, 1]].slice(0, [3, 5, 8][diff]);
-  for (let att = 0; att < 6; att++) {
+function genMeles(tid, r, d) {
+  const sz = SIZES.meles[d], N = sz[0], target = sz[1], withClue = d >= 2;
+  const dirs = [[0, 1], [1, 0], [1, 1], [0, -1], [-1, 0], [-1, -1], [1, -1], [-1, 1]].slice(0, [3, 5, 8, 8][d]);
+  const P = poolFor(tid, d);
+  for (let att = 0; att < 5; att++) {
     const grid = Array.from({ length: N }, () => Array(N).fill(''));
-    let cand = pool.filter(w => w.a.length >= 4 && w.a.length <= N && (withClue ? hasClue(w) : (melesUse.get(w.id) || 0) < MELES_WORD_CAP));
-    cand = withClue ? biasedPool(cand, r, 60) : cand.map(w => ({ w, k: -(melesUse.get(w.id) || 0) * 3 + r() * 4 })).sort((x, y) => y.k - x.k).slice(0, 60).map(x => x.w);
-    cand = shuffle(cand, r).sort((a, b) => (b.a.length - a.a.length) + (r() - .5) * 8);
+    const cand = candidates(tid, d, 60, r, w => w.a.length >= 4 && w.a.length <= N, Math.ceil(target * .6)).sort((a, b) => ((b._th ? 1 : 0) - (a._th ? 1 : 0)) * 100 + (b.a.length - a.a.length) + (r() - .5) * 8);
     const placed = [];
     for (const w of cand) {
       if (placed.length >= target) break;
       if (placed.some(p => p.w.a.includes(w.a) || w.a.includes(p.w.a))) continue;
       for (let t = 0; t < 200; t++) {
-        const d = dirs[Math.floor(r() * dirs.length)], L = w.a.length;
-        const R0 = Math.floor(r() * N), C0 = Math.floor(r() * N), Re = R0 + d[0] * (L - 1), Ce = C0 + d[1] * (L - 1);
+        const dd = dirs[Math.floor(r() * dirs.length)], L = w.a.length;
+        const R0 = Math.floor(r() * N), C0 = Math.floor(r() * N), Re = R0 + dd[0] * (L - 1), Ce = C0 + dd[1] * (L - 1);
         if (Re < 0 || Re >= N || Ce < 0 || Ce >= N) continue;
-        let ok = true, ov = 0; for (let i = 0; i < L; i++) { const x = grid[R0 + d[0] * i][C0 + d[1] * i]; if (x && x !== w.a[i]) { ok = false; break } if (x) ov++ }
+        let ok = true, ov = 0; for (let i = 0; i < L; i++) { const x = grid[R0 + dd[0] * i][C0 + dd[1] * i]; if (x && x !== w.a[i]) { ok = false; break } if (x) ov++ }
         if (!ok || ov >= L - 1) continue;
-        for (let i = 0; i < L; i++)grid[R0 + d[0] * i][C0 + d[1] * i] = w.a[i];
-        placed.push({ w, r: R0, c: C0, dr: d[0], dc: d[1] }); break
+        for (let i = 0; i < L; i++)grid[R0 + dd[0] * i][C0 + dd[1] * i] = w.a[i];
+        placed.push({ w, r: R0, c: C0, dr: dd[0], dc: dd[1] }); break
       }
     }
     if (placed.length < target) continue;
     for (let R = 0; R < N; R++)for (let C = 0; C < N; C++)if (!grid[R][C]) grid[R][C] = FILL[Math.floor(r() * FILL.length)];
-    // Un mot ne doit apparaître qu'une fois dans la grille (sinon ambiguïté de sélection)
     const flat = grid.map(x => x.join(''));
     const count = a => { let n = 0; for (let R = 0; R < N; R++)for (let C = 0; C < N; C++)for (const [dr, dc] of [[0, 1], [1, 0], [1, 1], [-1, 1]]) { for (const s of [a, [...a].reverse().join('')]) { let ok = true; for (let i = 0; i < s.length; i++) { const rr = R + dr * i, cc = C + dc * i; if (rr < 0 || rr >= N || cc < 0 || cc >= N || flat[rr][cc] !== s[i]) { ok = false; break } } if (ok) n++ } } return n };
     if (placed.some(p => count(p.w.a) > (p.w.a === [...p.w.a].reverse().join('') ? 2 : 1))) continue;
     placed.sort((a, b) => a.w.a < b.w.a ? -1 : 1);
-    let clues = [];
-    if (withClue) { clues = assignClues(placed.map(p => p.w), r, false); if (!clues) continue }
-    else placed.forEach(p => melesUse.set(p.w.id, (melesUse.get(p.w.id) || 0) + 1));
-    return { level: { N, g: flat.join(''), w: placed.map((p, i) => [p.w.id, withClue ? clues[i] : '', p.r, p.c, p.dr, p.dc]) }, clues };
+    const words = placed.map(p => p.w); if (!themedEnough(tid, words)) continue;
+    let clues = words.map(() => '');
+    if (withClue) { clues = assignClues(words, r, false); if (!clues) continue }
+    return { words, clues, level: { N, g: flat.join(''), w: placed.map((p, i) => [p.w, clues[i], p.r, p.c, p.dr, p.dc]) } };
   }
   return null;
 }
 
 /* ---------- Mot caché ---------- */
-function genCache(pool, all, r, diff) {
-  const W = 11, lens = [[5, 6], [7, 8], [9, 10]][diff];
-  const fit = w => w.a.length >= lens[0] && w.a.length <= lens[1] && hasClue(w);
-  let src = pool.filter(fit); if (src.length < 3) src = all.filter(fit);
-  const local = pool.filter(hasClue), global = all.filter(hasClue);
-  for (let att = 0; att < 60; att++) {
-    const hid = biasedPool(src, r, 12)[Math.floor(r() * Math.min(12, src.length))]; if (!hid) return null;
+function genCache(tid, r, d) {
+  const lens = [[5, 6], [7, 8], [9, 10], [6, 9]][d];
+  const P = poolFor(tid, d), G = POOLS.mix[d];
+  for (let att = 0; att < 12; att++) {
+    const hid = sample(P, 1, r, w => w.a.length >= lens[0] && w.a.length <= lens[1])[0]; if (!hid) return null;
+    const local = sample(P, FILLER(tid) ? 45 : 700, r, w => w.a.length >= 4 && w.a.length <= 11 && w !== hid);
+    let global = null;
     const used = new Set([hid.a]), rows = []; let prev = 2 + Math.floor(r() * 3), ok = true;
     for (const L of hid.a) {
       let best = null, bs = -1e9;
       const tryList = (list, bonus) => {
         for (const w of list) {
-          const n = w.a.length; if (n < 4 || n > W || used.has(w.a) || hid.a.includes(w.a) || w.a.includes(hid.a)) continue;
-          for (let p = 1; p < n - 1; p++) { if (w.a[p] !== L) continue; const s = bonus - Math.abs(p - prev) * 2.2 + remaining(w) * .5 + r() * 3; if (s > bs) { bs = s; best = { w, p } } }
+          const n = w.a.length; if (used.has(w.a) || hid.a.includes(w.a) || w.a.includes(hid.a)) continue;
+          for (let p = 1; p < n - 1; p++) { if (w.a[p] !== L) continue; const s = bonus - Math.abs(p - prev) * 2.2 + r() * 3; if (s > bs) { bs = s; best = { w, p } } }
         }
       };
-      tryList(local, 8); if (!best || bs < 1) tryList(global, 0);
+      tryList(local, FILLER(tid) ? 3 : 8);
+      if (!best || bs < 1 || (FILLER(tid) && rows.filter(x => x.th).length >= Math.ceil(hid.a.length * .6))) { if (FILLER(tid) && best && rows.filter(x => x.th).length >= Math.ceil(hid.a.length * .6)) best = null, bs = -1e9; global = global || sample(POOLS.cg[d].length > 500 ? POOLS.cg[d] : G, 1500, r, w => w.a.length >= 4 && w.a.length <= 11 && w !== hid); tryList(global, 0) }
       if (!best) { ok = false; break }
-      used.add(best.w.a); rows.push(best); prev = best.p;
+      best.th = local.includes(best.w); used.add(best.w.a); rows.push(best); prev = best.p;
     }
     if (!ok) continue;
-    const clues = assignClues([hid, ...rows.map(x => x.w)], r, false); if (!clues) continue;
-    return { level: { h: [hid.id, clues[0]], rows: rows.map((x, i) => [x.w.id, clues[i + 1], x.p]) }, clues };
+    const words = [hid, ...rows.map(x => x.w)];
+    const clues = assignClues(words, r, false); if (!clues) continue;
+    return { words, clues, level: { h: [hid, clues[0]], rows: rows.map((x, i) => [x.w, clues[i + 1], x.p]) } };
   }
   return null;
 }
 
 /* ---------- Anagrammes ---------- */
-function genAna(pool, r, diff) {
-  const n = [5, 6, 7][diff], lens = [[4, 6], [6, 8], [8, 12]][diff];
-  const cand = pool.filter(w => w.a.length >= lens[0] && w.a.length <= lens[1] && hasClue(w) && new Set(w.a).size > 2);
-  if (cand.length < n) return null;
-  const pick = shuffle(biasedPool(cand, r, n * 3), r).slice(0, n).sort((a, b) => a.a.length - b.a.length || (a.a < b.a ? -1 : 1));
+function genAna(tid, r, d) {
+  const n = [5, 6, 7, 6][d], lens = [[4, 6], [6, 8], [8, 12], [5, 10]][d];
+  const pick = candidates(tid, d, n, r, w => w.a.length >= lens[0] && w.a.length <= lens[1] && new Set(w.a).size > 2, Math.ceil(n * .6))
+    .sort((a, b) => a.a.length - b.a.length || (a.a < b.a ? -1 : 1));
+  if (pick.length < n || !themedEnough(tid, pick)) return null;
   const clues = assignClues(pick, r, false); if (!clues) return null;
   const scr = pick.map(w => { let s; for (let t = 0; t < 30; t++) { s = shuffle([...w.a], r).join(''); if (s !== w.a) { let same = 0; for (let i = 0; i < s.length; i++)if (s[i] === w.a[i]) same++; if (same <= w.a.length / 3) break } } return s });
-  return { level: { w: pick.map((w, i) => [w.id, clues[i], scr[i]]) }, clues };
+  return { words: pick, clues, level: { w: pick.map((w, i) => [w, clues[i], scr[i]]) } };
 }
 
-/* ---------- Génération globale, en tourniquet pour répartir équitablement ---------- */
+/* ---------- Génération en tourniquet ---------- */
 const MODES = ['cache', 'croises', 'fleches', 'meles', 'ana'];
-const MIX = { id: 'mix', name: 'Grand mélange', color: '#e0a21a' };
-const ALL = [MIX, ...THEMES];
-const poolOf = id => id === 'mix' ? WORDS : WORDS.filter(w => w.themes.has(id));
-const pools = Object.fromEntries(ALL.map(t => [t.id, poolOf(t.id)]));
-const slots = [];
-for (const t of ALL) for (const m of MODES) for (let d = 0; d < 3; d++) slots.push({ t: t.id, m, d, fail: 0, out: [], done: false });
-// À chaque tour : les grilles les plus exigeantes se servent d'abord, le Grand mélange passe après les thèmes
 const PRIO = { croises: 0, fleches: 0, ana: 1, cache: 2, meles: 3 };
+const slots = [];
+for (const t of ALL) for (const m of MODES) for (let d = 0; d < 4; d++) slots.push({ t: t.id, m, d, fail: 0, out: [], done: false });
 slots.sort((x, y) => (x.t === 'mix') - (y.t === 'mix') || PRIO[x.m] - PRIO[y.m] || y.d - x.d);
-const t0 = Date.now();
-let round = 0;
+const t0 = Date.now(); let round = 0, total = 0;
 while (slots.some(s => !s.done)) {
   round++;
   for (const s of slots) {
     if (s.done) continue;
     const r = rng(hashStr(`${s.t}|${s.m}|${s.d}|${s.out.length}|${s.fail}`));
-    const pool = pools[s.t];
-    const res = s.m === 'cache' ? genCache(pool, WORDS, r, s.d) : s.m === 'meles' ? genMeles(pool, r, s.d) : s.m === 'ana' ? genAna(pool, r, s.d) : genGrid(s.m, pool, r, s.d);
-    if (res) { commit(res.clues); s.out.push(res.level); s.fail = 0; if (s.out.length >= MAX_PER_SLOT) s.done = true }
-    else if (++s.fail >= (s.m === 'croises' || s.m === 'fleches' ? 5 : 3)) s.done = true;
+    const res = s.m === 'cache' ? genCache(s.t, r, s.d) : s.m === 'meles' ? genMeles(s.t, r, s.d) : s.m === 'ana' ? genAna(s.t, r, s.d) : genGrid(s.m, s.t, r, s.d);
+    if (res) { commit(res.words, res.clues); s.out.push(res.level); total++; s.fail = 0; if (s.out.length >= MAX_PER_SLOT) s.done = true }
+    else if (++s.fail >= 4) { s.done = true; s.doneAt = round }
   }
+  if (round % 20 === 0) process.stderr.write(`tour ${round} · ${total} grilles · ${((Date.now() - t0) / 1000).toFixed(0)} s\n`);
 }
 
-/* ---------- Sérialisation compacte ---------- */
-const A = WORDS.map(w => w.a);
-const clueIdx = new Map(), C = [];
-const ci = c => { if (c === '') return -1; let i = clueIdx.get(c); if (i == null) { i = C.length; C.push(c); clueIdx.set(c, i) } return i };
-const L = {};
-let total = 0;
-for (const s of slots) {
-  const T = (L[s.t] = L[s.t] || {}), arr = (T[s.m] = T[s.m] || [[], [], []]);
-  arr[s.d] = s.out.map(lv => {
-    total++;
-    if (s.m === 'cache') return [[lv.h[0], ci(lv.h[1])], lv.rows.map(x => [x[0], ci(x[1]), x[2]])];
-    if (s.m === 'meles') return [lv.N, lv.g, lv.w.map(x => [x[0], ci(x[1]), x[2], x[3], x[4], x[5]])];
-    if (s.m === 'ana') return lv.w.map(x => [x[0], ci(x[1]), x[2]]);
-    return [lv.H, lv.W, lv.e.map(x => [x[0], ci(x[1]), x[2], x[3], x[4]])];
-  });
+if (process.env.DEBUG) for (const t of ALL) { const P = POOLS[t.id]; console.log('reste', t.id, P.map(x => x.length + ':' + x.filter(free).length).join(' '), 'fin au tour', Math.max(...slots.filter(x => x.t === t.id).map(x => x.doneAt || 0))) }
+/* ---------- Sérialisation : un fichier par thème, plus un index ---------- */
+const OUT = path.join(ROOT, 'docs/levels');
+fs.rmSync(OUT, { recursive: true, force: true }); fs.mkdirSync(OUT, { recursive: true });
+const counts = {};
+let size = 0;
+for (const t of ALL) {
+  const A = [], C = [], ai = new Map(), cm = new Map();
+  const wi = w => { let i = ai.get(w.id); if (i == null) { i = A.length; A.push(w.a); ai.set(w.id, i) } return i };
+  const ci = c => { if (!c) return -1; let i = cm.get(c); if (i == null) { i = C.length; C.push(c); cm.set(c, i) } return i };
+  const L = {}; counts[t.id] = {};
+  for (const m of MODES) {
+    L[m] = [0, 1, 2, 3].map(d => {
+      const s = slots.find(x => x.t === t.id && x.m === m && x.d === d);
+      return s.out.map(lv => {
+        if (m === 'cache') return [[wi(lv.h[0]), ci(lv.h[1])], lv.rows.map(x => [wi(x[0]), ci(x[1]), x[2]])];
+        if (m === 'meles') return [lv.N, lv.g, lv.w.map(x => [wi(x[0]), ci(x[1]), x[2], x[3], x[4], x[5]])];
+        if (m === 'ana') return lv.w.map(x => [wi(x[0]), ci(x[1]), x[2]]);
+        return [lv.H, lv.W, lv.e.map(x => [wi(x[0]), ci(x[1]), x[2], x[3], x[4]])];
+      });
+    });
+    counts[t.id][m] = L[m].map(a => a.length);
+  }
+  const f = path.join(OUT, t.id + '.js');
+  fs.writeFileSync(f, `(window.MC_LV=window.MC_LV||{})[${JSON.stringify(t.id)}]=` + JSON.stringify({ A, C, L }) + ';\n');
+  size += fs.statSync(f).size;
 }
-const out = { v: 1, cap: CAP, T: ALL.map(t => ({ id: t.id, name: t.name, color: t.color })), A, C, L };
-fs.mkdirSync(path.join(ROOT, 'docs'), { recursive: true });
-fs.writeFileSync(path.join(ROOT, 'docs/levels.js'), 'window.MC_DATA=' + JSON.stringify(out) + ';\n');
+const usedWords = [...wordUse].filter(x => x).length;
+const index = { v: 2, cap: CLUE_CAP, wordCap: WORD_CAP, T: ALL.map(t => ({ id: t.id, name: t.name, color: t.color })), counts, words: usedWords, clues: clueUse.size, total };
+fs.writeFileSync(path.join(OUT, 'index.js'), 'window.MC_INDEX=' + JSON.stringify(index) + ';\n');
 
 /* ---------- Rapport ---------- */
-const totalClues = WORDS.reduce((s, w) => s + w.clues.length, 0);
-const usedClues = [...clueUse.values()];
 const rep = [];
-rep.push(`Mots : ${WORDS.length} · définitions : ${totalClues} · grilles : ${total} · tours : ${round} · ${((Date.now() - t0) / 1000).toFixed(1)} s`);
-rep.push(`Définitions utilisées : ${usedClues.length} · max d'utilisations d'une définition : ${Math.max(...usedClues)} · moyenne : ${(usedClues.reduce((a, b) => a + b, 0) / usedClues.length).toFixed(2)}`);
-for (const t of ALL) rep.push(`${t.id.padEnd(6)} ` + MODES.map(m => `${m}:${L[t.id][m].map(a => a.length).join('/')}`).join('  '));
-if (warnings.length) rep.push(`\n${warnings.length} avertissement(s) :\n` + warnings.slice(0, 60).join('\n'));
+rep.push(`Mots disponibles : ${WORDS.length} (dont ${dicoN} issus du dictionnaire) · définitions : ${WORDS.reduce((s, w) => s + w.clues.length, 0)}`);
+rep.push(`Grilles : ${total} · mots utilisés : ${usedWords} · définitions affichées : ${clueUse.size} · tours : ${round} · ${((Date.now() - t0) / 1000).toFixed(0)} s`);
+rep.push(`Max utilisations d'un mot : ${Math.max(...wordUse)} · d'une définition : ${Math.max(...clueUse.values())}`);
+for (const t of ALL) rep.push(`${t.id.padEnd(6)} ` + MODES.map(m => `${m}:${counts[t.id][m].join('/')}`).join('  '));
+if (warnings.length) rep.push(`\n${warnings.length} avertissement(s) :\n` + warnings.slice(0, 40).join('\n'));
+rep.push(`docs/levels : ${(size / 1024 / 1024).toFixed(1)} Mo`);
 console.log(rep.join('\n'));
-console.log(`levels.js : ${(fs.statSync(path.join(ROOT, 'docs/levels.js')).size / 1024).toFixed(0)} Ko`);

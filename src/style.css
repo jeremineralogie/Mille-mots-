@@ -272,3 +272,7 @@ svg{display:block}
 .qt{overflow-wrap:break-word;word-break:normal;-webkit-hyphens:auto;hyphens:auto;font-size:max(7.5px,calc(var(--cs)*.2));line-height:1.04}
 .qq{padding:1px calc(var(--cs)*.14) 1px 2px}
 .qq:has(.ar.D){padding:1px 2px calc(var(--cs)*.13)}
+
+.lv .more{margin-top:12px;width:100%}
+.loading{padding:60px 16px;text-align:center;font-family:var(--display);font-size:20px;color:var(--muted);display:grid;gap:14px;justify-items:center}
+.foot a{color:var(--gold)}

@@ -12,13 +12,13 @@ const port=srv.address().port;
   if(SHOT)await p.screenshot({path:SHOT+'/home.png',fullPage:true});
   const results=[];
   const theme=process.env.THEME||'geo';
-  for(const [mode,diff] of [['cache',0],['croises',1],['fleches',0],['meles',0],['meles',2],['ana',1],['croises',2],['fleches',2]]){
+  for(const [mode,diff] of [['cache',0],['croises',1],['fleches',0],['meles',0],['meles',2],['ana',1],['croises',2],['fleches',2],['cache',3],['ana',3]]){
     const n=await p.evaluate(([t,m,d])=>{const L=levels(t,m);const i=L.findIndex(x=>x.d===d);return i+1},[theme,mode,diff]);
     if(!n){results.push(`${mode}/${diff} : aucune grille`);continue}
     await p.evaluate(([m,t,n])=>{store.set(P+'mode',m);openLevel(m,themeById(t),n)},[mode,theme,n]);
     await p.waitForSelector('.play');await p.waitForTimeout(150);
     if(SHOT)await p.screenshot({path:`${SHOT}/${mode}-${diff}.png`});
-    const lv=await p.evaluate(([t,m,n])=>decode(m,levels(t,m)[n-1].lv),[theme,mode,n]);
+    const lv=await p.evaluate(async([t,m,n])=>{await loadTheme(t);return decode(m,rawLevel(t,m,n),MC_LV[t])},[theme,mode,n]);
     const t0=Date.now();
     if(mode==='cache'){for(let r=0;r<lv.rows.length;r++){await p.click(`.crow[data-r="${r}"] .t[data-k="${r},0"]`);for(const ch of lv.rows[r].a)await p.click(`#kbd button[data-k="${ch}"]`)}}
     else if(mode==='croises'||mode==='fleches'){for(const e of lv.entries){const k=e.r+','+e.c;
@@ -35,7 +35,7 @@ const port=srv.address().port;
         for(const ch of w.a){const j=[...w.s].findIndex((c,j)=>c===ch&&!used.has(j));used.add(j);await p.click(`.lt[data-j="${j}"]`)}}}
     const win=await p.waitForSelector('.sheet:not([hidden]) .win',{timeout:3000}).then(()=>true).catch(()=>false);
     if(SHOT&&win)await p.screenshot({path:`${SHOT}/${mode}-${diff}-win.png`});
-    results.push(`${mode.padEnd(8)} ${['facile','moyen','difficile'][diff].padEnd(9)} grille ${n} : ${win?'GAGNÉE':'ÉCHEC'} (${Date.now()-t0} ms)`);
+    results.push(`${mode.padEnd(8)} ${['facile','moyen','difficile','expert'][diff].padEnd(9)} grille ${n} : ${win?'GAGNÉE':'ÉCHEC'} (${Date.now()-t0} ms)`);
     await p.evaluate(()=>renderHome());
   }
   // défi du jour
