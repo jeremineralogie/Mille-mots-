@@ -238,7 +238,7 @@ svg{display:block}
 .cl li.ok span{color:var(--muted);text-decoration:line-through}
 @media (max-height:700px){.kr button{height:42px}.cluebar{min-height:52px}.cb-t{font-size:15px}.play .banner .title{font-size:24px}.mystery .m-w i{height:22px;width:20px;font-size:14px}}
 @media (prefers-reduced-motion:reduce){.t.m.hint{animation:none}}
-/* --- ajouts Mille Cases 2 --- */
+/* --- ajouts Ricktionnaire 2 --- */
 .modes button:last-child:nth-child(odd){grid-column:1/-1}
 @media (min-width:700px){.modes:not(.mini){grid-template-columns:repeat(5,minmax(0,1fr))}.modes:not(.mini) button:last-child{grid-column:auto}}
 .modes.mini{display:flex;overflow-x:auto;gap:8px;padding:2px 2px 8px;scrollbar-width:none;-webkit-overflow-scrolling:touch}

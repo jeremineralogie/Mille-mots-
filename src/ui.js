@@ -10,8 +10,7 @@ function renderHome(){
   const dateLbl=new Date().toLocaleDateString('fr-FR',{weekday:'long',day:'numeric',month:'long'});
   app.innerHTML=`
   <header class="home-top"><div class="pills">${pills()}</div>
-    <h1 class="logo"><span>Mille</span><span>Cases</span></h1>
-    <p class="tag">${fmtN(TOTAL)} grilles · ${fmtN(WORDS_TOTAL)} mots · ${THEMES.length} thèmes · 5 façons de jouer</p></header>
+    <h1 class="logo"><span>Rick</span><span>tionnaire</span></h1></header>
   <button class="daily${dDone?' done':''}" id="daily" style="--c:${dT.color}">${DECO}
     <span class="d-k">Défi du jour · ${esc(dateLbl)}</span>
     <span class="d-t">${esc(dT.name)}</span>
@@ -21,14 +20,7 @@ function renderHome(){
   <div class="row-h"><h2>Thèmes</h2><button class="chip" id="rand">Au hasard</button></div>
   <div class="themes">${ALLTHEMES.map(t=>{const L=levelsOf(t.id,mode),c=counts[t.id]||0;return `<button class="th${t.id==='mix'?' mix':''}" data-t="${t.id}" style="--c:${colorOf(t)}"${L?'':' disabled'}>${DECO}
       <span class="th-n">${esc(t.name)}</span>
-      <span class="th-bar"><span style="width:${L?(100*c/L).toFixed(1):0}%"></span><em>${c} / ${L}</em></span></button>`}).join('')}</div>
-  <details class="install"><summary>Installer sur l'écran d'accueil</summary>
-    <div class="inst-g">
-      <div><h3>iPhone</h3><ol><li>Ouvrez cette page dans Safari.</li><li>Touchez le bouton Partager (carré avec une flèche).</li><li>Choisissez « Sur l'écran d'accueil ».</li></ol></div>
-      <div><h3>Android</h3><ol><li>Ouvrez cette page dans Chrome.</li><li>Touchez le menu ⋮ en haut à droite.</li><li>Choisissez « Ajouter à l'écran d'accueil ».</li></ol></div></div>
-    <p class="fine">Une fois installée, l'application fonctionne sans connexion. Pièces et progression restent enregistrées sur cet appareil.</p></details>
-  <p class="fine foot">Chaque mot n'apparaît qu'une seule fois dans tout le jeu : jamais deux fois le même. Chaque grille gagnée rapporte des pièces, à dépenser en indices. Réponses sans accents ni traits d'union.</p>
-  <p class="fine foot">Définitions issues du <a href="https://fr.wiktionary.org/" target="_blank" rel="noopener">Wiktionnaire</a> (CC BY-SA 4.0), via le jeu de données libre verbarium/french-dictionary ; fréquences Lexique 3.83 et wordfreq.</p>`;
+      <span class="th-bar"><span style="width:${L?(100*c/L).toFixed(1):0}%"></span><em>${c} / ${L}</em></span></button>`}).join('')}</div>`;
   app.querySelectorAll('.modes button').forEach(b=>b.onclick=()=>{store.set(P+'mode',b.dataset.m);renderHome()});
   app.querySelectorAll('.th').forEach(b=>b.onclick=()=>renderTheme(b.dataset.t));
   app.querySelector('#daily').onclick=()=>openLevel(dl.mode,dT,dl.n,true);

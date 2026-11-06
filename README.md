@@ -1,4 +1,4 @@
-# Mille Cases
+# Ricktionnaire
 
 Jeu de lettres en français, jouable sur téléphone et installable comme une application (fonctionne hors connexion).
 
