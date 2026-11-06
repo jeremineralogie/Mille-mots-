@@ -113,3 +113,28 @@ TROPICALE|Nuit ___ : trop chaude|Forêt ___|Chaleur moite|Région ___
 PLASTIQUE|Matière qui pollue les océans|Explosif malléable|Beauté physique|Arts ___
 ELECTEUR|Il glisse un bulletin|Votant|Citoyen inscrit|Membre du corps électoral
 DEPUTE|Élu de l'Assemblée|Parlementaire|Il siège au Palais-Bourbon|Représentant d'une circonscription
+# --- mots ajoutés (v3) ---
+CARBONE|Bilan ___|Empreinte ___|Taxe ___|Neutralité ___
+NUCLEAIRE|Énergie des centrales|Armes atomiques|Famille ___ : parents et enfants|Énergie de fission
+SECHERESSE|Manque d'eau|Restrictions d'arrosage|Sol craquelé|Aridité
+INONDATION|Crue|Débordement|Déluge local|Vigilance rouge pluie-___
+TEMPETE|Ciaran en fut une en 2023|Vent violent|Une ___ dans un verre d'eau|Tourmente
+INCENDIES|Feux de forêt|Ils ravagèrent le Canada en 2023|Sinistres|Pompiers mobilisés
+ZADISTE|Militant de Notre-Dame-des-Landes|Occupant d'une zone à défendre|Opposant aux grands projets|Militant des bassines
+GILETJAUNE|Manifestant de 2018|Il occupait les ronds-points|Porteur du vêtement fluo|Révolte contre la taxe carbone
+MANIF|Défilé de rue|Cortège syndical|Rassemblement de protestation|Manifestation, en court
+SONDAGE|Enquête d'opinion|Ifop ou Ipsos|Forage|Coup de sonde
+CANDIDAT|Prétendant à l'élection|Postulant|Il passe un examen|Il fait campagne
+MACRON|Président élu en 2017|Emmanuel d'Amiens|Fondateur d'En marche|Signe sur une voyelle longue
+ELYSEE|Palais du chef de l'État|Champs mythiques|Ses jardins s'ouvrent aux journées du patrimoine|Faubourg Saint-Honoré
+OTAN|Alliance atlantique|NATO en anglais|Elle a son siège à Bruxelles|Organisation née en 1949
+GAZA|Bande côtière|Territoire palestinien|Ville de la Méditerranée orientale|Zone de conflit depuis 2023
+ZELENSKY|Président ukrainien|Ancien comédien|Volodymyr|Chef de guerre en t-shirt kaki
+TIKTOK|Réseau de vidéos courtes|Application chinoise|Plateforme des danses virales|Tic-tac en anglais
+INSTAGRAM|Réseau des photos carrées|Insta|Il appartient à Meta|Plateforme des stories
+MUSK|Elon de Tesla|Patron de SpaceX|Propriétaire de X|Parfum animal
+NETFLIX|Plateforme de séries|Service de streaming|Il a produit Squid Game|N rouge
+VAPOTEUSE|Cigarette électronique|E-cigarette|Puff, par exemple|Elle produit des volutes
+FASTFASHION|Mode jetable|Shein en est l'emblème|Vêtements vite produits|Mode à bas prix et polluante
+INFOX|Fake news|Fausse nouvelle|Désinformation|Intox
+TRUMP|Donald, président américain|Atout en anglais|Magnat de l'immobilier|Il fut élu en 2016 et 2024

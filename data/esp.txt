@@ -122,3 +122,29 @@ ALIEN|Extraterrestre|Film de Ridley Scott|Étranger en anglais|Petit homme vert
 OVNI|Objet volant non identifié|Soucoupe volante|UFO|Chose étrange
 PLANETARIUM|Théâtre du ciel|Dôme d'étoiles projetées|Celui de la Villette|Salle de démonstration astronomique
 TELESCOPE|Celui de Webb voit l'infrarouge|Réflecteur|Instrument à miroir|Il observe les galaxies lointaines
+# --- mots ajoutés (v3) ---
+ASTRE|Corps céleste|Le Soleil en est un|Bel ___ : beau garçon, ironiquement|Étoile ou planète
+CIEL|Voûte céleste|Paradis|Bleu ___|Juste ___ !
+ESPACE|Cosmos|Étendue|Touche du clavier|Il est vital
+VIDE|Néant spatial|Vacuum|Faire le ___|Sans contenu
+ORBITAL|Relatif à une orbite|Station ___|Vol ___|Satellite en mouvement
+CAPSULE|Module spatial|Bouchon de bouteille|Gélule|Celle de café
+MODULE|Élément de station|Partie d'un programme|Partie d'un vaisseau|Unité de formation
+LUNAIRE|Rêveur|Paysage ___|Mois ___|Relatif à la Lune
+SOLAIRE|Vent ___|Système ___|Énergie ___|Cadran ___
+AURORE|Celle boréale|Lever du jour|Prénom matinal|Déesse de l'aube
+BOREALE|Aurore du Nord|Septentrionale|Forêt ___|Hémisphère nord
+METEORE|Étoile filante|Phénomène atmosphérique|Carrière fulgurante|Les ___ de Grèce
+POUSSIERE|Celle d'étoiles|Particules fines|Mordre la ___|Grain de ___
+QUASAR|Noyau galactique lumineux|Astre lointain très brillant|Radiosource quasi stellaire|Monstre cosmique
+PULSAR|Étoile à neutrons tournante|Phare cosmique|Signal régulier venu des étoiles|Il émet des impulsions
+VOYAGER|Sonde lancée en 1977|Elle a quitté le système solaire|Partir à l'étranger|Elle porte un disque d'or
+CURIOSITY|Rover de 2012|Explorateur du cratère Gale|Curiosité en anglais|Robot martien
+ROSETTA|Sonde de la comète Tchouri|Pierre de déchiffrage|Mission européenne|Elle largua Philae
+CNES|Agence spatiale française|Centre de Toulouse|Il gère Kourou|Sigle du spatial français
+ESA|Agence spatiale européenne|Elle exploite Ariane|Siège à Paris|Agence de Thomas Pesquet
+SPACEX|Entreprise d'Elon Musk|Fabricant de Falcon 9|Elle récupère ses fusées|Capsule Dragon
+LANCEUR|Fusée porteuse|Celui de javelot|Engin à étages|Ariane 6 en est un
+DECOLLAGE|Lift-off|Départ de la fusée|Envol|Début de croissance
+ALUNIR|Se poser sur la Lune|Atterrir sur la Lune|Ce que fit Apollo 11|Toucher le sol lunaire
+GRAVITATION|Attraction universelle|Loi de Newton|Force des astres|Pesanteur cosmique

@@ -120,3 +120,30 @@ GENDARME|Militaire de la sécurité|Hareng saur|Il fait la loi à Saint-Tropez|P
 HUISSIER|Il signifie les actes|Commissaire de justice|Il saisit les biens|Appariteur
 ASTRONOME|Il observe les étoiles|Copernic en était un|Il travaille la nuit|Savant de l'Observatoire
 FERMIER|Exploitant agricole|Le ___ général percevait les impôts|Œuf de ___|Homme de la ferme
+# --- mots ajoutés (v3) ---
+CHEF|Patron|Couvre-___|___ d'orchestre|___ d'œuvre
+JOCKEY|Cavalier de course|Disc-___|Il porte une casaque|Léger cavalier
+CLOWN|Auguste ou blanc|Pitre|Artiste au nez rouge|Faire le ___
+MIME|Marceau en était un|Artiste muet|Il imite|Pantomime
+DOCKER|Débardeur|Ouvrier du port|Il charge les navires|Manutentionnaire portuaire
+MINEUR|Ouvrier du fond|Moins de 18 ans|Gueule noire|Ton ___
+PILOTE|Commandant de bord|Coureur automobile|Guide de port|Projet test
+MANNEQUIN|Top model|Silhouette de vitrine|Buste de la couturière|Elle défile
+STYLISTE|Créateur de mode|Il dessine les collections|Coloriste en coiffure|Couturier
+TAXI|Chauffeur de VTC, presque|Voiture de location|Il attend à la station|Véhicule de New York à damier
+CONCIERGE|Gardien d'immeuble|Pipelette|Il distribue le courrier|Clefs d'Or d'hôtel
+FACTRICE|Postière|Elle distribue le courrier|Elle sonne deux fois|Distributrice de lettres
+EBOUEUR|Il ramasse les poubelles|Agent de propreté|Il passe à l'aube|Rippeur
+COUVREUR|Il pose les tuiles|Artisan des toits|Zingueur cousin|Il travaille en hauteur
+CARRELEUR|Il pose le carrelage|Artisan des sols|Faïencier|Il manie la spatule crantée
+PLATRIER|Plaquiste|Il enduit les murs|Artisan du staff|Il lisse les cloisons
+VITRIER|Il pose les carreaux|Artisan du verre|Il crie dans la rue, autrefois|Miroitier
+LIBRAIRE|Marchand de livres|Il conseille les lectures|Commerce de quartier|Bouquiniste
+OPTICIEN|Il vend des lunettes|Artisan des verres|Il mesure la vue|Lunetier
+KINE|Kinésithérapeute|Il masse|Rééducateur|Il soigne les entorses
+SAGEFEMME|Elle fait accoucher|Maïeuticienne|Elle suit la grossesse|Accoucheuse
+NOTAIRE|Il lit le testament|Officier ministériel|Il authentifie|Clerc de ___
+MAGISTRAT|Juge ou procureur|Haut fonctionnaire de justice|Il porte une robe|Il siège au parquet
+ARTISAN|Travailleur manuel indépendant|Celui de son propre malheur|Il a un savoir-faire|Commerçant-___
+OUVRIER|Travailleur manuel|Prolétaire|Classe ___|Abeille ___
+STAGIAIRE|Apprenti en entreprise|Il fait les photocopies|Élève en stage|Débutant

@@ -120,3 +120,29 @@ TOURDEFRANCE|Grande Boucle|Course de juillet|Il finit sur les Champs-Élysées|�
 DOPAGE|Triche aux produits|Il fait l'objet de contrôles|Affaire Festina|Usage d'EPO
 SURF|Glisse sur les vagues|Sport de Biarritz|Navigation sur Internet|Planche et océan
 ESCALADE|Grimpe|Hausse rapide, comme celle des prix|Sport de Janja Garnbret|Ascension d'un mur
+# --- mots ajoutés (v3) ---
+BUT|Objectif|Cage du gardien|Marquer un ___|Ligne de ___
+SET|Manche au tennis|Napperon individuel|Balle de ___|Six jeux gagnés
+FILET|Il sépare les camps|Morceau de bœuf|Celui de pêche|Un ___ de citron
+RAQUETTE|Outil du joueur de tennis|Chaussure de neige|Extorsion|Cordage tendu
+BALLON|Il est rond ou ovale|Montgolfière|Verre à vin|___ d'or
+TATAMI|Tapis de judo|Natte japonaise|Surface des arts martiaux|Il couvre le dojo
+RING|Arène de boxe|Il a des cordes|Monter sur le ___|Bague en anglais
+JUDOKA|Teddy Riner en est un|Pratiquant du judo|Ceinture noire possible|Combattant en kimono
+SKI|Sport de glisse|Alpin ou de fond|Station de ___|Spatule et fixation
+LUGE|Petit traîneau|Bobsleigh solo|Glissade sur le ventre|Course sur piste glacée
+BOBSLEIGH|Traîneau à quatre|Rasta Rocket le popularisa|Engin de piste glacée|Bob
+TOUCHE|Sortie de balle latérale|Elle frappe au piano|Assise en escrime|Pierre de ___
+DRAPEAU|Celui à damier|Il se lève pour le hors-jeu|Couleurs nationales|Fanion de golf
+CHRONO|Contre-la-montre|Temps mesuré|Montre de précision|Abréviation de chronomètre
+FINALE|Dernier match|Dernière syllabe|Fin d'opéra|Coupe en jeu
+DERBY|Match entre voisins|Course hippique anglaise|Chaussure basse|PSG-OM, en quelque sorte
+SUPPORTER|Fan d'une équipe|Endurer|Il chante dans les tribunes|Ultra
+TRIBUNE|Gradins|Article d'opinion|Estrade d'orateur|Place assise du stade
+VESTIAIRE|Lieu où l'on se change|Parler dans le ___|Consigne de théâtre|Lieu de la causerie de mi-temps
+DOSSARD|Numéro du coureur|Plastron cousu|Il est épinglé au maillot|Identifiant de marathon
+MAILLOT|Celui jaune|Tenue de bain|Il porte un numéro|Celui à pois
+ETAPE|Partie du Tour|Halte|Stade d'un projet|Brûler les ___
+COL|Celui du Tourmalet|Partie de chemise|Passage en montagne|___ blanc : employé de bureau
+SPRINTEUR|Coureur de vitesse|Spécialiste du 100 mètres|Il gagne au finish|Cavendish en était un
+ESTAFETTE|Coureur de relais|Messager militaire|Renault fourgonnette|Porteur de dépêches

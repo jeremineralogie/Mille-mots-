@@ -115,3 +115,25 @@ SARDOU|Michel des Lacs du Connemara|Chanteur des Ricains|Interprète de En chant
 AYA|Prénom d'une chanteuse de Djadja|Nakamura, de son prénom|Prénom d'origine japonaise|Prénom chanté aux JO de 2024
 ZIDANE|Zizou des Bleus|Ballon d'or 1998|Marseillais de la Castellane
 OMARSY|Acteur de Lupin|Star d'Intouchables|César du meilleur acteur 2012|Comparse de Fred Testot
+# --- mots ajoutés (v3) ---
+JUL|Rappeur marseillais aux records|Interprète de Tchikita|Auteur de On m'appelle l'ovni|Marseillais aux disques de platine
+ORELSAN|Rappeur caennais|Interprète de Basique|Aurélien Cotentin|Auteur de La fête est finie
+VIANNEY|Interprète de Je te déteste|Chanteur à guitare|Auteur de Pas là|Bertignac l'a produit
+GIMS|Maître ___|Interprète de Sapés comme jamais|Ex de Sexion d'Assaut|Rappeur aux lunettes noires
+SOPRANO|Rappeur marseillais du Corbeau|Voix aiguë|Interprète de Clown|Coach de The Voice
+CLARALUCIANI|Interprète de La Grenade|Chanteuse de Martigues|Voix de Nue|Victoire de la Musique 2019
+MYLENE|Prénom de Farmer|Prénom de Demongeot|Prénom d'une égérie des années 80|Prénom féminin rare
+ZAZ|Interprète de Je veux|Chanteuse à la voix éraillée|Isabelle Geffroy|Tournée aux mille scènes
+MARCEAU|Sophie de La Boum|Marcel, mime|Général révolutionnaire|Actrice de Braveheart
+NINEY|Pierre d'Yves Saint Laurent|Acteur de OSS 117 : Alerte rouge|Comte de Monte-Cristo en 2024|Sociétaire de la Comédie-Française
+SEYDOUX|Léa de La Vie d'Adèle|Actrice de James Bond|Héritière de Pathé|Palme d'or 2013
+RENAUD|Chanteur de Mistral gagnant|Auteur de Laisse béton|Le chanteur énervant|Interprète de Dès que le vent soufflera
+CABREL|Francis d'Astaffort|Interprète de Je l'aime à mourir|Chanteur moustachu|Auteur de Petite Marie
+GOLDMAN|Personnalité préférée des Français|Auteur d'Encore un matin|Interprète de Là-bas|Auteur de la chanson des Restos du cœur
+TRAVOLTA|John de Grease|Danseur de La Fièvre du samedi soir|Vincent Vega|Acteur de Pulp Fiction
+SPEARS|Britney de Toxic|Pop star de Baby One More Time|Ancienne du Mickey Mouse Club|Lance en anglais
+PRESLEY|Elvis le pelvis|Le King|Interprète de Jailhouse Rock|Résident de Graceland
+BIEBER|Justin de Baby|Pop star canadienne|Idole des Beliebers|Interprète de Sorry
+MANAUDOU|Laure, nageuse dorée|Florent, frère sprinteur|Famille de la natation française|Championne olympique 2004
+PARKER|Sarah Jessica de Sex and the City|Charlie Bird, saxophoniste|Stylo-plume|Colonel, manager d'Elvis
+LADYGAGA|Interprète de Shallow|Stefani Germanotta|Robe de viande|Star de A Star Is Born

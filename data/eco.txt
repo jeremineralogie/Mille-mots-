@@ -123,3 +123,31 @@ EURO|Devise de vingt pays|Monnaie de la BCE|Pièce de deux couleurs|Billet de ci
 ACTIONNAIRE|Porteur de titres|Associé d'une société anonyme|Il touche des dividendes|Propriétaire de parts
 DIVIDENDE|Part de bénéfice|Revenu d'action|Nombre qu'on divise|Rémunération de l'actionnaire
 RECESSION|Baisse de l'activité|Crise économique|Croissance négative|Ralentissement prolongé
+# --- mots ajoutés (v3) ---
+ETAT|Nation organisée|Coup d'___|Condition|___ des lieux
+NATION|Peuple et territoire|Place parisienne|Peuple souverain|Hymne de la ___
+VOTE|Scrutin|Bulletin dans l'urne|Droit de ___|___ blanc
+URNE|Boîte du scrutin|Vase funéraire|Aller aux ___s|Réceptacle électoral
+ISOLOIR|Cabine électorale|Rideau du bureau de vote|Lieu du choix secret|Il garantit le secret
+MAIRE|Premier magistrat de la commune|Il marie|Écharpe tricolore|Élu municipal
+CONSEIL|Avis|Recommandation|___ des ministres|Assemblée délibérante
+LOIS|Règles votées|Ensemble législatif|Prénom de la fiancée de Superman|Codes
+JUSTICE|Vertu|Institution judiciaire|Palais de ___|Rendre ___
+TRIBUNAL|Cour|Juridiction|Celui de commerce|Il juge
+PRIX|Coût|Récompense|À tout ___|___ Nobel
+MARGE|Bénéfice commercial|Bord de page|Vivre en ___|Latitude
+TAUX|Pourcentage|___ d'intérêt|___ de chômage|Ratio
+INTERET|Attrait|Rémunération du prêt|___ général|Avantage
+PRET|Emprunt|Disposé|Somme avancée|Emprunt bancaire
+LOYER|Prix de la location|Il se paie chaque mois|Bail|Quittance
+BAIL|Contrat de location|Ça fait un ___ : longtemps|Location contractuelle|Durée locative
+SALARIE|Employé|Il touche un salaire|Il a un contrat de travail|Personnel
+CADRE|Encadrant d'entreprise|Bordure de tableau|Contexte|___ de vie
+GREVISTE|Celui qui débraye|Piquet de grève|Manifestant syndical|Il cesse le travail
+SECU|Sécurité sociale|Carte Vitale|Assurance maladie|Trou de la ___
+RETRAITE|Pension|Âge légal de départ|Battre en ___|Fin de carrière
+BOURSIER|Étudiant aidé|Agent de change|Relatif à la Bourse|Indice ___
+CAC|Indice de la Bourse de Paris|___ 40|Commissaire aux comptes|Il cote quarante valeurs
+EUROPE|Union de vingt-sept pays|Vieux Continent|Radio ___ 1|Princesse enlevée
+SCHENGEN|Espace de libre circulation|Village luxembourgeois|Accords de 1985|Frontières ouvertes
+COMMISSION|Pourcentage de l'intermédiaire|Pourboire de l'agent|Course à faire|Groupe d'étude

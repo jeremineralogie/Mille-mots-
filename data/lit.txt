@@ -123,3 +123,32 @@ POIROT|Hercule, détective belge|Héros d'Agatha Christie|Ses petites cellules g
 MAIGRET|Commissaire de Simenon|Il fume la pipe|Policier du Quai des Orfèvres|Jules, enquêteur
 LUPIN|Arsène, gentleman cambrioleur|Héros de Maurice Leblanc|Plante à fleurs en épis|Ennemi d'Herlock Sholmès
 ACADEMIE|Celle française compte quarante membres|Les Immortels y siègent|École de Platon|Circonscription scolaire
+# --- mots ajoutés (v3) ---
+LIVRE|Ouvrage relié|Il a des pages|___ de poche|Bouquin
+AUTEUR|Écrivain|Responsable d'un acte|Droits d'___|Créateur d'une œuvre
+VERS|Ligne de poème|Alexandrin, par exemple|Rime de fin de ___|En direction de
+PROSE|Langage sans vers|M. Jourdain en faisait sans le savoir|Style d'écriture courant|Texte non versifié
+ODE|Poème lyrique|Celle à la joie|Poème de Ronsard|Chant d'éloge
+ELEGIE|Poème plaintif|Chant de deuil|Lamentation lyrique|Genre mélancolique
+SATIRE|Critique moqueuse|Pamphlet|Œuvre de Juvénal|Charge comique
+ESSAI|Ouvrage de Montaigne|Texte de réflexion|Tentative|Coup d'___
+RECIT|Histoire racontée|Narration|Conte ou nouvelle|Relation des faits
+INTRIGUE|Trame d'un roman|Machination|Elle se noue et se dénoue|Curiosité éveillée
+HEROS|Personnage principal|Le ___ du jour|Achille en est un|Sauveur
+MOLIERE|Auteur des Femmes savantes|Prix du théâtre français|Directeur de l'Illustre-Théâtre|Il joua devant le roi
+MUSSET|Alfred des Caprices de Marianne|Auteur de Lorenzaccio|Amant de George Sand|Poète des Nuits
+LAMARTINE|Poète du Lac|Alphonse, romantique|Ô temps, suspends ton vol|Il proclama la IIe République
+RONSARD|Mignonne, allons voir si la rose|Prince des poètes|Pierre de la Pléiade|Poète des Amours
+VILLON|François de la Ballade des pendus|Poète voyou du Moyen Âge|Auteur du Testament|Où sont les neiges d'antan ?
+MAUPASSANT|Guy de Bel-Ami|Auteur du Horla|Élève de Flaubert|Nouvelliste de Boule de suif
+DIDEROT|Denis de l'Encyclopédie|Auteur de Jacques le fataliste|Philosophe de Langres|Ami de d'Alembert
+DURAS|Marguerite de L'Amant|Autrice de Moderato cantabile|Goncourt 1984|Scénariste d'Hiroshima mon amour
+YOURCENAR|Première académicienne|Autrice des Mémoires d'Hadrien|Marguerite à l'anagramme|Écrivaine de L'Œuvre au noir
+GIONO|Jean de Manosque|Auteur du Hussard sur le toit|Il fit planter des arbres|Conteur de Provence
+PAGNOL|Marcel d'Aubagne|Auteur de La Gloire de mon père|Père de Marius et Fanny|Romancier des collines
+SIMENON|Georges de Liège|Père de Maigret|Romancier aux 400 livres|Écrivain belge prolifique
+HUGOLIEN|Digne de Victor Hugo|Démesuré et lyrique|Grandiose comme Les Misérables|Romantique ample
+POE|Edgar Allan|Auteur du Corbeau|Maître de l'horreur américaine|Inventeur du roman policier
+TOLKIEN|Créateur de la Terre du Milieu|Auteur du Seigneur des anneaux|Professeur d'Oxford|Père des hobbits
+ROWLING|Mère de Harry Potter|J. K.|Autrice écossaise d'adoption|Créatrice de Poudlard
+DICKENS|Charles d'Oliver Twist|Auteur de David Copperfield|Romancier victorien|Auteur d'Un chant de Noël

@@ -135,3 +135,29 @@ SEDAN|Défaite de Napoléon III en 1870|Ville des Ardennes|Voiture à quatre por
 JAURES|Fondateur de L'Humanité|Socialiste assassiné en 1914|Pacifiste tué au Café du Croissant|Tribun tarnais
 PETAIN|Vainqueur de Verdun devenu maréchal|Chef de l'État français|Condamné en 1945|Exilé à l'île d'Yeu
 PANTHEON|Temple des grands hommes|Monument de la montagne Sainte-Geneviève|Les dieux d'une religion|Il abrite Hugo et Zola
+# --- mots ajoutés (v3) ---
+LOUIS|Prénom de dix-huit rois de France|Pièce d'or d'Ancien Régime|___ XIV, le Roi-Soleil|Prénom de Pasteur
+JEANNE|La Pucelle d'Orléans|Prénom de d'Arc|Héroïne brûlée à Rouen|Prénom de la reine de Navarre d'Albret
+REIMS|Ville des sacres|Cathédrale au sourire de l'ange|Ville du champagne de la Marne|Clovis y fut baptisé
+SAINTLOUIS|Louis IX|Roi croisé mort à Tunis|Il rendait la justice sous un chêne|Bâtisseur de la Sainte-Chapelle
+CATHARES|Hérétiques du Languedoc|Les Bons Hommes|Albigeois|Ils tombèrent à Montségur
+PLANTAGENET|Dynastie d'Henri II|Famille d'Aliénor par mariage|Rois anglais d'origine angevine|Leur nom vient du genêt
+ALIENOR|Duchesse d'Aquitaine|Reine de France puis d'Angleterre|Mère de Richard Cœur de Lion|Prénom d'origine occitane
+CRECY|Défaite de 1346|Bataille des archers anglais|Village de la Somme|Carottes à la ___
+AZINCOURT|Désastre de 1415|Victoire d'Henri V|Bataille de la boue|Village du Pas-de-Calais
+LIGUE|Parti catholique de la Guise|Association|Championnat de football|___ des droits de l'homme
+GUISE|Duc assassiné à Blois|À sa ___ : comme il veut|Famille lorraine|Manière, façon
+BARTHELEMY|Saint du massacre de 1572|Prénom de l'apôtre|Massacre des protestants|Nuit d'août sanglante
+RAVAILLAC|Assassin d'Henri IV|Régicide de 1610|Il frappa rue de la Ferronnerie|Écartelé place de Grève
+VERSAILLAIS|Ennemis des communards|Habitants des Yvelines|Troupes de Thiers|Armée de 1871
+THIERS|Premier président de la IIIe République|Ville des couteaux|Adolphe qui écrasa la Commune|Petit homme d'État au toupet
+GAMBETTA|Il quitta Paris en ballon|Léon de Cahors|Tribun républicain|Avenue et place de Paris
+FERRY|Jules de l'école gratuite|Ministre de l'Instruction publique|Le Tonkinois|Bac de traversée
+LAICITE|Principe de 1905|Séparation des Églises et de l'État|Neutralité religieuse|Valeur républicaine
+BRETON|André, pape du surréalisme|Habitant de Rennes|Langue celtique|Habitant de Brest
+MAQUIS|Végétation corse|Résistants cachés|Prendre le ___|Brousse méditerranéenne
+OAS|Organisation armée secrète|Elle combattit l'indépendance algérienne|Sigle de l'Algérie française|Elle tenta d'assassiner de Gaulle
+EVIAN|Accords de 1962|Ville d'eaux|Bord du Léman|Ses accords mirent fin à la guerre d'Algérie
+POMPIDOU|Georges, normalien président|Successeur de de Gaulle|Il imagina Beaubourg|Président mort en 1974
+CHIRAC|Jacques, maire de Paris|Président de 1995 à 2007|Il aimait la tête de veau|Corrézien du non à l'Irak
+GISCARD|Valéry, président en 1974|VGE|Il passa la majorité à 18 ans|Il jouait de l'accordéon

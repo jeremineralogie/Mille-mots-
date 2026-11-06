@@ -130,3 +130,35 @@ CHENILLE|Future papillon|Courroie de char|Elle fait des processions|Tissu de vel
 LAMA|Il crache|Ruminant des Andes|Moine tibétain|Cousin de l'alpaga
 PAON|Il fait la roue|Vaniteux comme lui|Oiseau aux ocelles|Il criaille
 MOUETTE|Oiseau du bord de mer|Rieuse|Elle suit les chalutiers|Pièce de Tchekhov
+# --- mots ajoutés (v3) ---
+ANE|Baudet|Bonnet d'___|Têtu comme lui|Il brait
+CHAT|Matou|Félin du salon|Il a neuf vies, dit-on|Il retombe sur ses pattes
+CHIEN|Meilleur ami de l'homme|Il aboie|Toutou|Avoir du ___ : du charme
+VACHE|Elle meugle|Elle broute en regardant passer les trains|Peau de ___|Méchant, en familier
+COCHON|Porc|Tout est bon dans le ___|Sale comme lui|Il grogne dans la porcherie
+MOUTON|Il bêle|Revenons à nos ___|Animal de Panurge|Poussière sous le lit
+CHEVRE|Biquette|Elle donne du crottin|Ménager la ___ et le chou|Celle de M. Seguin
+CHEVAL|Destrier|Il galope|Il hennit|Celui de Troie
+POULE|Elle pond|Mère ___|Quand les ___ auront des dents|Groupe de qualification sportif
+CANARD|Il cancane|Journal, en argot|Fausse note|Colvert, par exemple
+OIE|Elle cacarde|Jeu de l'___|Palmipède du Capitole|Elle donne le foie gras
+DINDE|Volaille de Noël|Sotte|Dindon au féminin|Elle se farcit aux marrons
+LAPIN|Il a des grandes oreilles|Jeannot, dans les histoires|Garenne|Il ronge des carottes
+SOURIS|Mulot|Petit rongeur|Elle danse quand le chat est absent|Jolie fille, en argot
+RAT|Rongeur des égouts|Avare|Petit ___ de l'Opéra|Celui de bibliothèque lit beaucoup
+TAUPE|Myope du jardin|Espionne infiltrée|Elle creuse des galeries|Couleur gris-brun
+BLAIREAU|Pinceau à barbe|Plantigrade des terriers|Ringard, en argot|Surnom de Bernard Hinault
+LYNX|Félin aux oreilles pointues|Avoir des yeux de ___|Loup-cervier|Félin du Jura
+PUMA|Couguar|Félin américain|Marque au félin bondissant|Lion des montagnes
+ARA|Perroquet coloré|Oiseau d'Amazonie|Il a un gros bec crochu|Grand perroquet bleu et jaune
+EMEU|Oiseau coureur d'Australie|Cousin de l'autruche|Grand oiseau sans vol|Emblème austral à plumes
+YAK|Bœuf du Tibet|Bovin à long poil|Il porte les charges en Himalaya|Son beurre alimente les lampes
+GNOU|Antilope migratrice|Herbivore du Serengeti|Il traverse la rivière Mara|Animal des mots croisés
+TOUCAN|Oiseau au grand bec|Oiseau tropical coloré|Emblème du Belize|Bec orangé géant
+HOMARD|Crustacé bleu breton|Il rougit à la cuisson|Thermidor, pour lui|Il a deux pinces
+CRABE|Il marche de côté|Panier de ___s|Tourteau|Signe du Cancer
+HUITRE|Mollusque de Marennes|Elle cache parfois une perle|Fermée comme elle|Fine de claire
+MOULE|Elle se mange marinière|Récipient à gâteau|Coquillage noir|Imbécile, en argot
+LOMBRIC|Ver de terre|Il aère le sol|Appât du pêcheur|Annélide
+CIGALE|Elle chante tout l'été|Insecte provençal|Ayant chanté tout l'été…|Elle stridule
+GRILLON|Criquet du foyer|Il chante la nuit|Jiminy, la conscience de Pinocchio|Insecte des champs

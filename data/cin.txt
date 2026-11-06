@@ -120,3 +120,31 @@ ZOOM|Objectif à focale variable|Rapprochement à l'image|Visioconférence|Gros 
 SPOILER|Il gâche la fin|Divulgâcheur|Aileron de voiture|Révélation malvenue
 AUDIARD|Michel, dialoguiste des Tontons flingueurs|Jacques, réalisateur d'Un prophète|Famille de cinéma|Père et fils du septième art
 TONTONS|Les ___ flingueurs|Oncles|Film culte de Lautner|Ils s'appellent ainsi en famille
+# --- mots ajoutés (v3) ---
+FILM|Long métrage|Pellicule|Couche mince|Se faire un ___
+SCENE|Plateau de théâtre|Partie d'un film|Faire une ___ : se fâcher|Mise en ___
+ACTEUR|Comédien|Interprète|Celui de la vie publique|Il joue un rôle
+ROLE|Personnage joué|Fonction|Jeu de ___|À tour de ___
+STAR|Célébrité|Étoile du cinéma|Vedette|Celle du Walk of Fame
+PLAN|Cadre filmé|Projet|Gros ___|Carte de ville
+ECRAN|Grand ___|Toile de projection|Celui de fumée|Petit ___ : télévision
+SALLE|Lieu de projection|Pièce|Public|Celle des fêtes
+TOURNER|Filmer|Pivoter|___ la page|___ de l'œil
+COUPEZ|Fin de la prise|Ordre du réalisateur|___ ! dit le clap final|Arrêtez de filmer !
+ACTION|Moteur… ___ !|Genre de film à explosions|Acte|Part de société
+SCRIPT|Scénario écrit|Assistante du plateau|Programme informatique|Texte du tournage
+PROJECTEUR|Lumière de plateau|Appareil de projection|Feux de la rampe|Il éclaire la scène
+SEQUELLE|Suite d'un film|Trace d'une maladie|Épisode 2|Prolongement
+PREQUEL|Film qui raconte l'avant|Antépisode|Origine d'une saga|Épisode précédent tourné après
+REMAKE|Nouvelle version d'un film|Reprise|Copie modernisée|Refaire en anglais
+DESSINANIME|Film d'animation|Cartoon|Blanche-Neige en est un|Bugs Bunny y est la star
+MARVEL|Studio des Avengers|Univers d'Iron Man|Merveille en anglais|Éditeur de comics
+BATMAN|Chevalier noir|Héros de Gotham|Bruce Wayne|Homme chauve-souris
+SUPERMAN|Clark Kent|Homme d'acier|Héros de Krypton|Il craint la kryptonite
+ZORRO|Renard en espagnol|Il signe d'un Z|Justicier masqué|Don Diego de la Vega
+TARZAN|Homme-singe|Ami de Cheeta|Héros d'Edgar Rice Burroughs|Il crie dans la jungle
+FANTOMAS|Génie du crime|Ennemi de Juve|Masque bleu chez de Funès|Héros de Souvestre et Allain
+FUNES|Louis de ___|Acteur de La Grande Vadrouille|Le Gendarme de Saint-Tropez|Comique aux grimaces
+BOURVIL|André Raimbourg|Acteur du Corniaud|Interprète de La Tactique du gendarme|Comparse de de Funès
+TATI|Jacques, M. Hulot|Réalisateur de Playtime|Auteur de Mon oncle|Grand magasin à carreaux roses
+VARDA|Agnès de Cléo de 5 à 7|Grand-mère de la Nouvelle Vague|Réalisatrice des Glaneurs|Cinéaste à la coupe au bol

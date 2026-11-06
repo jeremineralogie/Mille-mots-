@@ -118,3 +118,28 @@ JENGA|Tour de blocs de bois|Jeu d'adresse qui s'écroule|Il ne faut pas faire to
 ESCAPEGAME|Jeu d'évasion grandeur nature|On y cherche la sortie|Énigmes en équipe|Salle à s'échapper
 PETANQUE|Jeu au cochonnet|Boules de Provence|Mener la partie à 13|Jeu provençal des boulistes
 FIGURINE|Petite statue|Pièce peinte du jeu de guerre|Personnage miniature|Santon, par exemple
+# --- mots ajoutés (v3) ---
+JEU|Partie|Divertissement|Récréation|Faire le ___ de
+DAME|Reine des cartes|Pièce maîtresse aux échecs|Jeu de ___|Notre-___
+VALET|Carte entre dix et dame|Domestique|Laquais|Jack des Anglais
+ROI|Carte couronnée|Pièce à protéger|Échec au ___|Galette des ___
+COEUR|Couleur rouge|Jeu de la dame de ___|À ___ joie|Joli ___
+SHOGI|Échecs japonais|Jeu de stratégie nippon|Jeu des généraux|Pièces en pentagone
+MAHJONG|Jeu de tuiles chinois|Jeu des quatre vents|Patience de tuiles|Jeu de dragons et de bambous
+BACKGAMMON|Jacquet|Jeu de dés et de dames|Jeu des triangles|Trictrac moderne
+MASTERMIND|Jeu de code couleur|Cerveau génial|Jeu de déduction|Fiches et pions colorés
+PUISSANCE|___ 4|Force|Mathématique exponentielle|Pouvoir
+TABOU|Récréation interdits|Sujet délicat|Interdit sacré|Jeu de société d'équipe
+PICTIONARY|Jeu de dessin à faire deviner|Jeu au sablier|Dessiner, c'est gagner|Jeu de société créatif
+RAMI|Jeu de cartes à combinaisons|Rummy|Jeu de suites et de brelans|Partie de cartes en famille
+PATIENCE|Jeu de cartes solitaire|Qualité de l'attente|Elle a des limites|Réussite
+BRELAN|Trois cartes identiques|Combinaison du poker|Trio de valeurs|Combinaison de trois
+QUILLE|Elle tombe au bowling|Jambe, en argot|Fin du service militaire|Libération du conscrit
+TOBOGGAN|Glissière d'aire de jeux|Glissade de piscine|Pente lisse|Échangeur routier
+BALANCOIRE|Jeu de parc|Escarpolette|Elle va et vient|Planche à cordes
+CERFVOLANT|Il vole au bout d'un fil|Jouet de plage venté|Lucane|Voile en altitude
+TROTTINETTE|Patinette d'enfant|Engin à pousser|Planche à guidon|Elle est parfois électrique
+PLAYSTATION|Console de Sony|PS5, par exemple|Rivale de la Xbox|Machine à jeux japonaise
+NINTENDO|Firme de Mario|Fabricant de la Switch|Maison de Kyoto|Inventeur de la Game Boy
+POKEMON|Pikachu en est un|Monstre de poche|Attrapez-les tous !|Cartes à collectionner
+MINECRAFT|Jeu de blocs|Bac à sable pixélisé|Jeu de Mojang|Creeper y explose

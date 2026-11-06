@@ -136,3 +136,32 @@ JUBILE|Fête des cinquante ans|Celui de la reine Élisabeth fut de platine|Anniv
 OCEAN|Pacifique, par exemple|Vaste étendue d'eau salée|Il y en a cinq sur Terre|Un ___ d'indifférence
 PLANISPHERE|Carte du monde entier à plat|Projection de Mercator, par exemple|Globe déroulé|Représentation plane de la sphère terrestre
 DEVINETTE|Qu'est-ce qui a des dents mais ne mord pas ?|Énigme pour enfants|Question à double sens|Charade, en plus simple
+# --- mots ajoutés (v3) ---
+ETNA|Volcan de Sicile|Le plus haut volcan actif d'Europe|Mongibello pour les Siciliens|Il domine Catane
+ONU|Organisation siégeant à New York|Ses casques sont bleus|Elle succéda à la SDN|Nations unies, en sigle
+RADAR|Il repère les excès de vitesse|Palindrome de détection|Il émet des ondes|Passer sous les ___ : rester discret
+ROI|Pièce maîtresse des échecs|Monarque|Le ___ est mort, vive le ___ !|Figure de cartes à couronne
+ARC|Celui de triomphe est à l'Étoile|Arme de Robin des Bois|Portion de cercle|Celui-en-ciel a sept couleurs
+ILE|Terre entourée d'eau|Celle de Ré a un pont|La Réunion en est une|___ au trésor
+CARTE|Celle d'identité|Elle se joue au poker|Celle du Tendre est romantique|Elle vaut un plan
+GLOBE|Sphère terrestre|Celui oculaire|Golden ___, prix américain|Mappemonde en relief
+TRIO|Groupe de trois|Ensemble de musique de chambre|Les Inconnus en étaient un|Terne au loto
+DUO|Couple d'artistes|Ensemble de deux|Chant à deux voix|Laurel et Hardy en formaient un
+QUIZ|Jeu de questions|Questionnaire|Soirée de culture générale|Épreuve de connaissances
+TABOU|Interdit|Sujet qu'on n'aborde pas|Récréation à faire deviner|Sacré et défendu
+EMBLEME|Symbole|Le lys pour la royauté|Attribut distinctif|Le chardon pour l'Écosse
+MUSEE|Celui d'Orsay|Lieu de conservation|Pièce de ___|Le Prado en est un
+STATUE|Celle de la Liberté|Il reste figé comme elle|Œuvre sculptée|Celle du Commandeur chez Don Juan
+OBELISQUE|Celui de la Concorde vient de Louxor|Monolithe effilé|Aiguille de pierre|Il est couvert de hiéroglyphes
+CIRQUE|Chapiteau|Celui de Gavarnie est naturel|Arène romaine des courses de chars|Quel ___ ! : quelle pagaille
+FANFARE|Orchestre de cuivres|Musique de défilé|Annonce en ___|Harmonie municipale
+FETE|Celle de la musique est le 21 juin|Kermesse|Faire la ___|Saint du jour souhaité
+NOEL|Fête du 25 décembre|Le père qui apporte les cadeaux|Chant de fin d'année|Sapin, crèche et réveillon
+PAQUES|Fête des œufs en chocolat|Fête de la Résurrection|Île des moais|Lundi férié de printemps
+MIDI|Douze heures|Le Sud de la France|Chercher ___ à quatorze heures|Heure du déjeuner
+MINUIT|Douze coups de l'horloge|Heure de Cendrillon|Milieu de la nuit|Messe de ___
+AUBE|Lever du jour|Tunique de communiant|Département de Troyes|À l'___ de : au début de
+CREPUSCULE|Tombée du jour|Déclin|Celui des dieux chez Wagner|Entre chien et loup
+SOMMET|Cime|Réunion de chefs d'État|Point culminant|Celui du G7
+RECETTE|Mode de préparation d'un plat|Somme encaissée|Formule à succès|Celle des impôts
+HISTOIRE|Récit|Discipline des historiens|Elle est écrite par les vainqueurs|Faire des ___

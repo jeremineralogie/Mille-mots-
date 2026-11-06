@@ -139,3 +139,32 @@ ISTANBUL|Ville sur deux continents|Ancienne Constantinople|Ville de Sainte-Sophi
 MONTREAL|Ville du Québec|Métropole francophone d'Amérique|Ville des JO de 1976|Ville du mont Royal
 BRUXELLES|Ville du Manneken-Pis|Capitale de l'Europe|Siège de la Commission européenne|Ville de la Grand-Place
 MARSEILLE|Cité phocéenne|Ville de la Bonne Mère|Port du Vieux-Port|Ville de l'OM
+# --- mots ajoutés (v3) ---
+NIGER|Fleuve de Bamako|Pays de Niamey|Fleuve du Sahel|Pays d'Afrique de l'Ouest sans littoral
+CONGO|Fleuve de Kinshasa|Pays de Brazzaville|Fleuve équatorial|Bassin d'Afrique centrale
+ZAMBEZE|Fleuve des chutes Victoria|Fleuve du Mozambique|Grand fleuve austral|Il traverse la Zambie
+YANGTSE|Fleuve Bleu|Plus long fleuve d'Asie|Fleuve du barrage des Trois-Gorges|Fleuve de Shanghai
+MEKONG|Fleuve d'Indochine|Delta du Viêt Nam|Fleuve de Phnom Penh|Il naît au Tibet
+OURAL|Montagnes entre Europe et Asie|Fleuve de la Caspienne|Région industrielle russe|Frontière continentale
+ALASKA|État le plus vaste des États-Unis|Acheté à la Russie en 1867|Terre de l'ours Kodiak|Péninsule arctique
+TEXAS|État de Houston|État à l'étoile solitaire|Pays des ranchs|État de Dallas
+FLORIDE|État de Miami|État des Everglades|Péninsule des alligators|Cap Canaveral s'y trouve
+CHILI|Pays tout en longueur|Pays de Santiago|Plat de haricots épicé|Pays de l'Atacama
+PEROU|Ce n'est pas le ___ !|Pays de Lima|Pays des Incas|Pays du lac Titicaca
+CUBA|Île de La Havane|Île des cigares|Pays de Castro|Île de la rumba
+INDE|Pays de Delhi|Pays du Taj Mahal|Sous-continent|Pays de l'Himalaya et du Kerala
+CHINE|Empire du Milieu|Pays de Pékin|Encre de ___|Pays de la Grande Muraille
+JAPON|Pays du Soleil-Levant|Archipel de Tokyo|Pays du mont Fuji|Nippon
+NEPAL|Pays de Katmandou|Royaume des sherpas|Pays de l'Everest|État himalayen
+EGYPTE|Pays des pharaons|Pays du Caire|Terre du Nil|Pays de Gizeh
+MAROC|Royaume chérifien|Pays de Rabat|Pays de Marrakech|Voisin de l'Algérie
+TUNISIE|Pays de Carthage|Pays de Sfax et de Sousse|Pays du jasmin|Voisine de la Libye
+QUEBEC|Belle Province|Ville du Château Frontenac|Province francophone|Je me souviens, dit sa devise
+BELGIQUE|Plat pays|Pays des frites et des gaufres|Royaume de Bruxelles|Wallonie et Flandre
+SUISSE|Pays du chocolat et des montres|Confédération helvétique|Pays neutre|Garde du Vatican
+ITALIE|Pays de la botte|République de Rome|Pays de la pizza|La Squadra Azzurra
+GRECE|Pays d'Athènes|Hellade|Pays des Cyclades|Berceau de la démocratie
+NORVEGE|Pays des fjords|Royaume d'Oslo|Pays de Grieg|Pays du saumon atlantique
+POLOGNE|Pays de Varsovie|Pays de Copernic|Pays de Cracovie|Voisine de l'Allemagne à l'est
+MONACO|Principauté du Rocher|Ville du Grand Prix|Pays des Grimaldi|Monte-Carlo s'y trouve
+EVEREST|8 849 mètres|Chomolungma|Sommet népalais et tibétain|Toit du monde

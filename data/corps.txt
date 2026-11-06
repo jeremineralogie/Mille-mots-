@@ -128,3 +128,29 @@ PEDIATRE|Médecin des enfants|Docteur des bébés|Il suit les vaccins de l'enfan
 OSTEOPATHE|Il manipule le corps|Thérapeute des douleurs de dos|Il fait craquer|Praticien manuel
 MIGRAINE|Violent mal de tête|Elle fait fuir la lumière|Céphalée|Prétexte classique pour décliner
 VERTIGE|Peur du vide|Tête qui tourne|Film d'Hitchcock en français, Sueurs froides|Étourdissement
+# --- mots ajoutés (v3) ---
+NEZ|Organe de l'odorat|Celui de Cyrano|Parfumeur, aussi|Avoir du ___
+OEIL|Organe de la vue|Celui du cyclone|Mauvais ___ : porte-malheur|___ pour ___
+DOIGT|Il y en a cinq par main|Le petit sait tout|Mettre le ___ dessus|Un ___ de porto
+MAIN|Elle a cinq doigts|Coup de ___|Avoir la ___ verte|Celle de Fatma
+PIED|Il a cinq orteils|Unité de vers|Prendre son ___|Lever le ___
+TALON|Il est d'Achille|Arrière du pied|Partie du pied qui frappe le sol|Souche d'un chéquier
+ORTEIL|Doigt de pied|Le gros en a deux phalanges|On se le cogne au pied du lit|Petit doigt du pied
+LEVRE|Bord de la bouche|On la pince en réfléchissant|Du bout des ___|Rouge à ___
+JOUE|Partie du visage|Tendre l'autre ___|On y pose la bise|Elle rougit
+FRONT|Haut du visage|Ligne de combat|Coalition politique|Faire ___
+MENTON|Bas du visage|Ville du citron|Galoche, s'il est pointu|Double ___
+NUQUE|Arrière du cou|Coup du lapin à la ___|Ses cheveux y frisent|Haut de la colonne
+THORAX|Cage thoracique|Poitrine|Partie médiane de l'insecte|Il abrite le cœur
+ABDOMEN|Ventre|Partie arrière de l'insecte|Il contient l'intestin|Muscles abdominaux
+HANCHE|Elle peut avoir une prothèse|Articulation du fémur|Rouler des ___|Bassin
+PAUPIERE|Elle cligne|Voile de l'œil|Ses cils la bordent|Elle se ferme pour dormir
+SOURCIL|Il se fronce|Poils au-dessus de l'œil|Hausser le ___|Arcade ___
+CILS|Ils protègent l'œil|On y met du mascara|Battre des ___|Poils des paupières
+ACNE|Boutons d'adolescence|Problème de peau|Points noirs|Elle se traite au dermatologue
+ENTORSE|Cheville tordue|Torsion ligamentaire|Une ___ au règlement|Foulure
+FRACTURE|Os cassé|Elle se plâtre|___ sociale|Cassure
+PLATRE|Il immobilise la fracture|Matériau du plafond|Essuyer les ___|Moulage blanc
+VACCINATION|Campagne de rappels|Piqûre préventive|Immunisation|Elle se note dans le carnet de santé
+SCALPEL|Lame du chirurgien|Analyse au ___ : précise|Bistouri|Outil de dissection
+ANESTHESIE|Elle endort avant l'opération|Locale ou générale|Insensibilité|Spécialité du médecin du sommeil artificiel

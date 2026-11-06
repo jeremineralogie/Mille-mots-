@@ -128,3 +128,28 @@ MENDELEIEV|Inventeur du tableau périodique|Chimiste russe|Il prédit des élém
 HYPOTENUSE|Côté opposé à l'angle droit|Le plus long côté du triangle rectangle|Son carré vaut la somme des deux autres|Ligne de Pythagore
 POLYGONE|Le carré en est un|Figure à plusieurs côtés|Terrain militaire de tir|L'hexagone en est un
 DIAMETRE|Il passe par le centre|Deux fois le rayon|Corde maximale|Taille d'un tuyau
+# --- mots ajoutés (v3) ---
+ION|Atome chargé|Cation ou anion|Particule électrisée|Il a perdu ou gagné un électron
+GAZ|État de la vapeur|Il s'échappe|Il y a de l'eau dans le ___|Le butane en est un
+ZINC|Comptoir de bistrot|Métal des gouttières|Métal Zn|Il galvanise l'acier
+NICKEL|Impeccable|Métal Ni|Métal de la Nouvelle-Calédonie|Propre comme un sou neuf
+URANIUM|Combustible nucléaire|Métal U|Il est enrichi|Découvert par Klaproth
+SODIUM|Na|Métal du sel|Il réagit violemment avec l'eau|Lampe orangée des routes
+CALCIUM|Il fortifie les os|Ca|Présent dans le lait|Minéral du calcaire
+LASER|Faisceau lumineux cohérent|Il découpe ou soigne|Pointeur rouge|Il lit les CD
+ONDE|Elle se propage|Radio ou sonore|Vague|Sur les ___ : à la radio
+QUANTIQUE|Physique de Planck|Saut ___|Mécanique de l'infiniment petit|Ordinateur du futur
+GALAXIE|Andromède en est une|Amas d'étoiles|Voie lactée, par exemple|Spirale cosmique
+MAGMA|Roche en fusion|Mélange confus|Il remonte dans les volcans|Lave souterraine
+CRISTAL|Verre de luxe|Solide ordonné|Le quartz en est un|Voix de ___
+QUARTZ|Montre à ___|Cristal de roche|Silice cristallisée|Minéral des horloges
+PLANCTON|Nourriture des baleines|Micro-organismes marins|Il dérive dans l'eau|Phyto ou zoo
+EVOLUTION|Théorie de Darwin|Transformation progressive|Changement|Elle fit naître les espèces
+MUTATION|Changement génétique|Nouvelle affectation|Transformation|Variation de l'ADN
+CHROMOSOME|Il porte les gènes|On en a 46|X ou Y|Bâtonnet de l'ADN
+ENZYME|Catalyseur biologique|La lactase en est une|Protéine qui accélère|Présente dans les lessives
+VECTEUR|Flèche mathématique|Porteur de maladie|Moyen de transmission|Il a une norme
+INTEGRALE|Somme de Riemann|Version complète|Calcul d'aire|Œuvre complète d'un auteur
+LOGARITHME|Inverse de l'exponentielle|Inventé par Napier|Échelle ___|Fonction ln
+STATISTIQUE|Science des données|Sondage chiffré|Moyenne et écart-type|Chiffre éloquent
+MICRON|Millième de millimètre|Micromètre|Taille d'une bactérie|Toute petite mesure

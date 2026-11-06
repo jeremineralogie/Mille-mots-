@@ -125,3 +125,25 @@ TROMBONE|Cuivre à coulisse|Agrafe de bureau|Instrument de jazz|Instrument de Gl
 CLARINETTE|Instrument de Benny Goodman|Bois à anche simple|Instrument du klezmer|Elle a un bec
 TUBA|Le plus grave des cuivres|Gros instrument de fanfare|Tube en latin|Il se porte en bandoulière
 KARAOKE|Chanter sur des paroles défilantes|Loisir japonais|Micro et écran|Soirée de chanteurs amateurs
+# --- mots ajoutés (v3) ---
+SOL|Cinquième note|Terre ferme|Clé de ___|Il est en béton ou en parquet
+GAMME|Do ré mi fa sol la si do|Série|Haut de ___|Faire ses ___
+ACCORD|Plusieurs notes ensemble|Pacte|Harmonie|D'___ !
+OCTAVE|Huit notes|Intervalle de do à do|Prénom de l'empereur Auguste|Huitaine de fêtes religieuses
+SOLO|Partie seule|Seul|Navigateur en ___|Han, contrebandier spatial
+DUO|Chant à deux|Couple musical|Ensemble de deux|Simon et Garfunkel
+CHOEUR|Chorale|Ensemble de chanteurs|Enfant de ___|En ___ : ensemble
+ARIA|Air d'opéra|Mélodie chantée seule|Morceau de bravoure lyrique|Air de cantate
+LIVRET|Texte d'opéra|Petit livre|___ A : compte d'épargne|Texte du librettiste
+FANFARE|Cuivres de défilé|Annonce bruyante|Harmonie|Musique militaire
+TUBE|Chanson à succès|Tuyau|Récipient de dentifrice|Hit de l'été
+REPRISE|Nouvelle version d'une chanson|Retour au début|Rediffusion|Raccommodage
+GROUPE|Les Rolling Stones en sont un|Ensemble|Pop ou rock|Formation musicale
+ALBUM|Disque de plusieurs titres|Recueil de photos|Celui de famille|Il a une pochette
+PLAYLIST|Liste de lecture|Sélection de chansons|Compilation en streaming|Programmation musicale
+CONCERTO|Œuvre pour soliste et orchestre|Celui d'Aranjuez|Forme de Vivaldi|Pièce en trois mouvements
+REQUIEM|Messe des morts|Œuvre inachevée de Mozart|Celui de Fauré|Chant funèbre
+BOLERO|Œuvre de Ravel|Petite veste|Danse espagnole|Crescendo obsédant
+MARSEILLAISE|Hymne français|Chant de Rouget de Lisle|Allons enfants…|Hymne de 1792
+ZENITH|Salle de concert parisienne|Apogée|Point culminant|Salle de la Villette
+OLYMPIA|Salle du boulevard des Capucines|Music-hall de Bruno Coquatrix|Tableau de Manet|Salle des grands récitals

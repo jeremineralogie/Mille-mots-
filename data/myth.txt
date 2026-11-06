@@ -126,3 +126,31 @@ GORGONE|Méduse en était une|Monstre aux cheveux de serpents|Femme effrayante|E
 NYMPHE|Divinité des sources|Stade de l'insecte|Jeune femme gracieuse|Écho en était une
 TRIDENT|Fourche de Poséidon|Sous-marin nucléaire|Fourche à trois dents|Marque de chewing-gum
 ARGONAUTES|Compagnons de Jason|Équipage de l'Argo|Chercheurs de la Toison d'or|Héros navigateurs
+# --- mots ajoutés (v3) ---
+ECHO|Nymphe qui répète|Son renvoyé|Rumeur|Amoureuse de Narcisse
+GAIA|Terre-Mère|Déesse primordiale|Mère des Titans|Hypothèse écologique
+CRONOS|Titan dévoreur d'enfants|Père de Zeus|Temps personnifié, parfois|Saturne grec
+RHEA|Mère des Olympiens|Épouse de Cronos|Oiseau coureur sud-américain|Titanide
+DEMETER|Déesse des moissons|Mère de Perséphone|Cérès grecque|Elle fit l'hiver par chagrin
+HESTIA|Déesse du foyer|Vesta grecque|Aînée des Olympiens|Gardienne du feu sacré
+MUSE|Inspiratrice|Clio en est une|Il y en a neuf|Égérie
+CLIO|Muse de l'histoire|Petite Renault|Prénom de muse|Elle tient un rouleau
+PAN|Dieu des bergers|Sa flûte a des tuyaux|Il cause la panique|Morceau de mur
+SATYRE|Mi-homme mi-bouc|Compagnon de Dionysos|Faune lubrique|Homme qui importune
+FAUNE|Dieu des forêts romain|Ensemble des animaux|Prélude à l'après-midi d'un ___|Créature à cornes
+CHARON|Passeur des Enfers|Nocher du Styx|Il exigeait une obole|Satellite de Pluton
+STYX|Fleuve des Enfers|Rivière d'immortalité d'Achille|Eau infernale|On jurait par ses eaux
+LETHE|Fleuve de l'oubli|Rivière des Enfers|Boire à ses eaux fait oublier|Oubli mythologique
+ATLAS|Il porte le monde|Titan puni|Livre de cartes|Vertèbre cervicale
+PHENIX|Oiseau qui renaît de ses cendres|Génie hors du commun|Phœnix|Palmier dattier
+GRIFFON|Mi-aigle mi-lion|Chien à poil dur|Vautour fauve|Gardien de trésors
+DRAGON|Créature crachant du feu|Soldat à cheval|Gardien sévère|Symbole chinois
+TROLL|Créature scandinave|Provocateur des forums|Géant des montagnes|Gnome laid des contes
+ELFE|Créature de Tolkien|Lutin|Legolas en est un|Esprit de l'air
+FREYA|Déesse nordique de l'amour|Elle a donné le vendredi anglais|Épouse d'Odr|Déesse aux chats
+YGGDRASIL|Arbre-monde|Frêne cosmique|Il relie les neuf mondes|Arbre d'Odin
+SETH|Frère meurtrier d'Osiris|Dieu du désert|Troisième fils d'Adam|Divinité du chaos
+BASTET|Déesse chat|Divinité de Bubastis|Elle protège les foyers égyptiens|Félin sacré
+ARTHUR|Roi de Camelot|Fils d'Uther Pendragon|Chef de la Table ronde|Prénom de Rimbaud
+LANCELOT|Chevalier du Lac|Amant de Guenièvre|Héros de Chrétien de Troyes|Meilleur chevalier d'Arthur
+GUENIEVRE|Reine de Camelot|Épouse d'Arthur|Amante de Lancelot|Reine bretonne

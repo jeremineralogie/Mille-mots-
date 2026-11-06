@@ -125,3 +125,31 @@ ROUX|Base de la béchamel|Couleur de cheveux|Cuisson beurre-farine|Poil de carot
 SARRASIN|Blé noir|Farine des galettes bretonnes|Envahisseur médiéval|Céréale sans gluten
 BAVAROISE|Dessert à la crème gélifiée|Femme de Munich|Charlotte froide|Entremets en moule
 EPINARD|Légume de Popeye|Mettre du beurre dans les ___|Légume vert riche en fer, dit-on|Feuille du florentine
+# --- mots ajoutés (v3) ---
+SEL|Chlorure de sodium|Il relève les plats|Grain de ___|Fleur de ___
+SUCRE|Saccharose|Morceau du café|Casser du ___ sur le dos|Pain de ___
+POIVRE|Épice noire ou blanche|Moulin à ___|___ et sel : grisonnant|Grain piquant
+MIEL|Produit de l'abeille|Lune de ___|Doux comme le ___|Pain d'épices au ___
+HUILE|Celle d'olive|Faire tache d'___|Mer d'___|Personnage important, en argot
+OEUF|Il se mange à la coque|Il précède la poule, ou pas|Mettre ses ___ dans le même panier|Œuf de Pâques en chocolat
+LAIT|Il est entier ou écrémé|Soupe au ___|Petit-___|Boire du petit ___
+CREME|Chantilly|Café-___|La ___ de la ___|Fraîche ou anglaise
+PAIN|Baguette ou miche|Gagner son ___|Ça ne mange pas de ___|___ perdu
+RIZ|Céréale d'Asie|Base du risotto|Il est basmati|___ au lait
+PATES|Spaghettis ou tagliatelles|Al dente|Mettre la main à la ___|Elles sont fraîches en Italie
+FRITES|Bâtonnets de pommes de terre|Spécialité belge|Accompagnement du steak|Moules-___
+STEAK|Bifteck|___ tartare|Viande hachée en galette|Tranche de bœuf
+GIGOT|Cuisse d'agneau|Manches à ___|Rôti de Pâques|Viande à l'ail
+JAMBON|Celui de Bayonne|Cuisse de porc|Sandwich parisien|Celui-beurre
+SAUCISSON|Charcuterie sèche|Rosette de Lyon|Apéro des randonneurs|Ficelé comme un ___
+PATE|Celui de campagne|Celui en croûte|Terrine|Tache d'encre
+TARTE|Celle aux pommes|Gifle|Ringard|Tatin
+GATEAU|Celui d'anniversaire|C'est du ___ ! : c'est facile|Pâtisserie|Celui de riz
+SORBET|Glace sans lait|Trou normand, parfois|Citron givré|Dessert glacé aux fruits
+CARAMEL|Sucre fondu|Beurre salé breton|Couleur ambrée|Bonbon collant
+NOUGAT|Douceur de Montélimar|Confiserie aux amandes|C'est du ___ : c'est facile|Blanc ou noir
+PRALINE|Amande caramélisée|Chocolat belge fourré|Brioche de Saint-Genix|Rose de Lyon
+CHOCOLAT|Il vient du cacao|Être ___ : être floué|Tablette|Mousse au ___
+CAFE|Petit noir|Bistrot|Expresso|___ crème
+THE|Boisson de l'heure anglaise|Il est vert ou noir|Salon de ___|Sachet infusé
+CIDRE|Boisson de pommes|Brut ou doux|Il accompagne les crêpes|Boisson normande

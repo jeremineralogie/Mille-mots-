@@ -134,3 +134,30 @@ GRAMMAIRE|Règles de la langue|Livre de Grevisse|Elle régit la syntaxe|Science 
 PONCTUATION|Points et virgules|Signes de l'écrit|Ensemble des pauses écrites|Elle rythme la phrase
 POINT|Il clôt la phrase|Unité d'un score|Nœud de couture|À ___ : juste à temps
 GUILLEMETS|Ils encadrent une citation|Chevrons de citation|Signes « et »|Ils mettent à distance
+# --- mots ajoutés (v3) ---
+MOT|Unité de la phrase|Le ___ de la fin|___ croisé|Petit ___ doux
+NOM|Substantif|Patronyme|Au ___ de|Prénom et ___
+LETTRE|Signe de l'alphabet|Courrier|À la ___ : littéralement|Homme de ___s
+ACCORD|Celui du participe passé|Entente|Règle du participe passé|D'___
+ELISION|Remplacement d'une voyelle par une apostrophe|L'arbre, pour le arbre|Suppression de son|Chute de voyelle
+LIAISON|Les-z-amis, par exemple|Relation amoureuse|Relation|Enchaînement de deux mots
+PROPOSITION|Partie de phrase|Offre|Offre faite|Suggestion
+SUBORDONNEE|Proposition dépendante|Relative ou conjonctive|Inférieure en grade|Sous les ordres
+PARTICIPE|___ passé|Forme verbale adjective|Il s'accorde avec avoir… parfois|Chanté, mangé…
+INFINITIF|Mode non conjugué|Aimer, finir, prendre|Forme du dictionnaire|Mode en -er, -ir ou -re
+FUTUR|Temps de demain|Avenir|Fiancé|___ antérieur
+PASSE|Temps révolu|Hier|___ simple|Il est composé ou simple
+PRESENT|Cadeau|Temps actuel|Là, ici|Indicatif ___
+IMPERATIF|Mode de l'ordre|Exigence|Catégorique chez Kant|Viens !, par exemple
+ACCENTAIGU|Il est sur le é de été|Signe orthographique montant|Accent de café|Accent du é
+CIRCONFLEXE|Accent de forêt|Chapeau du â|Petit toit sur la voyelle|Trace d'un s disparu
+PALINDROME|Laval en est un|Il se lit dans les deux sens|Radar ou kayak|Mot miroir
+CALEMBOUR|Récréation|Plaisanterie sonore|Astuce verbale|Mot d'esprit
+CONTREPETERIE|Inversion de sons coquine|Jeu de Rabelais|Spécialité du Canard enchaîné|Récréation croisé
+ANAGRAMME|Gare pour rage|Lettres permutées|Marie pour aimer|Jeu de lettres
+ACROSTICHE|Poème aux initiales significatives|Les premières lettres forment un mot|Jeu poétique vertical|Forme fixe ludique
+ABREVIATION|Etc., par exemple|Mot raccourci|Sigle, parfois|Forme courte
+SIGLE|SNCF en est un|Initiales|ONU, par exemple|Acronyme non prononcé
+BESCHERELLE|Livre de conjugaison|Ouvrage rouge des écoliers|L'art de conjuguer|Référence des verbes
+LAROUSSE|Dictionnaire illustré|Je sème à tout vent|Pierre, lexicographe|Le Petit ___
+ROBERT|Dictionnaire rival|Le Petit ___|Paul, lexicographe|Prénom de Badinter

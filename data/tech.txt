@@ -123,3 +123,30 @@ SMARTWATCH|Montre connectée|Bracelet intelligent|Apple Watch|Écran au poignet
 QRCODE|Code carré à scanner|Pictogramme des menus de restaurant|Code-barres en 2D|Lien en mosaïque
 PIXELLISE|Flouté par carreaux|Visage anonymisé|Image en gros grains|Brouillé à l'écran
 GIGAOCTET|Mille mégaoctets|Go|Unité de stockage|Capacité d'une clé USB
+# --- mots ajoutés (v3) ---
+BIT|Binary digit|Plus petite unité d'information|Zéro ou un|Huitième d'octet
+APP|Logiciel mobile|Application, en court|Elle se télécharge|Icône du smartphone
+WEB|La Toile|World Wide ___|Internet, pour beaucoup|Inventé par Tim Berners-Lee
+URL|Adresse web|Lien|Chaîne commençant par https|Uniform Resource Locator
+HTML|Langage des pages web|Balises|Hypertext Markup Language|Squelette d'un site
+PDF|Format de document|Fichier d'Adobe|Portable Document Format|Il s'imprime tel quel
+GPS|Il guide en voiture|Géolocalisation|Navigateur satellite|Système américain de positionnement
+LED|Diode électroluminescente|Ampoule économique|Lumière basse consommation|Petite diode
+PUCE|Insecte sauteur|Circuit intégré|Marché aux ___|Mettre la ___ à l'oreille
+SILICIUM|Matière des puces|Si|Il donne son nom à une vallée|Semi-conducteur
+CABLE|Fil|Télégramme|Fil de transmission|Télévision par ___
+FIBRE|Elle transporte Internet|Fil textile|Avoir la ___ : la vocation|Filament de verre lumineux
+BATTERIE|Elle se recharge|Accumulateur|Percussions|Elle est au lithium
+PIXELS|Points d'écran|Définition d'une image|Mégapixels, en grand|Ils forment l'image
+STREAMER|Joueur en direct sur Twitch|Diffuseur vidéo|Créateur de live|Il anime une chaîne
+GAMER|Joueur de jeux vidéo|Il a une manette|Passionné de consoles|Joueur assidu
+AVATAR|Image du profil|Personnage virtuel|Incarnation|Mésaventure
+COOKIE|Biscuit|Traceur web|Fichier de navigation|Il faut l'accepter ou le refuser
+FIREWALL|Pare-feu|Protection réseau|Mur anti-intrusion|Filtre de connexions
+BACKUP|Sauvegarde|Copie de secours|Plan B|Double des données
+OPENSOURCE|Logiciel libre|Code ouvert|Linux en est|Modèle collaboratif
+ANDROID|Système de Google|Robot vert|Système des smartphones Samsung|Rival d'iOS
+IPHONE|Smartphone d'Apple|Lancé en 2007|Téléphone à la pomme|Il a un écran Retina
+CHATGPT|IA d'OpenAI|Assistant conversationnel|Chatbot de 2022|Il rédige des textes
+TOUCHE|Bouton du clavier|Celle Entrée|Une ___ de couleur|Pierre de ___
+ZIP|Format de compression|Fermeture éclair|Archive|Code postal américain

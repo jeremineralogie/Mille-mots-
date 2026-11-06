@@ -121,3 +121,30 @@ GONDOLE|Barque vénitienne|Rayon de supermarché|Tête de ___|Nacelle de télép
 PIROGUE|Embarcation creusée|Canoë africain|Barque longue|Pagaie et tronc
 BIVOUAC|Campement de fortune|Nuit à la belle étoile|Halte en montagne|Camp provisoire
 KAYAK|Canoë inuit|Palindrome nautique|Embarcation à pagaie double|Sport d'eaux vives
+# --- mots ajoutés (v3) ---
+CAR|Autocar|Parce que|___ de ramassage|Bus de voyage
+BUS|Autobus|Couloir de ___|Abribus|Liaison informatique
+RER|Réseau express régional|Train de banlieue francilien|Ligne A, B, C, D ou E|Il va à Disneyland
+VTT|Vélo tout-terrain|Bicyclette de montagne|Sport de descente|Deux-roues à suspensions
+TRAIN|___ de nuit|Rame|Il entre en gare|Mener la vie à grand ___
+CAMPINGCAR|Camping sur roues|Maison roulante|Véhicule de loisirs|Van aménagé
+VAN|Fourgon de voyage|Camionnette aménagée|Véhicule de surfeur|Transport de chevaux
+CANOE|Embarcation à pagaie|Kayak cousin|Descente de rivière|Bateau léger
+JETSKI|Scooter des mers|Moto aquatique|Engin nautique bruyant|Véhicule de plage
+CROISEUR|Navire de guerre|Bateau rapide|Grand bâtiment armé|Destroyer cousin
+CARGO|Navire de marchandises|Pantalon à poches|Porte-conteneurs|Transport de fret
+PORT|Havre|Celui de Marseille|Arriver à bon ___|Frais de ___
+PHARE|Celui d'Ouessant|Lumière côtière|Feux de voiture|Tour de l'estuaire de la Gironde
+CHALET|Maison de montagne|Maison en rondins|Refuge de bois|Location de ski
+REFUGE|Abri de montagne|Asile|Valeur ___|Lieu sûr
+GITE|Location de vacances|Hébergement à la campagne|Le ___ et le couvert|Morceau de bœuf
+PALACE|Hôtel de luxe|Ritz ou Crillon|Grand hôtel|Établissement cinq étoiles
+CHAMBRE|Pièce à coucher|Assemblée|Pièce où l'on dort|___ noire
+RESERVATION|Booking|Réserve indienne|Place retenue|Arrhes versées
+CHECKIN|Enregistrement|Formalité d'arrivée|Comptoir d'aéroport|Arrivée à l'hôtel
+SOUTE|Cale de l'avion|Bagages en ___|Réserve du navire|Compartiment inférieur
+HUBLOT|Fenêtre ronde|Fenêtre d'avion|Grosses lunettes|Œil-de-bœuf marin
+CABINE|Chambre de bateau|Celle d'essayage|Habitacle|Celle téléphonique
+TRANSAT|Chaise longue|Course transatlantique|Paquebot|Relax de plage
+BRONZAGE|Hâle|Teint doré|Coup de soleil réussi|Crème de ___
+PARASOL|Ombrelle de plage|Pin ___|Abri du soleil|Toile au mât

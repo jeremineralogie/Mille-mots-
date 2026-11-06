@@ -127,3 +127,31 @@ HETRE|Arbre au bois clair|Fayard|Sa faine se mange|Arbre des forêts d'Île-de-F
 TILLEUL|Sa tisane fait dormir|Arbre des places|Proust y trempait sa madeleine|Infusion du soir
 CERISIER|Le Japon fête sa floraison|Arbre à griottes|Sakura|Arbre fruitier rouge
 GUI|On s'embrasse dessous|Plante des druides|Parasite des pommiers|Boules blanches de Noël
+# --- mots ajoutés (v3) ---
+ORME|Arbre décimé par la graphiose|Attendez-moi sous l'___|Arbre des places de village|Bois de charronnage
+PIN|Arbre des Landes|Il donne des pignons|___ parasol|Pomme de ___
+FRENE|Arbre des manches d'outils|Yggdrasil en était un|Arbre aux samares|Bois de raquettes
+AULNE|Arbre des rives|Roi des ___ chez Goethe|Vergne|Bois qui rougit à la coupe
+NOYER|Arbre à cerneaux|Se ___ : couler|Bois de meubles foncé|Arbre du Périgord
+POMMIER|Il donne des reinettes|Arbre d'Ève|Arbre normand|Arbre du verger
+MIMOSA|Fleur jaune de février|Œuf ___|Fleur de Mandelieu|Acacia doré
+JASMIN|Fleur parfumée de Grasse|Thé au ___|Révolution tunisienne|Fleur blanche odorante
+PIVOINE|Grosse fleur rose|Rouge comme une ___|Fleur de Chine|Fleur de mai
+GLAIEUL|Fleur en épi|Fleur des bouquets de deuil|Iris des marais, parfois|Fleur à bulbe estival
+CAPUCINE|Fleur comestible orange|Religieuse franciscaine|Prénom de fille|Plante grimpante du potager
+PAQUERETTE|Petite marguerite des pelouses|Fleur des comptines|Au ras des ___|Fleur de Pâques
+BLEUET|Fleur bleue des blés|Symbole du souvenir des poilus|Jeune soldat de 1915|Centaurée
+LOTUS|Fleur sacrée d'Asie|Position de yoga|Voiture anglaise|Fleur qui sort de la vase
+ALGUE|Varech|Plante marine|Spiruline, par exemple|Elle forme des marées vertes
+LICHEN|Association d'algue et de champignon|Mousse des rochers|Nourriture du renne|Il colonise les pierres
+SEMENCE|Graine à semer|Petit clou de tapissier|Grain de blé|Base des récoltes
+SILLON|Trace de charrue|Ride|Rainure du disque|Le ___ du Talbert
+VERGER|Champ d'arbres fruitiers|Lieu de cueillette|Pommeraie|Jardin des fruits
+POTAGER|Jardin de légumes|Fourneau ancien|Carré de légumes|Où l'on cultive les tomates
+SERRE|Abri vitré|Effet de ___|Griffe d'aigle|Pressé, au féminin
+TERREAU|Terre enrichie|Ce qui favorise l'éclosion d'une idée|Substrat de rempotage|Humus du jardinier
+ARROSOIR|Récipient à pomme|Outil du jardinier|Il mouille les plantes|Il a une pomme percée
+SECATEUR|Outil de taille|Ciseaux du jardinier|Il coupe les roses|Lame courbe à ressort
+EPINE|Piquant de la rose|Tirer une ___ du pied|Dorsale|Couronne d'___
+FEUILLE|Partie verte de l'arbre|Page|Celle de chou|Trembler comme une ___
+TRONC|Corps de l'arbre|Boîte à aumônes de l'église|Partie du corps|___ commun

@@ -130,3 +130,31 @@ STALINGRAD|Bataille tournante de 1942-1943|Aujourd'hui Volgograd|Ville sur la Vo
 PEARLHARBOR|Base attaquée le 7 décembre 1941|Port hawaïen|Son attaque fit entrer les États-Unis en guerre|Rade d'Oahu
 MURAILLE|Celle de Chine est grande|Haut mur|Rempart|Rempart d'Hadrien
 TROIE|Ville au cheval de bois|Cité de Priam|Découverte par Schliemann|Ilion
+# --- mots ajoutés (v3) ---
+INDUS|Fleuve du Pakistan|Civilisation de Mohenjo-daro|Il naît au Tibet|Vallée antique
+PERSE|Empire de Darius|Ancien nom de l'Iran|Chat à poils longs|Saint-John ___, poète
+DARIUS|Roi perse vaincu par Alexandre|Grand roi achéménide|Il lança les guerres médiques|Bâtisseur de Persépolis
+XERXES|Roi des Thermopyles|Fils de Darius|Il fit fouetter la mer|Opéra de Haendel
+LEONIDAS|Roi des 300|Héros des Thermopyles|Spartiate sacrifié|Chocolatier belge
+OLYMPIE|Site des premiers Jeux|Sanctuaire de Zeus|Ville du Péloponnèse|On y allume la flamme
+SENAT|Assemblée des pères conscrits|SPQR, en partie|Curie romaine|Chambre des sages
+CONSUL|Magistrat romain|Diplomate à l'étranger|Bonaparte le fut|Il y en avait deux par an
+LEGION|Unité romaine|Celle d'honneur|Celle étrangère|Multitude
+AQUEDUC|Le pont du Gard en est un|Canal d'eau antique|Ouvrage à arches|Conduit romain
+CONSTANTIN|Empereur converti|Fondateur de Constantinople|Vainqueur du pont Milvius|Prénom d'empereurs byzantins
+JUSTINIEN|Empereur de Sainte-Sophie|Codificateur du droit|Époux de Théodora|Byzantin du VIe siècle
+MAHOMET|Prophète de l'islam|Né à La Mecque|Fondateur de l'Hégire|Muhammad
+CALIFE|Successeur du Prophète|Il voulait être ___ à la place du ___|Souverain de Bagdad|Haroun al-Rachid en était un
+SALADIN|Sultan de Jérusalem|Adversaire de Richard Cœur de Lion|Vainqueur de Hattin|Chevaleresque sultan kurde
+KHAN|Titre mongol|Caravansérail|Gengis ___|Koubilaï ___
+POLO|Marco, voyageur vénitien|Sport à cheval|Chemise à col|Volkswagen ___
+MING|Dynastie des vases bleus|Empire chinois de 1368|Bâtisseurs de la Cité interdite|Porcelaine prisée
+TUDOR|Dynastie d'Henri VIII|Style architectural anglais|Rose rouge et blanche|Famille d'Élisabeth Ire
+HENRIVIII|Roi aux six épouses|Créateur de l'anglicanisme|Père d'Élisabeth|Tudor décapiteur d'épouses
+PIZARRO|Conquistador du Pérou|Vainqueur d'Atahualpa|Francisco d'Estrémadure|Fondateur de Lima
+BOLIVAR|Libertador|Héros de l'indépendance sud-américaine|Pays à son nom|Simón de Caracas
+MEIJI|Ère de la modernisation japonaise|Empereur de 1868|Restauration impériale|Sanctuaire de Tokyo
+SOVIET|Conseil révolutionnaire|Union des républiques|Rouge ___|Suprême ___
+GOULAG|Camp soviétique|Archipel de Soljenitsyne|Travaux forcés|Système concentrationnaire
+CHE|Guevara|Révolutionnaire au béret|Ernesto argentin|Icône des t-shirts
+CASTRO|Fidel de Cuba|Líder Máximo|Barbu révolutionnaire|Frère de Raúl
