@@ -74,24 +74,39 @@ const modeUse = () => MODE_USE[CUR_MODE] || (MODE_USE[CUR_MODE] = new Uint8Array
 const useOf = c => clueUse.get(clueKey(c)) || 0;
 const free = w => (w.themes.has('cg') ? wordUse[w.id] < WORD_CAP : modeUse()[w.id] < 1) && w.clues.some(c => useOf(c) < CLUE_CAP);
 
+// lisibilité d'une définition : au moins 3 mots et 20 caractères, pas de texte à trous
+const readable = c => (c.split(/\s+/).length >= 3 ? 2 : 0) + (c.length >= 20 ? 1 : 0) - (c.includes('___') ? 1 : 0);
+const COMBO = new Map();   // définition affichée -> définitions qui la composent
 function pickClue(w, r, taken, short) {
   let avail = w.clues.filter(c => useOf(c) < CLUE_CAP && !taken.has(clueKey(c)));
   if (short) avail = avail.filter(c => c.length <= FLECHE_MAXLEN);
   if (!avail.length) return null;
   const mu = Math.min(...avail.map(useOf));
-  const best = avail.filter(c => useOf(c) === mu);
-  if (short) { best.sort((x, y) => x.length - y.length); return best[0] }
-  return w.hand ? best[0] : best[Math.floor(r() * Math.min(2, best.length))]; // les premières définitions sont les sens principaux
+  let best = avail.filter(c => useOf(c) === mu);
+  if (short) { best.sort((x, y) => readable(y) - readable(x) || x.length - y.length); return best[0] }
+  const top = Math.max(...best.map(readable));
+  best = best.filter(c => readable(c) === top);
+  const c = w.hand ? best[0] : best[Math.floor(r() * Math.min(2, best.length))]; // les premières définitions sont les sens principaux
+  if (readable(c) >= 3) return c;
+  // définition trop courte : on lui adjoint une deuxième définition du même mot
+  const k = clueKey(c);
+  const other = avail.filter(x => x !== c && x.length <= 50 && !clueKey(x).includes(k) && !k.includes(clueKey(x)))
+    .sort((x, y) => useOf(x) - useOf(y) || readable(y) - readable(x))[0];
+  if (!other) return c;
+  const combo = c + ' · ' + other;
+  COMBO.set(combo, [c, other]);
+  return combo;
 }
+const parts = c => COMBO.get(c) || [c];
 function assignClues(list, r, short) {
   const taken = new Set(), out = [];
-  for (const w of list) { const c = pickClue(w, r, taken, short); if (!c) return null; taken.add(clueKey(c)); out.push(c) }
+  for (const w of list) { const c = pickClue(w, r, taken, short); if (!c) return null; parts(c).forEach(x => taken.add(clueKey(x))); out.push(c) }
   return out;
 }
 function commit(words, clues) {
   const mu = modeUse();
   for (const w of words) { wordUse[w.id]++; mu[w.id]++ }
-  for (const c of clues) { if (!c) continue; const k = clueKey(c); clueUse.set(k, (clueUse.get(k) || 0) + 1) }
+  for (const c of clues) { if (!c) continue; for (const x of parts(c)) { const k = clueKey(x); clueUse.set(k, (clueUse.get(k) || 0) + 1) } }
 }
 
 /* ---------- Viviers : par thème et par niveau, échantillonnés au hasard ---------- */

@@ -75,6 +75,34 @@ OLD_REG = {'obsolete', 'archaic', 'very rare'}
 BAN_DOM = {'sexuality'}
 SKIP_DEF = re.compile(r"^(pluriel|féminin|masculin|variante|ancienne orthographe|orthographe|graphie|forme|participe|singulier|abréviation|apocope|aphérèse|diminutif|augmentatif|nom de famille|prénom|nom vernaculaire de plusieurs|ensemble des sens|personne de|habitant|habitante|commune|localité|ville|village|gentilé|relatif à|relative à|qui concerne|qui se rapporte|qui a rapport|qui appartient|qui est relatif|action de|fait de|état de ce qui est|caractère de ce qui est|qualité de ce qui est|première personne|deuxième personne|troisième personne|indicatif|subjonctif|impératif)\b", re.I)
 
+# Contexte affiché devant une définition trop elliptique : « Au tennis, coup frappé violemment vers le sol »
+LABEL = {
+ 'history': 'En histoire', 'archeology': 'En archéologie', 'paleontology': 'En paléontologie', 'nobility': 'Dans la noblesse', 'heraldry': 'En héraldique',
+ 'military': "Dans l'armée", 'numismatics': 'En numismatique', 'feudalism': 'Sous la féodalité', 'Egyptology': "Dans l'Égypte antique", 'fortification': 'En fortification', 'artillery': "Dans l'artillerie",
+ 'geography': 'En géographie', 'geology': 'En géologie', 'meteorology': 'En météorologie', 'mineralogy': 'En minéralogie', 'astronomy': 'En astronomie', 'glaciology': 'En glaciologie', 'volcanology': 'En volcanologie', 'oceanography': 'En océanographie', 'climatology': 'En climatologie', 'hydrology': 'En hydrologie', 'pedology': "En science des sols", 'petrography': 'En géologie',
+ 'chemistry': 'En chimie', 'biology': 'En biologie', 'biochemistry': 'En biochimie', 'mathematics': 'En mathématiques', 'geometry': 'En géométrie', 'algebra': 'En algèbre', 'arithmetic': 'En arithmétique', 'statistics': 'En statistique', 'logic': 'En logique', 'physics': 'En physique', 'electricity': 'En électricité', 'computing': 'En informatique', 'programming': 'En programmation', 'Internet': 'Sur Internet', 'telecommunications': 'En télécommunications', 'mechanical': 'En mécanique', 'metallurgy': 'En métallurgie', 'metrology': 'En métrologie', 'thermodynamics': 'En thermodynamique', 'crystallography': 'En cristallographie', 'microbiology': 'En microbiologie', 'robotics': 'En robotique', 'cryptography': 'En cryptographie', 'machining': 'En usinage',
+ 'medicine': 'En médecine', 'anatomy': 'En anatomie', 'surgery': 'En chirurgie', 'pharmacology': 'En pharmacie', 'physiology': 'En physiologie', 'oncology': 'En cancérologie', 'neurology': 'En neurologie', 'ophthalmology': 'En ophtalmologie', 'psychiatry': 'En psychiatrie', 'dentistry': 'En dentisterie', 'obstetrics': 'En obstétrique', 'dermatology': 'En dermatologie', 'pathology': 'En pathologie', 'immunology': 'En immunologie', 'epidemiology': 'En épidémiologie',
+ 'zoology': 'En zoologie', 'ornithology': 'En ornithologie', 'entomology': 'En entomologie', 'ichthyology': 'En ichtyologie', 'malacology': 'En malacologie', 'herpetology': 'En herpétologie', 'beekeeping': 'En apiculture', 'falconry': 'En fauconnerie', 'hunting': 'À la chasse', 'fishing': 'À la pêche', 'farriery': 'En maréchalerie', 'arachnology': 'En arachnologie',
+ 'botany': 'En botanique', 'agriculture': 'En agriculture', 'forestry': 'En sylviculture', 'mycology': 'En mycologie', 'horticulture': 'En horticulture', 'ecology': 'En écologie',
+ 'cuisine': 'En cuisine', 'cooking': 'En cuisine', 'beverages': 'Côté boissons', 'oenology': 'En œnologie', 'beer': 'En brasserie',
+ 'sports': 'En sport', 'cycling': 'En cyclisme', 'soccer': 'Au football', 'rugby': 'Au rugby', 'equestrianism': 'En équitation', 'martial-arts': 'Dans les arts martiaux', 'fencing': 'En escrime', 'games': 'Dans les jeux', 'chess': 'Aux échecs', 'tennis': 'Au tennis', 'golf': 'Au golf', 'basketball': 'Au basket', 'billiards': 'Au billard', 'boxing': 'En boxe', 'swimming': 'En natation', 'baseball': 'Au baseball', 'mountaineering': 'En alpinisme', 'judo': 'Au judo', 'diving': 'En plongée', 'wrestling': 'En lutte', 'volleyball': 'Au volley', 'handball': 'Au handball', 'skating': 'En patinage', 'bowling': 'Au bowling', 'archery': "En tir à l'arc", 'poker': 'Au poker', 'bridge': 'Au bridge', 'gambling': "Dans les jeux d'argent", 'bullfighting': 'En tauromachie', 'circus': 'Au cirque', 'motorcycling': 'En moto', 'juggling': 'En jonglerie', 'bodybuilding': 'En musculation',
+ 'art': 'En art', 'architecture': 'En architecture', 'literature': 'En littérature', 'poetry': 'En poésie', 'film': 'Au cinéma', 'theater': 'Au théâtre', 'photography': 'En photographie', 'comics': 'En bande dessinée', 'engraving': 'En gravure', 'typography': 'En typographie', 'calligraphy': 'En calligraphie',
+ 'music': 'En musique', 'dance': 'En danse',
+ 'mythology': 'Dans la mythologie', 'religion': 'En religion', 'Christianity': 'Chez les chrétiens', 'Catholicism': "Dans l'Église catholique", 'Islam': "Dans l'islam", 'theology': 'En théologie', 'Buddhism': 'Dans le bouddhisme', 'Protestantism': 'Chez les protestants', 'astrology': 'En astrologie', 'alchemy': 'En alchimie', 'occultism': 'En ésotérisme',
+ 'linguistic': 'En linguistique', 'grammar': 'En grammaire', 'rhetoric': 'En rhétorique', 'phonology': 'En phonologie', 'lexicography': 'En lexicographie',
+ 'nautical': 'En marine', 'transport': 'Dans les transports', 'railways': 'Dans les chemins de fer', 'aeronautics': 'En aéronautique', 'aviation': 'En aviation', 'automobile': 'En automobile', 'tourism': 'En tourisme',
+ 'law': 'En droit', 'politics': 'En politique', 'finance': 'En finance', 'commerce': 'Dans le commerce', 'accounting': 'En comptabilité', 'management': 'En gestion', 'business': 'En affaires', 'taxation': 'En fiscalité', 'insurance': 'En assurance', 'diplomacy': 'En diplomatie', 'marketing': 'En marketing', 'journalism': 'Dans la presse', 'police': 'Dans la police',
+}
+TLABEL = {'hist': 'En histoire', 'terre': 'En sciences de la Terre', 'sci': 'En sciences', 'corps': 'En médecine', 'ani': 'Chez les animaux', 'nat': 'En botanique',
+          'cui': 'En cuisine', 'sport': 'En sport', 'arts': 'Dans les arts', 'mus': 'En musique', 'myth': 'En religion', 'lang': 'En linguistique', 'voy': 'Dans les transports', 'soc': 'Dans la société'}
+CTX = re.compile(r"^(Au|Aux|En|Dans|Chez|À|Sur|Côté|Sous)\b", re.I)
+VAGUE = re.compile(r"^((En|Au|Aux|Dans) [^,]+, )?(jeu|sorte|espèce|genre|type|variété|race|plante|oiseau|poisson|arbre|vin|fromage|danse|monnaie|langue|insecte|fleur|arbuste|instrument|cépage|plat|gâteau|boisson)( d[e'’] ?[\wÀ-ÿ-]+)?$", re.I)
+def nwords(d): return len(re.findall(r"[\wÀ-ÿ'’-]+", d))
+def add_label(d, lab):
+    key = norm(lab.split()[-1])[:5]
+    if CTX.match(d) or key in norm(d): return d
+    return f"{lab}, {d[0].lower() + d[1:] if not d[1:2].isupper() else d}"
+
 def clean_def(d):
     d = re.sub(r'\{\{[^}]*\}\}|\[\[|\]\]|<[^>]+>', '', d)
     d = re.sub(r"\s*Note d['’]usage.*$", '', d)
@@ -99,6 +127,10 @@ def ok_def(d, ans, lemma):
     if not (8 <= len(d) <= 100): return False
     if BAD_WORDS.search(d): return False
     if SKIP_DEF.match(d): return False
+    if re.match(r"^(À|Au|Aux|En|Dans|Chez|Pour|Par|Avec|Sans|Sur)\b[^,]{0,28}$", d): return False      # fragment : « À la Réforme »
+    if re.match(r"^(Que|Qu'|Et|Ou|Mais|Donc|Car|Ni|Dont)\b", d): return False
+    if re.match(r"^(Comparatif|Superlatif|Contraire|Péjoratif|Mélioratif) d", d, re.I): return False
+    if re.search(r"\b(lui-même|elle-même|eux-mêmes|elles-mêmes|ci-dessus|susmentionné)\b", d, re.I): return False
     if re.search(r'[0-9]{3,}|[→=⁰¹²³⁴⁵⁶⁷⁸⁹]|https?:|\bvoir\b|\bvoyez\b|\bcf\b', d, re.I): return False
     if ANAPH.search(d) or LATIN.search(d) or PRON.match(d) or re.search(r'nom vernaculaire|[«»—]', d, re.I): return False
     toks = [norm(t) for t in re.split(r"[\s'’\-,;:.()«»\"/]+", d) if t]
@@ -156,7 +188,7 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
             # domaine du mot + un mot-clé du thème dans la définition
             m = [d for d in good if KW[t].search(d)]
             # mot à sens unique (une seule définition retenue) : le domaine suffit
-            if not m and len(good) == 1 and len(cands) == 1: m = good[:]
+            if not m and len(good) == 1 and len(cands) == 1 and len(defs) == 1: m = good[:]   # le domaine concerne bien ce sens
             if m: themes.add(t); tdef[t] = m
         if not themes:
             # sans domaine : au moins deux mots-clés différents du même thème dans la définition
@@ -173,7 +205,20 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
             first = min(themes, key=lambda t: good.index(tdef[t][0]))
             themes = {first}
         if themes:
-            good = tdef[next(iter(themes))][:3]
+            t = next(iter(themes))
+            good = tdef[t][:3]
+            spec = [x for x in doms if D2T.get(x) == t and x in LABEL]
+            # contexte devant la définition : le domaine précis s'il est unique, sinon le thème pour les définitions elliptiques
+            lab = LABEL[spec[0]] if len(set(LABEL[x] for x in spec)) == 1 else TLABEL[t]
+            generic = lab in TLABEL.values() or lab in ('En cuisine', 'Côté boissons', 'En sport', 'En religion')
+            good = [add_label(d, lab) if not KW[t].search(d) or (nwords(d) <= 4 and not generic) else d for d in good]
+        # définition trop maigre (1 ou 2 mots) : on l'associe à un autre sens court, sinon elle passe en dernier
+        weak = [d for d in good if nwords(d) <= 2 or VAGUE.match(d)]
+        if weak:
+            strong = [d for d in good if d not in weak]
+            if not strong and len(weak) >= 2 and len(weak[0]) + len(weak[1]) < 60 and norm(weak[0]) not in norm(weak[1]) and norm(weak[1]) not in norm(weak[0]): strong = [weak[0] + ' ; ' + weak[1][0].lower() + weak[1][1:]]
+            if not strong and (z < 3.5 or nwords(weak[0]) == 1 and z < 4.5): continue      # « Schottisch », « Escroquerie » : trop pauvre
+            good = strong + [d for d in weak if strong and d not in strong[0]]
         if rare:
             # mot rare (niveau Expert) : nom ou adjectif de 4 à 11 lettres, définition courte
             if len(ans) > 11 or len(ans) < 4 or pos not in ('noun', 'adjective'): continue
