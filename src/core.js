@@ -49,7 +49,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const fmtT=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
 const fmtN=n=>n.toLocaleString('fr-FR');
 const COST={letter:5,word:15};
-const P='mk2:';
+const P='mk3:';
 const todayStr=(d=new Date())=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
 const lvKey=(mode,tid,n)=>mode+'-'+tid+'-'+n;
 function getMode(){const m=store.get(P+'mode','cache');return MODES[m]?m:'cache'}

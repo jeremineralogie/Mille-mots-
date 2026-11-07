@@ -119,7 +119,8 @@ function sample(arr, n, r, ok) {
 }
 
 // Candidats d'une grille thématique : d'abord les mots du thème, complétés par du vocabulaire général
-const FILLER = id => id !== 'mix' && id !== 'cg';
+// Une grille thématique ne contient QUE des mots du thème (pas de remplissage par du vocabulaire général)
+const FILLER = id => false;
 function candidates(tid, d, n, r, ok, thMax = n) {
   const th = sample(poolFor(tid, d), FILLER(tid) ? Math.min(n, thMax) : n, r, ok);
   th.forEach(w => w._th = true);
@@ -127,6 +128,7 @@ function candidates(tid, d, n, r, ok, thMax = n) {
   const fill = sample(POOLS.cg[d], n - th.length, r, ok); fill.forEach(w => w._th = false);
   return th.concat(fill);
 }
+const THEMED = id => id !== 'mix' && id !== 'cg';
 const themedEnough = (tid, words) => !FILLER(tid) || (() => { const k = words.filter(w => w._th).length; return k >= 3 && k >= words.length * .3 })();
 
 /* ---------- Mots croisés / fléchés ---------- */
@@ -264,7 +266,7 @@ function genCache(tid, r, d) {
   const P = poolFor(tid, d), G = POOLS.mix[d];
   for (let att = 0; att < 12; att++) {
     const hid = sample(P, 1, r, w => w.a.length >= lens[0] && w.a.length <= lens[1])[0]; if (!hid) return null;
-    const local = sample(P, FILLER(tid) ? 45 : 700, r, w => w.a.length >= 4 && w.a.length <= 11 && w !== hid);
+    const local = sample(P, 900, r, w => w.a.length >= 4 && w.a.length <= 11 && w !== hid);
     let global = null;
     const used = new Set([hid.a]), rows = []; let prev = 2 + Math.floor(r() * 3), ok = true;
     for (const L of hid.a) {
@@ -276,7 +278,8 @@ function genCache(tid, r, d) {
         }
       };
       tryList(local, FILLER(tid) ? 3 : 8);
-      if (!best || bs < 1 || (FILLER(tid) && rows.filter(x => x.th).length >= Math.ceil(hid.a.length * .6))) { if (FILLER(tid) && best && rows.filter(x => x.th).length >= Math.ceil(hid.a.length * .6)) best = null, bs = -1e9; global = global || sample(POOLS.cg[d].length > 500 ? POOLS.cg[d] : G, 1500, r, w => w.a.length >= 4 && w.a.length <= 11 && w !== hid); tryList(global, 0) }
+      if (THEMED(tid) && !best) { ok = false; break }
+      if (!THEMED(tid) && (!best || bs < 1) || (FILLER(tid) && rows.filter(x => x.th).length >= Math.ceil(hid.a.length * .6))) { if (FILLER(tid) && best && rows.filter(x => x.th).length >= Math.ceil(hid.a.length * .6)) best = null, bs = -1e9; global = global || sample(POOLS.cg[d].length > 500 ? POOLS.cg[d] : G, 1500, r, w => w.a.length >= 4 && w.a.length <= 11 && w !== hid); tryList(global, 0) }
       if (!best) { ok = false; break }
       best.th = local.includes(best.w); used.add(best.w.a); rows.push(best); prev = best.p;
     }

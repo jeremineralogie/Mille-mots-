@@ -16,66 +16,55 @@ def norm(s):
     return re.sub(r'[^A-Z]', '', s)
 
 # Domaine du Wiktionnaire -> thème du jeu
+# Domaine du Wiktionnaire -> thème du jeu (thèmes regroupés pour rester assez fournis)
 DOM = {
- 'hm': 'history archeology anthropology ethnology paleontology',
- 'hf': 'nobility heraldry military numismatics',
- 'geo': 'geography geology hydrology cartography meteorology biogeography pedology mineralogy petrography',
- 'sci': 'chemistry biology biochemistry mathematics geometry metrology electricity science statistics logic topology microbiology virology histology embryology alchemy physics',
- 'corps': 'medicine anatomy surgery pharmacology physiology oncology neurology ophthalmology psychiatry dentistry psychology psychoanalysis',
- 'ani': 'zoology ornithology entomology ichthyology mammalogy malacology herpetology hunting falconry fishing',
- 'nat': 'botany agriculture ecology forestry mycology horticulture',
+ 'hist': 'history archeology anthropology ethnology paleontology nobility heraldry military numismatics',
+ 'terre': 'geography geology hydrology cartography meteorology biogeography pedology mineralogy petrography astronomy astronautics',
+ 'sci': 'chemistry biology biochemistry mathematics geometry metrology electricity science statistics logic topology microbiology virology histology embryology physics computing programming Internet telecommunications telephony technology technical mechanical metallurgy',
+ 'corps': 'medicine anatomy surgery pharmacology physiology oncology neurology ophthalmology psychiatry dentistry',
+ 'ani': 'zoology ornithology entomology ichthyology mammalogy malacology herpetology',
+ 'nat': 'botany agriculture forestry mycology horticulture',
  'cui': 'cuisine cooking beverages oenology',
- 'spo': 'sports cycling soccer rugby equestrianism martial-arts fencing bullfighting',
- 'cin': 'film theater photography circus',
+ 'sport': 'sports cycling soccer rugby equestrianism martial-arts fencing games chess',
+ 'arts': 'art arts architecture literature poetry film theater photography',
  'mus': 'music dance',
- 'lit': 'literature poetry typography editing',
- 'art': 'art arts architecture masonry carpentry furniture jewelry colorimetry construction',
- 'myth': 'mythology religion Christianity Catholicism Islam theology occultism astrology',
- 'actu': 'media journalism feminism sociology',
- 'tech': 'computing programming Internet telecommunications telephony technology technical mechanical metallurgy',
+ 'myth': 'mythology religion Christianity Catholicism Islam theology',
  'lang': 'linguistic grammar rhetoric',
- 'esp': 'astronomy astronautics',
- 'voy': 'nautical transport railways aeronautics aviation automobile tourism',
- 'vie': 'clothing sewing weaving hairdressing plumbing textiles',
- 'jeux': 'games chess',
- 'eco': 'law politics finance commerce accounting management marketing business education',
+ 'voy': 'nautical transport railways aeronautics aviation automobile',
+ 'soc': 'law politics finance commerce accounting management business',
 }
 D2T = {d: t for t, ds in DOM.items() for d in ds.split()}
-KW = {k: re.compile(v, re.I) for k, v in {
- 'ani': r"\b(animal|animaux|oiseau|poisson|insecte|mammifère|reptile|amphibien|mollusque|crustacé|espèce|ver|araignée|rongeur|serpent|chien|cheval|bovin|félin|singe|gibier|chasse|pêche|plumage|zoologie)",
- 'nat': r"\b(plante|arbre|arbuste|fleur|feuille|herbe|fruit|graine|champignon|végétal|racine|botanique|culture|jardin|forêt|bois|légume|céréale|algue|mousse)",
- 'cui': r"\b(plat|mets|cuisine|sauce|gâteau|pâtisserie|pain|viande|boisson|vin|fromage|aliment|recette|cuit|cuisson|potage|soupe|dessert|épice|liqueur|bière)",
- 'corps': r"\b(corps|organe|os|muscle|maladie|médecin|médical|inflammation|douleur|sang|nerf|peau|tumeur|infection|symptôme|médicament|chirurgi|lésion|cellule|tissu|glande|trouble|patient|soin)",
- 'sci': r"\b(chimi|composé|élément|atome|molécule|acide|sel|métal|physique|mathémati|nombre|fonction|équation|géométri|figure|unité|mesure|biologi|cellule|gène|enzyme|protéine|courant|électri|cristal)",
- 'geo': r"\b(roche|minéral|terrain|relief|montagne|vallée|fleuve|rivière|côte|mer|océan|île|sol|région|pays|climat|vent|pluie|nuage|carte|volcan|sédiment|glacier)",
- 'mus': r"\b(musique|musical|instrument|note|chant|chanson|danse|rythme|orchestre|accord|mélodie|ton|son|voix|air|opéra|compositeur)",
- 'myth': r"\b(dieu|déesse|divin|religi|église|prêtre|saint|culte|sacré|liturgi|biblique|mytholog|démon|ange|prière|âme|islam|chrétien|moine|messe|rite)",
- 'eco': r"\b(droit|loi|juridique|tribunal|juge|contrat|impôt|taxe|argent|monnaie|banque|commerce|marché|prix|vente|entreprise|politique|parti|élection|vote|état|gouvernement|budget|crédit|dette|finance)",
- 'tech': r"\b(informatique|ordinateur|logiciel|programme|réseau|machine|appareil|outil|pièce|mécani|moteur|métal|technique|électronique|données|internet|fichier|signal)",
- 'voy': r"\b(navire|bateau|marin|mer|voile|mât|cordage|port|véhicule|voiture|train|avion|aérien|route|voyage|transport|wagon|chemin de fer)",
- 'art': r"\b(art|peinture|peintre|sculpt|dessin|architect|bâtiment|édifice|construction|ornement|décor|style|mur|toit|voûte|colonne|meuble|bijou|couleur|pierre)",
- 'hm': r"\b(antique|antiquité|ancien|histoire|historique|empire|romain|grec|peuple|civilisation|préhistori|siècle|dynastie|médiéval|tribu)",
- 'hf': r"\b(noble|seigneur|roi|royal|chevalier|blason|héraldi|armoiries|militaire|soldat|armée|troupe|guerre|fief|féodal|monnaie|régiment)",
- 'spo': r"\b(sport|joueur|équipe|match|course|coureur|cheval|ballon|balle|terrain|compétition|athlète|escrime|lutte|boxe|ski|vélo|cycliste|cavalier)",
- 'cin': r"\b(film|cinéma|théâtre|scène|acteur|spectacle|photographi|caméra|cirque|décor|rôle|représentation)",
- 'lit': r"\b(poème|poésie|poète|vers|littéraire|roman|écrivain|livre|texte|récit|imprim|typograph|caractère|page|édition)",
- 'lang': r"\b(mot|langue|linguisti|grammaire|grammatical|phrase|verbe|nom|lettre|syllabe|son|figure de style|discours|sens)",
- 'esp': r"\b(astre|étoile|planète|ciel|céleste|lune|soleil|espace|spatial|orbite|galaxie|comète|satellite|astronom)",
- 'jeux': r"\b(jeu|jouer|joueur|carte|pion|échecs|dé|partie|jouet|enfant)",
- 'actu': r"\b(société|social|média|journal|presse|information|féminis|militant|actualité)",
- 'vie': r"\b(vêtement|tissu|étoffe|couture|coudre|tissage|fil|cheveux|coiffure|plomberie|tuyau)",
-}.items()}
+def kw(words):  # mots entiers (pluriel accepté) ; un « * » final autorise une racine
+    parts = [w[:-1] + r'\w*' if w.endswith('*') else w + 's?' for w in words.split()]
+    return re.compile(r"\b(" + '|'.join(parts) + r")\b", re.I)
+# La définition AFFICHÉE doit contenir un de ces mots pour que le mot entre dans le thème
+KW = {
+ 'hist': kw("antique antiquité histoire historique empire empereur romain grec gaulois peuple civilisation préhistori* dynastie médiéval moyen-âge seigneur roi reine royal noble noblesse chevalier blason armoiries héraldi* militaire soldat armée guerre bataille fief féodal légion pharaon tribu monarchie révolution"),
+ 'terre': kw("roche minéral* terrain relief montagne vallée fleuve rivière côte mer océan île sol climat vent pluie volcan* sédiment* glacier géolog* géograph* désert plateau lac golfe littoral astre étoile planète ciel céleste lune soleil galaxie comète satellite astronom* orbite séisme"),
+ 'sci': kw("chimi* composé élément atome molécule acide métal physique mathémati* équation géométri* biologi* gène enzyme protéine électri* cristal ion électron laboratoire scientifique formule théorème informatique ordinateur logiciel programme réseau machine appareil mécani* moteur électronique numérique"),
+ 'corps': kw("corps organe os muscle maladie médecin médical* inflammation douleur sang nerf nerveux peau tumeur infection symptôme médicament chirurgi* lésion glande patient soin cœur poumon foie rein cerveau articulation vertèbre fièvre virus santé"),
+ 'ani': kw("animal animaux oiseau poisson insecte mammifère reptile amphibien mollusque crustacé araignée rongeur serpent chien cheval bovin félin singe gibier plumage zoologi* larve chenille papillon coléoptère cétacé rapace passereau ruminant lézard"),
+ 'nat': kw("plante arbre arbuste arbrisseau fleur feuille herbe fruit graine champignon végétal* botani* jardin forêt légume céréale algue mousse fougère tige bourgeon"),
+ 'cui': kw("plat mets cuisine culinaire sauce gâteau pâtisserie pain viande boisson vin fromage aliment alimentaire recette cuit cuisson potage soupe dessert épice liqueur bière confiserie charcuterie farine beurre sucre cuisiner"),
+ 'sport': kw("sport sportif joueur équipe match course coureur ballon balle compétition athlète escrime lutte boxe ski vélo cycliste jeu jouer pion échecs cartes"),
+ 'arts': kw("art artiste peinture peintre sculpt* dessin architect* bâtiment édifice ornement décor style colonne voûte poème poésie poète vers littéraire roman écrivain livre récit film cinéma théâtre scène acteur spectacle photographi*"),
+ 'mus': kw("musique musical* instrument chant chanson danse danseur rythme orchestre mélodie opéra compositeur note accord"),
+ 'myth': kw("dieu déesse divin* divinité religi* église prêtre saint culte sacré liturgi* biblique bible mytholog* démon ange prière moine messe rite fabuleux légendaire"),
+ 'lang': kw("mot langue linguisti* grammaire grammatical* phrase verbe syllabe lettre locution expression figure discours"),
+ 'voy': kw("navire bateau marin maritime voile mât cordage véhicule voiture train avion aérien voyage transport wagon automobile embarcation"),
+ 'soc': kw("droit loi juridique tribunal juge contrat impôt taxe argent monnaie banque commerce commercial marché prix vente entreprise politique parti élection vote gouvernement budget crédit dette finance financier économi* social société"),
+}
+# Définitions qui ouvrent sur une catégorie sans ambiguïté
 STRONG = {k: re.compile(v, re.I) for k, v in {
- 'ani': r"^(oiseau|poisson|insecte|mammifère|reptile|amphibien|mollusque|crustacé|araignée|serpent|lézard|papillon|coléoptère|rongeur|ruminant|cétacé|rapace|passereau|petit animal|grand animal|animal)\b",
- 'nat': r"^(plante|arbre|arbuste|arbrisseau|fleur|herbe|champignon|algue|fougère|graminée|conifère|liane|variété de)\b",
- 'cui': r"^(plat|mets|sauce|gâteau|pâtisserie|potage|soupe|boisson|vin|liqueur|fromage|confiserie|friandise|bonbon|ragoût|charcuterie|pain|biscuit)\b",
- 'corps': r"^(maladie|inflammation|affection|tumeur|os|muscle|organe|glande|médicament|trouble|lésion|douleur)\b",
- 'mus': r"^(instrument de musique|instrument|danse|chant|air|morceau|composition musicale|pièce musicale)\b",
- 'myth': r"^(divinité|dieu|déesse|démon|génie|nymphe|monstre fabuleux|être fabuleux|créature)\b",
- 'geo': r"^(roche|minéral|vent|relief|cours d'eau)\b",
- 'spo': r"^(sport|joueur|joueuse|athlète)\b",
- 'jeux': r"^(jeu|jouet)\b",
+ 'ani': r"^(oiseau|poisson|insecte|mammifère|reptile|amphibien|mollusque|crustacé|araignée|serpent|lézard|papillon|coléoptère|rongeur|ruminant|cétacé|rapace|passereau|petit animal|grand animal|animal|espèce d'oiseau|espèce de poisson|genre d'oiseau|genre d'insecte)\b",
+ 'nat': r"^(plante|arbre|arbuste|arbrisseau|fleur|herbe|champignon|algue|fougère|graminée|conifère|liane|espèce de plante|genre de plantes?)\b",
+ 'cui': r"^(plat|mets|sauce|gâteau|pâtisserie|potage|soupe|boisson|vin|liqueur|fromage|confiserie|friandise|bonbon|ragoût|charcuterie|biscuit|préparation culinaire)\b",
+ 'corps': r"^(maladie|inflammation|tumeur|os|muscle|organe|glande|médicament)\b",
+ 'mus': r"^(instrument de musique|danse|chant|composition musicale|pièce musicale|morceau de musique)\b",
+ 'myth': r"^(divinité|dieu|déesse|démon|nymphe|monstre fabuleux|être fabuleux|créature fabuleuse)\b",
+ 'terre': r"^(roche|minéral|vent|cours d'eau|étoile|planète|constellation)\b",
 }.items()}
+METIER = re.compile(r"^(personne|celui|celle|ouvrier|ouvrière|artisan|artisane|spécialiste|professionnel|professionnelle|employé|employée|marchand|marchande|technicien|technicienne|fabricant|fabricante)\b[^.]*\b(fabrique|fabriquent|vend|vendent|répare|métier|profession|professionnellement|soigne|enseigne|entretient|cultive|élève|construit|confectionne|travaille)\b", re.I)
 BAD_WORDS = re.compile(r"\b(sexe|sexuel|sexuelle|érection|pénis|vagin|vulve|coït|masturb|prostitu|pornogra|testicule|anus|fesses|sodom|copul|orgasme|nazi|raciste|injure|insulte)", re.I)
 STOP = set('NAZI NAZIE NAZISME HITLERIEN NEGRE NEGRESSE BOUGNOULE YOUPIN PUTE SALOPE CONNARD CONNASSE ENCULE BITE CHATTE NIQUER BAISER BAISE DES LES UNE UNS AUX CES SES MES TES NOS VOS LEUR LEURS QUI QUE QUOI DONT MAIS DONC NOUS VOUS ELLE ELLES ILS EUX LUI MOI TOI SOI CELA CECI CET CETTE AVEC SANS POUR PAR SUR SOUS DANS CHEZ VERS ENTRE TRES PLUS MOINS AUSSI BIEN TOUT TOUS TOUTE TOUTES RIEN'.split())
 ANAPH = re.compile(r"\b(cette|cet|ces|ce dernier|cette dernière|celle-ci|celui-ci|ceux-ci|ledit|ladite|ce sens|ce mot|ce terme|cette espèce|cet animal|cette plante)\b", re.I)
@@ -84,7 +73,6 @@ PRON = re.compile(r"^(Il|Elle|Je|Tu|Nous|Vous|Ils|Elles|J'|C'est|Ce sont) ")
 BAN_REG = {'vulgar', 'offensive', 'very-familiar'}
 OLD_REG = {'obsolete', 'archaic', 'very rare'}
 BAN_DOM = {'sexuality'}
-METIER = re.compile(r"^(personne|celui|celle|homme|femme|ouvrier|ouvrière|artisan|spécialiste|professionnel|professionnelle|employé|employée|marchand|marchande|technicien|technicienne|fabricant|fabricante|médecin|ingénieur)\b.*\b(qui|chargée?|dont le métier|de métier|exerce|fabrique|vend|répare|travaille|soigne|enseigne)\b", re.I)
 SKIP_DEF = re.compile(r"^(pluriel|féminin|masculin|variante|ancienne orthographe|orthographe|graphie|forme|participe|singulier|abréviation|apocope|aphérèse|diminutif|augmentatif|nom de famille|prénom|nom vernaculaire de plusieurs|ensemble des sens|personne de|habitant|habitante|commune|localité|ville|village|gentilé|relatif à|relative à|qui concerne|qui se rapporte|qui a rapport|qui appartient|qui est relatif|action de|fait de|état de ce qui est|caractère de ce qui est|qualité de ce qui est|première personne|deuxième personne|troisième personne|indicatif|subjonctif|impératif)\b", re.I)
 
 def clean_def(d):
@@ -155,30 +143,42 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         if not good: continue
         good.sort(key=lambda x: x.lower().startswith('synonyme de'))   # « Synonyme de … » en dernier recours
         if len(ans) == 3 and (z < 3 or re.match(r'(organisme|sigle|acronyme|abréviation)', good[0], re.I)): continue
-        themes = set()
-        sc = int(row['sense_count'] or 1)
-        for dm in doms:
-            t = D2T.get(dm)
-            if not t: continue
-            if (sc <= 2 and len(doms) <= 2) or (t in KW and KW[t].search(good[0])): themes.add(t)
+        # Thème : il faut que la définition affichée relève du thème (domaine + mot-clé, ou ouverture sans ambiguïté)
+        themes = set(); tdef = {}
+        cands = {D2T[d] for d in doms if d in D2T}
+        for t in cands:
+            m = [d for d in good if KW[t].search(d[:40])]
+            if m: themes.add(t); tdef[t] = m
         for t, rx in STRONG.items():
-            if rx.match(good[0]): themes.add(t)
-        if pos == 'noun' and METIER.match(good[0]): themes.add('vie')
+            m = [d for d in good if rx.match(d)]
+            if m: themes.add(t); tdef[t] = m + [d for d in tdef.get(t, []) if d not in m]
+        if pos == 'noun':
+            m = [d for d in good if METIER.match(d)]
+            if m: themes.add('soc'); tdef['soc'] = m   # métiers : thème Société & métiers
+        if len(themes) > 1:   # un seul thème : celui de la définition principale
+            first = min(themes, key=lambda t: good.index(tdef[t][0]))
+            themes = {first}
+        if themes:
+            good = tdef[next(iter(themes))][:3]
         if rare:
             # mot rare (niveau Expert) : nom ou adjectif de 4 à 11 lettres, définition courte
             if len(ans) > 11 or len(ans) < 4 or pos not in ('noun', 'adjective'): continue
-            sc = int(row['sense_count'] or 1)
-            themes = {D2T[d] for d in doms if d in D2T} if len(doms) <= 2 else themes
             good = [d for d in good if len(d) <= 80][:2]
             if not good: continue
             z = 0.5
-        if not themes: themes.add('cg')  # vocabulaire général : Culture générale
         w = words.get(ans)
         if w is None:
-            words[ans] = w = {'z': z, 't': set(), 'd': []}
-        w['z'] = max(w['z'], z); w['t'] |= themes
+            words[ans] = w = {'z': z, 't': set(), 'd': [], 'td': None}
+        w['z'] = max(w['z'], z)
+        if themes and w['td'] is None:          # la première entrée thématique (la plus fréquente) fixe le thème
+            w['td'] = (next(iter(themes)), good)
         for d in good:
             if len(w['d']) < 4 and d not in w['d']: w['d'].append(d)
+
+# Un seul thème par mot ; un mot thématique ne garde que ses définitions thématiques
+for w in words.values():
+    if w['td']: w['t'] = {w['td'][0]}; w['d'] = w['td'][1][:3]
+    else: w['t'] = {'cg'}
 
 with gzip.open(OUT, 'wt', encoding='utf-8') as out:
     for a, w in words.items():

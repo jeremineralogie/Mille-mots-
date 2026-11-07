@@ -276,3 +276,6 @@ svg{display:block}
 .lv .more{margin-top:12px;width:100%}
 .loading{padding:60px 16px;text-align:center;font-family:var(--display);font-size:20px;color:var(--muted);display:grid;gap:14px;justify-items:center}
 .foot a{color:var(--gold)}
+
+/* bandeau de définition : 3 lignes au plus, pour laisser la place à la grille */
+.cb-t span{display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}

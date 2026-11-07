@@ -149,9 +149,10 @@ function playCache(ctx,C,back){
     for(const k in els){const e=els[k];e.firstChild.textContent=S.fill[k]||'';e.classList.toggle('cur',k===sr+','+sc);e.classList.toggle('rev',!!S.rev[k])}
     const w=C.rows[sr];ui.body.querySelector('#cb-t').innerHTML=`<b>${sr+1}</b><span>${esc(w.clue)}</span><i>${w.a.length} lettres</i>`;
     ui.body.querySelector('#mys').innerHTML=`<span class="m-l">Mot mystère</span><span class="m-w">${C.rows.map((w,r)=>{const v=S.fill[r+','+w.p];return `<i class="${v?'f':''}">${v||''}</i>`}).join('')}</span>`;
-    board.classList.toggle('solved',S.done)}
+    board.classList.toggle('solved',S.done);const on=board.querySelector('.crow.on');if(on&&on.closest('.stage.scroll'))on.scrollIntoView({block:'nearest',inline:'nearest'})}
   function fit(){const st=ui.body.querySelector('#stage').getBoundingClientRect();const wide=st.width>=620;const clw=wide?Math.min(300,Math.floor(st.width*.36)):0,gap=4,pad=26;
-    const cs=Math.max(20,Math.floor(Math.min((st.width-pad-clw-(clw?8:0)-(W-1)*gap)/W,(st.height-pad-(R-1)*gap)/R,54)));
+    let cs=Math.floor(Math.min((st.width-pad-clw-(clw?8:0)-(W-1)*gap)/W,(st.height-pad-(R-1)*gap)/R,54));
+    const sEl=ui.body.querySelector('#stage'),scroll=cs<22;if(scroll)cs=22;sEl.classList.toggle('scroll',scroll);
     board.style.setProperty('--cs',cs+'px');board.style.setProperty('--clw',clw+'px');board.classList.toggle('wide',wide)}
   const firstEmpty=r=>{const k=ks(r).find(k=>!S.fill[k]);return k?+k.split(',')[1]:0};
   function go(r,c){sr=(r+R)%R;sc=c==null?firstEmpty(sr):Math.max(0,Math.min(C.rows[sr].a.length-1,c));paint()}
@@ -217,8 +218,9 @@ function playGrid(ctx,G,back){
   // En mots fléchés, une case-définition doit rester lisible : en dessous de MINQ px, la grille devient défilable.
   const MINQ=38;
   function fit(){const st=stage.getBoundingClientRect();const gap=fl?2:3,pad=26;
-    let cs=Math.max(18,Math.floor(Math.min((st.width-pad-(G.W-1)*gap)/G.W,(st.height-pad-(G.H-1)*gap)/G.H,fl?64:56)));
-    const scroll=fl&&cs<MINQ;if(scroll)cs=MINQ;
+    let cs=Math.floor(Math.min((st.width-pad-(G.W-1)*gap)/G.W,(st.height-pad-(G.H-1)*gap)/G.H,fl?64:56));
+    // trop serré : la grille garde des cases lisibles et devient défilable, au lieu de déborder sur le clavier
+    const MINC=fl?MINQ:22,scroll=cs<MINC;if(scroll)cs=MINC;
     stage.classList.toggle('scroll',scroll);grid.style.setProperty('--cs',cs+'px');if(scroll)follow()}
   function follow(){if(!stage.classList.contains('scroll'))return;const e=wordAt(sel,dir),ks=cellsOf(e);
     const first=els[ks[0]],last=els[ks[ks.length-1]],cur=els[sel],q=grid.querySelector(`.qq[data-e="${e.i}"]`);
@@ -322,9 +324,10 @@ function playAna(ctx,A,back){
     ui.body.querySelector('#cb-t').innerHTML=`<b>${sr+1}</b><span>${esc(w.clue)}</span><i>${w.a.length} lettres</i>`;
     tray.innerHTML=rowOk(sr)?`<p class="tray-ok">Trouvé : <b>${w.a}</b></p>`:S.ord[sr].map(j=>`<button class="lt${used.has(j)?' used':''}" data-j="${j}" ${used.has(j)?'disabled aria-hidden="true"':''}>${w.s[j]}</button>`).join('');
     tray.style.setProperty('--n',w.a.length);
-    board.classList.toggle('solved',S.done)}
+    board.classList.toggle('solved',S.done);const on=board.querySelector('.crow.on');if(on&&on.closest('.stage.scroll'))on.scrollIntoView({block:'nearest',inline:'nearest'})}
   function fit(){const st=ui.body.querySelector('#stage').getBoundingClientRect();const wide=st.width>=620;const clw=wide?Math.min(300,Math.floor(st.width*.38)):0,gap=4,pad=26;
-    const cs=Math.max(18,Math.floor(Math.min((st.width-pad-clw-(clw?8:0)-(Wm-1)*gap)/Wm,(st.height-pad-(R-1)*gap)/R,48)));
+    let cs=Math.floor(Math.min((st.width-pad-clw-(clw?8:0)-(Wm-1)*gap)/Wm,(st.height-pad-(R-1)*gap)/R,48));
+    const sEl=ui.body.querySelector('#stage'),scroll=cs<20;if(scroll)cs=20;sEl.classList.toggle('scroll',scroll);
     board.style.setProperty('--cs',cs+'px');board.style.setProperty('--clw',clw+'px');board.classList.toggle('wide',wide)}
   const nextOpen=()=>{for(let i=1;i<=R;i++){const r=(sr+i)%R;if(!rowOk(r))return r}return sr};
   function go(r){sr=(r+R)%R;paint()}

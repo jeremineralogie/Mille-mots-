@@ -1,3 +1,4 @@
+# ===== ancien thème : hf =====
 GAULOIS|Peuple de Vercingétorix
 ALESIA|Siège perdu par Vercingétorix en 52 av. J.-C.
 CLOVIS|Roi franc baptisé à Reims
@@ -161,3 +162,164 @@ EVIAN|Accords de 1962|Ville d'eaux|Bord du Léman|Ses accords mirent fin à la g
 POMPIDOU|Georges, normalien président|Successeur de de Gaulle|Il imagina Beaubourg|Président mort en 1974
 CHIRAC|Jacques, maire de Paris|Président de 1995 à 2007|Il aimait la tête de veau|Corrézien du non à l'Irak
 GISCARD|Valéry, président en 1974|VGE|Il passa la majorité à 18 ans|Il jouait de l'accordéon
+# ===== ancien thème : hm =====
+PHARAON|Souverain de l'Égypte antique
+CLEOPATRE|Dernière reine de l'Égypte ptolémaïque
+TOUTANKHAMON|Pharaon dont la tombe fut découverte en 1922
+HIEROGLYPHE|Signe de l'écriture égyptienne
+CHAMPOLLION|Il déchiffra les hiéroglyphes
+SUMER|Civilisation de Mésopotamie, berceau de l'écriture
+CUNEIFORME|Écriture en forme de clous
+BABYLONE|Cité d'Hammourabi
+ATHENES|Cité de Périclès
+SPARTE|Cité grecque guerrière
+ALEXANDRE|Conquérant macédonien, élève d'Aristote
+CESAR|Il franchit le Rubicon
+ROME|Fondée selon la légende en 753 av. J.-C.
+POMPEI|Ville ensevelie par le Vésuve en 79
+CARTHAGE|Cité d'Hannibal
+HANNIBAL|Il franchit les Alpes avec des éléphants
+BYZANCE|Ancien nom de Constantinople
+VIKINGS|Navigateurs scandinaves
+ATTILA|Roi des Huns
+GENGIS|___ Khan, fondateur de l'Empire mongol
+VENISE|République de Marco Polo
+COLOMB|Il atteint l'Amérique en 1492
+MAGELLAN|Son expédition fit le premier tour du monde
+AZTEQUES|Peuple de Tenochtitlan
+INCAS|Empire andin de Cuzco
+MAYAS|Civilisation du Yucatán
+CORTES|Conquistador du Mexique
+GUTENBERG|Inventeur de l'imprimerie à caractères mobiles
+LUTHER|Initiateur de la Réforme protestante
+REFORME|Mouvement religieux du XVIe siècle
+ELISABETH|Reine d'Angleterre de 1558 à 1603
+WASHINGTON|Premier président des États-Unis
+INDEPENDANCE|Déclarée par les États-Unis en 1776
+LINCOLN|Président qui abolit l'esclavage
+SECESSION|Guerre américaine de 1861-1865
+LENINE|Chef de la révolution d'Octobre
+STALINE|Dirigeant soviétique de 1924 à 1953
+TSAR|Titre de l'empereur de Russie
+CHURCHILL|Premier ministre britannique en 1940
+HIROSHIMA|Ville bombardée le 6 août 1945
+GANDHI|Apôtre indien de la non-violence
+MANDELA|Président sud-africain élu en 1994
+APARTHEID|Ségrégation officielle en Afrique du Sud
+BERLIN|Ville dont le mur tomba en 1989
+FROIDE|Guerre ___, entre l'Est et l'Ouest
+KENNEDY|Président assassiné à Dallas en 1963
+GAGARINE|Premier homme dans l'espace
+MAO|Fondateur de la Chine populaire
+SAMOURAI|Guerrier du Japon féodal
+SHOGUN|Chef militaire du Japon féodal
+PERICLES|Stratège d'Athènes au Ve siècle av. J.-C.
+SOCRATE|Philosophe condamné à boire la ciguë
+OTTOMAN|Empire dont Istanbul fut la capitale
+SULTAN|Souverain ottoman
+TITANIC|Paquebot qui sombra en 1912
+SARAJEVO|Ville d'un attentat en juin 1914
+TRAITE|Celui de Versailles fut signé en 1919
+SPOUTNIK|Premier satellite artificiel, en 1957
+# --- définitions supplémentaires ---
+PHARAON|Il reposait dans une pyramide|Roi-dieu des bords du Nil|Ramsès en était un
+CLEOPATRE|Amante de César puis d'Antoine|Reine mordue par un aspic|Son nez aurait changé la face du monde selon Pascal
+TOUTANKHAMON|Son masque d'or est au Caire|Pharaon enfant de la XVIIIe dynastie|Howard Carter ouvrit sa tombe
+HIEROGLYPHE|Écriture sacrée gravée|Caractère indéchiffrable, par extension|Il orne les obélisques
+CHAMPOLLION|Déchiffreur de la pierre de Rosette|Égyptologue né à Figeac|Jean-François, linguiste prodige
+SUMER|Pays d'Ur et d'Uruk|Pays de Gilgamesh|Civilisation des tablettes d'argile
+CUNEIFORME|Écriture des scribes mésopotamiens|Gravée au calame sur l'argile|En forme de coin
+BABYLONE|Ville de la tour biblique|Ses jardins suspendus étaient une merveille|Cité de Nabuchodonosor
+ATHENES|Cité d'Athéna|Berceau de la démocratie|Capitale avec l'Acropole
+SPARTE|Cité de Léonidas|Rivale d'Athènes|Ville à l'éducation austère
+ALEXANDRE|Il trancha le nœud gordien|Le Grand, roi de Macédoine|Son cheval s'appelait Bucéphale
+CESAR|« Veni, vidi, vici »|Assassiné aux ides de mars|Rendez-lui ce qui est à lui
+ROME|Ville aux sept collines|Tous les chemins y mènent|Elle ne s'est pas faite en un jour
+POMPEI|Ses habitants furent figés dans la cendre|Ville romaine de Campanie|Pline l'Ancien mourut près d'elle
+CARTHAGE|Cité punique détruite en 146 av. J.-C.|« Il faut détruire ___ », disait Caton|Ville fondée par Didon
+HANNIBAL|Vainqueur à Cannes en 216 av. J.-C.|Général carthaginois|Ennemi juré de Rome
+BYZANCE|Empire romain d'Orient|C'est ___ ! : quel luxe !|Cité du Bosphore
+VIKINGS|Pillards à drakkars|Ils fondèrent la Normandie|Erik le Rouge en faisait partie
+ATTILA|Fléau de Dieu|Là où passait son cheval, l'herbe ne repoussait pas|Vaincu aux champs Catalauniques
+GENGIS|Premier nom du grand khan mongol|Khan conquérant|Témudjin devenu ___ Khan
+VENISE|Cité des Doges|Ville des gondoles|La Sérénissime
+COLOMB|Christophe, découvreur de l'Amérique|Navigateur de la Santa María|Il cherchait les Indes
+MAGELLAN|Navigateur portugais au service de l'Espagne|Un détroit porte son nom|Il mourut aux Philippines
+AZTEQUES|Peuple de Moctezuma|Ils adoraient Quetzalcoatl|Empire vaincu par Cortés
+INCAS|Peuple du Machu Picchu|Empire d'Atahualpa|Adorateurs du Soleil andins
+MAYAS|Peuple de Chichén Itzá|Leur calendrier finissait en 2012, disait-on|Civilisation des pyramides de Tikal
+CORTES|Hernán, vainqueur des Aztèques|Conquistador d'Estrémadure|Parlement espagnol
+GUTENBERG|Il imprima la Bible à Mayence|Johannes, imprimeur|La galaxie ___ selon McLuhan
+LUTHER|Il afficha ses 95 thèses|Moine de Wittenberg|Martin ___ King
+REFORME|Changement de loi|Protestantisme naissant|Retrait du service militaire pour inaptitude
+ELISABETH|La Reine vierge|Fille d'Henri VIII|Sissi, impératrice d'Autriche
+WASHINGTON|Capitale fédérale américaine|George, sur le billet d'un dollar|État de Seattle
+INDEPENDANCE|Autonomie totale|Fête nationale américaine du 4 juillet|Guerre d'___ de l'Algérie
+LINCOLN|Président à haut-de-forme|Assassiné au théâtre Ford|Abe, seizième président
+SECESSION|Séparation d'une partie d'un État|Guerre entre le Nord et le Sud|Mouvement viennois de Klimt
+LENINE|Vladimir Ilitch Oulianov|Son mausolée est sur la place Rouge|Fondateur de l'URSS
+STALINE|Le Petit Père des peuples|Homme d'acier soviétique|Vainqueur de Stalingrad
+TSAR|Nicolas II en fut le dernier|Souverain russe|Ivan le Terrible en était un
+CHURCHILL|« Du sang, de la peine, des larmes et de la sueur »|Winston au cigare|Prix Nobel de littérature 1953
+HIROSHIMA|Première ville frappée par la bombe A|Ville japonaise mon amour chez Duras|Cité de Honshu
+GANDHI|Le Mahatma|Meneur de la marche du sel|Père de la nation indienne
+MANDELA|Madiba|Prisonnier de Robben Island|Prix Nobel de la paix 1993
+APARTHEID|Séparation raciale légale|Régime aboli en 1991|Ségrégation sud-africaine
+BERLIN|Son mur fut érigé en 1961|Ville de la porte de Brandebourg|Capitale coupée en deux
+FROIDE|Pas chaude|Guerre sans combat direct|Qui manque de chaleur humaine
+KENNEDY|JFK|« Ich bin ein Berliner »|Président de la crise des missiles
+GAGARINE|Youri, cosmonaute de 1961|Pionnier de Vostok 1|Héros soviétique de l'espace
+MAO|Le Grand Timonier|Auteur du Petit Livre rouge|Zedong
+SAMOURAI|Guerrier au sabre|Il suivait le bushido|Le dernier, chez Tom Cruise
+SHOGUN|Généralissime japonais|Les Tokugawa portèrent ce titre|Il gouvernait au nom de l'empereur
+PERICLES|Son siècle fut l'âge d'or d'Athènes|Il fit bâtir le Parthénon|Orateur athénien
+SOCRATE|Maître de Platon|« Connais-toi toi-même »|Il ne savait qu'une chose : qu'il ne savait rien
+OTTOMAN|Canapé ou empire|Turc d'autrefois|Soliman le Magnifique l'était
+SULTAN|Il possède un harem|Titre de Saladin|Monarque du Brunei
+TITANIC|Navire du film de James Cameron|Insubmersible, disait-on|Il heurta un iceberg
+SARAJEVO|Capitale de la Bosnie-Herzégovine|Ville de l'assassinat de François-Ferdinand|Ville olympique de 1984
+TRAITE|Accord entre États|Commerce des esclaves|Gâteau ou vache, selon la ___
+SPOUTNIK|Compagnon de route en russe|Bip-bip venu de l'espace|Il lança la course à l'espace
+# --- nouveaux mots ---
+ACROPOLE|Rocher sacré d'Athènes|Ville haute grecque|Site du Parthénon|Citadelle antique
+PARTHENON|Temple d'Athéna Parthénos|Chef-d'œuvre de Phidias|Il domine Athènes|Monument dorique de l'Acropole
+GLADIATEUR|Combattant du cirque|Spartacus en était un|Film de Ridley Scott|Rétiaire ou mirmillon
+SPARTACUS|Esclave révolté contre Rome|Gladiateur thrace|Héros de Kubrick|Crucifié avec ses compagnons
+NERON|Empereur accusé d'avoir incendié Rome|Il jouait de la lyre|Élève de Sénèque|« Quel artiste périt avec moi ! »
+AUGUSTE|Premier empereur romain|Octave devenu empereur|Clown au nez rouge|Il a donné son nom au mois d'août
+MOCTEZUMA|Empereur aztèque|Sa vengeance frappe les touristes|Il reçut Cortés|Souverain de Tenochtitlan
+CONQUISTADOR|Pizarro en était un|Conquérant espagnol|Aventurier du Nouveau Monde|Chercheur d'Eldorado
+MEDICIS|Famille de Florence|Laurent le Magnifique en fut|Catherine de ___, reine de France|Mécènes de la Renaissance
+VERSAILLES|Traité de paix de 1919|Château de la galerie des Glaces|Cité royale des Yvelines|Ville de la Galerie des Batailles
+STALINGRAD|Bataille tournante de 1942-1943|Aujourd'hui Volgograd|Ville sur la Volga|Défaite allemande majeure
+PEARLHARBOR|Base attaquée le 7 décembre 1941|Port hawaïen|Son attaque fit entrer les États-Unis en guerre|Rade d'Oahu
+MURAILLE|Celle de Chine est grande|Haut mur|Rempart|Rempart d'Hadrien
+TROIE|Ville au cheval de bois|Cité de Priam|Découverte par Schliemann|Ilion
+# --- mots ajoutés (v3) ---
+INDUS|Fleuve du Pakistan|Civilisation de Mohenjo-daro|Il naît au Tibet|Vallée antique
+PERSE|Empire de Darius|Ancien nom de l'Iran|Chat à poils longs|Saint-John ___, poète
+DARIUS|Roi perse vaincu par Alexandre|Grand roi achéménide|Il lança les guerres médiques|Bâtisseur de Persépolis
+XERXES|Roi des Thermopyles|Fils de Darius|Il fit fouetter la mer|Opéra de Haendel
+LEONIDAS|Roi des 300|Héros des Thermopyles|Spartiate sacrifié|Chocolatier belge
+OLYMPIE|Site des premiers Jeux|Sanctuaire de Zeus|Ville du Péloponnèse|On y allume la flamme
+SENAT|Assemblée des pères conscrits|SPQR, en partie|Curie romaine|Chambre des sages
+CONSUL|Magistrat romain|Diplomate à l'étranger|Bonaparte le fut|Il y en avait deux par an
+LEGION|Unité romaine|Celle d'honneur|Celle étrangère|Multitude
+AQUEDUC|Le pont du Gard en est un|Canal d'eau antique|Ouvrage à arches|Conduit romain
+CONSTANTIN|Empereur converti|Fondateur de Constantinople|Vainqueur du pont Milvius|Prénom d'empereurs byzantins
+JUSTINIEN|Empereur de Sainte-Sophie|Codificateur du droit|Époux de Théodora|Byzantin du VIe siècle
+MAHOMET|Prophète de l'islam|Né à La Mecque|Fondateur de l'Hégire|Muhammad
+CALIFE|Successeur du Prophète|Il voulait être ___ à la place du ___|Souverain de Bagdad|Haroun al-Rachid en était un
+SALADIN|Sultan de Jérusalem|Adversaire de Richard Cœur de Lion|Vainqueur de Hattin|Chevaleresque sultan kurde
+KHAN|Titre mongol|Caravansérail|Gengis ___|Koubilaï ___
+POLO|Marco, voyageur vénitien|Sport à cheval|Chemise à col|Volkswagen ___
+MING|Dynastie des vases bleus|Empire chinois de 1368|Bâtisseurs de la Cité interdite|Porcelaine prisée
+TUDOR|Dynastie d'Henri VIII|Style architectural anglais|Rose rouge et blanche|Famille d'Élisabeth Ire
+HENRIVIII|Roi aux six épouses|Créateur de l'anglicanisme|Père d'Élisabeth|Tudor décapiteur d'épouses
+PIZARRO|Conquistador du Pérou|Vainqueur d'Atahualpa|Francisco d'Estrémadure|Fondateur de Lima
+BOLIVAR|Libertador|Héros de l'indépendance sud-américaine|Pays à son nom|Simón de Caracas
+MEIJI|Ère de la modernisation japonaise|Empereur de 1868|Restauration impériale|Sanctuaire de Tokyo
+SOVIET|Conseil révolutionnaire|Union des républiques|Rouge ___|Suprême ___
+GOULAG|Camp soviétique|Archipel de Soljenitsyne|Travaux forcés|Système concentrationnaire
+CHE|Guevara|Révolutionnaire au béret|Ernesto argentin|Icône des t-shirts
+CASTRO|Fidel de Cuba|Líder Máximo|Barbu révolutionnaire|Frère de Raúl

@@ -1,0 +1,445 @@
+# ===== ancien thème : eco =====
+PRESIDENT|Chef de l'État
+MINISTRE|Membre du gouvernement
+DEPUTE|Élu de l'Assemblée nationale
+SENATEUR|Élu du palais du Luxembourg
+ELYSEE|Palais du président de la République
+MATIGNON|Hôtel du Premier ministre
+ASSEMBLEE|___ nationale
+SENAT|Chambre haute du Parlement
+CONSTITUTION|Loi fondamentale
+LOI|Elle est votée par le Parlement
+DECRET|Acte du gouvernement
+BUDGET|Prévision des recettes et des dépenses
+IMPOT|Contribution obligatoire
+TVA|Taxe sur la valeur ajoutée
+TAXE|Prélèvement fiscal
+SALAIRE|Rémunération du travail
+EMPLOI|Travail
+CHOMAGE|Situation de qui cherche un emploi
+CROISSANCE|Hausse du PIB
+BANQUE|Établissement de crédit
+BOURSE|Marché des actions
+ACTION|Part du capital d'une société
+CREDIT|Prêt
+EPARGNE|Argent mis de côté
+DETTE|Somme due
+MONNAIE|Moyen de paiement
+DOLLAR|Monnaie des États-Unis
+YEN|Monnaie du Japon
+LIVRE|___ sterling
+FRANC|Ancienne monnaie française
+ENTREPRISE|Société commerciale
+USINE|Lieu de production industrielle
+COMMERCE|Échange de marchandises
+MARCHE|Lieu de l'offre et de la demande
+CLIENT|Acheteur
+FACTURE|Document à régler
+PROFIT|Bénéfice
+FAILLITE|Cessation de paiements
+SYNDICAT|Il défend les salariés
+PATRON|Chef d'entreprise
+CONTRAT|Accord signé
+LIBERTE|Premier mot de la devise française
+EGALITE|Deuxième mot de la devise française
+FRATERNITE|Troisième mot de la devise française
+REPUBLIQUE|Régime politique de la France
+DEMOCRATIE|Pouvoir du peuple
+CITOYEN|Membre d'un État
+MAIRIE|Hôtel de ville
+PREFET|Représentant de l'État dans le département
+REGION|La France en compte 18
+DEPARTEMENT|La Gironde en est un
+BRUXELLES|Siège de la Commission européenne
+STRASBOURG|Siège du Parlement européen
+SMIC|Salaire minimum
+PIB|Produit intérieur brut
+INFLATION|Hausse générale des prix
+# --- définitions supplémentaires ---
+PRESIDENT|Chef de l'État|Celui du jury|Il préside
+MINISTRE|Celui de l'Intérieur|Locataire d'un ministère|Excellence
+DEPUTE|Il vote les lois|Parlementaire élu au suffrage direct|Membre de la Chambre basse
+SENATEUR|Sage du Luxembourg|Élu au suffrage indirect|Membre de la Chambre haute
+ELYSEE|Champs-___|Palais du faubourg Saint-Honoré|Château présidentiel
+MATIGNON|Rue de Varenne|Ses accords de 1936 accordèrent des congés|Hôtel du chef du gouvernement
+ASSEMBLEE|Réunion|Hémicycle|Réunion des actionnaires
+SENAT|Celui de Rome|Palais du Luxembourg|Seconde chambre
+CONSTITUTION|Santé physique|Celle de 1958|Formation
+LOI|Celle du plus fort|Règle juridique|Elle est dure, mais c'est elle
+DECRET|Décision de Dieu, au figuré|Décision réglementaire|Arrêté
+BUDGET|Moyens alloués|Il est voté chaque automne|Enveloppe
+IMPOT|Il se paie en fin d'année|Contribution directe|Celui sur le revenu
+TVA|Elle est de 20 %|Taxe du consommateur|Elle est récupérable pour les entreprises
+TAXE|Celle d'habitation a disparu|Redevance|Droit à payer
+SALAIRE|Paie|Traitement|Fiche de paie
+EMPLOI|Poste|Usage|Mode d'___
+CHOMAGE|Inactivité forcée|France Travail s'en occupe|Indemnités
+CROISSANCE|Développement|Elle se mesure en % du PIB|Hormone de ___
+BANQUE|Celle de France|Établissement de dépôt|Faire sauter la ___
+BOURSE|Celle d'études|Porte-monnaie|Palais Brongniart
+ACTION|Acte|Film d'___|Part d'entreprise
+CREDIT|Celui immobilier|Confiance accordée|Avoir du ___ : être écouté
+EPARGNE|Livret A|Économies|Bas de laine
+DETTE|Celle publique|Ardoise|Obligation de rembourser
+MONNAIE|Rendre la ___|Pièces|Devise nationale
+DOLLAR|Billet vert|Monnaie du Canada aussi|Signe $
+YEN|Monnaie nippone|Désir ardent en anglais|Monnaie au symbole ¥
+LIVRE|Ouvrage|Unité de poids d'un demi-kilo|Monnaie anglaise
+FRANC|Sincère|Monnaie suisse|Ancien guerrier germanique
+ENTREPRISE|Société|Initiative audacieuse|PME
+USINE|Fabrique|Manufacture|Ville-___
+COMMERCE|Boutique|Négoce|Il est agréable avec qui le pratique
+MARCHE|Celui de Noël|Pas cadencé|Démarche, allure
+CLIENT|Le roi, dit-on|Acheteur fidèle|Patient d'un avocat
+FACTURE|Note|Qualité d'exécution|Douloureuse
+PROFIT|Gain|Tirer ___|Avantage
+FAILLITE|Banqueroute|Échec total|Dépôt de bilan
+SYNDICAT|CGT ou CFDT|Celui d'initiative informe les touristes|Groupement de défense
+PATRON|Modèle en couture|Saint protecteur|Chef
+CONTRAT|CDI ou CDD|Engagement écrit|Celui de mariage
+LIBERTE|Elle guide le peuple chez Delacroix|Indépendance|Statue de New York
+EGALITE|Parité|Match nul|Signe =
+FRATERNITE|Solidarité|Lien entre frères|Valeur républicaine
+REPUBLIQUE|Œuvre de Platon|La Ve, en France|Place parisienne
+DEMOCRATIE|Régime né à Athènes|Gouvernement du peuple|Système des élections libres
+CITOYEN|Électeur|Membre de la cité|Aux armes, ___ !
+MAIRIE|Maison commune|On s'y marie|Hôtel de la commune
+PREFET|Haut fonctionnaire en uniforme|Représentant de l'État en préfecture|Il siège en préfecture
+REGION|Occitanie, par exemple|Contrée|Zone
+DEPARTEMENT|Il a un numéro|Service d'une entreprise|Collectivité créée en 1790
+BRUXELLES|Ville de l'Atomium|Capitale belge|Ville des choux
+STRASBOURG|Ville de la cathédrale à une flèche|Préfecture du Bas-Rhin|Ville du marché de Noël
+SMIC|Salaire plancher|Revalorisé chaque 1er janvier|Minimum légal
+PIB|Mesure de la richesse produite|Indicateur économique|Production annuelle d'un pays
+INFLATION|Envolée des prix|Perte de valeur de la monnaie|Celle de 1923 en Allemagne fut folle
+# --- nouveaux mots ---
+CAPITALISME|Économie de marché|Système d'Adam Smith|Libéralisme économique|Propriété privée des moyens de production
+SOCIALISME|Doctrine de Jaurès|Collectivisme modéré|Idéal de justice sociale|Courant de gauche
+SUFFRAGE|Vote|Celui universel|Approbation|Celui des femmes date de 1944 en France
+PREAMBULE|Introduction solennelle|Avant-propos|Celui de 1946|Entrée en matière
+LOBBY|Groupe de pression|Hall d'hôtel|Influence organisée|Cabinet d'influence
+MONOPOLE|Exclusivité|Seul vendeur|Situation sans concurrent|Celui de l'État
+FISC|Administration des impôts|Trésor public|Il traque la fraude|Service des contributions
+EURO|Devise de vingt pays|Monnaie de la BCE|Pièce de deux couleurs|Billet de cinquante
+ACTIONNAIRE|Porteur de titres|Associé d'une société anonyme|Il touche des dividendes|Propriétaire de parts
+DIVIDENDE|Part de bénéfice|Revenu d'action|Nombre qu'on divise|Rémunération de l'actionnaire
+RECESSION|Baisse de l'activité|Crise économique|Croissance négative|Ralentissement prolongé
+# --- mots ajoutés (v3) ---
+ETAT|Nation organisée|Coup d'___|Condition|___ des lieux
+NATION|Peuple et territoire|Place parisienne|Peuple souverain|Hymne de la ___
+VOTE|Scrutin|Bulletin dans l'urne|Droit de ___|___ blanc
+URNE|Boîte du scrutin|Vase funéraire|Aller aux ___s|Réceptacle électoral
+ISOLOIR|Cabine électorale|Rideau du bureau de vote|Lieu du choix secret|Il garantit le secret
+MAIRE|Premier magistrat de la commune|Il marie|Écharpe tricolore|Élu municipal
+CONSEIL|Avis|Recommandation|___ des ministres|Assemblée délibérante
+LOIS|Règles votées|Ensemble législatif|Prénom de la fiancée de Superman|Codes
+JUSTICE|Vertu|Institution judiciaire|Palais de ___|Rendre ___
+TRIBUNAL|Cour|Juridiction|Celui de commerce|Il juge
+PRIX|Coût|Récompense|À tout ___|___ Nobel
+MARGE|Bénéfice commercial|Bord de page|Vivre en ___|Latitude
+TAUX|Pourcentage|___ d'intérêt|___ de chômage|Ratio
+INTERET|Attrait|Rémunération du prêt|___ général|Avantage
+PRET|Emprunt|Disposé|Somme avancée|Emprunt bancaire
+LOYER|Prix de la location|Il se paie chaque mois|Bail|Quittance
+BAIL|Contrat de location|Ça fait un ___ : longtemps|Location contractuelle|Durée locative
+SALARIE|Employé|Il touche un salaire|Il a un contrat de travail|Personnel
+CADRE|Encadrant d'entreprise|Bordure de tableau|Contexte|___ de vie
+GREVISTE|Celui qui débraye|Piquet de grève|Manifestant syndical|Il cesse le travail
+SECU|Sécurité sociale|Carte Vitale|Assurance maladie|Trou de la ___
+RETRAITE|Pension|Âge légal de départ|Battre en ___|Fin de carrière
+BOURSIER|Étudiant aidé|Agent de change|Relatif à la Bourse|Indice ___
+CAC|Indice de la Bourse de Paris|___ 40|Commissaire aux comptes|Il cote quarante valeurs
+EUROPE|Union de vingt-sept pays|Vieux Continent|Radio ___ 1|Princesse enlevée
+SCHENGEN|Espace de libre circulation|Village luxembourgeois|Accords de 1985|Frontières ouvertes
+COMMISSION|Pourcentage de l'intermédiaire|Pourboire de l'agent|Course à faire|Groupe d'étude
+# ===== ancien thème : actu =====
+PARIS|Ville des Jeux olympiques de 2024
+VASQUE|Celle de 2024 s'élevait au-dessus des Tuileries
+NOTREDAME|Cathédrale rouverte en décembre 2024
+INCENDIE|Il ravagea Notre-Dame en avril 2019
+PANDEMIE|Épidémie à l'échelle mondiale
+CONFINEMENT|Mesure de 2020 contre le Covid
+MASQUE|Il couvre le nez et la bouche
+VACCIN|Il protège contre une maladie
+TELETRAVAIL|Travail depuis chez soi
+INFLATION|Hausse générale des prix
+CLIMAT|Sujet central des COP
+CANICULE|Vague de forte chaleur
+TRANSITION|___ énergétique
+EOLIENNE|Elle produit de l'électricité grâce au vent
+SOLAIRE|Panneau ___
+ELECTRIQUE|Voiture ___, sans moteur thermique
+RECYCLAGE|Seconde vie des déchets
+BIODIVERSITE|Diversité du vivant
+GIEC|Groupe d'experts de l'ONU sur le climat
+COP|Conférence annuelle de l'ONU sur le climat
+ACCORD|___ de Paris sur le climat, en 2015
+BREXIT|Sortie du Royaume-Uni de l'UE
+UKRAINE|Pays envahi par la Russie en 2022
+KIEV|Capitale de l'Ukraine
+ELECTION|Vote pour désigner des élus
+REFERENDUM|Vote par oui ou par non
+PARLEMENT|Assemblée qui vote les lois
+EUROPEEN|Parlement ___, siégeant à Strasbourg
+ALGORITHME|Suite d'instructions d'un programme
+CHATBOT|Robot conversationnel
+SMARTPHONE|Téléphone intelligent
+RESEAUX|___ sociaux
+INFLUENCEUR|Créateur de contenus suivi en ligne
+PODCAST|Émission audio à la demande
+STREAMING|Diffusion en continu
+INTOX|Fausse information
+BITCOIN|Cryptomonnaie créée en 2009
+TROTTINETTE|Engin électrique des villes
+VELO|Deux-roues à pédales
+COVOITURAGE|Partage de trajets en voiture
+SOBRIETE|___ énergétique, moins consommer
+ARTEMIS|Programme de la NASA de retour sur la Lune
+STARLINK|Constellation de satellites de SpaceX
+WEBB|Télescope spatial James ___, lancé en 2021
+RUGBY|Sa Coupe du monde 2023 se joua en France
+PAPE|Léon XIV l'est devenu en 2025
+GREVE|Arrêt collectif du travail
+RETRAITE|Sa réforme agita la France en 2023
+EUROVISION|Concours européen de la chanson
+VIRAL|Se dit d'un contenu très partagé
+APPLI|Programme de téléphone, en abrégé
+CYBERATTAQUE|Offensive informatique
+# --- définitions supplémentaires ---
+PARIS|Ville de la Cité|Ville qui accueillit les JO pour la troisième fois|Ville du périphérique
+VASQUE|Bassin d'une fontaine|Lavabo évasé|Coupe de la flamme olympique
+NOTREDAME|Cathédrale de Quasimodo|Cathédrale de l'île de la Cité|Son point zéro mesure les distances de France
+INCENDIE|Feu de forêt, par exemple|Sinistre|Les pompiers le maîtrisent
+PANDEMIE|Celle de grippe espagnole fit des millions de morts|Fléau planétaire|Covid-19, par exemple
+CONFINEMENT|Restez chez vous !|Isolement imposé|Attestation de sortie obligatoire
+MASQUE|Il se porte au carnaval|Celui de beauté hydrate|Tomber le ___
+VACCIN|Il a une version ARN messager|Il se fait en centre ou en pharmacie|Rappel
+TELETRAVAIL|Home office|Il évite les transports|Réunion en visio
+INFLATION|Gonflement|Elle rogne le pouvoir d'achat|La BCE la combat
+CLIMAT|Ambiance|Temps moyen d'une région|Il se réchauffe
+CANICULE|Celle de 2003 fut meurtrière|Alerte rouge chaleur|Fournaise estivale
+TRANSITION|Passage d'un état à un autre|Enchaînement de deux idées|Mutation écologique
+EOLIENNE|Moulin moderne|Pale tournante en mer|Énergie du vent
+SOLAIRE|Système de l'astre du jour|Crème ___|Plexus ___
+ELECTRIQUE|Survolté|Ambiance chargée|Guitare de Jimi Hendrix
+RECYCLAGE|Tri sélectif|Formation de remise à niveau|Seconde vie
+BIODIVERSITE|Richesse du vivant|Elle s'effondre selon l'IPBES|Variété des espèces
+GIEC|Ses rapports alertent sur le réchauffement|Prix Nobel de la paix 2007|Groupe intergouvernemental du climat
+COP|Policier en anglais|La 21e fut à Paris|Sommet climatique
+ACCORD|Harmonie musicale|D'___ !|Celui de Paris vise 1,5 °C
+BREXIT|Divorce européen de 2020|Choix de 52 % des Britanniques|Départ de Londres de l'Union
+UKRAINE|Pays de Zelensky|Grenier à blé de l'Europe|Pays de la place Maïdan
+KIEV|Kyiv|Ville sur le Dniepr|Poulet à l'ail
+ELECTION|Scrutin|Celle présidentielle est au suffrage direct|Terre d'___
+REFERENDUM|Celui de 2005 dit non à la Constitution européenne|Consultation populaire|Plébiscite
+PARLEMENT|Assemblée nationale et Sénat|Il siège à Westminster|Il délibère
+EUROPEEN|Habitant du Vieux Continent|De l'UE|Conseil ___
+ALGORITHME|Il trie les fils d'actualité|Procédure de calcul|Recommandation automatique
+CHATBOT|Assistant virtuel|Agent conversationnel|IA qui répond par écrit
+SMARTPHONE|Ordiphone|iPhone ou Android|Téléphone à écran tactile
+RESEAUX|Toiles|Filets|Lignes de transport
+INFLUENCEUR|Il fait des placements de produit|Star d'Instagram|Il a des abonnés
+PODCAST|Baladodiffusion|Émission à écouter en marchant|Programme audio
+STREAMING|Netflix en est un service|Lecture sans téléchargement|Diffusion en flux
+INTOX|Infox|Désinformation|Rumeur trompeuse
+BITCOIN|Monnaie de Satoshi Nakamoto|Pièce virtuelle|Crypto star
+TROTTINETTE|Patinette|Engin à guidon|Elle fut bannie en libre-service à Paris
+VELO|Petite reine|Bicyclette|Vélib'
+COVOITURAGE|BlaBlaCar|Trajet partagé|Voiture pleine
+SOBRIETE|Modération|Fait de ne pas boire|Simplicité volontaire
+ARTEMIS|Mission lunaire américaine|Déesse grecque sœur d'Apollon|Programme de la NASA
+STARLINK|Internet par satellites|Réseau d'Elon Musk|Constellation en orbite basse
+WEBB|James ___, successeur de Hubble|Télescope infrarouge|Œil spatial au point de Lagrange
+RUGBY|Ballon ovale|Sport de l'Ovalie|Sport des All Blacks
+PAPE|Souverain pontife|Chef du Vatican|Saint-Père
+GREVE|Plage de sable|Débrayage|Place de ___, devenue de l'Hôtel-de-Ville
+RETRAITE|Fin de carrière|Repli d'une armée|Lieu de recueillement
+EUROVISION|Concours de chansons|Il fit connaître ABBA|Concours télévisé de mai
+VIRAL|Qui se propage|Buzz|Relatif à un virus
+APPLI|Logiciel mobile|Programme du store|App
+CYBERATTAQUE|Piratage massif|Rançongiciel en action|Attaque numérique
+# --- nouveaux mots ---
+DEEPFAKE|Hypertrucage|Fausse vidéo réaliste|Trucage par IA|Montage trompeur
+INTELLIGENCE|Faculté de comprendre|___ artificielle|Service de renseignement|Esprit vif
+RANCONGICIEL|Ransomware|Logiciel qui exige une rançon|Pirate qui chiffre vos fichiers|Il paralyse les hôpitaux
+VISIO|Réunion à distance|Appel vidéo|Zoom, par exemple|Conférence par écran
+NUMERIQUE|Digital|Relatif au chiffre|Fracture ___|Ère des écrans
+TROPICALE|Nuit ___ : trop chaude|Forêt ___|Chaleur moite|Région ___
+PLASTIQUE|Matière qui pollue les océans|Explosif malléable|Beauté physique|Arts ___
+ELECTEUR|Il glisse un bulletin|Votant|Citoyen inscrit|Membre du corps électoral
+DEPUTE|Élu de l'Assemblée|Parlementaire|Il siège au Palais-Bourbon|Représentant d'une circonscription
+# --- mots ajoutés (v3) ---
+CARBONE|Bilan ___|Empreinte ___|Taxe ___|Neutralité ___
+NUCLEAIRE|Énergie des centrales|Armes atomiques|Famille ___ : parents et enfants|Énergie de fission
+SECHERESSE|Manque d'eau|Restrictions d'arrosage|Sol craquelé|Aridité
+INONDATION|Crue|Débordement|Déluge local|Vigilance rouge pluie-___
+TEMPETE|Ciaran en fut une en 2023|Vent violent|Une ___ dans un verre d'eau|Tourmente
+INCENDIES|Feux de forêt|Ils ravagèrent le Canada en 2023|Sinistres|Pompiers mobilisés
+ZADISTE|Militant de Notre-Dame-des-Landes|Occupant d'une zone à défendre|Opposant aux grands projets|Militant des bassines
+GILETJAUNE|Manifestant de 2018|Il occupait les ronds-points|Porteur du vêtement fluo|Révolte contre la taxe carbone
+MANIF|Défilé de rue|Cortège syndical|Rassemblement de protestation|Manifestation, en court
+SONDAGE|Enquête d'opinion|Ifop ou Ipsos|Forage|Coup de sonde
+CANDIDAT|Prétendant à l'élection|Postulant|Il passe un examen|Il fait campagne
+MACRON|Président élu en 2017|Emmanuel d'Amiens|Fondateur d'En marche|Signe sur une voyelle longue
+ELYSEE|Palais du chef de l'État|Champs mythiques|Ses jardins s'ouvrent aux journées du patrimoine|Faubourg Saint-Honoré
+OTAN|Alliance atlantique|NATO en anglais|Elle a son siège à Bruxelles|Organisation née en 1949
+GAZA|Bande côtière|Territoire palestinien|Ville de la Méditerranée orientale|Zone de conflit depuis 2023
+ZELENSKY|Président ukrainien|Ancien comédien|Volodymyr|Chef de guerre en t-shirt kaki
+TIKTOK|Réseau de vidéos courtes|Application chinoise|Plateforme des danses virales|Tic-tac en anglais
+INSTAGRAM|Réseau des photos carrées|Insta|Il appartient à Meta|Plateforme des stories
+MUSK|Elon de Tesla|Patron de SpaceX|Propriétaire de X|Parfum animal
+NETFLIX|Plateforme de séries|Service de streaming|Il a produit Squid Game|N rouge
+VAPOTEUSE|Cigarette électronique|E-cigarette|Puff, par exemple|Elle produit des volutes
+FASTFASHION|Mode jetable|Shein en est l'emblème|Vêtements vite produits|Mode à bas prix et polluante
+INFOX|Fake news|Fausse nouvelle|Désinformation|Intox
+TRUMP|Donald, président américain|Atout en anglais|Magnat de l'immobilier|Il fut élu en 2016 et 2024
+# ===== ancien thème : vie =====
+BOULANGER|Il fait le pain
+BOUCHER|Il vend la viande
+FACTEUR|Il distribue le courrier
+POMPIER|Il éteint les incendies
+POLICIER|Gardien de la paix
+PLOMBIER|Il répare les fuites
+MACON|Il monte les murs
+MENUISIER|Il travaille le bois
+ELECTRICIEN|Il installe les circuits
+JARDINIER|Il entretient les plantes
+COIFFEUR|Il coupe les cheveux
+AVOCAT|Il plaide au tribunal
+NOTAIRE|Il rédige les actes de vente immobilière
+JUGE|Il rend la justice
+ARCHITECTE|Il dessine les bâtiments
+INGENIEUR|Il conçoit des solutions techniques
+VETERINAIRE|Médecin des animaux
+DENTISTE|Il soigne les caries
+PHARMACIEN|Il délivre les médicaments
+INSTITUTEUR|Maître d'école
+PROFESSEUR|Il enseigne au collège
+JOURNALISTE|Il informe le public
+AGRICULTEUR|Il cultive la terre
+VIGNERON|Il cultive la vigne
+PECHEUR|Il attrape des poissons
+CUISINIER|Il prépare les plats
+CAISSIER|Il encaisse au supermarché
+CORDONNIER|Il répare les chaussures
+HORLOGER|Il répare les montres
+BIJOUTIER|Il vend des bagues
+FLEURISTE|Il compose des bouquets
+MARIN|Homme de mer
+SOLDAT|Militaire
+SECRETAIRE|Il gère le courrier et l'agenda
+COMPTABLE|Il tient les comptes
+BANQUIER|Il prête de l'argent
+PEINTRE|Il peint
+MUSICIEN|Il joue d'un instrument
+COUTURIER|Créateur de mode
+TAILLEUR|Il coud les costumes sur mesure
+FORGERON|Il bat le fer
+POTIER|Il façonne l'argile
+APICULTEUR|Il élève des abeilles
+BERGER|Il garde les moutons
+CHAUFFEUR|Il conduit le véhicule
+LIVREUR|Il apporte les colis
+GARAGISTE|Il répare les voitures
+MECANICIEN|Il répare les moteurs
+DETECTIVE|Enquêteur privé
+SERRURIER|Il ouvre les portes claquées
+RAMONEUR|Il nettoie les cheminées
+CHARPENTIER|Il pose la charpente
+TRADUCTEUR|Il passe d'une langue à l'autre
+METEOROLOGUE|Il prévoit le temps
+# --- définitions supplémentaires ---
+BOULANGER|Il se lève tôt|Artisan de la baguette|Mitron, son apprenti
+BOUCHER|Il manie le hachoir|Obstruer|Artisan de l'étal
+FACTEUR|Il fait sa tournée à vélo jaune|Élément d'un produit|Préposé de La Poste
+POMPIER|Soldat du feu|Style académique pompeux|Sapeur
+POLICIER|Flic|Roman ___|Agent
+PLOMBIER|Il débouche les canalisations|Artisan du chauffage|Il est polonais dans un débat célèbre
+MACON|Ville de Bourgogne|Franc-___|Il gâche le mortier
+MENUISIER|Ébéniste cousin|Artisan des portes et fenêtres|Il utilise le rabot
+ELECTRICIEN|Il tire des câbles|Artisan des tableaux électriques|Il connaît les ampères
+JARDINIER|Paysagiste|Celui de Versailles fut Le Nôtre|Il taille les haies
+COIFFEUR|Figaro|Merlan, en argot|Artisan du brushing
+AVOCAT|Fruit vert à noyau|Défenseur|___ du diable
+NOTAIRE|Il garde les testaments|Officier public|Son étude est dans le centre-ville
+JUGE|Magistrat|Celui d'instruction|On ne peut être ___ et partie
+ARCHITECTE|Maître d'œuvre|Concepteur|Le Grand ___ de l'Univers
+INGENIEUR|Polytechnicien, souvent|Il calcule les structures|Ingénu, presque, mais savant
+VETERINAIRE|Il vaccine le chien|Docteur des chevaux|Véto
+DENTISTE|Chirurgien des molaires|Il pose des couronnes|Son fauteuil fait peur
+PHARMACIEN|Apothicaire|Il exerce en officine|Il prépare des onguents
+INSTITUTEUR|Hussard noir de la République|Professeur des écoles|Maître
+PROFESSEUR|Prof|Celui Tournesol|Enseignant
+JOURNALISTE|Reporter|Plume de la presse|Il interviewe
+AGRICULTEUR|Paysan|Exploitant|Il conduit un tracteur
+VIGNERON|Il vendange|Viticulteur|Il fait du vin
+PECHEUR|Il lance sa ligne|Il commet des fautes|Marin du chalutier
+CUISINIER|Cuistot|Il passe en cuisine|Chef de rang ou commis
+CAISSIER|Il rend la monnaie|Employé de banque au guichet|Préposé au tiroir-caisse
+CORDONNIER|Le plus mal chaussé, dit-on|Bottier|Il ressemelle
+HORLOGER|Il travaille à la loupe|Artisan du Jura suisse|Il règle les mouvements
+BIJOUTIER|Joaillier|Il sertit les pierres|Orfèvre de vitrine
+FLEURISTE|Elle vend des roses|Composition florale|Marchand de fleurs
+MARIN|Matelot|Bleu ___|Relatif à la mer
+SOLDAT|Troufion|Il obéit aux ordres|___ inconnu
+SECRETAIRE|Meuble à abattant|Assistant|Oiseau rapace d'Afrique
+COMPTABLE|Il tient le grand livre|Responsable|Expert-___
+BANQUIER|Il tient la banque au jeu|Gestionnaire de comptes|Financier
+PEINTRE|Artiste en bâtiment|Il manie le rouleau|Il a une palette
+MUSICIEN|Instrumentiste|Membre d'un orchestre|Artiste du conservatoire
+COUTURIER|Chanel en fut un|Il habille les mannequins|Il signe une collection
+TAILLEUR|Tenue de femme|Celui de pierre|Assis en ___
+FORGERON|C'est en forgeant qu'on le devient|Maréchal-ferrant|Il bat l'enclume
+POTIER|Il tourne l'argile|Céramiste|Harry, le jeune sorcier, presque
+APICULTEUR|Il récolte le miel|Il porte une voilette|Éleveur de ruches
+BERGER|Pâtre|Chien de garde allemand|L'étoile du ___
+CHAUFFEUR|Il conduit le bus|Chauffard, en pire|Celui de salle
+LIVREUR|Il sonne avec un paquet|Coursier|Il pédale avec un sac isotherme
+GARAGISTE|Il fait la vidange|Mécano|Il tient un garage
+MECANICIEN|Mécano|Celui navigant|Il démonte les moteurs
+DETECTIVE|Privé|Fin limier|Sherlock en est un
+SERRURIER|Il change les verrous|Artisan des clés|Il force les portes
+RAMONEUR|Il porte bonheur|Visage noir de suie|Il passe le hérisson
+CHARPENTIER|Compagnon du devoir|Il assemble les poutres|Métier de Joseph
+TRADUCTEUR|Interprète écrit|Traître selon l'adage italien|Il fait des versions
+METEOROLOGUE|Il lit les cartes isobares|Prévisionniste|Spécialiste des dépressions
+# --- nouveaux mots ---
+INFIRMIERE|Elle soigne à l'hôpital|Florence Nightingale en fut une|Soignante de garde|Elle prend la tension
+CHIRURGIEN|Il opère au bloc|Il manie le scalpel|Ambroise Paré en fut un|Médecin en blouse verte
+CHAUDRONNIER|Artisan du métal en feuille|Il façonne les cuves|Métier de l'industrie lourde|Il travaille le cuivre
+EBENISTE|Il travaille les bois précieux|Artisan de meubles fins|Boulle en était un|Marqueteur
+SOMMELIER|Il choisit les vins|Échanson moderne|Il goûte au tastevin|Expert en accords mets-vins
+PATISSIER|Il fait les éclairs|Artisan des gâteaux|Il manie la poche à douille|Confiseur cousin
+CHARCUTIER|Il fait le pâté|Traiteur porcin|Il vend du saucisson|Artisan du jambon
+STEWARD|Hôte de l'air|Membre d'équipage|Il sert à bord|Agent de cabine
+GENDARME|Militaire de la sécurité|Hareng saur|Il fait la loi à Saint-Tropez|Pandore
+HUISSIER|Il signifie les actes|Commissaire de justice|Il saisit les biens|Appariteur
+ASTRONOME|Il observe les étoiles|Copernic en était un|Il travaille la nuit|Savant de l'Observatoire
+FERMIER|Exploitant agricole|Le ___ général percevait les impôts|Œuf de ___|Homme de la ferme
+# --- mots ajoutés (v3) ---
+CHEF|Patron|Couvre-___|___ d'orchestre|___ d'œuvre
+JOCKEY|Cavalier de course|Disc-___|Il porte une casaque|Léger cavalier
+CLOWN|Auguste ou blanc|Pitre|Artiste au nez rouge|Faire le ___
+MIME|Marceau en était un|Artiste muet|Il imite|Pantomime
+DOCKER|Débardeur|Ouvrier du port|Il charge les navires|Manutentionnaire portuaire
+MINEUR|Ouvrier du fond|Moins de 18 ans|Gueule noire|Ton ___
+PILOTE|Commandant de bord|Coureur automobile|Guide de port|Projet test
+MANNEQUIN|Top model|Silhouette de vitrine|Buste de la couturière|Elle défile
+STYLISTE|Créateur de mode|Il dessine les collections|Coloriste en coiffure|Couturier
+TAXI|Chauffeur de VTC, presque|Voiture de location|Il attend à la station|Véhicule de New York à damier
+CONCIERGE|Gardien d'immeuble|Pipelette|Il distribue le courrier|Clefs d'Or d'hôtel
+FACTRICE|Postière|Elle distribue le courrier|Elle sonne deux fois|Distributrice de lettres
+EBOUEUR|Il ramasse les poubelles|Agent de propreté|Il passe à l'aube|Rippeur
+COUVREUR|Il pose les tuiles|Artisan des toits|Zingueur cousin|Il travaille en hauteur
+CARRELEUR|Il pose le carrelage|Artisan des sols|Faïencier|Il manie la spatule crantée
+PLATRIER|Plaquiste|Il enduit les murs|Artisan du staff|Il lisse les cloisons
+VITRIER|Il pose les carreaux|Artisan du verre|Il crie dans la rue, autrefois|Miroitier
+LIBRAIRE|Marchand de livres|Il conseille les lectures|Commerce de quartier|Bouquiniste
+OPTICIEN|Il vend des lunettes|Artisan des verres|Il mesure la vue|Lunetier
+KINE|Kinésithérapeute|Il masse|Rééducateur|Il soigne les entorses
+SAGEFEMME|Elle fait accoucher|Maïeuticienne|Elle suit la grossesse|Accoucheuse
+NOTAIRE|Il lit le testament|Officier ministériel|Il authentifie|Clerc de ___
+MAGISTRAT|Juge ou procureur|Haut fonctionnaire de justice|Il porte une robe|Il siège au parquet
+ARTISAN|Travailleur manuel indépendant|Celui de son propre malheur|Il a un savoir-faire|Commerçant-___
+OUVRIER|Travailleur manuel|Prolétaire|Classe ___|Abeille ___
+STAGIAIRE|Apprenti en entreprise|Il fait les photocopies|Élève en stage|Débutant

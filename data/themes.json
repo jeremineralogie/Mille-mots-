@@ -5,28 +5,23 @@
   "color": "#3b6fd4"
  },
  {
-  "id": "hf",
-  "name": "Histoire de France",
+  "id": "hist",
+  "name": "Histoire",
   "color": "#c2453a"
  },
  {
-  "id": "hm",
-  "name": "Histoire du monde",
-  "color": "#a5652b"
- },
- {
-  "id": "geo",
-  "name": "Géographie",
+  "id": "terre",
+  "name": "Terre & espace",
   "color": "#2f8f6a"
  },
  {
   "id": "sci",
-  "name": "Sciences",
+  "name": "Sciences & techniques",
   "color": "#6a4fc4"
  },
  {
   "id": "corps",
-  "name": "Corps humain & santé",
+  "name": "Corps & santé",
   "color": "#d0506f"
  },
  {
@@ -41,53 +36,28 @@
  },
  {
   "id": "cui",
-  "name": "Cuisine & gastronomie",
+  "name": "Cuisine & boissons",
   "color": "#d16a2a"
  },
  {
-  "id": "spo",
-  "name": "Sport",
+  "id": "sport",
+  "name": "Sports & jeux",
   "color": "#1f8fb0"
  },
  {
-  "id": "cin",
-  "name": "Cinéma",
+  "id": "arts",
+  "name": "Arts & lettres",
   "color": "#8a3fb0"
  },
  {
   "id": "mus",
-  "name": "Musique",
+  "name": "Musique & danse",
   "color": "#cf3d8c"
  },
  {
-  "id": "lit",
-  "name": "Littérature",
-  "color": "#7a5a3a"
- },
- {
-  "id": "art",
-  "name": "Art & architecture",
-  "color": "#b5493f"
- },
- {
   "id": "myth",
-  "name": "Mythologie",
+  "name": "Mythes & religions",
   "color": "#2e7f8f"
- },
- {
-  "id": "star",
-  "name": "Stars & célébrités",
-  "color": "#d4a017"
- },
- {
-  "id": "actu",
-  "name": "Monde d'aujourd'hui",
-  "color": "#d2562b"
- },
- {
-  "id": "tech",
-  "name": "Technologie & numérique",
-  "color": "#3a7bbf"
  },
  {
   "id": "lang",
@@ -95,28 +65,13 @@
   "color": "#4a5fb5"
  },
  {
-  "id": "esp",
-  "name": "Espace & astronomie",
-  "color": "#3d4fa8"
- },
- {
   "id": "voy",
   "name": "Voyages & transports",
   "color": "#178a8a"
  },
  {
-  "id": "vie",
-  "name": "Métiers",
+  "id": "soc",
+  "name": "Société & métiers",
   "color": "#7a8a2a"
- },
- {
-  "id": "jeux",
-  "name": "Jeux & loisirs",
-  "color": "#c4467a"
- },
- {
-  "id": "eco",
-  "name": "Institutions & économie",
-  "color": "#5b6b8a"
  }
 ]
