@@ -2,7 +2,7 @@
 
 Jeu de lettres en français, jouable sur téléphone et installable comme une application (fonctionne hors connexion).
 
-**5 façons de jouer** · **25 thèmes** (dont le Grand mélange) · **3 niveaux de difficulté**
+**5 façons de jouer** · **15 thèmes** + le Grand mélange · **4 niveaux de difficulté**
 
 | Mode | Principe |
 |---|---|
@@ -16,10 +16,10 @@ Jeu de lettres en français, jouable sur téléphone et installable comme une ap
 
 Toutes les grilles sont **pré-calculées** par `tools/build.mjs` :
 
-- **chaque mot n'apparaît qu'une seule fois dans tout le jeu**, tous modes, thèmes et niveaux confondus : on ne retombe jamais sur un mot déjà vu ;
+- **un mot n'apparaît jamais deux fois dans le même mode de jeu** ; un mot de thème peut revenir dans un autre mode, de préférence avec une autre définition ; le vocabulaire général (Culture générale, Grand mélange) n'apparaît qu'une seule fois dans tout le jeu ;
 - une définition n'est jamais affichée plus de 3 fois ;
 - la **difficulté suit la fréquence d'usage réelle** du mot (wordfreq) : Facile = mots courants, Moyen, Difficile, puis **Expert** pour les mots rares absents des corpus de fréquence ;
-- les mots d'un thème lui sont réservés ; une grille thématique contient au moins 30 % de mots du thème, complétée par du vocabulaire général ;
+- une grille thématique ne contient **que** des mots du thème, et chaque mot n'appartient qu'à un seul thème ;
 - le défi du jour propose une grille que le joueur n'a jamais ouverte.
 
 Le nombre de grilles découle du nombre de mots : **ajouter des mots agrandit le jeu automatiquement.**
@@ -29,7 +29,7 @@ Le nombre de grilles découle du nombre de mots : **ajouter des mots agrandit le
 - `data/<thème>.txt` : environ 2 000 mots aux définitions écrites à la main (prioritaires) ;
 - `data/dico.tsv.gz` : environ 37 000 mots importés du **Wiktionnaire** par `tools/import_dico.py`, depuis le jeu de données libre [verbarium/french-dictionary](https://github.com/verbarium/french-dictionary) (Wiktionnaire via kaikki.org, Lexique 3.83, wordfreq). Ces données sont sous licence **CC BY-SA 4.0** : le fichier `data/dico.tsv.gz` reste sous cette licence et la source est créditée dans le jeu.
 
-L'import filtre et nettoie : mots vulgaires ou injurieux exclus, définitions qui contiennent la réponse ou sa racine rejetées, noms latins et renvois (« cette dignité ») retirés, classement par thème selon le domaine (botanique → Nature…).
+L'import filtre et nettoie : mots vulgaires ou injurieux exclus, définitions qui contiennent la réponse ou sa racine rejetées, noms latins et renvois (« cette dignité ») retirés, classement par thème : le domaine du Wiktionnaire (botanique → Nature…) doit être confirmé par un mot-clé du thème dans la définition affichée.
 
 Pour réimporter : `python3 -I tools/import_dico.py <chemin>/lemmas.csv.gz data/dico.tsv.gz`
 

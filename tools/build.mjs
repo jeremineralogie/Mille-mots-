@@ -1,7 +1,8 @@
 // Génère toutes les grilles du jeu.
 // Sources : data/<theme>.txt (définitions écrites à la main) + data/dico.tsv.gz (Wiktionnaire, CC BY-SA 4.0).
 // Règles :
-//   - un MOT n'apparaît qu'une seule fois dans tout le jeu (WORD_CAP), tous modes et thèmes confondus ;
+//   - un MOT n'apparaît jamais deux fois dans le même mode de jeu ; les mots de vocabulaire général
+//     (Culture générale, Grand mélange) n'apparaissent qu'une fois dans tout le jeu (WORD_CAP) ;
 //   - une DÉFINITION n'est jamais affichée plus de CLUE_CAP fois ;
 //   - la difficulté suit la fréquence d'usage réelle du mot (Facile = mots courants).
 // Usage : node tools/build.mjs
@@ -59,14 +60,19 @@ if (fs.existsSync(dicoPath)) {
     defs.split('|').forEach(c => addClue(w, c, null));
   }
 }
+// un seul thème par mot : le premier thème spécialisé rencontré (sinon la Culture générale)
+for (const w of byA.values()) { const t = [...w.themes].find(x => x !== 'cg') || (w.themes.size ? 'cg' : null); w.themes = new Set(t ? [t] : []) }
 const WORDS = [...byA.values()].filter(w => w.clues.length && w.themes.size);
 WORDS.forEach((w, i) => { w.id = i; if (w.z == null) w.z = 3.6; w.tier = w.z >= 3.3 ? 0 : w.z >= 2.3 ? 1 : w.z >= 1 ? 2 : 3; w.short = Math.min(...w.clues.map(c => c.length)) });
 
 /* ---------- Compteurs globaux ---------- */
 const clueUse = new Map();
 const wordUse = new Uint8Array(WORDS.length);
+const MODE_USE = {};            // un mot de thème peut revenir, mais dans un autre mode de jeu
+let CUR_MODE = 'cache';
+const modeUse = () => MODE_USE[CUR_MODE] || (MODE_USE[CUR_MODE] = new Uint8Array(WORDS.length));
 const useOf = c => clueUse.get(clueKey(c)) || 0;
-const free = w => wordUse[w.id] < WORD_CAP && w.clues.some(c => useOf(c) < CLUE_CAP);
+const free = w => (w.themes.has('cg') ? wordUse[w.id] < WORD_CAP : modeUse()[w.id] < 1) && w.clues.some(c => useOf(c) < CLUE_CAP);
 
 function pickClue(w, r, taken, short) {
   let avail = w.clues.filter(c => useOf(c) < CLUE_CAP && !taken.has(clueKey(c)));
@@ -83,7 +89,8 @@ function assignClues(list, r, short) {
   return out;
 }
 function commit(words, clues) {
-  for (const w of words) wordUse[w.id]++;
+  const mu = modeUse();
+  for (const w of words) { wordUse[w.id]++; mu[w.id]++ }
   for (const c of clues) { if (!c) continue; const k = clueKey(c); clueUse.set(k, (clueUse.get(k) || 0) + 1) }
 }
 
@@ -314,6 +321,7 @@ while (slots.some(s => !s.done)) {
   for (const s of slots) {
     if (s.done) continue;
     const r = rng(hashStr(`${s.t}|${s.m}|${s.d}|${s.out.length}|${s.fail}`));
+    CUR_MODE = s.m;
     const res = s.m === 'cache' ? genCache(s.t, r, s.d) : s.m === 'meles' ? genMeles(s.t, r, s.d) : s.m === 'ana' ? genAna(s.t, r, s.d) : genGrid(s.m, s.t, r, s.d);
     if (res) { commit(res.words, res.clues); s.out.push(res.level); total++; s.fail = 0; if (s.out.length >= MAX_PER_SLOT) s.done = true }
     else if (++s.fail >= 4) { s.done = true; s.doneAt = round }

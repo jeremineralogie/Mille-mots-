@@ -18,20 +18,20 @@ def norm(s):
 # Domaine du Wiktionnaire -> thème du jeu
 # Domaine du Wiktionnaire -> thème du jeu (thèmes regroupés pour rester assez fournis)
 DOM = {
- 'hist': 'history archeology anthropology ethnology paleontology nobility heraldry military numismatics',
- 'terre': 'geography geology hydrology cartography meteorology biogeography pedology mineralogy petrography astronomy astronautics',
- 'sci': 'chemistry biology biochemistry mathematics geometry metrology electricity science statistics logic topology microbiology virology histology embryology physics computing programming Internet telecommunications telephony technology technical mechanical metallurgy',
- 'corps': 'medicine anatomy surgery pharmacology physiology oncology neurology ophthalmology psychiatry dentistry',
- 'ani': 'zoology ornithology entomology ichthyology mammalogy malacology herpetology',
- 'nat': 'botany agriculture forestry mycology horticulture',
- 'cui': 'cuisine cooking beverages oenology',
- 'sport': 'sports cycling soccer rugby equestrianism martial-arts fencing games chess',
- 'arts': 'art arts architecture literature poetry film theater photography',
+ 'hist': 'history archeology anthropology ethnology paleontology nobility heraldry military numismatics feudalism monarchy Egyptology fortification artillery paleography vexillology chronology',
+ 'terre': 'geography geology hydrology cartography meteorology biogeography pedology mineralogy petrography astronomy astronautics glaciology volcanology oceanography climatology geomorphology topography hydrography petrology astrophysics',
+ 'sci': 'chemistry biology biochemistry mathematics geometry metrology electricity science statistics logic topology microbiology virology histology embryology physics computing programming Internet telecommunications telephony technology technical mechanical metallurgy algebra arithmetic thermodynamics crystallography electromagnetism robotics nanotechnology cryptography networking machining tools',
+ 'corps': 'medicine anatomy surgery pharmacology physiology oncology neurology ophthalmology psychiatry dentistry obstetrics dermatology pathology epidemiology immunology psychopathology physiology',
+ 'ani': 'zoology ornithology entomology ichthyology mammalogy malacology herpetology arachnology conchology beekeeping falconry hunting fishing farriery',
+ 'nat': 'botany agriculture forestry mycology horticulture phycology bryology phytopathology ecology',
+ 'cui': 'cuisine cooking beverages oenology food beer ',
+ 'sport': 'sports cycling soccer rugby equestrianism martial-arts fencing games chess tennis golf basketball billiards boxing swimming baseball mountaineering judo diving wrestling volleyball handball skating bowling archery cricket curling skydiving paintball poker bridge mahjong gambling hobbies juggling bodybuilding motorcycling bullfighting circus',
+ 'arts': 'art arts architecture literature poetry film theater photography comics engraving calligraphy narratology visual-arts performing-arts typography editing',
  'mus': 'music dance',
- 'myth': 'mythology religion Christianity Catholicism Islam theology',
- 'lang': 'linguistic grammar rhetoric',
- 'voy': 'nautical transport railways aeronautics aviation automobile',
- 'soc': 'law politics finance commerce accounting management business',
+ 'myth': 'mythology religion Christianity Catholicism Islam theology Buddhism Protestantism Sufism occultism astrology alchemy',
+ 'lang': 'linguistic grammar rhetoric phonology lexicography dialectology morphology lexicology syntax sociolinguistics',
+ 'voy': 'nautical transport railways aeronautics aviation automobile tourism',
+ 'soc': 'law politics finance commerce accounting management business taxation insurance diplomacy marketing money journalism police',
 }
 D2T = {d: t for t, ds in DOM.items() for d in ds.split()}
 def kw(words):  # mots entiers (pluriel accepté) ; un « * » final autorise une racine
@@ -39,26 +39,26 @@ def kw(words):  # mots entiers (pluriel accepté) ; un « * » final autorise un
     return re.compile(r"\b(" + '|'.join(parts) + r")\b", re.I)
 # La définition AFFICHÉE doit contenir un de ces mots pour que le mot entre dans le thème
 KW = {
- 'hist': kw("antique antiquité histoire historique empire empereur romain grec gaulois peuple civilisation préhistori* dynastie médiéval moyen-âge seigneur roi reine royal noble noblesse chevalier blason armoiries héraldi* militaire soldat armée guerre bataille fief féodal légion pharaon tribu monarchie révolution"),
- 'terre': kw("roche minéral* terrain relief montagne vallée fleuve rivière côte mer océan île sol climat vent pluie volcan* sédiment* glacier géolog* géograph* désert plateau lac golfe littoral astre étoile planète ciel céleste lune soleil galaxie comète satellite astronom* orbite séisme"),
- 'sci': kw("chimi* composé élément atome molécule acide métal physique mathémati* équation géométri* biologi* gène enzyme protéine électri* cristal ion électron laboratoire scientifique formule théorème informatique ordinateur logiciel programme réseau machine appareil mécani* moteur électronique numérique"),
- 'corps': kw("corps organe os muscle maladie médecin médical* inflammation douleur sang nerf nerveux peau tumeur infection symptôme médicament chirurgi* lésion glande patient soin cœur poumon foie rein cerveau articulation vertèbre fièvre virus santé"),
- 'ani': kw("animal animaux oiseau poisson insecte mammifère reptile amphibien mollusque crustacé araignée rongeur serpent chien cheval bovin félin singe gibier plumage zoologi* larve chenille papillon coléoptère cétacé rapace passereau ruminant lézard"),
- 'nat': kw("plante arbre arbuste arbrisseau fleur feuille herbe fruit graine champignon végétal* botani* jardin forêt légume céréale algue mousse fougère tige bourgeon"),
- 'cui': kw("plat mets cuisine culinaire sauce gâteau pâtisserie pain viande boisson vin fromage aliment alimentaire recette cuit cuisson potage soupe dessert épice liqueur bière confiserie charcuterie farine beurre sucre cuisiner"),
- 'sport': kw("sport sportif joueur équipe match course coureur ballon balle compétition athlète escrime lutte boxe ski vélo cycliste jeu jouer pion échecs cartes"),
- 'arts': kw("art artiste peinture peintre sculpt* dessin architect* bâtiment édifice ornement décor style colonne voûte poème poésie poète vers littéraire roman écrivain livre récit film cinéma théâtre scène acteur spectacle photographi*"),
- 'mus': kw("musique musical* instrument chant chanson danse danseur rythme orchestre mélodie opéra compositeur note accord"),
- 'myth': kw("dieu déesse divin* divinité religi* église prêtre saint culte sacré liturgi* biblique bible mytholog* démon ange prière moine messe rite fabuleux légendaire"),
- 'lang': kw("mot langue linguisti* grammaire grammatical* phrase verbe syllabe lettre locution expression figure discours"),
- 'voy': kw("navire bateau marin maritime voile mât cordage véhicule voiture train avion aérien voyage transport wagon automobile embarcation"),
- 'soc': kw("droit loi juridique tribunal juge contrat impôt taxe argent monnaie banque commerce commercial marché prix vente entreprise politique parti élection vote gouvernement budget crédit dette finance financier économi* social société"),
+ 'hist': kw("antique antiquité histoire historique empire empereur impératrice romain romaine grec grecque gaulois gauloise civilisation préhistori* dynastie médiéval* moyen-âge seigneur seigneurie roi reine royal royale royaume prince princesse noble noblesse chevalier chevalerie blason armoiries héraldi* militaire soldat armée guerre guerrier bataille fief féodal* vassal légion légionnaire pharaon tribu monarchie monarque révolution révolutionnaire colonie colonial* croisade croisé château forteresse rempart fortification épée canon artillerie cavalerie infanterie régiment officier grade insurrection sénat sénateur consul tribun patricien plébéien esclave servage serf barbare viking celte celtique franc mérovingien carolingien capétien napoléon* bourbon ancien archéologi* vestige fouille égyptien hiéroglyphe sumérien babylonien aztèque inca maya ottoman sultan tsar calife duc duché comte comté marquis baron vicomte écuyer héraut tournoi armure cuirasse"),
+ 'terre': kw("roche rocher minéral* terrain relief montagne montagneux vallée fleuve rivière ruisseau côte côtier mer marin océan océanique île îlot sol climat climatique vent pluie neige orage volcan* sédiment* glacier géolog* géograph* désert plateau plaine colline lac golfe baie littoral rivage estuaire delta astre étoile planète planétaire ciel céleste lune lunaire soleil solaire galaxie comète satellite astronom* orbite séisme sismique atmosphère atmosphérique météo* nuage cristal gisement minerai calcaire granit* argile sable falaise grotte caverne marais tourbière steppe savane toundra latitude longitude hémisphère pôle polaire équateur tropique continent fuseau altitude cratère météorite nébuleuse constellation univers cosmique cosmos spatial* fusée astronaute éclipse marée courant"),
+ 'sci': kw("chimi* composé élément atome atomique molécule moléculaire acide métal métallique alliage physique mathémati* équation géométri* algèbre algébrique calcul biologi* cellule cellulaire gène génétique enzyme protéine électri* cristal ion électron proton neutron particule énergie onde fréquence lumière optique laboratoire scientifique formule théorème informatique ordinateur logiciel programme programmation réseau internet donnée données fichier machine appareil instrument outil mécani* moteur électronique numérique technique technologi* dispositif vitesse température pression gaz liquide solide réaction oxyde hydrogène oxygène carbone azote fer cuivre plomb polymère statistique probabilité courbe angle triangle cercle polygone vecteur matrice algorithme processeur circuit transistor câble engin usinage soudure tension fusion radioactivi*"),
+ 'corps': kw("corps organe organisme os osseux muscle musculaire maladie malade médecin médical* médecine inflammation douleur sang sanguin nerf nerveux peau cutané tumeur infection infectieux symptôme syndrome médicament remède chirurgi* lésion glande patient soin soigner cœur cardiaque poumon pulmonaire foie hépatique rein rénal cerveau cérébral articulation vertèbre fièvre virus bactérie santé dent dentaire œil oculaire oreille nez bouche gorge estomac intestin intestinal ventre abdomen thorax crâne bras jambe main pied doigt genou épaule squelette hormone digestion digestif respiratoire respiration plaie blessure fracture paralysie toux allergie anémie cancer diabète thérapie thérapeutique traitement guérir guérison infirmier hôpital pathologi* chronique aigu sein utérus grossesse accouchement fœtus embryon"),
+ 'ani': kw("animal animaux oiseau poisson insecte mammifère reptile amphibien mollusque crustacé araignée rongeur serpent chien chienne cheval jument bovin vache taureau mouton chèvre porc cochon félin chat singe gibier plumage zoologi* larve chenille papillon coléoptère cétacé rapace passereau ruminant lézard espèce faune bête fourrure pelage plume aile bec patte sabot corne queue nageoire écaille carapace nid ponte œuf troupeau élevage éleveur chasse chasseur pêche pêcheur proie prédateur ver abeille fourmi mouche guêpe crapaud grenouille tortue baleine dauphin requin poule coq canard oie pigeon aigle hibou loup renard ours cerf lièvre lapin souris rat chauve-souris faucon"),
+ 'nat': kw("plante arbre arbuste arbrisseau fleur floral* feuille feuillage herbe herbacé fruit graine champignon végétal* végétation botani* jardin jardinage jardinier forêt forestier légume céréale algue mousse fougère tige bourgeon racine écorce pétale branche rameau sève pollen semence semis cultiver agricole agriculture verger vigne vignoble potager prairie pré bosquet haie buisson bulbe tubercule épi gousse baie noyau pépin récolte moisson labour engrais terreau sylvicult* horticult* ombellifère composée rosacée graminée liliacée conifère résineux"),
+ 'cui': kw(" mets cuisine culinaire sauce gâteau pâtisserie pâtissier pain boulanger boulangerie viande boucher boucherie boisson vin vinicole fromage aliment alimentaire nourriture manger repas recette cuit cuire cuisson potage soupe dessert épice épicé liqueur alcool alcoolisé bière confiserie charcuterie farine beurre sucre sucré salé cuisiner pâte crème lait laitier friture frit rôti grillé casserole poêle marmite ustensile assaisonnement condiment huile vinaigre moutarde fumé apéritif cocktail café thé chocolat bonbon biscuit tarte crêpe ragoût salade garniture farce hachis vigneron cépage cru millésime dégustation gastronomi* traiteur restaurant"),
+ 'sport': kw("sport sportif sportive joueur joueuse équipe match course coureur ballon balle compétition championnat champion athlète athlétisme escrime escrimeur lutteur boxe boxeur ski skieur vélo cycliste cyclisme jeu échecs échiquier cartes dés football footballeur rugby tennis golf basket-ball basket handball volley-ball natation nageur gymnastique gymnaste judo karaté olympique stade arbitre buteur gardien raquette piste score victoire tournoi entraîneur entraînement équitation cavalier cavalière hippique galop saut sauteur alpinisme alpiniste escalade randonnée plongée surf patin patinage glisse aviron régate billard pétanque boules quilles poker belote tarot bridge loto loterie casino pari jouet devinette puzzle échiquéen haltère musculation relais sprint marathon"),
+ 'arts': kw("art artiste artistique peinture peintre peint sculpt* dessin dessinateur architect* bâtiment édifice monument ornement ornemental décor décoratif décoration style colonne voûte façade fresque mosaïque vitrail toile tableau gravure graveur estampe poème poésie poète poétique strophe rime littéraire littérature romancier écrivain auteur livre récit conte fable film cinéma cinématographique théâtre théâtral acteur actrice comédien comédie tragédie drame spectacle photographi* chef-d'œuvre musée galerie esthétique baroque gothique renaissance impressionnis* typographi* imprimerie édition éditeur chapitre personnage intrigue réalisateur bande dessinée caricature portrait paysage"),
+ 'mus': kw("musique musicien musicienne musical* instrument chant chanteur chanteuse chanson danse danseur danseuse rythme rythmique orchestre orchestral mélodie mélodique opéra compositeur composition gamme tonalité harmonie harmonique partition symphonie concerto sonate cantate refrain couplet vocal* soprano ténor baryton alto violon violoncelle piano guitare flûte trompette tambour percussion clavier archet ballet chorégraphi* valse tango bal fanfare chorale chœur jazz rock air"),
+ 'myth': kw("dieu déesse divin* divinité religi* église prêtre prêtresse saint sainte culte sacré sacrée liturgi* biblique bible mytholog* mythique démon démoniaque ange angélique prière moine moniale messe rite rituel fabuleux fabuleuse légendaire légende mythe héros héroïne monstre créature nymphe titan olympe paradis enfer diable sorcier sorcière magie magique fée elfe dragon spirituel* clergé évêque pape abbé abbaye monastère couvent temple mosquée synagogue chrétien chrétienne christianisme catholique protestant islam islamique musulman juif juive judaïsme bouddhis* hindou* chapelle cathédrale autel sacrement baptême péché croyant croyance prophète apôtre évangile coran talmud théologi* oracle superstition offrande sacrifice païen idole vénération"),
+ 'lang': kw("mot langue linguisti* grammaire grammatical* phrase verbe verbal* syllabe locution discours adjectif adverbe pronom préposition conjonction suffixe préfixe radical conjugaison accent prononciation orthographe vocabulaire lexique écriture alphabet consonne voyelle phonétique dialecte patois argot rhétorique tournure complément néologisme langage"),
+ 'voy': kw("navire bateau marin maritime navigation naviguer voile voilier mât cordage véhicule voiture train avion aérien aéroport voyage voyageur transport transporter wagon automobile embarcation port escale quai cale coque proue poupe gouvernail ancre amarre équipage capitaine matelot pilote cockpit hélice locomotive rail ferroviaire gare métro tramway autobus camion routier autoroute chaussée trajet itinéraire passager bagage valise tourisme touriste hôtel excursion croisière carrosse charrette diligence calèche vélo bicyclette moto roue pneu"),
+ 'soc': kw(" loi légal juridique tribunal juge justice avocat procès contrat impôt taxe fiscal* argent monnaie monétaire banque bancaire commerce commercial commerçant marché prix vente vendre acheter achat entreprise politique parti élection électoral vote gouvernement ministre ministère budget crédit dette finance financier économi* social sociale société salaire salarié travail emploi employeur métier profession professionnel ouvrier syndicat grève administration administratif fonctionnaire citoyen citoyenneté république démocratie assemblée député parlement police policier délit crime criminel peine prison sanction amende assurance bourse investissement profit revenu dépense comptable propriété héritage notaire diplomatie diplomate ambassade journal journaliste presse média publicité école enseignement enseignant élève"),
 }
 # Définitions qui ouvrent sur une catégorie sans ambiguïté
 STRONG = {k: re.compile(v, re.I) for k, v in {
  'ani': r"^(oiseau|poisson|insecte|mammifère|reptile|amphibien|mollusque|crustacé|araignée|serpent|lézard|papillon|coléoptère|rongeur|ruminant|cétacé|rapace|passereau|petit animal|grand animal|animal|espèce d'oiseau|espèce de poisson|genre d'oiseau|genre d'insecte)\b",
  'nat': r"^(plante|arbre|arbuste|arbrisseau|fleur|herbe|champignon|algue|fougère|graminée|conifère|liane|espèce de plante|genre de plantes?)\b",
- 'cui': r"^(plat|mets|sauce|gâteau|pâtisserie|potage|soupe|boisson|vin|liqueur|fromage|confiserie|friandise|bonbon|ragoût|charcuterie|biscuit|préparation culinaire)\b",
+ 'cui': r"^((plat|mets) (de|à|composé|cuisiné|typique|traditionnel|fait|préparé|cuit|réalisé|d'origine|garni|épicé|régional|chaud|froid|national)|sauce|gâteau|pâtisserie|potage|soupe|boisson|vin|liqueur|fromage|confiserie|friandise|bonbon|ragoût|charcuterie|biscuit|préparation culinaire)\b",
  'corps': r"^(maladie|inflammation|tumeur|os|muscle|organe|glande|médicament)\b",
  'mus': r"^(instrument de musique|danse|chant|composition musicale|pièce musicale|morceau de musique)\b",
  'myth': r"^(divinité|dieu|déesse|démon|nymphe|monstre fabuleux|être fabuleux|créature fabuleuse)\b",
@@ -67,7 +67,7 @@ STRONG = {k: re.compile(v, re.I) for k, v in {
 METIER = re.compile(r"^(personne|celui|celle|ouvrier|ouvrière|artisan|artisane|spécialiste|professionnel|professionnelle|employé|employée|marchand|marchande|technicien|technicienne|fabricant|fabricante)\b[^.]*\b(fabrique|fabriquent|vend|vendent|répare|métier|profession|professionnellement|soigne|enseigne|entretient|cultive|élève|construit|confectionne|travaille)\b", re.I)
 BAD_WORDS = re.compile(r"\b(sexe|sexuel|sexuelle|érection|pénis|vagin|vulve|coït|masturb|prostitu|pornogra|testicule|anus|fesses|sodom|copul|orgasme|nazi|raciste|injure|insulte)", re.I)
 STOP = set('NAZI NAZIE NAZISME HITLERIEN NEGRE NEGRESSE BOUGNOULE YOUPIN PUTE SALOPE CONNARD CONNASSE ENCULE BITE CHATTE NIQUER BAISER BAISE DES LES UNE UNS AUX CES SES MES TES NOS VOS LEUR LEURS QUI QUE QUOI DONT MAIS DONC NOUS VOUS ELLE ELLES ILS EUX LUI MOI TOI SOI CELA CECI CET CETTE AVEC SANS POUR PAR SUR SOUS DANS CHEZ VERS ENTRE TRES PLUS MOINS AUSSI BIEN TOUT TOUS TOUTE TOUTES RIEN'.split())
-ANAPH = re.compile(r"\b(cette|cet|ces|ce dernier|cette dernière|celle-ci|celui-ci|ceux-ci|ledit|ladite|ce sens|ce mot|ce terme|cette espèce|cet animal|cette plante)\b", re.I)
+ANAPH = re.compile(r"\b(ce cépage|ce nom|de ce nom|même nom|analogue|ci-dessus|précédent|précédente|susdit|cette|cet|ces|ce dernier|cette dernière|celle-ci|celui-ci|ceux-ci|ledit|ladite|ce sens|ce mot|ce terme|cette espèce|cet animal|cette plante)\b", re.I)
 LATIN = re.compile(r"\b[A-Z][a-z]{2,} [a-z]{3,}(?:us|um|is|ae|ii|ensis|oides|as|ata|ica|ina)\b")
 PRON = re.compile(r"^(Il|Elle|Je|Tu|Nous|Vous|Ils|Elles|J'|C'est|Ce sont) ")
 BAN_REG = {'vulgar', 'offensive', 'very-familiar'}
@@ -94,6 +94,8 @@ def clean_def(d):
     return d
 
 def ok_def(d, ans, lemma):
+    if re.search(r'[^\x00-\u024F\u2019\u2018\u0152\u0153 ]', d): return False
+    if re.match(r"^(En parlant d[e'u][^,]*|Se dit d[e'u][^,]{0,12}|[A-Z][a-z]+, etc)$", d): return False
     if not (8 <= len(d) <= 100): return False
     if BAD_WORDS.search(d): return False
     if SKIP_DEF.match(d): return False
@@ -138,7 +140,11 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         except ValueError: defs = [row['definition']]
         good = []
         for d in defs[:8]:
+            raw = re.sub(r'^\s*(\([^()]*\)\s*)+', '', d)
+            if raw[:1].islower(): continue                     # suite d'une définition coupée
             d = clean_def(d)
+            if pos == 'verb' and re.match(r"^(Un|Une|Le|La|Les|L'|Des|Du|De|Sa|Son|Ses|Quelqu)\b", d): continue
+            if z < 2.5 and re.match(r"^(Langue|Dialecte|Peuple|Ethnie)\b.*\b(parlée?|vivant|habitant|établi)", d): continue   # langues et peuples obscurs
             if ok_def(d, ans, lemma) and d not in good: good.append(d)
         if not good: continue
         good.sort(key=lambda x: x.lower().startswith('synonyme de'))   # « Synonyme de … » en dernier recours
@@ -147,8 +153,16 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         themes = set(); tdef = {}
         cands = {D2T[d] for d in doms if d in D2T}
         for t in cands:
-            m = [d for d in good if KW[t].search(d[:40])]
+            # domaine du mot + un mot-clé du thème dans la définition
+            m = [d for d in good if KW[t].search(d)]
+            # mot à sens unique (une seule définition retenue) : le domaine suffit
+            if not m and len(good) == 1 and len(cands) == 1: m = good[:]
             if m: themes.add(t); tdef[t] = m
+        if not themes:
+            # sans domaine : au moins deux mots-clés différents du même thème dans la définition
+            for t, rx in KW.items():
+                m = [d for d in good if len({x.group(0).lower().rstrip('s') for x in rx.finditer(d)}) >= 2 and rx.search(d[:45])]
+                if m: themes.add(t); tdef[t] = m
         for t, rx in STRONG.items():
             m = [d for d in good if rx.match(d)]
             if m: themes.add(t); tdef[t] = m + [d for d in tdef.get(t, []) if d not in m]

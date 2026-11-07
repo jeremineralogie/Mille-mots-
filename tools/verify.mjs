@@ -12,7 +12,7 @@ for(const tid in window.MC_LV){const T=window.MC_LV[tid];A=T.A;C=T.C;
  for(const m in T.L){T.L[m].forEach((arr,d)=>{if(arr.length!==IDX.counts[tid][m][d])errs.push(`${tid}/${m}/${d} compte faux`)});
  T.L[m].forEach((arr,d)=>arr.forEach((lv,i)=>{
   grids++;const id=`${tid}/${m}/${d}/${i}`;const seen=new Set();
-  const once=(w,c)=>{if(seen.has(w))errs.push(id+' mot répété '+A[w]);seen.add(w);const a=A[w];if(wordSeen.has(a))errs.push(`mot répété dans le jeu : ${a} (${wordSeen.get(a)} et ${id})`);else wordSeen.set(a,id);count(c)};
+  const once=(w,c)=>{if(seen.has(w))errs.push(id+' mot répété '+A[w]);seen.add(w);const a=A[w];const k=(tid==='cg'||tid==='mix')?a:m+':'+a;if(wordSeen.has(k))errs.push(`mot répété : ${a} (${wordSeen.get(k)} et ${id})`);else wordSeen.set(k,id);if(tid!=='cg'&&tid!=='mix'){if(wordSeen.has(a)&&!wordSeen.get(a).includes(tid+'/'))errs.push(`mot de thème hors de son thème : ${a}`);else if(!wordSeen.has(a))wordSeen.set(a,id)}count(c)};
   if(m==='cache'){once(lv[0][0],lv[0][1]);const h=A[lv[0][0]];if(lv[1].length!==h.length)errs.push(id+' lignes');
     lv[1].forEach(([w,c,p],r)=>{once(w,c);if(A[w][p]!==h[r])errs.push(id+' lettre mystère')})}
   else if(m==='ana')lv.forEach(([w,c,s])=>{once(w,c);if([...s].sort().join('')!==[...A[w]].sort().join('')||s===A[w])errs.push(id+' anagramme '+A[w])});
@@ -28,7 +28,7 @@ for(const tid in window.MC_LV){const T=window.MC_LV[tid];A=T.A;C=T.C;
 }))}}
 const max=Math.max(...use.values());
 const dist=[1,2,3].map(n=>[...use.values()].filter(v=>v===n).length);
-console.log(`${grids} grilles · ${wordSeen.size} mots, chacun utilisé une seule fois : ${grids===IDX.total?'oui':'NON'} · ${shown} définitions affichées · ${use.size} définitions distinctes utilisées sur ${C.length}`);
+console.log(`${grids} grilles · ${new Set([...wordSeen.keys()].map(k=>k.replace(/^.*:/,''))).size} mots distincts, jamais deux fois dans un même mode (une seule fois en tout pour le vocabulaire général) · total cohérent : ${grids===IDX.total?'oui':'NON'} · ${shown} définitions affichées · ${use.size} définitions distinctes utilisées sur ${C.length}`);
 console.log(`Utilisations par définition : 1× ${dist[0]} · 2× ${dist[1]} · 3× ${dist[2]} · maximum ${max}`);
 console.log(errs.length?`ERREURS (${errs.length}) :\n`+errs.slice(0,30).join('\n'):'Toutes les grilles sont valides.');
 if(max>IDX.cap||errs.length||grids!==IDX.total)process.exit(1);
