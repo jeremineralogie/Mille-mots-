@@ -58,33 +58,33 @@ PHOQUE|Mammifère marin à moustaches
 # --- définitions supplémentaires ---
 LION|Roi de la savane|Signe du zodiaque de l'été|Il rugit sur le logo de la MGM
 TIGRE|Shere Khan dans Le Livre de la jungle|Le Bengale est sa patrie|Surnom de Clemenceau
-GUEPARD|Félin aux larmes noires|Sprinter de la savane|Film de Visconti avec Delon
+GUEPARD|Félin aux larmes noires|Sprinter de la savane
 ELEPHANT|Pachyderme à trompe|Il a une mémoire légendaire|Dumbo en est un
 GIRAFE|Elle broute les acacias|Son cou compte sept vertèbres|Peigner la ___ : ne rien faire
-BALEINE|La bleue est le plus grand animal|Elle chante sous l'eau|Tige de parapluie
+BALEINE|La bleue est le plus grand animal|Elle chante sous l'eau
 DAUPHIN|Flipper en est un|Héritier du trône de France|Deuxième du classement
 REQUIN|Les Dents de la mer|Homme d'affaires impitoyable|Le blanc est le plus redouté
 PIEUVRE|Poulpe|Elle crache de l'encre|Organisation tentaculaire
-MEDUSE|Elle pique les baigneurs|Gorgone aux serpents|Radeau peint par Géricault
+MEDUSE|Elle pique les baigneurs|Gorgone aux serpents
 TORTUE|Elle gagne la course contre le lièvre|Elle vit très vieille|Elle pond sur les plages
 CROCODILE|Ses larmes sont hypocrites|Saurien aux dents apparentes|Logo d'une marque de polos
 CAMELEON|Opportuniste qui change d'avis|Sa langue est plus longue que son corps|Ses yeux bougent indépendamment
 SERPENT|Le Python en est un|Tentateur d'Ève|Il mue et rampe
-VIPERE|Langue de ___|Son museau est retroussé|Aspic
+VIPERE|Son museau est retroussé|Aspic
 AIGLE|Symbole impérial|Il a la vue perçante|Celui de Meaux, c'est Bossuet
 HIBOU|Il ulule|Le grand-duc en est un|Oiseau de nuit aux oreilles de plumes
 CHOUETTE|Oiseau de sagesse d'Athéna|Super !|L'effraie en est une
-MANCHOT|Il couve sur ses pattes en hiver|Bandit à un bras|Pingouin pour le profane
+MANCHOT|Il couve sur ses pattes en hiver|Pingouin pour le profane
 AUTRUCHE|Elle se cache la tête dans le sable, dit-on|Oiseau coureur d'Afrique|Son œuf est le plus gros
 PERROQUET|Il répète sans comprendre|Ara ou cacatoès|Pastis à la menthe
 COLIBRI|Oiseau-mouche|Il butine en vol|Il fait sa part, selon la légende amérindienne
 FLAMANT|Oiseau rose de Camargue|Il se tient sur une patte|Échassier qui filtre les crevettes
 CIGOGNE|Elle apporte les bébés, dit-on|Emblème de l'Alsace|Elle niche sur les cheminées
 ABEILLE|Butineuse|Ouvrière de la ruche|Elle danse pour indiquer les fleurs
-FOURMI|Prêteuse à contrecœur chez La Fontaine|Ouvrière infatigable|Avoir des ___ dans les jambes
+FOURMI|Prêteuse à contrecœur chez La Fontaine|Ouvrière infatigable
 PAPILLON|Celui de nuit est la phalène|Nœud de cravate|Contravention sur le pare-brise
 LIBELLULE|Demoiselle des étangs|Insecte aux grands yeux|Elle chasse en vol au-dessus de l'eau
-COCCINELLE|Bête à bon Dieu|Mangeuse de pucerons|Voiture de Volkswagen
+COCCINELLE|Bête à bon Dieu|Mangeuse de pucerons
 ARAIGNEE|Elle a huit pattes|Avoir une ___ au plafond|La veuve noire en est une
 SCORPION|Signe astrologique d'octobre-novembre|Il pique avec sa queue|Arachnide du désert
 GRENOUILLE|Elle veut se faire aussi grosse que le bœuf|Rainette|Ses cuisses se mangent
@@ -93,7 +93,7 @@ SAUMON|Poisson rose fumé|Couleur orangée|Poisson d'Écosse et de Norvège
 KANGOUROU|Il porte son petit dans sa poche|Boxeur d'Australie|Emblème austral
 KOALA|Il dort vingt heures par jour|Peluche australienne vivante|Faux ours gris
 PANDA|Emblème du WWF|Ours noir et blanc|Le roux est un cousin plus petit
-GORILLE|Garde du corps|Le dos argenté|King Kong en est un
+GORILLE|Le dos argenté|King Kong en est un
 CHIMPANZE|Bonobo cousin|Singe de Jane Goodall|Cheeta, compagnon de Tarzan
 LOUP|Il a mangé le Petit Chaperon rouge|Masque de velours|Bar de Méditerranée
 RENARD|Ami du Petit Prince|Rusé personnage|Goupil roux
@@ -102,7 +102,7 @@ CERF|Il brame en automne|Sa ramure tombe chaque année|Animal du brame
 HERISSON|Il se met en boule|Sonic en est un|Mangeur de limaces
 ECUREUIL|Il amasse des noisettes|Emblème d'une caisse d'épargne|Roux des forêts
 CASTOR|Il ronge les troncs|Frère de Pollux|Rongeur canadien
-MARMOTTE|Elle siffle|Grosse dormeuse|Celle qui met le chocolat dans le papier d'alu
+MARMOTTE|Elle siffle|Grosse dormeuse
 LOUTRE|Elle flotte sur le dos|Fourrure brune|Elle casse les coquillages sur son ventre
 ZEBRE|Un drôle de ___|Il a des rayures blanches et noires|Cousin du cheval
 HIPPOPOTAME|Cheval du fleuve|Il passe la journée dans l'eau|Il a une gueule énorme
@@ -115,9 +115,9 @@ VEAU|Pleurer comme un ___|Le ___ d'or|Escalope de boucherie
 PHOQUE|Mammifère marin de la banquise|Il bat des nageoires|Ses bébés sont blancs
 # --- nouveaux mots ---
 LEOPARD|Félin tacheté grimpeur|Panthère|Symbole de la Normandie|Ses taches sont des rosettes
-JAGUAR|Félin d'Amérique du Sud|Voiture britannique|Il nage volontiers|Grand félin à rosettes
+JAGUAR|Félin d'Amérique du Sud|Il nage volontiers|Grand félin à rosettes
 ORQUE|Épaulard|Baleine tueuse|Dauphin noir et blanc|Elle chasse les phoques
-CORBEAU|Il a laissé tomber son fromage|Oiseau noir|Auteur de lettres anonymes|Croasse
+CORBEAU|Il a laissé tomber son fromage|Oiseau noir|Croasse
 PIGEON|Voyageur à plumes|Dupe d'une arnaque|Il hante les places de Venise|Ramier
 MOUSTIQUE|Il pique la nuit|Insecte vecteur du paludisme|Tout petit garçon, en plaisantant|Il bourdonne à l'oreille
 GUEPE|Taille de ___|Elle pique sans miel|Frelon miniature|Jaune et noir
@@ -127,27 +127,27 @@ CHAUVESOURIS|Mammifère volant|Elle dort la tête en bas|Elle s'oriente par éch
 PINGOUIN|Oiseau de l'Arctique qui vole|On le confond avec le manchot|Alque torda|Type, gars
 OURS|Brun ou blanc|Personne peu sociable|Peluche des enfants|Il hiberne
 CHENILLE|Future papillon|Courroie de char|Elle fait des processions|Tissu de velours
-LAMA|Il crache|Ruminant des Andes|Moine tibétain|Cousin de l'alpaga
+LAMA|Il crache|Ruminant des Andes|Cousin de l'alpaga
 PAON|Il fait la roue|Vaniteux comme lui|Oiseau aux ocelles|Il criaille
 MOUETTE|Oiseau du bord de mer|Rieuse|Elle suit les chalutiers|Pièce de Tchekhov
 # --- mots ajoutés (v3) ---
 ANE|Baudet|Bonnet d'___|Têtu comme lui|Il brait
 CHAT|Matou|Félin du salon|Il a neuf vies, dit-on|Il retombe sur ses pattes
 CHIEN|Meilleur ami de l'homme|Il aboie|Toutou|Avoir du ___ : du charme
-VACHE|Elle meugle|Elle broute en regardant passer les trains|Peau de ___|Méchant, en familier
+VACHE|Elle meugle|Elle broute en regardant passer les trains
 COCHON|Porc|Tout est bon dans le ___|Sale comme lui|Il grogne dans la porcherie
 MOUTON|Il bêle|Revenons à nos ___|Animal de Panurge|Poussière sous le lit
 CHEVRE|Biquette|Elle donne du crottin|Ménager la ___ et le chou|Celle de M. Seguin
 CHEVAL|Destrier|Il galope|Il hennit|Celui de Troie
-POULE|Elle pond|Mère ___|Quand les ___ auront des dents|Groupe de qualification sportif
-CANARD|Il cancane|Journal, en argot|Fausse note|Colvert, par exemple
-OIE|Elle cacarde|Jeu de l'___|Palmipède du Capitole|Elle donne le foie gras
+POULE|Elle pond|Mère ___|Quand les ___ auront des dents
+CANARD|Il cancane|Fausse note|Colvert, par exemple
+OIE|Elle cacarde|Palmipède du Capitole|Elle donne le foie gras
 DINDE|Volaille de Noël|Sotte|Dindon au féminin|Elle se farcit aux marrons
 LAPIN|Il a des grandes oreilles|Jeannot, dans les histoires|Garenne|Il ronge des carottes
-SOURIS|Mulot|Petit rongeur|Elle danse quand le chat est absent|Jolie fille, en argot
-RAT|Rongeur des égouts|Avare|Petit ___ de l'Opéra|Celui de bibliothèque lit beaucoup
+SOURIS|Mulot|Petit rongeur|Elle danse quand le chat est absent
+RAT|Rongeur des égouts|Avare|Celui de bibliothèque lit beaucoup
 TAUPE|Myope du jardin|Espionne infiltrée|Elle creuse des galeries|Couleur gris-brun
-BLAIREAU|Pinceau à barbe|Plantigrade des terriers|Ringard, en argot|Surnom de Bernard Hinault
+BLAIREAU|Pinceau à barbe|Plantigrade des terriers|Surnom de Bernard Hinault
 LYNX|Félin aux oreilles pointues|Avoir des yeux de ___|Loup-cervier|Félin du Jura
 PUMA|Couguar|Félin américain|Marque au félin bondissant|Lion des montagnes
 ARA|Perroquet coloré|Oiseau d'Amazonie|Il a un gros bec crochu|Grand perroquet bleu et jaune
@@ -156,9 +156,9 @@ YAK|Bœuf du Tibet|Bovin à long poil|Il porte les charges en Himalaya|Son beurr
 GNOU|Antilope migratrice|Herbivore du Serengeti|Il traverse la rivière Mara|Animal des mots croisés
 TOUCAN|Oiseau au grand bec|Oiseau tropical coloré|Emblème du Belize|Bec orangé géant
 HOMARD|Crustacé bleu breton|Il rougit à la cuisson|Thermidor, pour lui|Il a deux pinces
-CRABE|Il marche de côté|Panier de ___s|Tourteau|Signe du Cancer
+CRABE|Il marche de côté|Panier de ___s|Tourteau
 HUITRE|Mollusque de Marennes|Elle cache parfois une perle|Fermée comme elle|Fine de claire
-MOULE|Elle se mange marinière|Récipient à gâteau|Coquillage noir|Imbécile, en argot
+MOULE|Elle se mange marinière|Coquillage noir
 LOMBRIC|Ver de terre|Il aère le sol|Appât du pêcheur|Annélide
 CIGALE|Elle chante tout l'été|Insecte provençal|Ayant chanté tout l'été…|Elle stridule
 GRILLON|Criquet du foyer|Il chante la nuit|Jiminy, la conscience de Pinocchio|Insecte des champs

@@ -63,14 +63,14 @@ ARTEMIS|Sœur jumelle d'Apollon|Diane chez les Romains|Vierge chasseresse
 POSEIDON|Porteur de trident|Père de Polyphème|Dieu des chevaux et des séismes
 HADES|Frère de Zeus aux Enfers|Ravisseur de Perséphone|Pluton chez les Romains
 HERMES|Dieu aux sandales ailées|Mercure grec|Marque de carrés de soie
-ARES|Amant d'Aphrodite|Dieu belliqueux|Unités de surface agricole
+ARES|Amant d'Aphrodite|Dieu belliqueux
 APHRODITE|Née de l'écume|Elle reçut la pomme de Pâris|Mère d'Éros
 DIONYSOS|Bacchus grec|Dieu des bacchantes|Dieu du théâtre et de l'ivresse
 HEPHAISTOS|Vulcain grec|Mari boiteux d'Aphrodite|Il forgea les armes d'Achille
-JUPITER|Plus grosse planète du système solaire|Dieu du Capitole|Il y a de quoi en tomber de la cuisse
-VENUS|Étoile du Berger|Déesse au coquillage|Planète la plus chaude
-MARS|Planète rouge|Mois du printemps|Barre chocolatée
-NEPTUNE|Dernière planète du système solaire|Dieu au trident romain|Fontaine de la place Navone
+JUPITER|Dieu du Capitole|Il y a de quoi en tomber de la cuisse
+VENUS|Déesse au coquillage
+MARS|Mois du printemps|Barre chocolatée
+NEPTUNE|Dieu au trident romain|Fontaine de la place Navone
 HERCULE|Il nettoya les écuries d'Augias|Héraclès romain|Travail d'___ : tâche colossale
 ULYSSE|Il résista aux sirènes attaché au mât|Il aveugla le Cyclope|Son retour dura dix ans
 ACHILLE|Fils de Thétis|Vainqueur d'Hector|Son tendon est fragile
@@ -80,19 +80,19 @@ JASON|Conquérant de la Toison d'or|Époux de Médée|Masque de hockey de Vendre
 ORPHEE|Il se retourna et perdit Eurydice|Poète à la lyre|Opéra de Gluck
 PROMETHEE|Son foie était dévoré chaque jour par un aigle|Titan bienfaiteur des hommes|Il façonna l'homme dans l'argile
 ICARE|Ses ailes étaient collées à la cire|Fils de Dédale|Il tomba dans la mer
-DEDALE|Labyrinthe, au figuré|Inventeur crétois|Il construisit des ailes
+DEDALE|Inventeur crétois|Il construisit des ailes
 MINOTAURE|Monstre de Crète|Fils de Pasiphaé|Il dévorait de jeunes Athéniens
 MEDUSE|Tête coupée sur l'égide|Gorgone mortelle|Stupéfaite
 CYCLOPE|Polyphème en était un|Œil unique au front|Forgeron de Zeus
-CENTAURE|Chiron en était un sage|Créature hybride|Constellation australe
-PEGASE|Né du sang de Méduse|Monture de Bellérophon|Constellation automnale
+CENTAURE|Chiron en était un sage|Créature hybride
+PEGASE|Né du sang de Méduse|Monture de Bellérophon
 SIRENE|Alarme stridente|Petite ___ de Copenhague|Femme-poisson
 HYDRE|Monstre de Lerne|Elle a de nombreuses têtes|Danger qui se multiplie
 TROIE|Cité d'Hector|Elle tomba par la ruse|Guerre de dix ans
 HELENE|Fille de Léda et de Zeus|Enlevée par Pâris|La belle de Sparte
-PANDORE|Première femme selon les Grecs|Sa boîte gardait l'espérance|Gendarme, en argot
-NARCISSE|Fleur printanière|Égocentrique|Amoureux non partagé d'Écho
-OLYMPE|Montagne divine|Jeux d'Olympie, presque|Prénom de féministe révolutionnaire
+PANDORE|Première femme selon les Grecs|Sa boîte gardait l'espérance
+NARCISSE|Égocentrique|Amoureux non partagé d'Écho
+OLYMPE|Montagne divine|Jeux d'Olympie, presque
 ODIN|Dieu borgne|Wotan|Père de Thor
 THOR|Dieu au marteau Mjöllnir|Il a donné son nom au jeudi anglais|Héros Marvel
 LOKI|Frère adoptif de Thor chez Marvel|Dieu farceur|Père du loup Fenrir
@@ -107,44 +107,44 @@ ROMULUS|Jumeau de Rémus|Allaité par une louve|Premier roi de Rome
 MERLIN|Fils d'un démon|Enchanteur de Brocéliande|Il aimait Viviane
 EXCALIBUR|Épée tirée du rocher|Lame de la Dame du Lac|Épée légendaire d'Arthur
 GRAAL|Saint ___|Quête de Perceval|Objectif suprême
-TITAN|Géant|Satellite de Saturne|Atlas en était un
-NECTAR|Jus de fruit épais|Liquide sucré des fleurs|Délice
-AMBROISIE|Plante allergisante|Mets divin|Délice exquis
+TITAN|Géant|Atlas en était un
+NECTAR|Délice
+AMBROISIE|Mets divin|Délice exquis
 LICORNE|Start-up valant un milliard|Créature des tapisseries de Cluny|Animal fabuleux blanc
 # --- nouveaux mots ---
 CERBERE|Chien à trois têtes|Gardien des Enfers|Portier intraitable|Il garde l'entrée d'Hadès
 CHIMERE|Monstre lion, chèvre et serpent|Illusion|Rêve irréalisable|Créature hybride
 PERSEPHONE|Reine des Enfers|Fille de Déméter|Elle mangea des pépins de grenade|Proserpine
 EURYDICE|Épouse d'Orphée|Elle mourut d'une morsure de serpent|Perdue au dernier regard|Nymphe des Enfers
-ARIANE|Fille de Minos au fil célèbre|Fusée européenne|Abandonnée à Naxos|Son fil guide hors du labyrinthe
+ARIANE|Fille de Minos au fil célèbre|Abandonnée à Naxos|Son fil guide hors du labyrinthe
 OEDIPE|Il tua son père sans le savoir|Héros de Sophocle|Complexe freudien|Roi de Thèbes aveuglé
 ANTIGONE|Fille d'Œdipe|Pièce d'Anouilh|Elle enterra son frère malgré l'interdit|Héroïne de la désobéissance
 CASSANDRE|Prophétesse que personne ne croit|Fille de Priam|Oiseau de mauvais augure|Personne qui prédit le pire
 PENELOPE|Épouse d'Ulysse|Elle tisse et défait sa toile|Femme fidèle|Prénom de reine d'Ithaque
 EROS|Cupidon grec|Dieu de l'amour|Pulsion de vie freudienne|Il tire des flèches
 GORGONE|Méduse en était une|Monstre aux cheveux de serpents|Femme effrayante|Euryale ou Sthéno
-NYMPHE|Divinité des sources|Stade de l'insecte|Jeune femme gracieuse|Écho en était une
-TRIDENT|Fourche de Poséidon|Sous-marin nucléaire|Fourche à trois dents|Marque de chewing-gum
+NYMPHE|Divinité des sources|Jeune femme gracieuse|Écho en était une
+TRIDENT|Fourche de Poséidon|Marque de chewing-gum
 ARGONAUTES|Compagnons de Jason|Équipage de l'Argo|Chercheurs de la Toison d'or|Héros navigateurs
 # --- mots ajoutés (v3) ---
 ECHO|Nymphe qui répète|Son renvoyé|Rumeur|Amoureuse de Narcisse
 GAIA|Terre-Mère|Déesse primordiale|Mère des Titans|Hypothèse écologique
 CRONOS|Titan dévoreur d'enfants|Père de Zeus|Temps personnifié, parfois|Saturne grec
-RHEA|Mère des Olympiens|Épouse de Cronos|Oiseau coureur sud-américain|Titanide
+RHEA|Mère des Olympiens|Épouse de Cronos|Titanide
 DEMETER|Déesse des moissons|Mère de Perséphone|Cérès grecque|Elle fit l'hiver par chagrin
 HESTIA|Déesse du foyer|Vesta grecque|Aînée des Olympiens|Gardienne du feu sacré
 MUSE|Inspiratrice|Clio en est une|Il y en a neuf|Égérie
 CLIO|Muse de l'histoire|Petite Renault|Prénom de muse|Elle tient un rouleau
 PAN|Dieu des bergers|Sa flûte a des tuyaux|Il cause la panique|Morceau de mur
 SATYRE|Mi-homme mi-bouc|Compagnon de Dionysos|Faune lubrique|Homme qui importune
-FAUNE|Dieu des forêts romain|Ensemble des animaux|Prélude à l'après-midi d'un ___|Créature à cornes
-CHARON|Passeur des Enfers|Nocher du Styx|Il exigeait une obole|Satellite de Pluton
+FAUNE|Dieu des forêts romain|Prélude à l'après-midi d'un ___|Créature à cornes
+CHARON|Passeur des Enfers|Nocher du Styx|Il exigeait une obole
 STYX|Fleuve des Enfers|Rivière d'immortalité d'Achille|Eau infernale|On jurait par ses eaux
 LETHE|Fleuve de l'oubli|Rivière des Enfers|Boire à ses eaux fait oublier|Oubli mythologique
-ATLAS|Il porte le monde|Titan puni|Livre de cartes|Vertèbre cervicale
+ATLAS|Il porte le monde|Titan puni
 PHENIX|Oiseau qui renaît de ses cendres|Génie hors du commun|Phœnix|Palmier dattier
-GRIFFON|Mi-aigle mi-lion|Chien à poil dur|Vautour fauve|Gardien de trésors
-DRAGON|Créature crachant du feu|Soldat à cheval|Gardien sévère|Symbole chinois
+GRIFFON|Mi-aigle mi-lion|Vautour fauve|Gardien de trésors
+DRAGON|Créature crachant du feu|Symbole chinois
 TROLL|Créature scandinave|Provocateur des forums|Géant des montagnes|Gnome laid des contes
 ELFE|Créature de Tolkien|Lutin|Legolas en est un|Esprit de l'air
 FREYA|Déesse nordique de l'amour|Elle a donné le vendredi anglais|Épouse d'Odr|Déesse aux chats

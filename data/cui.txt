@@ -55,18 +55,18 @@ BEURRE|Matière grasse du lait
 FARINE|Poudre de blé
 CONFITURE|Fruits cuits avec du sucre
 # --- définitions supplémentaires ---
-RATATOUILLE|Film de Pixar avec un rat cuisinier|Tambouille de courgettes et aubergines|Plat niçois d'été
+RATATOUILLE|Tambouille de courgettes et aubergines|Plat niçois d'été
 CASSOULET|Fierté de Castelnaudary|Haricots, confit et saucisse|Plat mijoté en cassole
-CHOUCROUTE|Chou fermenté|Plat garni de Strasbourg|Pétard de cheveux, en argot
+CHOUCROUTE|Chou fermenté|Plat garni de Strasbourg
 TARTIFLETTE|Pommes de terre, lardons et fromage|Plat des stations de ski|Recette inventée dans les années 1980
 FONDUE|On y perd parfois son pain|Plat au caquelon|Celle bourguignonne se fait à l'huile
 QUICHE|Tarte salée|Lardons, œufs et crème en tarte|Elle est lorraine
 CREPE|Elle se mange avec du cidre|Fine galette sucrée|Tissu ondulé
-GALETTE|Elle cache la fève|Crêpe de sarrasin|Pièce de monnaie, en argot
-CROISSANT|Il peut être au beurre ou ordinaire|Fait de lune|Le ___ fertile
-BRIOCHE|Qu'ils mangent de la ___ !|Gros ventre, familièrement|Vendéenne ou parisienne
-MACARON|Spécialité de Ladurée|Gâteau coloré à la ganache|Décoration ronde
-ECLAIR|Lueur de l'orage|Il est rapide comme lui|Choux allongé glacé
+GALETTE|Elle cache la fève|Crêpe de sarrasin
+CROISSANT|Il peut être au beurre ou ordinaire|Le ___ fertile
+BRIOCHE|Qu'ils mangent de la ___ !|Vendéenne ou parisienne
+MACARON|Spécialité de Ladurée|Gâteau coloré à la ganache
+ECLAIR|Il est rapide comme lui|Choux allongé glacé
 MADELEINE|Petit gâteau de Commercy|Pleurer comme une ___|En forme de coquille
 CLAFOUTIS|Flan du Limousin|On y laisse les noyaux|Gâteau aux fruits cuits dans l'appareil
 TIRAMISU|Il signifie « remonte-moi »|Mascarpone et biscuits imbibés|Dessert de Trévise
@@ -83,8 +83,8 @@ BECHAMEL|Sauce des lasagnes|Beurre, farine et lait|Sauce du croque-monsieur
 SAFRAN|Or rouge des épices|Pistils d'un crocus|Il colore la paella
 CANNELLE|Épice du vin chaud|Couleur brun clair|Bâton parfumé
 VANILLE|Parfum de glace classique|Orchidée parfumée de Madagascar|Gousse noire
-BASILIC|Herbe de la pizza|Serpent fabuleux|Plante du pistou
-PERSIL|Il s'ajoute en garniture|Herbe de la persillade|Avoir du ___ dans les oreilles
+BASILIC|Herbe de la pizza|Plante du pistou
+PERSIL|Il s'ajoute en garniture|Herbe de la persillade
 THYM|Il parfume le bouquet garni|Farigoule|Plante de garrigue
 ROMARIN|Herbe des grillades|Plante aromatique à fleurs bleues|Rosée de mer, selon son nom latin
 AIL|Il éloigne les vampires|Ingrédient de l'aïoli|Haleine forte
@@ -95,48 +95,48 @@ AUBERGINE|Base de la moussaka|Caviar d'___|Contractuelle d'autrefois
 ARTICHAUT|Il a un cœur d'___|Légume aux bractées|Il se mange feuille à feuille
 CAMEMBERT|Il coule quand il est fait|Diagramme circulaire|Boîte ronde en bois
 ROQUEFORT|Affiné en grotte|Fromage aveyronnais|Il est bleu
-COMTE|Fromage à pâte pressée cuite|Titre de noblesse|Dracula en est un
+COMTE|Fromage à pâte pressée cuite|Dracula en est un
 REBLOCHON|Fromage de la tartiflette|Pâte molle savoyarde|Fromage du Grand-Bornand
 BRIE|Roi des fromages|Fromage en galette|Région de Meaux et de Melun
-FOUET|Il monte la mayonnaise|Instrument du dompteur|Coup de ___ : remontant
+FOUET|Il monte la mayonnaise|Coup de ___ : remontant
 CASSEROLE|Chanter comme une ___|Affaire compromettante|Récipient en cuivre
-POELE|Tenir la queue de la ___|Elle brûle dans la cheminée|Ustensile à long manche
-LOUCHE|Suspect|Elle sert le potage|Qui a l'air douteux
-CHEF|Cuisinier étoilé|Patron|Celui d'orchestre tient la baguette
+POELE|Elle brûle dans la cheminée|Ustensile à long manche
+LOUCHE|Suspect|Elle sert le potage
+CHEF|Cuisinier étoilé|Patron
 MENU|Petit, fin|Liste sur l'ardoise|Ce qui défile à l'écran
 DESSERT|Douceur finale|Plateau de pâtisseries|Il précède le café
-ENTREE|Hors-d'œuvre|Porte d'une maison|Billet de spectacle
+ENTREE|Hors-d'œuvre|Porte d'une maison
 APERITIF|Apéro|Pastis ou kir|Moment des cacahuètes
 GOURMET|Fin gourmand|Gastronome|Fine bouche
-BEURRE|Le ___ et l'argent du ___|Il est demi-sel en Bretagne|Faire son ___ : s'enrichir
+BEURRE|Il est demi-sel en Bretagne|Faire son ___ : s'enrichir
 FARINE|Base du pain|Rouler dans la ___ : duper|Blanche, elle salit les mains
-CONFITURE|Elle se tartine|Pot de fruits|Donner de la ___ aux cochons
+CONFITURE|Elle se tartine|Pot de fruits
 # --- nouveaux mots ---
 BOUILLABAISSE|Soupe de poisson marseillaise|Elle se sert avec de la rouille|Plat de rascasse|Fierté du Vieux-Port
 BLANQUETTE|Veau en sauce blanche|Vin pétillant de Limoux|Plat bourgeois à la crème|Ragoût au riz
-POTAUFEU|Bœuf et légumes bouillis|Plat d'hiver en marmite|Pantouflard, au figuré|Il donne un bon bouillon
+POTAUFEU|Bœuf et légumes bouillis|Plat d'hiver en marmite|Il donne un bon bouillon
 PROFITEROLE|Chou à la crème glacée|Nappé de chocolat chaud|Dessert de brasserie|Petit chou au chocolat
 CHOUQUETTE|Petit chou au sucre perlé|Viennoiserie de boulangerie|Gourmandise à grignoter|Pâte à choux sans crème
-MILLEFEUILLE|Napoléon pâtissier|Feuilletage et crème pâtissière|Gâteau difficile à couper|Plante aux feuilles découpées
+MILLEFEUILLE|Napoléon pâtissier|Feuilletage et crème pâtissière|Gâteau difficile à couper
 SOUFFLE|Gonflé au four|Haleine|Il retombe si on ouvre trop tôt|Couper le ___
-GRATIN|Le ___ dauphinois|Croûte dorée|L'élite de la société|Plat passé au four
+GRATIN|Le ___ dauphinois|Croûte dorée|Plat passé au four
 VELOUTE|Potage onctueux|Doux comme de la soie|Crème mixée|Velours liquide
 ROUX|Base de la béchamel|Couleur de cheveux|Cuisson beurre-farine|Poil de carotte
-SARRASIN|Blé noir|Farine des galettes bretonnes|Envahisseur médiéval|Céréale sans gluten
+SARRASIN|Blé noir|Farine des galettes bretonnes|Céréale sans gluten
 BAVAROISE|Dessert à la crème gélifiée|Femme de Munich|Charlotte froide|Entremets en moule
 EPINARD|Légume de Popeye|Mettre du beurre dans les ___|Légume vert riche en fer, dit-on|Feuille du florentine
 # --- mots ajoutés (v3) ---
 SEL|Chlorure de sodium|Il relève les plats|Grain de ___|Fleur de ___
 SUCRE|Saccharose|Morceau du café|Casser du ___ sur le dos|Pain de ___
 POIVRE|Épice noire ou blanche|Moulin à ___|___ et sel : grisonnant|Grain piquant
-MIEL|Produit de l'abeille|Lune de ___|Doux comme le ___|Pain d'épices au ___
-HUILE|Celle d'olive|Faire tache d'___|Mer d'___|Personnage important, en argot
+MIEL|Produit de l'abeille|Doux comme le ___|Pain d'épices au ___
+HUILE|Celle d'olive|Faire tache d'___
 OEUF|Il se mange à la coque|Il précède la poule, ou pas|Mettre ses ___ dans le même panier|Œuf de Pâques en chocolat
 LAIT|Il est entier ou écrémé|Soupe au ___|Petit-___|Boire du petit ___
 CREME|Chantilly|Café-___|La ___ de la ___|Fraîche ou anglaise
 PAIN|Baguette ou miche|Gagner son ___|Ça ne mange pas de ___|___ perdu
 RIZ|Céréale d'Asie|Base du risotto|Il est basmati|___ au lait
-PATES|Spaghettis ou tagliatelles|Al dente|Mettre la main à la ___|Elles sont fraîches en Italie
+PATES|Spaghettis ou tagliatelles|Al dente|Elles sont fraîches en Italie
 FRITES|Bâtonnets de pommes de terre|Spécialité belge|Accompagnement du steak|Moules-___
 STEAK|Bifteck|___ tartare|Viande hachée en galette|Tranche de bœuf
 GIGOT|Cuisse d'agneau|Manches à ___|Rôti de Pâques|Viande à l'ail

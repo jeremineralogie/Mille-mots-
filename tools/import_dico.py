@@ -67,7 +67,7 @@ STRONG = {k: re.compile(v, re.I) for k, v in {
 METIER = re.compile(r"^(personne|celui|celle|ouvrier|ouvrière|artisan|artisane|spécialiste|professionnel|professionnelle|employé|employée|marchand|marchande|technicien|technicienne|fabricant|fabricante)\b[^.]*\b(fabrique|fabriquent|vend|vendent|répare|métier|profession|professionnellement|soigne|enseigne|entretient|cultive|élève|construit|confectionne|travaille)\b", re.I)
 BAD_WORDS = re.compile(r"\b(sexe|sexuel|sexuelle|érection|pénis|vagin|vulve|coït|masturb|prostitu|pornogra|testicule|anus|fesses|sodom|copul|orgasme|nazi|raciste|injure|insulte)", re.I)
 STOP = set('NAZI NAZIE NAZISME HITLERIEN NEGRE NEGRESSE BOUGNOULE YOUPIN PUTE SALOPE CONNARD CONNASSE ENCULE BITE CHATTE NIQUER BAISER BAISE DES LES UNE UNS AUX CES SES MES TES NOS VOS LEUR LEURS QUI QUE QUOI DONT MAIS DONC NOUS VOUS ELLE ELLES ILS EUX LUI MOI TOI SOI CELA CECI CET CETTE AVEC SANS POUR PAR SUR SOUS DANS CHEZ VERS ENTRE TRES PLUS MOINS AUSSI BIEN TOUT TOUS TOUTE TOUTES RIEN'.split())
-ANAPH = re.compile(r"\b(ce cépage|ce nom|de ce nom|même nom|analogue|ci-dessus|précédent|précédente|susdit|cette|cet|ces|ce dernier|cette dernière|celle-ci|celui-ci|ceux-ci|ledit|ladite|ce sens|ce mot|ce terme|cette espèce|cet animal|cette plante)\b", re.I)
+ANAPH = re.compile(r"\b(ce type|ce genre|ce même|ce cépage|ce nom|de ce nom|même nom|analogue|ci-dessus|précédent|précédente|susdit|cette|cet|ces|ce dernier|cette dernière|celle-ci|celui-ci|ceux-ci|ledit|ladite|ce sens|ce mot|ce terme|cette espèce|cet animal|cette plante)\b", re.I)
 LATIN = re.compile(r"\b[A-Z][a-z]{2,} [a-z]{3,}(?:us|um|is|ae|ii|ensis|oides|as|ata|ica|ina)\b")
 PRON = re.compile(r"^(Il|Elle|Je|Tu|Nous|Vous|Ils|Elles|J'|C'est|Ce sont) ")
 BAN_REG = {'vulgar', 'offensive', 'very-familiar'}
@@ -129,6 +129,8 @@ def ok_def(d, ans, lemma):
     if SKIP_DEF.match(d): return False
     if re.match(r"^(À|Au|Aux|En|Dans|Chez|Pour|Par|Avec|Sans|Sur)\b[^,]{0,28}$", d): return False      # fragment : « À la Réforme »
     if re.match(r"^(Que|Qu'|Et|Ou|Mais|Donc|Car|Ni|Dont)\b", d): return False
+    if re.match(r"^(De|D'|Des) ?(s'|se |l'|la |le )?[a-zéèêàâîôû]+(er|ir|re)\b", d): return False     # « De s'élever… » : fragment
+    if re.match(r"^(Le|La|Les|L'|Un|Une|Des|Du) ?[\wÀ-ÿ-]+$", d): return False                 # « La nourriture »
     if re.match(r"^(Comparatif|Superlatif|Contraire|Péjoratif|Mélioratif) d", d, re.I): return False
     if re.search(r"\b(lui-même|elle-même|eux-mêmes|elles-mêmes|ci-dessus|susmentionné)\b", d, re.I): return False
     if re.search(r'[0-9]{3,}|[→=⁰¹²³⁴⁵⁶⁷⁸⁹]|https?:|\bvoir\b|\bvoyez\b|\bcf\b', d, re.I): return False

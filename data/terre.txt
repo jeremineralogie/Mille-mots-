@@ -112,10 +112,10 @@ SICILE|Île de Palerme|Triangle au bout de la botte|Île du Parrain
 PACIFIQUE|Calme et paisible|Océan des Fidji|Océan de Polynésie
 MEDITERRANEE|Mare nostrum|Mer de Nice et de Marseille|Mer au milieu des terres
 BALTIQUE|Mer de Gdansk|Mer intérieure du Nord|Mer d'Helsinki
-DETROIT|Ville de l'automobile américaine|Celui de Gibraltar ouvre la Méditerranée|Passage maritime étroit
+DETROIT|Celui de Gibraltar ouvre la Méditerranée|Passage maritime étroit
 ARCHIPEL|Les Açores en forment un|Chapelet d'îles|Celui du Goulag selon Soljenitsyne
 PENINSULE|La Bretagne en est une|Presqu'île de grande taille|L'Italie en est une
-DELTA|Lettre grecque triangulaire|Celui du Nil est fertile|Aile volante
+DELTA|Celui du Nil est fertile
 FJORD|Paysage norvégien|Bras de mer encaissé|Golfe glaciaire
 TOUNDRA|Pays du renne et du lichen|Paysage de Sibérie arctique|Steppe froide
 SAVANE|Terrain de chasse du lion|Brousse tropicale|Paysage du Serengeti
@@ -128,7 +128,7 @@ LYON|Capitale des Gaules|Ville des bouchons|Ville des frères Lumière
 # --- nouveaux mots ---
 AMAZONIE|Poumon vert de la planète|Plus grande forêt tropicale|Région de Manaus|Bassin d'un grand fleuve sud-américain
 CAUCASE|Chaîne entre mer Noire et Caspienne|Montagne de l'Elbrouz|Prométhée y fut enchaîné|Région de Géorgie et d'Arménie
-OASIS|Point d'eau dans le désert|Havre de paix|Groupe de rock britannique|Palmeraie saharienne
+OASIS|Point d'eau dans le désert|Havre de paix|Palmeraie saharienne
 GEYSER|Source jaillissante|Celui d'Old Faithful est réglé comme une horloge|Jet d'eau chaude islandais|Phénomène volcanique d'Islande
 GLACIER|Fleuve de glace|Vendeur de sorbets|La mer de Glace en est un|Il recule avec le réchauffement
 BOCAGE|Paysage de haies normand|Champs entourés d'arbres|Petit bois|Paysage vendéen
@@ -150,7 +150,7 @@ OURAL|Montagnes entre Europe et Asie|Fleuve de la Caspienne|Région industrielle
 ALASKA|État le plus vaste des États-Unis|Acheté à la Russie en 1867|Terre de l'ours Kodiak|Péninsule arctique
 TEXAS|État de Houston|État à l'étoile solitaire|Pays des ranchs|État de Dallas
 FLORIDE|État de Miami|État des Everglades|Péninsule des alligators|Cap Canaveral s'y trouve
-CHILI|Pays tout en longueur|Pays de Santiago|Plat de haricots épicé|Pays de l'Atacama
+CHILI|Pays tout en longueur|Pays de Santiago|Pays de l'Atacama
 PEROU|Ce n'est pas le ___ !|Pays de Lima|Pays des Incas|Pays du lac Titicaca
 CUBA|Île de La Havane|Île des cigares|Pays de Castro|Île de la rumba
 INDE|Pays de Delhi|Pays du Taj Mahal|Sous-continent|Pays de l'Himalaya et du Kerala
@@ -228,24 +228,24 @@ GAGARINE|Premier homme dans l'espace
 # --- définitions supplémentaires ---
 SOLEIL|Hélios|Il se lève à l'est|Astre au centre du système
 LUNE|Phébé|Pleine ou nouvelle|Elle a une face cachée
-MERCURE|Planète sans atmosphère notable|Hermès romain|Métal du baromètre
+MERCURE|Planète sans atmosphère notable
 VENUS|Planète aux nuages acides|Elle tourne à l'envers|Sœur jumelle de la Terre
 TERRE|Planète bleue|Sol|Notre-Dame de la ___
-MARS|Planète de Curiosity|Dieu de la guerre|Elle a deux lunes
+MARS|Planète de Curiosity|Elle a deux lunes
 JUPITER|Planète à la grande tache rouge|Géante gazeuse|Planète d'Io et Ganymède
-SATURNE|Planète de Titan|Elle flotterait sur l'eau|Dieu qui dévorait ses enfants, chez Goya
+SATURNE|Planète de Titan|Elle flotterait sur l'eau
 URANUS|Planète découverte par Herschel|Planète couchée sur le flanc|Dieu du ciel grec
 NEPTUNE|Planète bleue lointaine|Découverte par le calcul de Le Verrier|Planète des vents les plus forts
-PLUTON|Planète déclassée|Visitée par New Horizons|Chien de Mickey
+PLUTON|Planète déclassée|Visitée par New Horizons
 COMETE|Celle de Halley revient tous les 76 ans|Chevelue du ciel|Tirer des plans sur la ___
 ASTEROIDE|Celui B 612 est au Petit Prince|Petite planète|Sa ceinture est entre Mars et Jupiter
 METEORITE|Pierre tombée du ciel|Bolide|Elle fit disparaître les dinosaures
 GALAXIE|Celle d'Andromède est notre voisine|Voie lactée|Spirale d'étoiles
 NEBULEUSE|Vague, confus|Celle du Crabe|Nuage cosmique
-ETOILE|Celle de mer|Danseuse de l'Opéra|Celle filante exauce les vœux
+ETOILE|Celle de mer|Celle filante exauce les vœux
 ORION|Le chasseur et ses trois rois|Ceinture d'___|Constellation d'hiver
-OURSE|Femelle de l'ours|Petite ___|Grande Casserole
-POLAIRE|Fourrure synthétique|Glacial|Cercle ___
+OURSE|Petite ___|Grande Casserole
+POLAIRE|Glacial|Cercle ___
 SIRIUS|Étoile du Grand Chien|Astre de la canicule|Alpha du Grand Chien
 SUPERNOVA|Elle laisse un pulsar|Étoile qui explose|Celle de 1054 fut vue en Chine
 NAINE|Blanche avec sept nains|Petite étoile|Planète ___
@@ -257,11 +257,11 @@ SPATIONAUTE|Mot français de l'astronaute|Jean-Loup Chrétien en fut un|Voyageur
 FUSEE|Elle décolle|Feu d'artifice|Saturn V
 NAVETTE|Bus de liaison|Columbia ou Challenger|Elle fait l'aller-retour
 APOLLO|Mission 11|Programme de 1969|Houston, nous avons un problème : mission 13
-ARMSTRONG|Neil|Un petit pas pour l'homme|Louis, trompettiste homonyme
+ARMSTRONG|Neil|Un petit pas pour l'homme
 ALDRIN|Buzz|Pilote d'Apollo 11|Il a inspiré Buzz l'Éclair
 PESQUET|Thomas de Rouen|Astronaute de la mission Alpha|Spationaute de l'ESA
 HAIGNERE|Claudie de 1996|Ministre et spationaute|Médecin dans l'espace
-STATION|Celle de métro|Lieu de vacances au ski|Arrêt
+STATION|Arrêt
 HUBBLE|Il démontra l'expansion de l'Univers|Œil réparé en orbite|Edwin, astronome
 ROVER|Astromobile|Véhicule martien|Land ___
 PERSEVERANCE|Constance|Rover de Jezero|Opiniâtreté
@@ -270,15 +270,15 @@ KOUROU|Ville guyanaise|Port spatial|Centre spatial guyanais
 NASA|Agence de Cap Canaveral|Agence de Houston|Elle dirige Artemis
 COSMOS|Ordre du monde|Fleur jardinière|Série de Carl Sagan
 UNIVERS|Monde|Domaine propre|Il est en expansion
-LACTEE|Laiteuse|Notre galaxie, Voie ___|Blanche comme le lait
+LACTEE|Laiteuse|Notre galaxie, Voie ___
 ASTRONOMIE|Science de Copernic|Observation du ciel|À ne pas confondre avec l'astrologie
 ZENITH|Apogée|Salle de concert|Point culminant
-ANNEAUX|Ils sont olympiques|Bagues|Agrès de gymnastique
-CRATERE|Bouche de volcan|Cavité lunaire|Vase grec
-MAREE|Haute ou basse|Coefficient de ___|Poissons frais
+ANNEAUX|Bagues
+CRATERE|Bouche de volcan|Cavité lunaire
+MAREE|Haute ou basse|Coefficient de ___
 TITAN|Satellite à l'atmosphère épaisse|Lune visitée par Huygens|Géant
-EUROPE|Lune qui cacherait un océan|Princesse enlevée par Zeus|Continent
-PHOBOS|Peur en grec|Satellite qui tombe vers Mars|Compagnon de Déimos
+EUROPE|Lune qui cacherait un océan|Continent
+PHOBOS|Satellite qui tombe vers Mars|Compagnon de Déimos
 SPOUTNIK|Satellite de 1957|Laïka voyagea dans le deuxième|Bip-bip soviétique
 GAGARINE|Youri au sourire|Pionnier de Baïkonour|Héros du 12 avril 1961
 # --- nouveaux mots ---
@@ -287,24 +287,24 @@ TROUNOIR|Il avale même la lumière|Singularité|Gouffre cosmique|Celui de M87 a
 BIGBANG|Origine de l'Univers|Explosion primordiale|Théorie de Lemaître|Début de tout
 CONSTELLATION|Groupe d'étoiles|La Lyre en est une|Ensemble de satellites|Figure céleste
 ECLIPSE|Celle de Lune est rouge|Occultation|Elle se regarde avec des lunettes spéciales|Disparition soudaine
-SCAPHANDRE|Combinaison spatiale|Tenue de plongée|Le ___ et le papillon|Habit de cosmonaute
+SCAPHANDRE|Combinaison spatiale|Habit de cosmonaute
 APESANTEUR|Absence de poids|Flottement en orbite|Vol parabolique|État sans gravité ressentie
 EQUINOXE|Point vernal|Moment d'égalité jour-nuit|Elle marque le printemps|Elle tombe vers le 22 septembre
-ALIEN|Extraterrestre|Film de Ridley Scott|Étranger en anglais|Petit homme vert
+ALIEN|Extraterrestre|Étranger en anglais|Petit homme vert
 OVNI|Objet volant non identifié|Soucoupe volante|UFO|Chose étrange
 PLANETARIUM|Théâtre du ciel|Dôme d'étoiles projetées|Celui de la Villette|Salle de démonstration astronomique
 TELESCOPE|Celui de Webb voit l'infrarouge|Réflecteur|Instrument à miroir|Il observe les galaxies lointaines
 # --- mots ajoutés (v3) ---
 ASTRE|Corps céleste|Le Soleil en est un|Bel ___ : beau garçon, ironiquement|Étoile ou planète
-CIEL|Voûte céleste|Paradis|Bleu ___|Juste ___ !
-ESPACE|Cosmos|Étendue|Touche du clavier|Il est vital
+CIEL|Voûte céleste|Bleu ___|Juste ___ !
+ESPACE|Cosmos|Étendue|Il est vital
 VIDE|Néant spatial|Vacuum|Faire le ___|Sans contenu
 ORBITAL|Relatif à une orbite|Station ___|Vol ___|Satellite en mouvement
-CAPSULE|Module spatial|Bouchon de bouteille|Gélule|Celle de café
-MODULE|Élément de station|Partie d'un programme|Partie d'un vaisseau|Unité de formation
+CAPSULE|Module spatial|Bouchon de bouteille|Gélule
+MODULE|Élément de station|Partie d'un vaisseau|Unité de formation
 LUNAIRE|Rêveur|Paysage ___|Mois ___|Relatif à la Lune
 SOLAIRE|Vent ___|Système ___|Énergie ___|Cadran ___
-AURORE|Celle boréale|Lever du jour|Prénom matinal|Déesse de l'aube
+AURORE|Celle boréale|Lever du jour|Prénom matinal
 BOREALE|Aurore du Nord|Septentrionale|Forêt ___|Hémisphère nord
 METEORE|Étoile filante|Phénomène atmosphérique|Carrière fulgurante|Les ___ de Grèce
 POUSSIERE|Celle d'étoiles|Particules fines|Mordre la ___|Grain de ___

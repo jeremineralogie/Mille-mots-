@@ -63,12 +63,12 @@ TAXI|Celui de la Marne|Il se hèle dans la rue|Il a un lumineux sur le toit
 BATEAU|Mener en ___|Embarcation|Sujet rebattu
 PAQUEBOT|France ou Normandie|Ville flottante|Transatlantique
 FERRY|Bateau entre Calais et Douvres|Navire transmanche|Bac maritime
-VOILIER|Ketch ou sloop|Il navigue au vent|Grand oiseau qui vole loin
-CAMPING|Sport des tentes|Film avec Patrick Chirac|Car ___
+VOILIER|Ketch ou sloop|Il navigue au vent
+CAMPING|Sport des tentes|Car ___
 CARAVANE|Convoi du désert|Celle publicitaire du Tour|Les chiens aboient, elle passe
-VALISE|Faire sa ___|Malle|Mot-___ : mot composé
+VALISE|Faire sa ___|Malle
 PASSEPORT|Il est biométrique|Livret à tampons|Sésame de frontière
-VISA|Carte bancaire|Tampon consulaire|Approbation
+VISA|Tampon consulaire|Approbation
 BILLET|Celui doux est une lettre d'amour|Coupure|Je vous en donne mon ___
 AEROPORT|Roissy en est un|Plateforme aérienne|Terminal
 GARE|Celle de Lyon à Paris|Attention !|___ routière
@@ -76,7 +76,7 @@ QUAI|Celui d'Orsay|Berge aménagée|Celui des brumes chez Carné
 HOTEL|Celui particulier|Palace|___ de ville
 AUBERGE|On n'est pas sorti de l'___|Taverne|Celle espagnole est hétéroclite
 ITINERAIRE|Feuille de route|Parcours|Trajet balisé
-CARTE|Menu du restaurant|Celle de visite|___ blanche
+CARTE|Celle de visite|___ blanche
 GUIDE|Celui du Routard|Il mène la cordée|Michelin rouge
 TOURISTE|Vacancier|Visiteur|En classe ___
 CROISIERE|Vitesse de ___|Voyage sur l'eau|Escale à Santorin
@@ -94,7 +94,7 @@ HELICOPTERE|Il fait du vol stationnaire|Hélico|Il a des pales
 PILOTE|Celui automatique|Projet ___|Aviateur
 HOTESSE|Celle d'accueil|Maîtresse de maison|Stewardess
 EQUIPAGE|Membres d'un navire|Chevaux et voitures|Il obéit au commandant
-LOCOMOTIVE|Motrice|Élément moteur d'un groupe|Elle crache de la vapeur
+LOCOMOTIVE|Motrice|Elle crache de la vapeur
 WAGON|Celui-lit|Il est tiré par la locomotive|Voiture de marchandises
 ROULOTTE|Maison des Gitans d'autrefois|Caravane de bois|Vol à la ___
 MOTO|Bécane|Deux-roues de motard|Bolide à deux roues
@@ -110,11 +110,11 @@ SOUVENIR|Babiole touristique|Réminiscence|Bon ___ de vacances
 TUNNEL|Celui sous la Manche|Long passage pénible|Voir le bout du ___
 PONT|Celui d'Avignon|Jour chômé entre deux fêtes|Il enjambe les douves
 # --- nouveaux mots ---
-VOYAGEUR|Passager|Celui de commerce|Pigeon ___|Il a sa valise
+VOYAGEUR|Passager|Celui de commerce|Il a sa valise
 BAGAGE|Valise ou sac|Savoir accumulé|Plier ___ : partir|Paquetage
 ROUTARD|Voyageur sac au dos|Guide du ___|Bourlingueur|Backpacker
-NAVIGATION|Art de diriger un bateau|Pilotage|Surf sur Internet|Celle de plaisance
-COMPOSTER|Valider son billet|Transformer en engrais|Poinçonner|Marquer d'un tampon
+NAVIGATION|Art de diriger un bateau|Pilotage|Celle de plaisance
+COMPOSTER|Valider son billet|Poinçonner|Marquer d'un tampon
 TELEPHERIQUE|Cabine suspendue|Transport par câble|Il monte à l'Aiguille du Midi|Benne de montagne
 FUNICULAIRE|Il monte à Montmartre|Train à crémaillère ou à câble|Rame en pente|Montée de Fourvière
 GONDOLE|Barque vénitienne|Rayon de supermarché|Tête de ___|Nacelle de téléphérique
@@ -123,7 +123,7 @@ BIVOUAC|Campement de fortune|Nuit à la belle étoile|Halte en montagne|Camp pro
 KAYAK|Canoë inuit|Palindrome nautique|Embarcation à pagaie double|Sport d'eaux vives
 # --- mots ajoutés (v3) ---
 CAR|Autocar|Parce que|___ de ramassage|Bus de voyage
-BUS|Autobus|Couloir de ___|Abribus|Liaison informatique
+BUS|Autobus|Couloir de ___|Abribus
 RER|Réseau express régional|Train de banlieue francilien|Ligne A, B, C, D ou E|Il va à Disneyland
 VTT|Vélo tout-terrain|Bicyclette de montagne|Sport de descente|Deux-roues à suspensions
 TRAIN|___ de nuit|Rame|Il entre en gare|Mener la vie à grand ___
@@ -139,7 +139,7 @@ CHALET|Maison de montagne|Maison en rondins|Refuge de bois|Location de ski
 REFUGE|Abri de montagne|Asile|Valeur ___|Lieu sûr
 GITE|Location de vacances|Hébergement à la campagne|Le ___ et le couvert|Morceau de bœuf
 PALACE|Hôtel de luxe|Ritz ou Crillon|Grand hôtel|Établissement cinq étoiles
-CHAMBRE|Pièce à coucher|Assemblée|Pièce où l'on dort|___ noire
+CHAMBRE|Pièce à coucher|Pièce où l'on dort|___ noire
 RESERVATION|Booking|Réserve indienne|Place retenue|Arrhes versées
 CHECKIN|Enregistrement|Formalité d'arrivée|Comptoir d'aéroport|Arrivée à l'hôtel
 SOUTE|Cale de l'avion|Bagages en ___|Réserve du navire|Compartiment inférieur

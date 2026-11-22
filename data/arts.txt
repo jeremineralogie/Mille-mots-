@@ -78,34 +78,34 @@ CUBISME|Art des formes géométriques|Mouvement des Demoiselles d'Avignon|Décou
 SURREALISME|Mouvement du rêve et de l'inconscient|Art de Dalí et Magritte|Son manifeste date de 1924
 BAROQUE|Insolite|Style du Bernin|Perle irrégulière
 GOTHIQUE|Style d'ogives|Roman noir anglais|Écriture à la plume brisée
-ROMAN|Style de Vézelay|Art des abbayes du XIe siècle|Langue issue du latin
-FRESQUE|Vaste tableau|Peinture de Giotto à Padoue|Grande œuvre historique, au figuré
+ROMAN|Style de Vézelay|Art des abbayes du XIe siècle
+FRESQUE|Vaste tableau|Peinture de Giotto à Padoue
 AQUARELLE|Lavis coloré|Peinture transparente|Elle se peint sur papier mouillé
-PASTEL|Teinte douce|Plante tinctoriale de Toulouse|Craie colorée
-TOILE|Celle d'araignée|Le Web|Tableau de maître
+PASTEL|Teinte douce|Craie colorée
+TOILE|Le Web|Tableau de maître
 PINCEAU|Outil en poils de martre|S'emmêler les ___|Brosse fine
 PALETTE|Gamme de couleurs|Support de manutention|Planchette à trou pour le pouce
-CHEVALET|Trépied de l'artiste|Support de bois|Petit pont du violon
+CHEVALET|Trépied de l'artiste|Support de bois
 SCULPTURE|Statuaire|Œuvre en marbre ou bronze|Art de Praxitèle
 MOSAIQUE|Tesselles assemblées|Ensemble hétéroclite|Art des thermes romains
 VITRAIL|Ceux de la Sainte-Chapelle|Plombs et verres colorés|Œuvre de Chagall à Reims
 PORTRAIT|Celui-robot aide la police|Image d'un visage|Description d'une personne
 PAYSAGE|Panorama|Format horizontal d'image|Vue champêtre
 MUSEE|Celui Grévin est de cire|Galerie d'œuvres|Pièce de ___
-ORSAY|Musée des impressionnistes|Quai de Paris|Musée sur la rive gauche
+ORSAY|Musée des impressionnistes|Musée sur la rive gauche
 POMPIDOU|Beaubourg|Président de 1969 à 1974|Centre aux tuyaux colorés
 COLONNE|Celle Trajane|Pilier dorique|Rangée de chiffres
-COUPOLE|Celle des Invalides est dorée|Brasserie de Montparnasse|Académie française, au figuré
-VOUTE|Celle céleste|Celle plantaire|Plafond en arc
+COUPOLE|Celle des Invalides est dorée|Brasserie de Montparnasse
+VOUTE|Celle plantaire|Plafond en arc
 ARCADE|Galerie couverte|Salle de jeux vidéo|Celle sourcilière
-GARGOUILLE|Monstre de pierre|Bruit du ventre affamé|Bec de pluie
+GARGOUILLE|Monstre de pierre|Bec de pluie
 LECORBUSIER|Architecte suisse du béton brut|Charles-Édouard Jeanneret|Auteur de la chapelle de Ronchamp
 NOUVEL|Jean, architecte du Louvre Abu Dhabi|Neuf|Architecte de la Philharmonie
 GAUDI|Antoni de Barcelone|Architecte du parc Güell|Maître du modernisme catalan
 PYRAMIDE|Œuvre de Pei|Tombeau égyptien|Organisation hiérarchique
 GRAFFITI|Tag|Gribouillage mural|Œuvre de bombe aérosol
 ESQUISSE|Ébauche|Croquis|Une ___ de sourire
-ATELIER|Lieu de l'artisan|Celui des peintres est souvent sous les toits|Séance de travail en groupe
+ATELIER|Lieu de l'artisan|Celui des peintres est souvent sous les toits
 # --- nouveaux mots ---
 VANGOGH|Vincent des Tournesols|Il se coupa l'oreille|Peintre de La Nuit étoilée|Hollandais d'Arles
 SEURAT|Georges du pointillisme|Peintre de La Grande Jatte|Néo-impressionniste|Maître du point
@@ -118,23 +118,23 @@ CARAVAGE|Maître du clair-obscur|Peintre italien violent|Michelangelo Merisi|Pei
 LEONARD|De Vinci|Prénom d'un génie universel|Il inventa des machines volantes|Peintre de La Cène
 NATUREMORTE|Tableau de fruits et d'objets|Vanité, par exemple|Genre de Chardin|Composition inanimée
 STATUE|Celle de la Liberté|Œuvre en ronde-bosse|Elle reste immobile|Celle du Commandeur
-VENUS|Celle de Milo n'a pas de bras|Déesse de l'amour|Planète du berger|Elle naît d'un coquillage chez Botticelli
+VENUS|Celle de Milo n'a pas de bras|Elle naît d'un coquillage chez Botticelli
 CATHEDRALE|Celle de Reims est des sacres|Ensemble gothique|Grand édifice épiscopal|Celle de Chartres
 # --- mots ajoutés (v3) ---
 ART|Le septième, c'est le cinéma|Talent|Œuvre d'___|Manière de faire
 OEUVRE|Création|Chef-d'___|Mettre en ___|Ensemble des travaux d'un artiste
 BUSTE|Sculpture de la tête et des épaules|Torse|Celui de Marianne|Poitrine
-MARBRE|Pierre de Carrare|Rester de ___ : impassible|Pierre des statues|Plateau de pâtisserie
-BRONZE|Alliage des statues|Médaille de troisième|Âge de ___|Se ___ au soleil
-ARGILE|Terre du potier|Terre glaise|Pieds d'___ : fragilité|Matière à modeler
+MARBRE|Pierre de Carrare|Rester de ___ : impassible|Pierre des statues
+BRONZE|Alliage des statues|Médaille de troisième|Âge de ___
+ARGILE|Terre du potier|Terre glaise|Matière à modeler
 CERAMIQUE|Art du feu|Faïence ou porcelaine|Terre cuite émaillée|Ceux du ___ sont recherchés
 FAIENCE|Céramique émaillée|Celle de Quimper|Carrelage de cuisine|Celle de Gien
 GRAVURE|Estampe|Taille-douce|Illustration de livre ancien|Œuvre de Dürer
 ESTAMPE|Gravure japonaise|Image imprimée|Celle d'Hokusai|Épreuve d'art
 CROQUIS|Esquisse rapide|Dessin sur le vif|Ébauche|Carnet de ___
-FUSAIN|Charbon de dessin|Arbuste aux baies roses|Trait noir et gras|Dessin au charbon de bois
+FUSAIN|Charbon de dessin|Trait noir et gras|Dessin au charbon de bois
 GOUACHE|Peinture opaque à l'eau|Peinture des écoliers|Tube de couleur épaisse|Technique de l'affichiste
-PIGMENT|Matière colorante|L'ocre en est un|Couleur en poudre|Il colore la peau
+PIGMENT|Matière colorante|L'ocre en est un|Couleur en poudre
 MECENE|Protecteur des arts|Laurent de Médicis en fut un|Sponsor culturel|Il finance les artistes
 VERNISSAGE|Inauguration d'une expo|Pose de vernis|Soirée en galerie|Avant-première d'exposition
 GALERIE|Lieu d'exposition|Celle des Glaces|Passage couvert|Public d'un spectacle
@@ -145,7 +145,7 @@ CALDER|Inventeur du mobile|Alexander des stabiles|Sculpteur américain|Artiste d
 POLLOCK|Maître du dripping|Jackson, expressionniste abstrait|Peintre aux coulures|Il peignait la toile au sol
 FRIDA|Kahlo|Peintre mexicaine aux sourcils joints|Épouse de Diego Rivera|Autoportraitiste de Coyoacán
 HOKUSAI|Peintre de La Grande Vague|Maître de l'estampe japonaise|Auteur des Trente-six vues du mont Fuji|Le Fou de dessin
-BRAQUE|Georges, cubiste|Peintre des oiseaux|Ami de Picasso|Chien de chasse
+BRAQUE|Georges, cubiste|Peintre des oiseaux|Ami de Picasso
 SOULAGES|Peintre de l'outrenoir|Pierre de Rodez|Maître du noir lumineux|Vitraux de Conques
 # ===== ancien thème : lit =====
 HUGO|Auteur des « Misérables »
@@ -206,7 +206,7 @@ PERSONNAGE|Héros ou figurant d'un récit
 HUGO|Victor, exilé à Guernesey|Auteur de Notre-Dame de Paris|Il repose au Panthéon depuis 1885
 MOLIERE|Jean-Baptiste Poquelin|Il est mort presque en scène|La langue de ___
 RACINE|Auteur d'Andromaque|Dramaturge de Port-Royal|Rival tragique de Corneille
-CORNEILLE|« Va, je ne te hais point »|Auteur d'Horace|Oiseau noir, petite
+CORNEILLE|« Va, je ne te hais point »|Auteur d'Horace
 VOLTAIRE|François-Marie Arouet|Il faut cultiver notre jardin|Philosophe de Ferney
 ROUSSEAU|Jean-Jacques des Confessions|Auteur de l'Émile|Le Douanier, peintre naïf
 BALZAC|Honoré, buveur de café|Auteur du Père Goriot|Il fait dire à Rastignac « À nous deux ! »
@@ -248,7 +248,7 @@ CONTE|Histoire merveilleuse|Celui de fées|Récit des Mille et Une Nuits
 TRAGEDIE|Œdipe roi en est une|Catastrophe|Pièce en cinq actes de Racine
 NOUVELLE|Information récente|Récit de Maupassant|Jeune femme mariée de fraîche date
 ROMANCIER|Écrivain de fiction|Auteur de best-sellers|Balzac en était un prolifique
-CHAPITRE|Avoir voix au ___|Partie d'un roman|Assemblée de chanoines
+CHAPITRE|Avoir voix au ___|Partie d'un roman
 PROLOGUE|Préambule|Ouverture|Avant-propos
 EPILOGUE|Dénouement|Fin de l'histoire|Postface narrative
 GONCOURT|Frères écrivains naturalistes|Prix de novembre|Académie de dix couverts
@@ -271,7 +271,7 @@ ULYSSE|Héros de l'Odyssée|Roi d'Ithaque|Roman de Joyce|Rusé époux de Pénél
 SHERLOCK|Prénom d'un détective de Baker Street|Holmes|Héros de Conan Doyle|Il joue du violon et enquête
 POIROT|Hercule, détective belge|Héros d'Agatha Christie|Ses petites cellules grises|Il a une belle moustache
 MAIGRET|Commissaire de Simenon|Il fume la pipe|Policier du Quai des Orfèvres|Jules, enquêteur
-LUPIN|Arsène, gentleman cambrioleur|Héros de Maurice Leblanc|Plante à fleurs en épis|Ennemi d'Herlock Sholmès
+LUPIN|Arsène, gentleman cambrioleur|Héros de Maurice Leblanc|Ennemi d'Herlock Sholmès
 ACADEMIE|Celle française compte quarante membres|Les Immortels y siègent|École de Platon|Circonscription scolaire
 # --- mots ajoutés (v3) ---
 LIVRE|Ouvrage relié|Il a des pages|___ de poche|Bouquin
@@ -287,7 +287,7 @@ INTRIGUE|Trame d'un roman|Machination|Elle se noue et se dénoue|Curiosité éve
 HEROS|Personnage principal|Le ___ du jour|Achille en est un|Sauveur
 MOLIERE|Auteur des Femmes savantes|Prix du théâtre français|Directeur de l'Illustre-Théâtre|Il joua devant le roi
 MUSSET|Alfred des Caprices de Marianne|Auteur de Lorenzaccio|Amant de George Sand|Poète des Nuits
-LAMARTINE|Poète du Lac|Alphonse, romantique|Ô temps, suspends ton vol|Il proclama la IIe République
+LAMARTINE|Poète du Lac|Alphonse, romantique|Ô temps, suspends ton vol
 RONSARD|Mignonne, allons voir si la rose|Prince des poètes|Pierre de la Pléiade|Poète des Amours
 VILLON|François de la Ballade des pendus|Poète voyou du Moyen Âge|Auteur du Testament|Où sont les neiges d'antan ?
 MAUPASSANT|Guy de Bel-Ami|Auteur du Horla|Élève de Flaubert|Nouvelliste de Boule de suif
@@ -363,9 +363,9 @@ LUMIERE|Auguste et Louis, de Lyon|Leur Sortie d'usine est le premier film|Ils fi
 MELIES|Magicien des trucages|Georges, pionnier de Montreuil|Sa fusée tombe dans l'œil de la Lune
 CHAPLIN|Le Dictateur, c'est lui|Charlie, génie du muet|Auteur des Temps modernes
 CANNES|Ville de la Croisette|Bâtons de marche, au pluriel|Ville des marches rouges
-PALME|Feuille de palmier|Nageoire de plongeur|___ académique
+PALME|___ académique
 OSCAR|Prénom d'un statuette dorée|Récompense de l'Academy|Wilde, écrivain
-CESAR|Statuette compressée|Salade avec du poulet et du parmesan|Empereur de Rome
+CESAR|Statuette compressée
 HOLLYWOOD|Usine à rêves|Colline aux grandes lettres blanches|Capitale du cinéma américain
 BOLLYWOOD|Cinéma indien chanté et dansé|Industrie de Mumbai|Shah Rukh Khan en est la star
 REALISATEUR|Metteur en scène|Il crie « Action ! »|Cinéaste
@@ -375,7 +375,7 @@ TOURNAGE|Façonnage au tour|Production d'un film|Il se fait en extérieur ou en 
 MONTAGE|Celui photo est truqué|Coupe et collage d'images|Assemblage de pièces
 CAMERA|Elle fait des plans|Caméscope, en grand|Celle de surveillance
 CLAP|Fin de tournage|Ardoise frappée devant la caméra|Applaudissement bref
-GENERIQUE|Médicament copie|Musique d'ouverture|Nom commun, pas de marque
+GENERIQUE|Musique d'ouverture|Nom commun, pas de marque
 SPIELBERG|Réalisateur d'E.T.|Steven, père d'Indiana Jones|Réalisateur de Jurassic Park
 HITCHCOCK|Réalisateur de Psychose|Il apparaît dans ses propres films|Sir Alfred
 TARANTINO|Quentin aux dialogues fleuris|Réalisateur de Kill Bill|Palme d'or 1994
@@ -407,22 +407,22 @@ FIGURANT|Silhouette de film|Personnage d'arrière-plan|Il fait foule
 CASCADEUR|Doublure acrobate|Professionnel des chutes|Il saute des immeubles
 POPCORN|Maïs éclaté|Film ___ : de pur divertissement|Grignotage de cinéma
 AFFICHE|Tête d'___ : rôle principal|Placard publicitaire|Rester à l'___ longtemps
-SEQUENCE|Série ordonnée|Moment d'un film|Suite au poker
+SEQUENCE|Série ordonnée|Moment d'un film
 TRAVELLING|Caméra mobile|Plan sur chariot|Mouvement suivi
 BLOCKBUSTER|Succès du box-office|Superproduction|Film à effets spéciaux
-VAGUE|Lame de mer|Imprécis|Celle de chaleur
+VAGUE|Imprécis|Celle de chaleur
 SUSPENSE|Tension dramatique|Attente insoutenable|Genre d'Hitchcock
 # --- nouveaux mots ---
 STARWARS|Saga de George Lucas|La Guerre des étoiles|Que la Force soit avec toi|Luke contre Dark Vador
-MATRIX|Film de la pilule rouge|Néo y est l'élu|Saga des Wachowski|Matrice en anglais
+MATRIX|Film de la pilule rouge|Néo y est l'élu|Saga des Wachowski
 JAMESBOND|007|Agent secret de Ian Fleming|Il préfère son martini au shaker|Héros des services de Sa Majesté
 DRACULA|Comte vampire|Roman de Bram Stoker|Il craint l'ail|Vlad, prince de Valachie
 CHAPLINESQUE|Comique comme Charlot|Burlesque|À la façon de Charlie|Style du vagabond
 NANAR|Film tellement mauvais qu'il en devient drôle|Navet sympathique|Film raté culte|Série Z
-NAVET|Film raté|Légume blanc|Échec cinéma|Racine du pot-au-feu
+NAVET|Film raté|Échec cinéma
 BANDEANNONCE|Elle donne envie de voir le film|Trailer|Extrait promotionnel|Teaser étoffé
 ZOOM|Objectif à focale variable|Rapprochement à l'image|Visioconférence|Gros plan rapide
-SPOILER|Il gâche la fin|Divulgâcheur|Aileron de voiture|Révélation malvenue
+SPOILER|Il gâche la fin|Divulgâcheur|Révélation malvenue
 AUDIARD|Michel, dialoguiste des Tontons flingueurs|Jacques, réalisateur d'Un prophète|Famille de cinéma|Père et fils du septième art
 TONTONS|Les ___ flingueurs|Oncles|Film culte de Lautner|Ils s'appellent ainsi en famille
 # --- mots ajoutés (v3) ---
@@ -434,12 +434,12 @@ STAR|Célébrité|Étoile du cinéma|Vedette|Celle du Walk of Fame
 PLAN|Cadre filmé|Projet|Gros ___|Carte de ville
 ECRAN|Grand ___|Toile de projection|Celui de fumée|Petit ___ : télévision
 SALLE|Lieu de projection|Pièce|Public|Celle des fêtes
-TOURNER|Filmer|Pivoter|___ la page|___ de l'œil
+TOURNER|Filmer|Pivoter|___ la page
 COUPEZ|Fin de la prise|Ordre du réalisateur|___ ! dit le clap final|Arrêtez de filmer !
-ACTION|Moteur… ___ !|Genre de film à explosions|Acte|Part de société
-SCRIPT|Scénario écrit|Assistante du plateau|Programme informatique|Texte du tournage
+ACTION|Moteur… ___ !|Genre de film à explosions|Acte
+SCRIPT|Scénario écrit|Assistante du plateau|Texte du tournage
 PROJECTEUR|Lumière de plateau|Appareil de projection|Feux de la rampe|Il éclaire la scène
-SEQUELLE|Suite d'un film|Trace d'une maladie|Épisode 2|Prolongement
+SEQUELLE|Suite d'un film|Épisode 2|Prolongement
 PREQUEL|Film qui raconte l'avant|Antépisode|Origine d'une saga|Épisode précédent tourné après
 REMAKE|Nouvelle version d'un film|Reprise|Copie modernisée|Refaire en anglais
 DESSINANIME|Film d'animation|Cartoon|Blanche-Neige en est un|Bugs Bunny y est la star

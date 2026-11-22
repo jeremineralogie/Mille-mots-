@@ -63,51 +63,51 @@ ELECTRON|Il gravite autour du noyau|Particule découverte par Thomson|___ libre 
 PROTON|Son nombre définit l'élément|Noyau de l'atome d'hydrogène|Il est 1 836 fois plus lourd qu'un électron
 NEUTRON|Découvert par Chadwick en 1932|Particule sans charge|Il entretient la réaction en chaîne
 NOYAU|Partie dure de la cerise|Cœur de la cellule|Groupe restreint et soudé
-OXYGENE|O dans le tableau|Gaz produit par la photosynthèse|Bol d'air pur, au figuré
+OXYGENE|O dans le tableau|Gaz produit par la photosynthèse
 HYDROGENE|H dans le tableau|Combustible du Soleil|Il forme l'eau avec l'oxygène
 CARBONE|Diamant et graphite sont faits de lui|Sa datation au 14 date les fossiles|Papier qui sert à copier
 AZOTE|78 % de notre atmosphère|Élément N|Engrais pour les plantes
 HELIUM|Il rend la voix aiguë|Gaz rare découvert dans le Soleil|Deuxième élément du tableau
 FER|Il rouille|Métal du forgeron|Outil pour repasser
 CUIVRE|Métal rougeâtre des fils électriques|Métal des casseroles de chef|Instrument à vent de l'orchestre, au pluriel
-ARGENT|Métal de la deuxième place|Monnaie, au sens courant|Le temps, c'en est
+ARGENT|Métal de la deuxième place|Le temps, c'en est
 PLOMB|Métal lourd et toxique|Fusible d'autrefois|Il n'a pas de ___ dans la cervelle
-MERCURE|Planète la plus proche du Soleil|Messager des dieux romains|Il monte dans les thermomètres d'antan
+MERCURE|Il monte dans les thermomètres d'antan
 NEWTON|Une pomme lui tomba dessus|Isaac, physicien anglais|Unité de force
 EINSTEIN|E = mc²|Albert, génie à la langue tirée|Prix Nobel de physique 1921
 CURIE|Marie, découvreuse du radium|Pierre, son mari physicien|Unité de radioactivité ancienne
-PASTEUR|Il a donné son nom à la pasteurisation|Louis, chimiste de Dole|Ministre du culte protestant
+PASTEUR|Il a donné son nom à la pasteurisation|Louis, chimiste de Dole
 DARWIN|Charles, passager du Beagle|Auteur de L'Origine des espèces|Il observa les pinsons des Galápagos
 GALILEE|« Et pourtant elle tourne »|Astronome condamné par l'Église|Région de Nazareth
 GRAVITE|Sérieux d'une situation|Pesanteur|Centre de ___
 ENERGIE|Vigueur, dynamisme|Elle peut être renouvelable|Celle du désespoir
 VITESSE|Excès de ___|Elle se mesure en km/h|Boîte de ___
-LUMIERE|Clarté|Siècle des ___|Frères pionniers du cinéma
-PRISME|Solide à deux bases parallèles|Point de vue, au figuré|Il fait apparaître un arc-en-ciel
+LUMIERE|Clarté|Siècle des ___
+PRISME|Solide à deux bases parallèles|Il fait apparaître un arc-en-ciel
 AIMANT|Il colle au frigo|Qui donne de l'amour|Il a un pôle nord et un pôle sud
 ELECTRICITE|Fée des expositions universelles|Courant dans la maison|Facture de l'EDF
 VOLT|Unité honorant le physicien de Côme|220 dans les prises d'autrefois|Unité de la pile
 WATT|Inventeur écossais de la machine à vapeur moderne|Unité de puissance d'une ampoule|Il se compte en kilo pour un radiateur
 JOULE|Unité de travail|James, physicien anglais|Unité valant une calorie divisée par quatre environ
-CELLULE|Pièce d'une prison|Alvéole de ruche|___ photoélectrique
+CELLULE|Alvéole de ruche|___ photoélectrique
 ADN|Acide désoxyribonucléique|Double hélice|Il trahit les coupables
 GENE|Il code une protéine|Unité d'hérédité|Embarras
 MICROBE|Petite bête invisible|Tout petit enfant, en plaisantant|Germe
 BACTERIE|Le colibacille en est une|Elle peut être lactique|Les antibiotiques la combattent
 VIRUS|Celui de la grippe mute chaque année|Programme malveillant|Passion contagieuse
 VACCIN|Jenner l'inventa contre la variole|Piqûre de rappel|Il stimule les anticorps
-FOSSILE|Ammonite pétrifiée|Vieux réactionnaire, au figuré|Énergie ___ : pétrole ou charbon
+FOSSILE|Ammonite pétrifiée|Énergie ___ : pétrole ou charbon
 VOLCAN|L'Etna en est un|Son cratère fume|Il peut être endormi
 SEISME|Il se mesure sur l'échelle de Richter|Bouleversement brutal|Secousse tellurique
-FUSION|Mariage de deux entreprises|Réaction nucléaire des étoiles|Cuisine ___, mélange des genres
-VAPEUR|Locomotive à ___|Cuisson diététique|Buée
+FUSION|Réaction nucléaire des étoiles
+VAPEUR|Locomotive à ___|Buée
 ACIDE|Pluie ___|Aigre|Propos mordant
 ALGEBRE|Mot venu de l'arabe al-jabr|Science des x et des y|C'est de l'___ pour moi : incompréhensible
 GEOMETRIE|Science d'Euclide|À ___ variable : changeant|Étude des angles et des droites
 TRIANGLE|Il peut être isocèle|Instrument de percussion|Celui des Bermudes est maudit
 CERCLE|Rond parfait|Club fermé|___ vicieux
 EQUATION|Problème à x inconnues|Formule à résoudre|Situation complexe à démêler
-FRACTION|Partie d'un tout|Numérateur sur dénominateur|Groupe dissident d'un parti
+FRACTION|Partie d'un tout|Numérateur sur dénominateur
 MICROSCOPE|Instrument du biologiste|Sous son œil, on examine en détail|Il a des lentilles et une platine
 TELESCOPE|Hubble en est un spatial|Lunette astronomique à miroir|Instrument de l'observatoire
 LABORATOIRE|Lieu de recherche|Celui d'analyses traite les prises de sang|Le labo, en entier
@@ -123,11 +123,11 @@ ALGORITHME|Recette mathématique|Suite d'instructions|Il gouverne les réseaux s
 ENTROPIE|Mesure du désordre|Elle augmente toujours, dit la thermodynamique|Grandeur de Clausius|Désorganisation progressive
 CATALYSEUR|Il accélère une réaction|Pot d'échappement épurant|Élément déclencheur|Le platine en est un
 DENSITE|Masse rapportée au volume|Elle fait flotter le bois|Épaisseur d'une population|Compacité
-ORBITE|Trajectoire autour d'un astre|Cavité de l'œil|Mettre en ___ : lancer|Elle est elliptique chez Kepler
+ORBITE|Trajectoire autour d'un astre|Mettre en ___ : lancer|Elle est elliptique chez Kepler
 ARCHIMEDE|« Eurêka ! »|Sa poussée fait flotter|Savant de Syracuse|Il demandait un levier pour soulever le monde
 MENDELEIEV|Inventeur du tableau périodique|Chimiste russe|Il prédit des éléments inconnus|Élément 101 à son nom
 HYPOTENUSE|Côté opposé à l'angle droit|Le plus long côté du triangle rectangle|Son carré vaut la somme des deux autres|Ligne de Pythagore
-POLYGONE|Le carré en est un|Figure à plusieurs côtés|Terrain militaire de tir|L'hexagone en est un
+POLYGONE|Le carré en est un|Figure à plusieurs côtés|L'hexagone en est un
 DIAMETRE|Il passe par le centre|Deux fois le rayon|Corde maximale|Taille d'un tuyau
 # --- mots ajoutés (v3) ---
 ION|Atome chargé|Cation ou anion|Particule électrisée|Il a perdu ou gagné un électron
@@ -150,7 +150,7 @@ MUTATION|Changement génétique|Nouvelle affectation|Transformation|Variation de
 CHROMOSOME|Il porte les gènes|On en a 46|X ou Y|Bâtonnet de l'ADN
 ENZYME|Catalyseur biologique|La lactase en est une|Protéine qui accélère|Présente dans les lessives
 VECTEUR|Flèche mathématique|Porteur de maladie|Moyen de transmission|Il a une norme
-INTEGRALE|Somme de Riemann|Version complète|Calcul d'aire|Œuvre complète d'un auteur
+INTEGRALE|Somme de Riemann|Version complète|Calcul d'aire
 LOGARITHME|Inverse de l'exponentielle|Inventé par Napier|Échelle ___|Fonction ln
 STATISTIQUE|Science des données|Sondage chiffré|Moyenne et écart-type|Chiffre éloquent
 MICRON|Millième de millimètre|Micromètre|Taille d'une bactérie|Toute petite mesure
@@ -213,25 +213,25 @@ CURSEUR|Il clignote à l'écran
 WEBCAM|Caméra de l'ordinateur
 # --- définitions supplémentaires ---
 ORDINATEUR|Mot créé par un linguiste pour IBM en 1955|PC|Machine à calculer moderne
-CLAVIER|Celui du piano|Il peut être QWERTY|Instrument de saisie
-SOURIS|Rongeur gris|Elle danse quand le chat n'est pas là|Elle clique
-ECRAN|Petit ou grand|Protection|Celui total protège du soleil
+CLAVIER|Il peut être QWERTY|Instrument de saisie
+SOURIS|Elle clique
+ECRAN|Petit ou grand|Protection
 INTERNET|La Toile|Réseau des réseaux|Né d'Arpanet
 COURRIEL|Mél|Message électronique|Mot québécois pour mail
 LOGICIEL|Software|Traitement de texte, par exemple|Programme installé
-APPLICATION|Zèle au travail|Mise en pratique|App
-PROGRAMME|Projet politique|Grille de télévision|Contenu des cours
+APPLICATION|Mise en pratique|App
+PROGRAMME|Grille de télévision|Contenu des cours
 CODE|Celui de la route|Celui source|Mot de passe chiffré
 BUG|Bogue|Celui de l'an 2000|Insecte en anglais
 PIXEL|Il forme l'image|Point de l'écran|Il peut se voir en gros plan
 OCTET|Byte|Kilo-, méga- ou giga-|Huit bits
-BINAIRE|Composé de deux éléments|Langage des 0 et des 1|Étoile double
+BINAIRE|Composé de deux éléments|Langage des 0 et des 1
 PROCESSEUR|Puce|Unité centrale de calcul|Intel en fabrique
 MEMOIRE|Souvenir|Thèse d'étudiant|Vive ou morte
-SERVEUR|Garçon de café|Celui de tennis|Machine de data center
+SERVEUR|Machine de data center
 WIFI|Sans-fil|Il se capte en terrasse|Code de la box
 BLUETOOTH|Dent bleue|Connexion des écouteurs|Nommé d'après un roi danois
-ANTENNE|Organe de l'insecte|Celle de télévision|À l'___ : en direct
+ANTENNE|Celle de télévision|À l'___ : en direct
 SATELLITE|La Lune en est un|Pays sous influence|Ville ___
 ROBOT|Mot créé par Čapek|Androïde|Celui de cuisine
 DRONE|Faux bourdon|Appareil télécommandé|Œil volant
@@ -243,16 +243,16 @@ ANTIVIRUS|Bouclier numérique|Logiciel de sécurité|Protection du PC
 CHIFFREMENT|Cryptage|Code secret|Protection de bout en bout
 HASHTAG|Mot-dièse|Étiquette de réseau social|Mot-clic
 EMOJI|Smiley|Cœur ou pouce levé|Pictogramme japonais
-NAVIGATEUR|Marin|Logiciel pour surfer|Il a des onglets
+NAVIGATEUR|Logiciel pour surfer|Il a des onglets
 MOTEUR|Il fait avancer la voiture|Action !|Celui de recherche
 LIEN|Attache|Hypertexte|Il se partage par message
-SITE|Lieu|Il a une adresse web|Paysage remarquable
+SITE|Lieu|Il a une adresse web
 BLOG|Carnet en ligne|Journal personnel du Web|Weblog
-TABLETTE|Celle de chocolat|Petite planche|iPad
+TABLETTE|Petite planche|iPad
 ECOUTEURS|Oreillettes|Ils peuvent être sans fil|Petits casques
 CHARGEUR|Partie d'une arme|Alimentation du téléphone|Câble à brancher
 LINUX|Logiciel libre de Linus Torvalds|Système de Tux|Système open source
-PYTHON|Serpent constricteur|Langage de Guido van Rossum|Monty ___
+PYTHON|Langage de Guido van Rossum|Monty ___
 JAVASCRIPT|Langage du navigateur|JS|Script du Web
 TURING|Alan, déchiffreur d'Enigma|Son test juge les machines|Prix ___ : Nobel de l'informatique
 LOVELACE|Ada, fille de Byron|Pionnière de la machine analytique|Comtesse mathématicienne
@@ -263,7 +263,7 @@ MODEM|Modulateur-démodulateur|Box d'autrefois|Il couinait en se connectant
 DONNEES|Data|Informations|Big ___
 CAPTEUR|Sonde|Détecteur|Élément d'un appareil photo
 TACTILE|Qui se touche|Relatif au toucher|Écran du smartphone
-ICONE|Image sainte orthodoxe|Star emblématique|Pictogramme d'écran
+ICONE|Star emblématique|Pictogramme d'écran
 FICHIER|Il a une extension|Document numérique|Classeur à fiches
 DOSSIER|Répertoire|Chemise cartonnée|Affaire en cours
 CURSEUR|Il clignote|Indicateur sur une règle|Flèche de la souris
@@ -271,11 +271,11 @@ WEBCAM|Caméra intégrée|Elle filme les visios|Œil de l'ordinateur
 # --- nouveaux mots ---
 CLOUD|Nuage informatique|Stockage en ligne|Serveurs à distance|Espace distant de sauvegarde
 MOTDEPASSE|Sésame|Code d'accès|Il doit être complexe|Il se cache sous des astérisques
-PASSWORD|Mot de passe en anglais|Sésame anglais|Code d'accès anglais|Jeu télévisé d'indices
+PASSWORD|Mot de passe en anglais|Sésame anglais|Code d'accès anglais
 SPAM|Courrier indésirable|Pourriel|Publicité de masse|Jambon en boîte, à l'origine
 PROGRAMMEUR|Codeur|Développeur|Il écrit des lignes de code|Ingénieur logiciel
 HACKER|Pirate informatique|Bidouilleur|Expert en intrusion|Il peut être éthique
-CLIC|Bruit de la souris|Pression du doigt|Il fait mouche|Déclic
+CLIC|Bruit de la souris|Pression du doigt|Déclic
 SMARTWATCH|Montre connectée|Bracelet intelligent|Apple Watch|Écran au poignet
 QRCODE|Code carré à scanner|Pictogramme des menus de restaurant|Code-barres en 2D|Lien en mosaïque
 PIXELLISE|Flouté par carreaux|Visage anonymisé|Image en gros grains|Brouillé à l'écran
@@ -289,16 +289,16 @@ HTML|Langage des pages web|Balises|Hypertext Markup Language|Squelette d'un site
 PDF|Format de document|Fichier d'Adobe|Portable Document Format|Il s'imprime tel quel
 GPS|Il guide en voiture|Géolocalisation|Navigateur satellite|Système américain de positionnement
 LED|Diode électroluminescente|Ampoule économique|Lumière basse consommation|Petite diode
-PUCE|Insecte sauteur|Circuit intégré|Marché aux ___|Mettre la ___ à l'oreille
+PUCE|Circuit intégré
 SILICIUM|Matière des puces|Si|Il donne son nom à une vallée|Semi-conducteur
 CABLE|Fil|Télégramme|Fil de transmission|Télévision par ___
 FIBRE|Elle transporte Internet|Fil textile|Avoir la ___ : la vocation|Filament de verre lumineux
-BATTERIE|Elle se recharge|Accumulateur|Percussions|Elle est au lithium
+BATTERIE|Elle se recharge|Accumulateur|Elle est au lithium
 PIXELS|Points d'écran|Définition d'une image|Mégapixels, en grand|Ils forment l'image
 STREAMER|Joueur en direct sur Twitch|Diffuseur vidéo|Créateur de live|Il anime une chaîne
 GAMER|Joueur de jeux vidéo|Il a une manette|Passionné de consoles|Joueur assidu
 AVATAR|Image du profil|Personnage virtuel|Incarnation|Mésaventure
-COOKIE|Biscuit|Traceur web|Fichier de navigation|Il faut l'accepter ou le refuser
+COOKIE|Traceur web|Fichier de navigation|Il faut l'accepter ou le refuser
 FIREWALL|Pare-feu|Protection réseau|Mur anti-intrusion|Filtre de connexions
 BACKUP|Sauvegarde|Copie de secours|Plan B|Double des données
 OPENSOURCE|Logiciel libre|Code ouvert|Linux en est|Modèle collaboratif

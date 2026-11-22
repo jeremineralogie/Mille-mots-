@@ -76,36 +76,36 @@ NANTES|Ville de l'édit d'Henri IV|Préfecture de la Loire-Atlantique|Cité des 
 RICHELIEU|Rival des mousquetaires chez Dumas|Fondateur de l'Académie française|L'Éminence rouge
 MAZARIN|Cardinal d'origine italienne|Ses ennemis écrivaient des mazarinades|Parrain politique du jeune Louis XIV
 FRONDE|Arme de David contre Goliath|Esprit de rébellion|Révolte des princes et des parlementaires
-SOLEIL|Astre du jour|Fleur qui suit la lumière|Il brille pour tout le monde
+SOLEIL|Il brille pour tout le monde
 COLBERT|Il créa les manufactures royales|Ministre du mercantilisme|Rival de Fouquet
-BASTILLE|Place de l'Opéra moderne à Paris|Forteresse démolie après 1789|Le 14 juillet, on la fête
+BASTILLE|Forteresse démolie après 1789|Le 14 juillet, on la fête
 REVOLUTION|Tour complet autour d'un axe|Bouleversement radical|Celle de 1830 dura trois jours
 TERREUR|Peur intense|Régime du Comité de salut public|Enfant qui sème la panique
 ROBESPIERRE|L'Incorruptible|Avocat d'Arras devenu révolutionnaire|Tombé le 9 Thermidor
 DANTON|Tribun de la Révolution|« De l'audace, encore de l'audace »|Ministre de la Justice en 1792
 GUILLOTINE|La Veuve|Elle tranche les têtes|Proposée par le docteur Guillotin
 CONSULAT|Bureau diplomatique à l'étranger|Régime des trois consuls|Charge d'un consul romain
-AUSTERLITZ|Bataille des Trois Empereurs|Gare parisienne|Victoire sous le soleil de 1805
-WATERLOO|Morne plaine chez Victor Hugo|Défaite contre Wellington|Chanson d'ABBA
-ELBE|Fleuve de Hambourg|Île toscane d'exil|Napoléon y fut souverain de 1814 à 1815
+AUSTERLITZ|Bataille des Trois Empereurs|Victoire sous le soleil de 1805
+WATERLOO|Morne plaine chez Victor Hugo|Défaite contre Wellington
+ELBE|Île toscane d'exil|Napoléon y fut souverain de 1814 à 1815
 HELENE|Épouse de Ménélas|Belle de Troie|Prénom féminin grec
-RESTAURATION|Remise en état d'un monument|Métier de la cuisine|Règne de Louis XVIII et Charles X
+RESTAURATION|Règne de Louis XVIII et Charles X
 COMMUNE|Plus petite division administrative|Banale, ordinaire|Celle de Paris dura 72 jours
 DREYFUS|Officier injustement condamné en 1894|Déporté à l'île du Diable|Réhabilité en 1906
-ZOLA|Auteur des Rougon-Macquart|Défenseur de Dreyfus|Émile, naturaliste
+ZOLA|Défenseur de Dreyfus|Émile, naturaliste
 VERDUN|L'enfer de 1916|Ville de la Meuse|Son traité partagea l'empire carolingien en 843
 ARMISTICE|Fin des combats|Signé dans un wagon à Rethondes|Trêve avant la paix
 CLEMENCEAU|Le Père la Victoire|Fondateur de L'Aurore|Georges, président du Conseil en 1917
 POILU|Velu|Combattant des tranchées|Héros du monument aux morts
 BLUM|Léon des congés payés|Socialiste de 1936|Président du Conseil du Front populaire
 VICHY|Ville d'eaux de l'Allier|Pastille de l'Allier|Capitale de l'État français
-RESISTANCE|Endurance physique|Opposition à l'oppresseur|Composant électrique en ohms
+RESISTANCE|Opposition à l'oppresseur
 MOULIN|Celui de Daudet est à Fontvieille|Il moud le grain|___ à paroles
-DEBARQUEMENT|Arrivée à quai des passagers|D-Day|Opération Overlord
+DEBARQUEMENT|D-Day|Opération Overlord
 NORMANDIE|Région du camembert|Province de Guillaume le Conquérant|Pays de Caen et de Rouen
 DEGAULLE|Le Général|Fondateur de la Ve République|Charles de Colombey
 APPEL|Il précède la cour de cassation|Coup de téléphone|Faire l'___ en classe
-LIBERATION|Délivrance|Fin de l'Occupation|Journal fondé par Sartre en 1973
+LIBERATION|Délivrance|Fin de l'Occupation
 CINQUIEME|Après la quatrième|Cette République est la nôtre|Colonne de la trahison
 MAI|Mois du muguet|Joli mois|En ___, fais ce qu'il te plaît
 MITTERRAND|Le Sphinx de la politique|Président de 1981 à 1995|François de Jarnac
@@ -113,7 +113,7 @@ VEIL|Simone, rescapée d'Auschwitz entrée au Panthéon|Présidente du premier P
 LASCAUX|La chapelle Sixtine de la préhistoire|Grotte découverte en 1940 par des adolescents|Taureaux peints de Montignac
 CARNAC|Ville du Morbihan aux mégalithes|Ses menhirs s'alignent par milliers|Site néolithique breton
 CHEVALIER|Lancelot en est un|Bayard, sans peur et sans reproche|Titre de la Légion d'honneur
-DONJON|Il domine le château|Prison dans la tour|___ et Dragons
+DONJON|Il domine le château|Prison dans la tour
 SERF|Il dépend de son seigneur|Paysan non libre|Corvéable à merci
 DIME|Dixième des récoltes|Contribution ecclésiastique|Pièce de dix cents
 GABELLE|Taxe du grenier à sel|Impôt honni de l'Ancien Régime|Ses contrebandiers étaient les faux-sauniers
@@ -127,15 +127,15 @@ POITIERS|Charles Martel y arrêta les Arabes en 732|Ville du Futuroscope|Préfec
 BOUVINES|Victoire de Philippe Auguste en 1214|Bataille du dimanche|Village du Nord|Premier triomphe national selon Duby
 CHAMBORD|Château de François Ier|Son escalier est à double révolution|Plus grand château de la Loire|Domaine de Sologne
 HENRI|Prénom du Vert Galant|Roi de la poule au pot|Prénom de quatre rois de France|Il trouvait que Paris valait bien une messe
-SULLY|Ministre d'Henri IV|Labourage et pâturage, ses deux mamelles|Pont de Paris|Duc et surintendant des finances
+SULLY|Ministre d'Henri IV|Labourage et pâturage, ses deux mamelles|Duc et surintendant des finances
 FOUQUET|Surintendant arrêté en 1661|Bâtisseur de Vaux-le-Vicomte|Disgracié par Louis XIV|Prisonnier de Pignerol
-TUILERIES|Palais incendié en 1871|Jardin entre le Louvre et la Concorde|Résidence de Louis XVI en 1792|Leur journée du 10 août 1792 fut fatale
+TUILERIES|Palais incendié en 1871|Résidence de Louis XVI en 1792|Leur journée du 10 août 1792 fut fatale
 THERMIDOR|Mois de l'été révolutionnaire|Homard gratiné|Coup d'État de 1794|Onzième mois républicain
 BRUMAIRE|Coup d'État du 18 de ce mois|Mois des brumes|Deuxième mois républicain|Bonaparte y prit le pouvoir
-SEDAN|Défaite de Napoléon III en 1870|Ville des Ardennes|Voiture à quatre portes|Elle a un château fort immense
+SEDAN|Défaite de Napoléon III en 1870|Ville des Ardennes|Elle a un château fort immense
 JAURES|Fondateur de L'Humanité|Socialiste assassiné en 1914|Pacifiste tué au Café du Croissant|Tribun tarnais
 PETAIN|Vainqueur de Verdun devenu maréchal|Chef de l'État français|Condamné en 1945|Exilé à l'île d'Yeu
-PANTHEON|Temple des grands hommes|Monument de la montagne Sainte-Geneviève|Les dieux d'une religion|Il abrite Hugo et Zola
+PANTHEON|Temple des grands hommes|Monument de la montagne Sainte-Geneviève|Il abrite Hugo et Zola
 # --- mots ajoutés (v3) ---
 LOUIS|Prénom de dix-huit rois de France|Pièce d'or d'Ancien Régime|___ XIV, le Roi-Soleil|Prénom de Pasteur
 JEANNE|La Pucelle d'Orléans|Prénom de d'Arc|Héroïne brûlée à Rouen|Prénom de la reine de Navarre d'Albret
@@ -146,17 +146,17 @@ PLANTAGENET|Dynastie d'Henri II|Famille d'Aliénor par mariage|Rois anglais d'or
 ALIENOR|Duchesse d'Aquitaine|Reine de France puis d'Angleterre|Mère de Richard Cœur de Lion|Prénom d'origine occitane
 CRECY|Défaite de 1346|Bataille des archers anglais|Village de la Somme|Carottes à la ___
 AZINCOURT|Désastre de 1415|Victoire d'Henri V|Bataille de la boue|Village du Pas-de-Calais
-LIGUE|Parti catholique de la Guise|Association|Championnat de football|___ des droits de l'homme
+LIGUE|Parti catholique de la Guise|Association|___ des droits de l'homme
 GUISE|Duc assassiné à Blois|À sa ___ : comme il veut|Famille lorraine|Manière, façon
-BARTHELEMY|Saint du massacre de 1572|Prénom de l'apôtre|Massacre des protestants|Nuit d'août sanglante
+BARTHELEMY|Saint du massacre de 1572|Massacre des protestants|Nuit d'août sanglante
 RAVAILLAC|Assassin d'Henri IV|Régicide de 1610|Il frappa rue de la Ferronnerie|Écartelé place de Grève
 VERSAILLAIS|Ennemis des communards|Habitants des Yvelines|Troupes de Thiers|Armée de 1871
 THIERS|Premier président de la IIIe République|Ville des couteaux|Adolphe qui écrasa la Commune|Petit homme d'État au toupet
-GAMBETTA|Il quitta Paris en ballon|Léon de Cahors|Tribun républicain|Avenue et place de Paris
+GAMBETTA|Il quitta Paris en ballon|Léon de Cahors|Tribun républicain
 FERRY|Jules de l'école gratuite|Ministre de l'Instruction publique|Le Tonkinois|Bac de traversée
 LAICITE|Principe de 1905|Séparation des Églises et de l'État|Neutralité religieuse|Valeur républicaine
-BRETON|André, pape du surréalisme|Habitant de Rennes|Langue celtique|Habitant de Brest
-MAQUIS|Végétation corse|Résistants cachés|Prendre le ___|Brousse méditerranéenne
+BRETON|Habitant de Rennes|Langue celtique|Habitant de Brest
+MAQUIS|Résistants cachés|Prendre le ___|Brousse méditerranéenne
 OAS|Organisation armée secrète|Elle combattit l'indépendance algérienne|Sigle de l'Algérie française|Elle tenta d'assassiner de Gaulle
 EVIAN|Accords de 1962|Ville d'eaux|Bord du Léman|Ses accords mirent fin à la guerre d'Algérie
 POMPIDOU|Georges, normalien président|Successeur de de Gaulle|Il imagina Beaubourg|Président mort en 1974
@@ -248,10 +248,10 @@ MAGELLAN|Navigateur portugais au service de l'Espagne|Un détroit porte son nom|
 AZTEQUES|Peuple de Moctezuma|Ils adoraient Quetzalcoatl|Empire vaincu par Cortés
 INCAS|Peuple du Machu Picchu|Empire d'Atahualpa|Adorateurs du Soleil andins
 MAYAS|Peuple de Chichén Itzá|Leur calendrier finissait en 2012, disait-on|Civilisation des pyramides de Tikal
-CORTES|Hernán, vainqueur des Aztèques|Conquistador d'Estrémadure|Parlement espagnol
-GUTENBERG|Il imprima la Bible à Mayence|Johannes, imprimeur|La galaxie ___ selon McLuhan
+CORTES|Hernán, vainqueur des Aztèques|Conquistador d'Estrémadure
+GUTENBERG|Il imprima la Bible à Mayence|Johannes, imprimeur
 LUTHER|Il afficha ses 95 thèses|Moine de Wittenberg|Martin ___ King
-REFORME|Changement de loi|Protestantisme naissant|Retrait du service militaire pour inaptitude
+REFORME|Protestantisme naissant|Retrait du service militaire pour inaptitude
 ELISABETH|La Reine vierge|Fille d'Henri VIII|Sissi, impératrice d'Autriche
 WASHINGTON|Capitale fédérale américaine|George, sur le billet d'un dollar|État de Seattle
 INDEPENDANCE|Autonomie totale|Fête nationale américaine du 4 juillet|Guerre d'___ de l'Algérie
@@ -277,33 +277,33 @@ SOCRATE|Maître de Platon|« Connais-toi toi-même »|Il ne savait qu'une chose 
 OTTOMAN|Canapé ou empire|Turc d'autrefois|Soliman le Magnifique l'était
 SULTAN|Il possède un harem|Titre de Saladin|Monarque du Brunei
 TITANIC|Navire du film de James Cameron|Insubmersible, disait-on|Il heurta un iceberg
-SARAJEVO|Capitale de la Bosnie-Herzégovine|Ville de l'assassinat de François-Ferdinand|Ville olympique de 1984
-TRAITE|Accord entre États|Commerce des esclaves|Gâteau ou vache, selon la ___
+SARAJEVO|Capitale de la Bosnie-Herzégovine|Ville de l'assassinat de François-Ferdinand
+TRAITE|Accord entre États|Commerce des esclaves
 SPOUTNIK|Compagnon de route en russe|Bip-bip venu de l'espace|Il lança la course à l'espace
 # --- nouveaux mots ---
 ACROPOLE|Rocher sacré d'Athènes|Ville haute grecque|Site du Parthénon|Citadelle antique
 PARTHENON|Temple d'Athéna Parthénos|Chef-d'œuvre de Phidias|Il domine Athènes|Monument dorique de l'Acropole
-GLADIATEUR|Combattant du cirque|Spartacus en était un|Film de Ridley Scott|Rétiaire ou mirmillon
-SPARTACUS|Esclave révolté contre Rome|Gladiateur thrace|Héros de Kubrick|Crucifié avec ses compagnons
+GLADIATEUR|Combattant du cirque|Spartacus en était un|Rétiaire ou mirmillon
+SPARTACUS|Esclave révolté contre Rome|Gladiateur thrace|Crucifié avec ses compagnons
 NERON|Empereur accusé d'avoir incendié Rome|Il jouait de la lyre|Élève de Sénèque|« Quel artiste périt avec moi ! »
-AUGUSTE|Premier empereur romain|Octave devenu empereur|Clown au nez rouge|Il a donné son nom au mois d'août
+AUGUSTE|Premier empereur romain|Octave devenu empereur|Il a donné son nom au mois d'août
 MOCTEZUMA|Empereur aztèque|Sa vengeance frappe les touristes|Il reçut Cortés|Souverain de Tenochtitlan
 CONQUISTADOR|Pizarro en était un|Conquérant espagnol|Aventurier du Nouveau Monde|Chercheur d'Eldorado
 MEDICIS|Famille de Florence|Laurent le Magnifique en fut|Catherine de ___, reine de France|Mécènes de la Renaissance
 VERSAILLES|Traité de paix de 1919|Château de la galerie des Glaces|Cité royale des Yvelines|Ville de la Galerie des Batailles
 STALINGRAD|Bataille tournante de 1942-1943|Aujourd'hui Volgograd|Ville sur la Volga|Défaite allemande majeure
-PEARLHARBOR|Base attaquée le 7 décembre 1941|Port hawaïen|Son attaque fit entrer les États-Unis en guerre|Rade d'Oahu
+PEARLHARBOR|Base attaquée le 7 décembre 1941|Son attaque fit entrer les États-Unis en guerre|Rade d'Oahu
 MURAILLE|Celle de Chine est grande|Haut mur|Rempart|Rempart d'Hadrien
 TROIE|Ville au cheval de bois|Cité de Priam|Découverte par Schliemann|Ilion
 # --- mots ajoutés (v3) ---
-INDUS|Fleuve du Pakistan|Civilisation de Mohenjo-daro|Il naît au Tibet|Vallée antique
-PERSE|Empire de Darius|Ancien nom de l'Iran|Chat à poils longs|Saint-John ___, poète
+INDUS|Civilisation de Mohenjo-daro|Il naît au Tibet|Vallée antique
+PERSE|Empire de Darius|Ancien nom de l'Iran
 DARIUS|Roi perse vaincu par Alexandre|Grand roi achéménide|Il lança les guerres médiques|Bâtisseur de Persépolis
-XERXES|Roi des Thermopyles|Fils de Darius|Il fit fouetter la mer|Opéra de Haendel
+XERXES|Roi des Thermopyles|Fils de Darius|Il fit fouetter la mer
 LEONIDAS|Roi des 300|Héros des Thermopyles|Spartiate sacrifié|Chocolatier belge
 OLYMPIE|Site des premiers Jeux|Sanctuaire de Zeus|Ville du Péloponnèse|On y allume la flamme
 SENAT|Assemblée des pères conscrits|SPQR, en partie|Curie romaine|Chambre des sages
-CONSUL|Magistrat romain|Diplomate à l'étranger|Bonaparte le fut|Il y en avait deux par an
+CONSUL|Magistrat romain|Bonaparte le fut|Il y en avait deux par an
 LEGION|Unité romaine|Celle d'honneur|Celle étrangère|Multitude
 AQUEDUC|Le pont du Gard en est un|Canal d'eau antique|Ouvrage à arches|Conduit romain
 CONSTANTIN|Empereur converti|Fondateur de Constantinople|Vainqueur du pont Milvius|Prénom d'empereurs byzantins
@@ -312,7 +312,7 @@ MAHOMET|Prophète de l'islam|Né à La Mecque|Fondateur de l'Hégire|Muhammad
 CALIFE|Successeur du Prophète|Il voulait être ___ à la place du ___|Souverain de Bagdad|Haroun al-Rachid en était un
 SALADIN|Sultan de Jérusalem|Adversaire de Richard Cœur de Lion|Vainqueur de Hattin|Chevaleresque sultan kurde
 KHAN|Titre mongol|Caravansérail|Gengis ___|Koubilaï ___
-POLO|Marco, voyageur vénitien|Sport à cheval|Chemise à col|Volkswagen ___
+POLO|Marco, voyageur vénitien|Chemise à col|Volkswagen ___
 MING|Dynastie des vases bleus|Empire chinois de 1368|Bâtisseurs de la Cité interdite|Porcelaine prisée
 TUDOR|Dynastie d'Henri VIII|Style architectural anglais|Rose rouge et blanche|Famille d'Élisabeth Ire
 HENRIVIII|Roi aux six épouses|Créateur de l'anglicanisme|Père d'Élisabeth|Tudor décapiteur d'épouses

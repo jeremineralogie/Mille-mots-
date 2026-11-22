@@ -18,7 +18,7 @@ const MAX_PER_SLOT = 6000;
 const FLECHE_MAXLEN = 70;     // définition affichable dans une case de mots fléchés
 
 const norm = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toUpperCase().replace(/Œ/g, 'OE').replace(/Æ/g, 'AE').replace(/[^A-Z]/g, '');
-const clueKey = c => c.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const clueKey = c => c.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/œ/g, 'oe').replace(/æ/g, 'ae').replace(/[^a-z0-9]+/g, ' ').trim();
 function hashStr(s) { let h = 2166136261 >>> 0; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619) } return h >>> 0 }
 function rng(seed) { let a = seed >>> 0; return function () { a = a + 0x6D2B79F5 | 0; let t = Math.imul(a ^ a >>> 15, 1 | a); t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t; return ((t ^ t >>> 14) >>> 0) / 4294967296 } }
 function shuffle(arr, r) { for (let i = arr.length - 1; i > 0; i--) { const j = Math.floor(r() * (i + 1)); [arr[i], arr[j]] = [arr[j], arr[i]] } return arr }
@@ -27,13 +27,16 @@ function shuffle(arr, r) { for (let i = arr.length - 1; i > 0; i--) { const j = 
 const THEMES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/themes.json'), 'utf8'));
 const byA = new Map();
 const warnings = [];
-const getW = a => { let w = byA.get(a); if (!w) { w = { a, clues: [], themes: new Set(), z: null, hand: false }; byA.set(a, w) } return w };
-const addClue = (w, c, where) => {
+const getW = a => { let w = byA.get(a); if (!w) { w = { a, src: new Map(), themes: new Set(), z: null, hand: false }; byA.set(a, w) } return w };
+// les définitions sont rangées par thème d'origine : un mot ne garde que celles de SON thème
+const addClue = (w, t, c, where) => {
   c = c.trim().replace(/\s+/g, ' '); if (!c) return;
-  if (w.clues.some(x => clueKey(x) === clueKey(c))) return;
+  if (!w.src.has(t)) w.src.set(t, []);
+  const L = w.src.get(t);
+  if (L.some(x => clueKey(x) === clueKey(c))) return;
   const toks = clueKey(c).split(' ').map(norm);
-  if (toks.some(t => t === w.a || (w.a.length >= 4 && t.startsWith(w.a) && t.length <= w.a.length + 3))) { if (where) warnings.push(`${where} la définition contient la réponse : ${w.a} | ${c}`); return }
-  w.clues.push(c);
+  if (toks.some(x => x === w.a || (w.a.length >= 4 && x.startsWith(w.a) && x.length <= w.a.length + 3))) { if (where) warnings.push(`${where} la définition contient la réponse : ${w.a} | ${c}`); return }
+  L.push(c);
 };
 // 1. définitions écrites à la main (prioritaires)
 for (const t of THEMES) {
@@ -43,10 +46,10 @@ for (const t of THEMES) {
     const parts = line.split('|'); const a = norm(parts[0]);
     if (a.length < 3 || a.length > 13) { warnings.push(`${t.id}:${ln + 1} longueur ${a.length} : ${parts[0]}`); return }
     const w = getW(a); w.themes.add(t.id); w.hand = true;
-    parts.slice(1).forEach(c => addClue(w, c, `${t.id}:${ln + 1}`));
+    parts.slice(1).forEach(c => addClue(w, t.id, c, `${t.id}:${ln + 1}`));
   });
 }
-// 2. dictionnaire importé (tools/import_dico.py)
+// 2. dictionnaire importé (tools/import_dico.py) : ses définitions ne servent que dans le thème où l'import les a classées
 let dicoN = 0;
 const dicoPath = path.join(ROOT, 'data/dico.tsv.gz');
 if (fs.existsSync(dicoPath)) {
@@ -55,13 +58,17 @@ if (fs.existsSync(dicoPath)) {
     const [a, z, th, defs] = line.split('\t');
     const w = getW(a); dicoN++;
     w.z = Math.max(w.z ?? 0, +z);
-    if (!w.hand) th.split(',').forEach(x => w.themes.add(x));
-    else th.split(',').forEach(x => { if (x !== 'cg') w.themes.add(x) });
-    defs.split('|').forEach(c => addClue(w, c, null));
+    const t = th.split(',')[0];
+    if (!w.hand || t !== 'cg') w.themes.add(t);
+    defs.split('|').forEach(c => addClue(w, t, c, null));
   }
 }
-// un seul thème par mot : le premier thème spécialisé rencontré (sinon la Culture générale)
-for (const w of byA.values()) { const t = [...w.themes].find(x => x !== 'cg') || (w.themes.size ? 'cg' : null); w.themes = new Set(t ? [t] : []) }
+// un seul thème par mot (le premier thème spécialisé, sinon la Culture générale), avec uniquement les définitions de ce thème
+for (const w of byA.values()) {
+  const t = [...w.themes].find(x => x !== 'cg') || (w.themes.size ? 'cg' : null);
+  w.themes = new Set(t ? [t] : []);
+  w.clues = t ? (w.src.get(t) || []) : [];
+}
 const WORDS = [...byA.values()].filter(w => w.clues.length && w.themes.size);
 WORDS.forEach((w, i) => { w.id = i; if (w.z == null) w.z = 3.6; w.tier = w.z >= 3.3 ? 0 : w.z >= 2.3 ? 1 : w.z >= 1 ? 2 : 3; w.short = Math.min(...w.clues.map(c => c.length)) });
 
