@@ -55,6 +55,7 @@ node tools/build.mjs     # quelques minutes
 node tools/page.mjs
 node tools/verify.mjs
 node tools/test.cjs      # nécessite Playwright
+node tools/standalone.mjs  # dist/Ricktionnaire.html : le jeu en un seul fichier
 ```
 
 Règles d'écriture des définitions : réponses de 3 à 13 lettres (accents, espaces et traits d'union sont retirés), définitions courtes (elles s'affichent dans les cases des mots fléchés), et jamais la réponse elle-même dans la définition (le build les rejette).
