@@ -1,0 +1,487 @@
+# MOT|niveau (1 facile, 2 moyen, 3 difficile)|définition claire, dans le sens du thème
+EQUIPE|1|Groupe de joueurs qui jouent ensemble contre un adversaire
+JOUER|1|Prendre part à une partie ou à un match
+BUT|1|Point marqué quand le ballon entre dans la cage adverse
+MATCH|1|Rencontre sportive entre deux équipes ou deux joueurs
+FAUTE|1|Geste interdit par les règles, sanctionné par l'arbitre
+COURT|2|Terrain sur lequel on joue au tennis
+COURSE|1|Épreuve où il faut aller le plus vite possible
+FOU|1|Pièce du jeu d'échecs qui se déplace en diagonale
+CHAMPION|1|Sportif qui a remporté une compétition
+ECHEC|2|Situation du roi menacé par une pièce adverse, sur l'échiquier
+TROU|2|Petite cavité du green où le golfeur doit envoyer la balle
+PARTENAIRE|1|Coéquipier avec qui l'on joue, par exemple en double au tennis
+STADE|1|Grand terrain de sport entouré de tribunes
+SKI|1|Sport de glisse sur la neige avec deux longues planches
+SUPPORTER|1|Personne qui encourage une équipe
+PISCINE|1|Grand bassin où l'on nage
+TRANSFERT|2|Passage d'un joueur d'un club à un autre
+MAILLOT|1|Tee-shirt que porte le sportif aux couleurs de son équipe
+TENNIS|1|Sport de raquette joué au-dessus d'un filet, comme à Roland-Garros
+BASKET|1|Sport où l'on lance un ballon dans un panier
+GOLF|1|Sport où l'on envoie une petite balle dans des trous avec des clubs
+DESCENTE|2|Épreuve de ski alpin, la plus rapide
+EPEE|2|Une des trois armes de l'escrime, avec le fleuret et le sabre
+ARBITRE|1|Personne qui fait respecter les règles pendant un match
+COACH|1|Entraîneur d'un sportif ou d'une équipe
+HOCKEY|1|Sport où l'on pousse un palet ou une balle avec une crosse
+SCORE|1|Nombre de points ou de buts marqués par chaque camp
+FINALE|1|Dernier match d'une compétition, qui désigne le vainqueur
+MAT|2|Aux échecs, position où le roi ne peut plus échapper
+OBSTACLE|2|Barrière que le cheval doit sauter dans un parcours
+ATHLETE|1|Sportif qui pratique la course, le saut ou le lancer
+FAVORI|2|Concurrent que l'on donne gagnant avant l'épreuve
+PERFORMANCE|2|Résultat obtenu par un sportif lors d'une épreuve
+FORFAIT|2|Déclarer ___ : renoncer à participer à une compétition
+BOXE|1|Sport de combat où l'on frappe avec des gants
+POTEAU|2|Montant vertical de la cage de but
+SET|2|Manche d'un match de tennis ou de volley
+POKER|1|Jeu de cartes où l'on mise et où l'on bluffe
+TIREUR|2|Sportif qui vise une cible avec une arme ou un arc
+RUGBY|1|Sport qui se joue avec un ballon ovale
+MELEE|2|Au rugby, phase où les avants se poussent tête contre tête
+COUREUR|1|Sportif qui participe à une course
+PARIER|1|Miser de l'argent sur le résultat d'une course ou d'un match
+PELOTON|2|Groupe principal des coureurs dans une course cycliste
+FOULEE|2|Longueur d'un pas de course
+ARENE|2|Piste sablée où se déroule la corrida
+RING|1|Estrade entourée de cordes où combattent les boxeurs
+SURF|1|Sport où l'on glisse sur les vagues debout sur une planche
+VESTIAIRE|1|Pièce où les joueurs se changent avant le match
+ROUND|2|Chacune des reprises d'un combat de boxe
+FULL|3|Au poker, main formée d'un brelan et d'une paire
+SPRINT|2|Accélération finale d'une course
+PODIUM|1|Estrade où montent les trois premiers d'une épreuve
+MARATHON|1|Course à pied de 42,195 kilomètres
+LOTO|1|Jeu de hasard où l'on coche des numéros
+CHRONO|2|Épreuve contre la montre, où chacun court seul
+POLO|2|Sport d'équipe à cheval, joué avec un maillet
+FOOTBALL|1|Sport où deux équipes de onze joueurs se disputent un ballon rond
+KARATE|1|Art martial japonais où l'on frappe avec les pieds et les poings
+ESCRIME|1|Sport de combat à l'épée, au fleuret ou au sabre
+NATATION|1|Sport qui consiste à nager le plus vite possible
+SNOWBOARD|1|Planche de glisse sur la neige, appelée aussi surf des neiges
+HANDBALL|1|Sport collectif où l'on marque des buts en lançant le ballon à la main
+VOLLEY|1|Sport où l'on renvoie le ballon par-dessus un filet sans le laisser tomber
+PETANQUE|1|Jeu de boules où l'on vise le cochonnet
+PENALTY|1|Au football, tir au but accordé après une faute dans la surface
+HORSJEU|2|Faute d'un attaquant placé trop en avant au football
+ZIDANE|1|Meneur de jeu français, champion du monde en 1998
+MBAPPE|1|Attaquant français, champion du monde en 2018
+PLATINI|2|Numéro 10 des Bleus, champion d'Europe en 1984
+NADAL|1|Joueur de tennis espagnol, roi de Roland-Garros
+BOLT|1|Sprinteur jamaïcain, l'homme le plus rapide du monde
+PHELPS|2|Nageur américain aux 23 médailles d'or olympiques
+RINER|1|Judoka français, géant aux nombreux titres mondiaux
+HINAULT|3|Cycliste breton, cinq fois vainqueur du Tour de France
+HAIES|1|Barrières que les coureurs doivent sauter pendant la course
+TROPHEE|1|Coupe remise au vainqueur d'une compétition
+ALPINISME|1|Sport qui consiste à grimper en haute montagne
+PINGPONG|1|Autre nom du tennis de table
+TOURDEFRANCE|1|Grande course cycliste qui se termine sur les Champs-Élysées
+DOPAGE|1|Prise de produits interdits pour améliorer ses performances
+JUDOKA|1|Sportif qui pratique le judo
+DOSSARD|1|Carré numéroté que le coureur porte sur la poitrine
+SPRINTEUR|2|Coureur spécialiste des courtes distances
+ECHECS|1|Jeu de stratégie sur un plateau de 64 cases, avec rois et reines
+DAMES|1|Jeu où l'on prend les pions adverses en sautant par-dessus
+SCRABBLE|1|Jeu où l'on forme des mots avec des lettres pour marquer des points
+MONOPOLY|1|Jeu où l'on achète des rues et des gares
+SUDOKU|1|Grille de chiffres de 1 à 9 à compléter
+RUBIK|2|Cube ___ : casse-tête aux faces colorées à reconstituer
+FLECHETTES|1|Jeu où l'on lance de petits projectiles sur une cible
+PACMAN|2|Personnage de jeu vidéo, boule jaune qui mange des pastilles
+TETRIS|1|Jeu vidéo où l'on emboîte des pièces qui tombent
+MARIO|1|Plombier moustachu, héros des jeux vidéo Nintendo
+ZELDA|2|Princesse qui donne son nom à une saga de jeux vidéo de Nintendo
+CHARADE|2|Devinette du type « mon premier est… mon second est… »
+REBUS|2|Devinette faite de dessins qui se lisent comme des mots
+DEVINETTE|1|Question amusante dont il faut trouver la réponse
+CLUEDO|2|Jeu de société où l'on cherche le coupable d'un meurtre
+UNO|1|Jeu de cartes de couleurs où il faut se débarrasser de toutes ses cartes
+CROQUET|3|Jeu où l'on pousse des boules sous des arceaux avec un maillet
+CASSETETE|1|Jeu qui demande beaucoup de réflexion pour être résolu
+JENGA|2|Jeu où l'on retire des blocs d'une tour sans la faire tomber
+ESCAPEGAME|2|Jeu où il faut résoudre des énigmes pour sortir d'une pièce
+MAHJONG|3|Jeu chinois qui se joue avec des tuiles
+MASTERMIND|2|Jeu où l'on doit deviner une combinaison de couleurs
+PICTIONARY|2|Jeu où l'on fait deviner des mots en dessinant
+RAMI|2|Jeu de cartes où l'on forme des suites et des séries
+BALANCOIRE|1|Siège suspendu sur lequel les enfants se balancent
+CERFVOLANT|1|Jouet en toile qu'on fait voler au bout d'un fil
+TROTTINETTE|1|Planche à deux roues avec un guidon, qu'on pousse du pied
+NINTENDO|1|Société japonaise de jeux vidéo, créatrice de Mario
+POKEMON|1|Petit monstre de jeu vidéo qu'il faut capturer, comme Pikachu
+MINECRAFT|1|Jeu vidéo où l'on construit un monde en cubes
+FIXATION|2|Système qui attache la chaussure au ski
+BRIDGE|2|Jeu de cartes qui se joue à quatre, par équipes de deux
+DEALER|3|Au poker, personne qui distribue les cartes
+JOKER|1|Carte qui peut remplacer n'importe quelle autre
+PUZZLE|1|Jeu où l'on assemble des pièces pour reformer une image
+CONSULTANT|2|Ancien sportif qui commente les matchs à la télévision
+ACE|2|Au tennis, service que l'adversaire ne touche pas
+OPEN|3|Tournoi ouvert aux amateurs et aux professionnels
+MENEUR|2|Joueur qui organise le jeu de son équipe
+BILLARD|1|Jeu où l'on pousse des boules avec une queue sur une table verte
+MANEGE|2|Piste couverte où l'on apprend à monter à cheval
+CARREAU|1|Couleur rouge des cartes à jouer, en forme de losange
+INTERNATIONAL|2|Joueur sélectionné dans l'équipe de son pays
+PION|1|Petite pièce que l'on avance sur un plateau de jeu
+AILIER|2|Joueur placé sur le côté du terrain, en attaque
+EQUITATION|1|Sport qui se pratique à cheval
+PORTIER|3|Autre nom du gardien de but au football
+MANETTE|1|Commande que l'on tient en main pour jouer aux jeux vidéo
+GALOP|1|Allure la plus rapide du cheval
+CHALLENGER|3|Sportif qui défie le tenant du titre
+JUDO|1|Art martial japonais où l'on projette l'adversaire au sol
+SKATE|1|Planche à roulettes sur laquelle on fait des figures
+BLUFF|2|Au poker, fait de faire croire qu'on a un bon jeu
+BUNKER|3|Au golf, trou rempli de sable qui piège la balle
+SHOOT|2|Tir puissant au football
+ATTAQUANT|1|Joueur chargé de marquer des buts
+GREEN|3|Au golf, pelouse rase qui entoure le trou
+BOWLING|1|Jeu où l'on fait rouler une grosse boule pour renverser des quilles
+ROLLER|1|Patin à roulettes alignées
+RAQUETTE|1|Instrument à cordage pour frapper la balle au tennis
+CYCLISME|1|Sport qui se pratique à vélo
+SIFFLER|1|Pour l'arbitre, signaler une faute avec son sifflet
+SLALOM|2|Course de ski où l'on passe entre des piquets
+LUCARNE|3|Coin supérieur des buts, au football
+SWING|3|Mouvement du golfeur pour frapper la balle
+VELODROME|2|Piste en anneau incliné réservée aux courses de vélo
+HIPPODROME|1|Terrain où ont lieu les courses de chevaux
+BENJAMIN|3|Jeune sportif d'environ 10 à 12 ans
+PLAQUER|2|Au rugby, faire tomber le porteur du ballon
+CORRIDA|2|Course de taureaux en Espagne
+FINALISTE|1|Concurrent qui participe à la finale
+MANILLE|3|Jeu de cartes où le dix est la carte la plus forte
+GONG|2|Instrument dont le son marque le début d'un round de boxe
+RELEGATION|2|Descente d'un club dans la division inférieure
+LUGE|1|Petit traîneau sur lequel on descend une piste glacée
+AVIRON|2|Sport où l'on fait avancer un bateau à la force des rames
+DRIVER|3|Club de golf pour les longues distances
+MASSUE|3|Engin en forme de quille utilisé en gymnastique rythmique
+QUINTE|2|Au poker, suite de cinq cartes qui se suivent
+TAROT|2|Jeu de cartes qui se joue avec des atouts et l'Excuse
+TOBOGGAN|1|Glissière sur laquelle les enfants descendent assis
+JONGLER|1|Faire rebondir un ballon sans qu'il touche le sol
+GRIMPEUR|2|Cycliste qui excelle dans les montées
+OUTSIDER|3|Concurrent qui n'est pas favori mais peut créer la surprise
+FOOTING|2|Course à pied lente, pour l'entraînement
+SKATEBOARD|1|Planche à roulettes, en anglais
+LEGO|1|Petites briques en plastique à emboîter
+CROSS|2|Course à pied en pleine nature, sur un terrain varié
+BELLE|2|Partie décisive qui départage deux joueurs à égalité
+MENE|3|Manche d'une partie de pétanque
+FIFA|2|Fédération internationale de football, qui organise la Coupe du monde
+CHAMPIONNE|1|Sportive qui a remporté une compétition
+UEFA|3|Organisation qui gère le football en Europe
+TRAIL|2|Course à pied en montagne sur de longues distances
+SMASH|2|Au tennis, coup puissant frappé de haut en bas
+BUTEUR|1|Joueur qui marque des buts
+DERBY|2|Match entre deux équipes de la même ville ou de la même région
+PLAYSTATION|1|Console de jeux vidéo de Sony
+LUTZ|3|Saut de patinage artistique
+TOMBOLA|1|Loterie où l'on gagne des lots
+KAYAK|1|Petite embarcation que l'on fait avancer avec une pagaie double
+KARTING|1|Course de petits véhicules sur un circuit
+BOBSLEIGH|2|Traîneau à plusieurs places qui dévale une piste de glace
+PALET|2|Disque noir que l'on pousse au hockey sur glace
+JAVELOT|1|Longue lance que l'on jette le plus loin possible en athlétisme
+BIATHLON|2|Épreuve qui combine ski de fond et tir à la carabine
+DECATHLON|2|Épreuve d'athlétisme en dix disciplines
+DUNK|3|Au basket, panier marqué en smashant le ballon dans le cercle
+BLACKJACK|3|Jeu de cartes de casino où il faut s'approcher de 21
+FRISBEE|1|Disque en plastique que l'on se lance
+BELOTE|2|Jeu de cartes qui se joue à quatre avec 32 cartes
+DRIBBLE|2|Action de garder le ballon en évitant un adversaire
+CRAVACHE|2|Baguette souple dont se sert le cavalier
+JOCKEY|1|Cavalier professionnel qui monte dans les courses
+TURF|3|Monde des courses de chevaux
+CORDAGE|3|Ensemble des cordes tendues d'une raquette
+BADMINTON|1|Sport de raquette qui se joue avec un volant
+FEDERER|1|Joueur de tennis suisse aux huit victoires à Wimbledon
+TRIATHLON|2|Épreuve qui enchaîne natation, vélo et course à pied
+CROUPIER|2|Employé de casino qui distribue les cartes et ramasse les mises
+TORERO|2|Homme qui combat le taureau dans l'arène
+PARKOUR|3|Discipline qui consiste à franchir des obstacles urbains en courant et sautant
+CURLING|2|Sport où l'on fait glisser des pierres sur la glace en balayant devant elles
+MARELLE|1|Jeu d'enfants où l'on saute à cloche-pied dans des cases dessinées
+KENDO|3|Art martial japonais qui se pratique avec un sabre en bambou
+MARATHONIEN|2|Coureur qui dispute des marathons
+TATAMI|2|Tapis sur lequel on pratique le judo
+HEPTATHLON|3|Épreuve d'athlétisme féminine en sept disciplines
+MORPION|1|Jeu où il faut aligner trois croix ou trois ronds
+SKELETON|3|Petite luge sur laquelle on descend à plat ventre, tête en avant
+BRELAN|3|Au poker, trois cartes de même valeur
+DRIBBLER|2|Avancer avec le ballon en évitant les adversaires
+EPEISTE|3|Escrimeur qui se bat à l'épée
+CULTURISME|2|Sport qui consiste à développer ses muscles
+TALONNEUR|3|Au rugby, joueur au centre de la première ligne de mêlée
+PENTATHLON|3|Épreuve olympique en cinq disciplines
+MECCANO|2|Jeu de construction fait de pièces de métal à visser
+BACKGAMMON|3|Jeu de dés et de pions sur un plateau à triangles
+PUTTER|3|Club de golf qui sert à faire rouler la balle sur le green
+YAMS|2|Jeu de cinq dés où l'on cherche des combinaisons
+SHOGI|3|Jeu d'échecs japonais
+CADDIE|2|Personne qui porte le sac du golfeur
+SPEAKER|3|Personne qui annonce les résultats au micro dans un stade
+BOARD|3|Planche utilisée dans les sports de glisse
+COACHING|2|Fait d'entraîner et de conseiller un sportif
+START|3|Départ d'une course de vitesse
+TIERCE|2|Pari où l'on désigne les trois premiers chevaux d'une course
+SPRINGBOKS|3|Surnom de l'équipe de rugby d'Afrique du Sud
+PUMAS|3|Surnom de l'équipe de rugby d'Argentine
+CALCIO|3|Nom du football en Italie
+TRIPLETTE|3|À la pétanque, équipe de trois joueurs
+VAREUSE|3|Maillot d'une équipe de football
+ENDURO|3|Course de moto tout-terrain de longue durée
+TIFOSI|3|Supporters italiens passionnés
+WELTER|3|Catégorie de poids en boxe, entre légers et moyens
+YACHTING|3|Navigation de plaisance à la voile
+OVALIE|3|Surnom du monde du rugby
+STRETCHING|2|Exercices d'étirement des muscles
+INDOOR|3|Se dit d'une épreuve sportive disputée en salle
+KICKER|3|Autre nom du baby-foot
+PADDOCK|3|Enclos où l'on présente les chevaux avant la course
+BIRDIE|3|Au golf, trou réussi en un coup de moins que prévu
+SAVATE|3|Boxe française, où l'on frappe aussi avec les pieds
+OLYMPIADE|2|Période de quatre ans entre deux Jeux olympiques
+TRICK|3|Figure acrobatique en skate ou en snowboard
+CRITERIUM|3|Course cycliste sur un petit circuit, souvent après le Tour
+PANIER|1|Cercle muni d'un filet dans lequel on lance le ballon au basket
+FILET|1|Réseau de mailles tendu au milieu d'un court de tennis
+BALLE|1|Petite boule que l'on frappe au tennis ou au golf
+BALLON|1|Grosse balle gonflée avec laquelle on joue au football
+CROSSE|2|Bâton recourbé avec lequel on joue au hockey
+GARDIEN|1|Joueur qui protège les buts de son équipe
+DEFENSEUR|1|Joueur chargé d'empêcher l'adversaire de marquer
+CORNER|1|Au football, coup de pied tiré depuis le coin du terrain
+TOUCHE|2|Ligne qui marque le bord du terrain dans la longueur
+ESSAI|2|Au rugby, ballon aplati derrière la ligne adverse, qui vaut cinq points
+SIFFLET|1|Petit instrument dont l'arbitre se sert pour arrêter le jeu
+MEDAILLE|1|Récompense en or, en argent ou en bronze
+PLONGEON|1|Saut dans l'eau la tête la première
+ESCALADE|1|Sport qui consiste à grimper sur un mur ou une paroi rocheuse
+RANDONNEE|1|Longue promenade à pied, souvent en montagne
+PATIN|1|Chaussure munie d'une lame pour glisser sur la glace
+GYMNASTIQUE|1|Sport fait d'exercices au sol, aux barres ou aux anneaux
+LANCER|2|Épreuve d'athlétisme : poids, disque, marteau ou javelot
+SAUT|1|Épreuve d'athlétisme en longueur, en hauteur ou à la perche
+PERCHE|2|Longue tige souple qui permet de sauter très haut
+RELAIS|2|Course où les coureurs d'une équipe se passent un témoin
+PISTE|1|Anneau sur lequel courent les athlètes dans un stade
+TERRAIN|1|Surface sur laquelle se joue un match
+ENTRAINEUR|1|Personne qui prépare et dirige une équipe sportive
+CLUB|1|Association dont les membres pratiquent ensemble un sport
+TOURNOI|1|Compétition en plusieurs matchs, à l'issue de laquelle un vainqueur est désigné
+COUPE|1|Grand vase en métal remis au vainqueur d'une compétition
+OLYMPIQUE|1|Se dit des Jeux qui ont lieu tous les quatre ans
+RECORD|1|Meilleure performance jamais réalisée
+DEFAITE|1|Fait de perdre un match
+VICTOIRE|1|Fait de gagner un match
+NUL|1|Se dit d'un match qui se termine à égalité
+CARTE|1|Rectangle de carton illustré, servant à jouer
+ATOUT|2|Couleur de cartes qui l'emporte sur toutes les autres
+DAME|1|Reine du jeu d'échecs, la pièce la plus puissante
+TOUR|1|Pièce du jeu d'échecs en forme de petit château
+CAVALIER|1|Pièce du jeu d'échecs en forme de tête de cheval
+VALET|1|Carte qui représente un jeune homme, entre le dix et la dame
+PIQUE|1|Couleur noire des cartes, en forme de fer de lance
+TREFLE|1|Couleur noire des cartes, en forme de feuille à trois lobes
+DAMIER|2|Plateau de cent cases noires et blanches, pour jouer aux dames
+ECHIQUIER|1|Plateau de soixante-quatre cases sur lequel on joue aux échecs
+SABLIER|2|Petit objet qui mesure le temps de réflexion dans un jeu de société
+COCHONNET|1|Petite boule que les joueurs de pétanque doivent approcher
+QUILLE|1|Pièce de bois que l'on doit renverser au bowling
+BILLE|1|Petite boule de verre avec laquelle jouent les enfants
+TOUPIE|1|Jouet qui tourne sur sa pointe
+YOYO|1|Jouet qui monte et descend le long d'un fil
+DOMINO|1|Petite plaque marquée de points, que l'on aligne en faisant correspondre les nombres
+JACQUET|3|Autre nom du backgammon
+OSSELETS|3|Jeu d'adresse où l'on lance et rattrape de petits os
+DIABOLO|2|Jouet en forme de bobine que l'on fait tourner sur une ficelle
+CACHECACHE|1|Jeu où l'un compte pendant que les autres se cachent
+LOTERIE|1|Jeu de hasard où l'on tire des billets gagnants
+CASINO|1|Établissement où l'on joue à la roulette et aux machines à sous
+ROULETTE|2|Jeu de casino où une bille s'arrête sur un numéro
+JETON|2|Pièce de plastique qui remplace l'argent au casino
+MISE|2|Somme d'argent engagée dans un pari
+JACKPOT|2|Gros lot d'une machine à sous
+GAGNANT|1|Personne qui remporte le jeu
+PERDANT|1|Personne qui perd la partie
+TRICHER|1|Ne pas respecter les règles pour gagner
+TIRAGE|2|Moment où l'on sort les numéros gagnants
+ADVERSAIRE|1|Personne contre qui l'on joue
+CHAMPIONNAT|1|Compétition qui désigne le meilleur au terme d'une saison
+QUALIFICATION|2|Fait de gagner sa place pour le tour suivant
+ELIMINATION|2|Fait d'être sorti d'une compétition après une défaite
+DEMIFINALE|2|Avant-dernier tour d'une compétition
+PROLONGATION|2|Temps de jeu ajouté quand les équipes sont à égalité
+MITEMPS|1|Pause au milieu d'un match de football
+TEMPSMORT|3|Courte pause demandée par l'entraîneur au basket ou au volley
+REMPLACANT|1|Joueur qui attend sur le banc pour entrer en jeu
+BRASSARD|3|Bande de tissu portée au bras par le capitaine
+CARTON|2|Sanction jaune ou rouge que montre l'arbitre
+EXCLUSION|2|Sanction qui oblige un joueur à quitter le terrain
+TIRAUBUT|2|Frappe destinée à marquer un but
+PASSE|1|Ballon envoyé à un coéquipier
+TACLE|3|Au football, glissade pour prendre le ballon dans les pieds de l'adversaire
+CROCHET|3|En boxe, coup porté en arc de cercle
+UPPERCUT|3|En boxe, coup porté de bas en haut sous le menton
+GANTS|1|Protections que portent les boxeurs aux mains
+KIMONO|1|Tenue blanche que portent les judokas
+DOJO|3|Salle où l'on pratique les arts martiaux
+SUMO|2|Lutte japonaise entre deux colosses
+CATCH|2|Lutte spectaculaire où les combattants font le show
+LUTTE|2|Sport de combat où l'on cherche à plaquer l'adversaire au sol
+TAEKWONDO|3|Art martial coréen où l'on frappe surtout avec les pieds
+NAGEUR|1|Sportif qui pratique la natation
+CRAWL|2|Nage rapide où les bras tournent l'un après l'autre
+BRASSE|2|Nage où les bras et les jambes s'écartent en même temps, comme une grenouille
+PLONGEOIR|1|Planche d'où l'on saute dans la piscine
+WATERPOLO|2|Sport de ballon qui se joue dans une piscine
+VOILE|1|Sport de navigation sur un bateau poussé par le vent
+REGATE|2|Course de bateaux à voile
+CANOE|1|Petite embarcation que l'on fait avancer avec une pagaie
+RAFTING|3|Descente d'une rivière agitée à bord d'un canot gonflable
+PLANCHE|2|Support de glisse du surfeur
+KITESURF|3|Surf tracté par une grande voile en forme de cerf-volant
+PARAPENTE|2|Sport où l'on vole avec une voile en descendant d'une montagne
+PARACHUTE|1|Grande toile qui ralentit la chute de celui qui saute d'un avion
+DELTAPLANE|2|Grande aile sous laquelle on vole suspendu
+VTT|1|Vélo tout-terrain
+CYCLISTE|1|Sportif qui pratique le vélo
+PEDALE|1|Partie du vélo sur laquelle on appuie avec le pied
+ETAPE|1|Partie d'une course cycliste qui se dispute en une journée
+MAILLOTJAUNE|1|Tenue du coureur en tête du classement général du Tour de France
+ECHAPPEE|2|Coureurs qui se détachent en tête du peloton
+GRIMPEE|3|Montée difficile d'une course cycliste
+FORMULEUN|1|Catégorie reine des courses automobiles
+CIRCUIT|1|Piste fermée où se courent les courses automobiles
+STAND|2|Arrêt au ___ : passage d'une voiture de course pour changer ses pneus
+GRANDPRIX|2|Course automobile de Formule 1
+RALLYE|2|Course automobile sur des routes ou des chemins
+MOTOCROSS|2|Course de moto tout-terrain sur un circuit accidenté
+SKIEUR|1|Personne qui fait du ski
+TELESKI|2|Remontée mécanique qui tire les skieurs sur leurs skis
+PISTENOIRE|2|Piste de ski la plus difficile
+BATONS|2|Tiges qui aident le skieur à pousser et à tourner
+FOND|2|Ski de ___ : ski pratiqué sur terrain plat ou vallonné
+SAUTEUR|2|Athlète qui pratique le saut en hauteur ou en longueur
+LANCEUR|3|Au baseball, joueur qui envoie la balle au batteur
+BATTEUR|3|Au baseball, joueur qui frappe la balle avec une batte
+BATTE|3|Bâton qui sert à frapper la balle au baseball
+BASEBALL|2|Sport américain qui se joue avec une batte et un gant
+CRICKET|3|Sport anglais où l'on frappe une balle avec une batte plate
+RUGBYMAN|2|Joueur de rugby
+FOOTBALLEUR|1|Joueur de football
+BASKETTEUR|2|Joueur de basket
+TENNISMAN|2|Joueur de tennis
+GOLFEUR|2|Personne qui joue au golf
+SERVICE|2|Au tennis, mise en jeu de la balle
+REVERS|2|Au tennis, coup frappé du côté opposé à la main qui tient la raquette
+COUPDROIT|3|Au tennis, coup frappé du côté de la main qui tient la raquette
+VOLEE|3|Au tennis, balle reprise avant qu'elle ne touche le sol
+TIEBREAK|3|Jeu décisif au tennis, quand les joueurs sont à six jeux partout
+WIMBLEDON|2|Tournoi de tennis anglais joué sur gazon
+ROLANDGARROS|1|Tournoi de tennis parisien joué sur terre battue
+FLAMME|2|Feu olympique porté de ville en ville avant les Jeux
+ANNEAUX|2|Agrès de gymnastique formé de deux cercles suspendus
+POUTRE|2|Agrès de gymnastique, barre de bois étroite sur laquelle on évolue
+BARRES|2|Agrès de gymnastique formé de deux poutres parallèles
+TRAMPOLINE|1|Toile tendue sur laquelle on rebondit
+SALTO|2|Saut périlleux où le corps fait un tour complet en l'air
+GRAND ECART|1|Écart complet des jambes, l'une devant l'autre ou de chaque côté
+HALTERE|2|Barre lestée de poids que l'on soulève
+HALTEROPHILIE|3|Sport qui consiste à soulever les poids les plus lourds possible
+MUSCULATION|1|Exercices destinés à développer les muscles
+ECHAUFFEMENT|1|Exercices légers faits avant l'effort
+COURBATURE|2|Douleur des muscles après un effort
+TRANSPIRER|1|Suer pendant l'effort
+SOUFFLE|2|Capacité à respirer pendant un long effort
+ENDURANCE|2|Capacité à soutenir un effort longtemps
+AGILITE|2|Qualité de celui qui bouge avec souplesse et rapidité
+SOUPLESSE|2|Qualité d'un corps qui se plie facilement
+ARBITRAGE|2|Ensemble des décisions prises par l'arbitre
+VAR|3|Assistance vidéo qui aide l'arbitre de football
+PALMARES|2|Liste des titres remportés par un sportif
+SELECTIONNEUR|2|Personne qui choisit les joueurs d'une équipe nationale
+LIGUE|2|Organisation qui gère un championnat
+MONDIAL|1|Autre nom de la Coupe du monde de football
+BLEUS|1|Surnom de l'équipe de France de football
+GRADIN|2|Rangée de bancs en escalier dans un stade
+TRIBUNE|2|Partie du stade où s'assoient les spectateurs
+OLA|2|Vague que font les spectateurs en se levant tour à tour
+HOOLIGAN|3|Supporter violent
+MASCOTTE|1|Personnage qui porte bonheur à une équipe
+FLEURET|2|Arme d'escrime légère à lame carrée
+SABRE|2|Arme d'escrime avec laquelle on peut toucher de la pointe et du tranchant
+PARADE|3|En escrime, geste qui écarte l'arme de l'adversaire
+RIPOSTE|3|En escrime, attaque qui suit immédiatement une parade
+FENTE|3|En escrime, allongement brusque vers l'avant pour toucher
+PISTARD|3|Cycliste spécialiste des courses sur piste
+ROULEUR|3|Cycliste à l'aise sur le plat et les longues distances
+DOMESTIQUE|3|Cycliste qui se sacrifie pour aider son leader
+LANTERNEROUGE|3|Dernier du classement général d'une course
+CHISTERA|3|Long gant en osier utilisé à la pelote basque
+PELOTE|2|___ basque : jeu où l'on renvoie la balle contre un mur
+RAMEUR|2|Sportif qui pratique l'aviron
+BARREUR|3|Équipier qui dirige le bateau en aviron ou en voile
+SPINNAKER|3|Grande voile gonflée à l'avant d'un voilier
+SKIPPER|2|Chef de bord d'un voilier de course
+VENDEEGLOBE|2|Course à la voile autour du monde, en solitaire et sans escale
+APNEE|2|Plongée en retenant sa respiration
+PALMES|1|Chaussures en caoutchouc qui aident à nager vite
+GOLDEN|3|___ goal : but en or qui terminait aussitôt un match
+LOB|3|Ballon ou balle envoyé en hauteur par-dessus l'adversaire
+RETOURNEE|3|Frappe acrobatique en se retournant en l'air, dos au but
+PETITPONT|3|Geste où l'on fait passer le ballon entre les jambes de l'adversaire
+CENTRE|2|Passe envoyée depuis le côté vers le milieu, devant le but
+CONTREATTAQUE|2|Attaque rapide lancée juste après avoir récupéré le ballon
+PRESSING|3|Fait de harceler l'adversaire qui a le ballon
+LIBERO|3|Au volley, joueur spécialiste de la défense, au maillot différent
+REBOND|2|Au basket, ballon récupéré après un tir manqué
+LANCERFRANC|3|Au basket, tir sans opposition accordé après une faute
+MARCHER|3|Au basket, faute de celui qui fait trop de pas avec le ballon en main
+DROP|3|Au rugby, coup de pied tiré juste après le rebond du ballon
+TOUCHEUR|3|Au rugby, joueur qui lance le ballon en touche
+DEMIDEMELEE|3|Au rugby, joueur qui sort le ballon de la mêlée
+OUVREUR|3|Au rugby, joueur qui oriente le jeu derrière la mêlée
+PILIER|3|Au rugby, joueur de première ligne qui pousse en mêlée
+ARRIERE|2|Joueur placé le plus en retrait sur le terrain
+HANDICAP|3|Au golf, nombre de coups d'avance accordé selon le niveau du joueur
+PAR|3|Au golf, nombre de coups prévu pour réussir un trou
+CLUBHOUSE|3|Bâtiment d'accueil d'un terrain de golf
+TRIPLESAUT|2|Épreuve d'athlétisme en trois bonds successifs
+MARTEAU|3|Boule attachée à un câble, que l'on lance en athlétisme
+STARTINGBLOCK|3|Appui sur lequel le sprinteur place ses pieds au départ
+COULOIR|2|Bande de piste réservée à chaque coureur
+PHOTOFINISH|3|Photographie qui départage les coureurs à l'arrivée
+FAUXDEPART|2|Départ anticipé d'un coureur avant le coup de pistolet
+DECIMALE|3|Centième de seconde qui peut faire perdre un record
+CIBLE|1|Disque à cercles sur lequel on vise
+CARABINE|2|Fusil léger utilisé en tir sportif
+BALLTRAP|3|Tir au fusil sur des plateaux lancés en l'air
+CROSSFIT|3|Entraînement intensif qui mélange musculation et cardio
+ZUMBA|2|Gym dansée sur des rythmes latinos
+YOGA|1|Pratique venue d'Inde, faite de postures et de respiration
+STEP|3|Gym où l'on monte et descend d'une petite marche en rythme
+ABDOS|1|Exercices pour muscler le ventre
+POMPES|1|Exercice où l'on fléchit les bras allongé face au sol
+TRACTION|2|Exercice où l'on se hisse à une barre à la force des bras
+GAINAGE|3|Exercice où l'on tient une position pour renforcer le tronc
+FRACTIONNE|3|Entraînement qui alterne efforts rapides et récupération
+SEMIMARATHON|2|Course à pied de 21 kilomètres
+ULTRATRAIL|3|Course en montagne de plus de 80 kilomètres
+CANYONING|3|Descente de torrents en sautant et en glissant
+VIAFERRATA|3|Parcours d'escalade équipé de câbles et d'échelons
+SPELEOLOGIE|3|Exploration des grottes et des gouffres
+GRIMPE|3|Autre nom de l'escalade
+MOUSQUETON|3|Anneau métallique qui relie le grimpeur à sa corde
+BAUDRIER|3|Harnais du grimpeur, attaché à la taille et aux cuisses
+PIOLET|3|Pioche de l'alpiniste pour s'agripper à la glace
+CRAMPONS|2|Pointes fixées aux chaussures pour marcher sur la glace
+CORDEE|3|Groupe d'alpinistes reliés par une même corde
+SHERPA|3|Guide de haute montagne dans l'Himalaya
+BIVOUAC|3|Campement léger installé en montagne pour la nuit

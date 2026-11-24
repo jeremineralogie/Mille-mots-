@@ -1,0 +1,438 @@
+# MOT|niveau|définition — Culture générale : vocabulaire de tous les jours
+MAISON|1|Bâtiment où l'on habite
+APPARTEMENT|1|Logement situé dans un immeuble
+IMMEUBLE|1|Grand bâtiment à plusieurs étages
+CHAMBRE|1|Pièce où l'on dort
+SALON|1|Pièce où l'on reçoit les invités
+SALLEDEBAIN|2|Pièce où l'on se lave
+GRENIER|1|Pièce sous le toit d'une maison
+ESCALIER|1|Suite de marches pour monter ou descendre
+ETAGE|1|Niveau d'un bâtiment
+TOIT|1|Couverture qui protège le haut d'une maison
+FENETRE|1|Ouverture vitrée dans un mur
+PORTE|1|Ouverture qui permet d'entrer dans une pièce
+MUR|1|Paroi qui sépare deux pièces
+PLAFOND|1|Partie haute d'une pièce
+PLANCHER|2|Sol en bois d'une pièce
+CHEMINEE|1|Foyer où l'on fait du feu dans une maison
+BALCON|1|Petite plateforme accrochée à la façade, devant une fenêtre
+VOLET|2|Panneau qui ferme une fenêtre de l'extérieur
+SERRURE|2|Mécanisme qui ferme une porte à clé
+SONNETTE|1|Petite cloche que l'on actionne à l'entrée
+LIT|1|Meuble sur lequel on dort
+OREILLER|1|Coussin sur lequel on pose la tête pour dormir
+COUETTE|1|Grosse couverture moelleuse
+DRAP|1|Grand tissu que l'on met sur le lit
+TABLE|1|Meuble sur lequel on mange
+CHAISE|1|Siège à dossier pour une personne
+FAUTEUIL|1|Siège confortable à bras
+ARMOIRE|1|Grand meuble où l'on range les vêtements
+COMMODE|2|Meuble bas à tiroirs
+TIROIR|1|Casier qui coulisse dans un meuble
+ETAGERE|1|Planche fixée au mur pour poser des objets
+LAMPE|1|Appareil qui sert à éclairer
+BOUGIE|1|Bâton de cire avec une mèche que l'on allume
+TAPIS|1|Pièce de tissu épais posée sur le sol
+COUSSIN|1|Petit sac rembourré pour s'asseoir ou s'appuyer
+REVEIL|1|Petite horloge qui sonne le matin pour sortir du sommeil
+BAIGNOIRE|1|Grand bac où l'on prend un bain
+DOUCHE|1|Jet d'eau sous lequel on se lave
+LAVABO|1|Évier de la salle de bain
+SAVON|1|Produit qui sert à se laver
+SHAMPOING|1|Produit qui sert à laver les cheveux
+BROSSEADENTS|1|Petite brosse pour se laver les dents
+DENTIFRICE|1|Pâte qui sert à se laver les dents
+PEIGNE|1|Instrument à dents pour démêler les cheveux
+ASPIRATEUR|1|Appareil qui aspire la poussière
+BALAI|1|Brosse à long manche pour nettoyer le sol
+POUSSIERE|1|Fines particules qui se déposent sur les meubles
+MACHINEALAVER|2|Appareil qui lave le linge
+LINGE|2|Vêtements et draps que l'on lave
+VETEMENT|1|Ce que l'on porte pour couvrir son corps
+PANTALON|1|Vêtement qui couvre les jambes séparément
+JUPE|1|Vêtement qui part de la taille et entoure les jambes
+ROBE|1|Vêtement d'une seule pièce pour les femmes
+CHEMISE|1|Vêtement à col et à boutons
+PULL|1|Vêtement chaud en laine
+TEESHIRT|1|Haut à manches courtes, sans col
+MANTEAU|1|Vêtement chaud que l'on met par-dessus les autres
+VESTE|1|Vêtement court à manches qui s'ouvre devant
+BLOUSON|2|Veste courte serrée à la taille
+JEAN|1|Pantalon en toile bleue
+SHORT|1|Pantalon court
+CHAUSSETTE|1|Vêtement qui couvre le pied
+CHAUSSURE|1|Ce que l'on met aux pieds pour marcher
+SANDALE|1|Chaussure ouverte retenue par des lanières
+PANTOUFLE|1|Chaussure d'intérieur confortable
+CHAPEAU|1|Coiffure que l'on porte sur la tête
+CASQUETTE|1|Coiffure à visière
+BONNET|1|Coiffure en laine pour l'hiver
+ECHARPE|1|Long morceau de tissu que l'on enroule autour du cou
+GANT|1|Vêtement qui couvre la main
+PYJAMA|1|Vêtement que l'on met pour dormir
+MAILLOTDEBAIN|2|Vêtement que l'on porte pour se baigner
+CRAVATE|1|Bande de tissu nouée autour du cou
+POCHE|1|Petit sac cousu dans un vêtement
+BIJOU|1|Objet précieux que l'on porte pour se parer
+BAGUE|1|Bijou que l'on porte au doigt
+COLLIER|1|Bijou que l'on porte autour du cou
+BRACELET|1|Bijou que l'on porte au poignet
+SAC|1|Objet en tissu ou en cuir pour transporter des affaires
+PARAPLUIE|1|Objet que l'on ouvre pour se protéger de la pluie
+PORTEFEUILLE|1|Petit étui où l'on range ses billets et ses cartes
+PERE|1|Homme qui a des enfants
+MERE|1|Femme qui a des enfants
+PAPA|1|Mot affectueux pour désigner le père
+MAMAN|1|Mot affectueux pour désigner la mère
+FILS|1|Enfant de sexe masculin
+FILLE|1|Enfant de sexe féminin
+FRERE|1|Garçon qui a les mêmes parents que soi
+SOEUR|1|Fille qui a les mêmes parents que soi
+GRANDPERE|1|Père du père ou de la mère
+GRANDMERE|1|Mère du père ou de la mère
+ONCLE|1|Frère du père ou de la mère
+TANTE|1|Sœur du père ou de la mère
+COUSIN|1|Enfant de l'oncle ou de la tante
+NEVEU|2|Fils du frère ou de la sœur
+NIECE|2|Fille du frère ou de la sœur
+PARRAIN|2|Homme qui s'engage à veiller sur un enfant lors de son baptême
+MARRAINE|2|Femme qui s'engage à veiller sur un enfant lors de son baptême
+JUMEAU|1|Enfant né le même jour que son frère ou sa sœur, de la même mère
+MARI|1|Homme qui a épousé une femme
+EPOUSE|1|Femme mariée, par rapport à son mari
+FIANCE|2|Personne qui a promis d'en épouser une autre
+BELLEMERE|2|Mère de son conjoint
+GENDRE|3|Mari de sa fille
+BRU|3|Épouse de son fils
+ENFANT|1|Jeune être humain
+GARCON|1|Enfant de sexe masculin
+ADULTE|1|Personne qui a fini de grandir
+ADOLESCENT|1|Jeune entre l'enfance et l'âge adulte
+VIEILLARD|2|Homme très âgé
+AMI|1|Personne avec qui l'on partage de l'affection
+COPAIN|1|Ami, dans le langage familier
+ANNIVERSAIRE|1|Jour où l'on fête sa naissance chaque année
+CADEAU|1|Objet que l'on offre
+FETE|1|Moment de joie où l'on célèbre quelque chose
+INVITATION|2|Fait de convier quelqu'un à une fête
+NOUVELAN|2|Premier jour de l'année
+JOUR|1|Période de vingt-quatre heures
+NUIT|1|Période sombre entre le coucher et le lever du soleil
+MATIN|1|Début de la journée
+MIDI|1|Milieu de la journée, douze heures
+SOIR|1|Fin de la journée
+SEMAINE|1|Période de sept jours
+MOIS|1|Chacune des douze divisions de l'année
+ANNEE|1|Période de douze mois
+HEURE|1|Durée de soixante minutes
+MINUTE|1|Durée de soixante secondes
+LUNDI|1|Premier jour de la semaine
+MARDI|1|Deuxième jour de la semaine
+MERCREDI|1|Troisième jour de la semaine
+JEUDI|1|Quatrième jour de la semaine
+VENDREDI|1|Cinquième jour de la semaine
+SAMEDI|1|Sixième jour de la semaine
+DIMANCHE|1|Dernier jour de la semaine
+JANVIER|1|Premier mois de l'année
+FEVRIER|1|Deuxième mois de l'année, le plus court
+JUILLET|1|Septième mois de l'année, celui de la fête nationale
+AOUT|1|Huitième mois de l'année
+DECEMBRE|1|Dernier mois de l'année
+ETE|1|Saison la plus chaude
+HIVER|1|Saison la plus froide
+HIER|1|Le jour d'avant aujourd'hui
+DEMAIN|1|Le jour d'après aujourd'hui
+AUJOURDHUI|1|Le jour où nous sommes
+WEEKEND|1|Samedi et dimanche
+ROUGE|1|Couleur du sang
+BLEU|1|Couleur du ciel par beau temps
+VERT|1|Couleur de l'herbe
+JAUNE|1|Couleur du citron
+NOIR|1|Couleur la plus sombre
+BLANC|1|Couleur de la neige
+VIOLET|1|Couleur de l'aubergine
+GRIS|1|Couleur entre le noir et le blanc
+BEIGE|2|Couleur brun très clair
+TURQUOISE|2|Couleur entre le bleu et le vert
+INDIGO|3|Bleu foncé tirant sur le violet
+POURPRE|3|Rouge foncé tirant sur le violet
+ECARLATE|3|Rouge vif
+JOIE|1|Sentiment de grand bonheur
+TRISTESSE|1|Sentiment de peine
+PEUR|1|Sentiment que l'on éprouve face au danger
+COLERE|1|Violent mécontentement
+AMOUR|1|Sentiment d'affection très fort
+HAINE|2|Sentiment de violente aversion
+JALOUSIE|2|Sentiment de celui qui envie ce qu'ont les autres
+FIERTE|2|Satisfaction d'avoir réussi quelque chose
+HONTE|1|Sentiment de gêne après une mauvaise action
+SURPRISE|1|Étonnement devant une chose inattendue
+ENNUI|1|Sentiment de lassitude quand on n'a rien à faire
+CONFIANCE|2|Sentiment de pouvoir compter sur quelqu'un
+COURAGE|1|Force de caractère face au danger
+PATIENCE|1|Capacité à attendre sans s'énerver
+TIMIDE|1|Qui manque d'assurance avec les autres
+GENTIL|1|Qui est aimable et bon avec les autres
+MECHANT|1|Qui fait du mal aux autres
+CURIEUX|1|Qui veut tout savoir
+GENEREUX|2|Qui donne volontiers
+AVARE|2|Qui garde tout son argent et ne veut rien dépenser
+HONNETE|2|Qui ne ment pas et ne vole pas
+MENTEUR|1|Qui ne dit pas la vérité
+POLI|1|Qui respecte les règles de la politesse
+DROLE|1|Qui fait rire
+SERIEUX|1|Qui agit avec soin et réflexion
+GRAND|1|De haute taille
+PETIT|1|De faible taille
+GROS|1|Qui a beaucoup de volume
+MINCE|1|Qui a peu d'épaisseur
+JEUNE|1|Qui n'a pas beaucoup d'années
+VIEUX|1|Qui a beaucoup d'années
+BEAU|1|Agréable à regarder
+LAID|2|Désagréable à regarder
+RAPIDE|1|Qui va vite
+LENT|1|Qui va doucement
+CHAUD|1|Qui a une température élevée
+DOUX|1|Agréable au toucher
+DUR|1|Qui ne se laisse pas enfoncer
+LOURD|1|Difficile à soulever
+LEGER|1|Facile à soulever
+PROPRE|1|Qui n'est pas sale
+VIDE|1|Qui ne contient rien
+PLEIN|1|Rempli entièrement
+FACILE|1|Qui se fait sans effort
+DIFFICILE|1|Qui demande beaucoup d'effort
+SILENCIEUX|2|Qui ne fait pas de bruit
+BRUYANT|2|Qui fait beaucoup de bruit
+COURIR|1|Avancer très vite à pied
+SAUTER|1|S'élever du sol d'un bond
+NAGER|1|Avancer dans l'eau
+DORMIR|1|Se reposer en fermant les yeux
+MANGER|1|Avaler de la nourriture
+BOIRE|1|Avaler un liquide
+PARLER|1|Dire des mots
+RIRE|1|Montrer sa joie par des éclats de voix
+PLEURER|1|Verser des larmes
+REGARDER|1|Diriger ses yeux vers quelque chose
+ECOUTER|1|Prêter l'oreille
+OUBLIER|1|Ne plus se souvenir
+CHERCHER|1|Essayer de trouver
+TROUVER|1|Découvrir ce que l'on cherchait
+OUVRIR|1|Faire en sorte qu'une chose ne soit plus fermée
+FERMER|1|Empêcher le passage en rabattant une porte
+ACHETER|1|Obtenir une chose en payant
+VENDRE|1|Céder une chose contre de l'argent
+DONNER|1|Offrir quelque chose à quelqu'un
+PRETER|2|Donner quelque chose pour un temps
+EMPRUNTER|2|Prendre quelque chose qu'il faudra rendre
+ATTENDRE|1|Rester jusqu'à ce que quelqu'un arrive
+VOYAGER|1|Faire un voyage
+RANGER|1|Mettre en ordre
+NETTOYER|1|Rendre propre
+REPARER|1|Remettre en état
+CONSTRUIRE|1|Bâtir
+DETRUIRE|2|Démolir complètement
+GAGNER|1|Remporter la victoire
+PERDRE|1|Ne plus avoir ce que l'on possédait
+APPRENDRE|1|Acquérir des connaissances
+ENSEIGNER|2|Transmettre des connaissances
+COMPTER|1|Calculer un nombre
+DESSINER|1|Tracer des images
+CHANTONNER|2|Chanter à mi-voix
+SOURIRE|1|Expression joyeuse des lèvres
+EMBRASSER|1|Donner un baiser
+SALUER|2|Dire bonjour
+REMERCIER|1|Dire merci
+EXCUSER|2|Pardonner
+MENTIR|1|Ne pas dire la vérité
+PROMETTRE|2|S'engager à faire quelque chose
+DECIDER|2|Faire un choix
+REFLECHIR|1|Penser avec attention
+COMPRENDRE|1|Saisir le sens de quelque chose
+SAVOIR|1|Avoir des connaissances
+CROIRE|2|Tenir pour vrai
+REVER|1|Faire des rêves en dormant
+RUE|1|Voie bordée de maisons dans une ville
+AVENUE|2|Large rue bordée d'arbres
+PLACE|1|Grand espace dégagé au milieu d'une ville
+PARC|1|Grand jardin public
+QUARTIER|1|Partie d'une ville
+BANLIEUE|2|Ensemble des villes autour d'une grande ville
+CENTREVILLE|1|Cœur d'une ville
+POSTE|1|Établissement où l'on envoie des lettres et des colis
+TUNNEL|1|Passage creusé sous la terre
+FONTAINE|1|Construction d'où coule de l'eau sur une place
+CHANTIER|2|Lieu où l'on construit un bâtiment
+OBJET|1|Chose que l'on peut toucher
+BOITE|1|Récipient avec un couvercle
+BOUTEILLE|1|Récipient à col étroit pour les liquides
+CISEAUX|1|Outil à deux lames pour couper
+COLLE|1|Produit qui sert à faire tenir deux choses ensemble
+VIS|2|Petite tige de métal à spirale que l'on tourne
+TOURNEVIS|1|Outil qui sert à visser
+SCIE|1|Outil à dents qui sert à couper le bois
+SEAU|1|Récipient à anse pour transporter de l'eau
+ALLUMETTE|1|Petit bâton qui s'enflamme quand on le frotte
+BRIQUET|1|Petit appareil qui fait du feu
+LAMPEDEPOCHE|2|Petite lampe portative à piles
+FEU|1|Flammes qui dégagent chaleur et lumière
+FUMEE|1|Nuage gris qui sort de ce qui brûle
+CENDRE|2|Poussière grise qui reste après un feu
+AIR|1|Mélange de gaz que l'on respire
+OMBRE|1|Zone sombre derrière un objet éclairé
+BRUIT|1|Son désagréable
+COULEUR|1|Teinte, comme le rouge ou le bleu
+FORME|1|Aspect extérieur d'un objet
+TAILLE|1|Hauteur d'une personne
+AGE|1|Nombre d'années d'une personne
+PRENOM|1|Nom personnel qui précède le nom de famille
+ADRESSE|1|Indication du lieu où l'on habite
+NUMERO|1|Chiffre qui identifie quelque chose
+SECRET|1|Ce que l'on garde pour soi
+QUESTION|1|Phrase qui demande une réponse
+REPONSE|1|Ce que l'on dit pour répondre à une question
+IDEE|1|Pensée qui vient à l'esprit
+PROBLEME|1|Difficulté à résoudre
+ERREUR|1|Faute commise sans le vouloir
+CHANCE|1|Hasard heureux
+HASARD|2|Ce qui arrive sans raison prévisible
+AVENTURE|1|Suite d'événements extraordinaires
+VOYOU|2|Jeune délinquant
+MONSTRE|1|Créature effrayante
+CALME|1|Absence d'agitation
+PAIX|1|Absence de guerre
+VERITE|1|Ce qui est conforme à la réalité
+MENSONGE|1|Ce que l'on dit en sachant que c'est faux
+PROMESSE|1|Engagement de faire quelque chose
+PUNITION|1|Sanction pour une faute
+RECOMPENSE|1|Cadeau donné pour saluer un effort
+EPHEMERE|3|Qui ne dure que très peu de temps
+SAGACE|3|Qui comprend vite et avec finesse
+PERSPICACE|3|Qui sait voir ce qui échappe aux autres
+NONCHALANT|3|Qui agit avec lenteur et sans effort
+DESINVOLTE|3|Qui agit avec une légèreté un peu insolente
+ACARIATRE|3|D'un caractère désagréable et grincheux
+FACETIEUX|3|Qui aime faire des plaisanteries
+PUSILLANIME|3|Qui manque de courage
+INTREPIDE|3|Qui ne craint pas le danger
+OPINIATRE|3|Qui s'obstine avec ténacité
+VELLEITAIRE|3|Qui a des envies mais ne passe jamais à l'acte
+MAGNANIME|3|Qui pardonne avec générosité
+ALTRUISTE|3|Qui pense aux autres avant soi
+EGOISTE|2|Qui ne pense qu'à soi
+VANITEUX|2|Qui est très fier de lui
+HAUTAIN|3|Qui se montre méprisant et supérieur
+BOUGON|2|Qui grogne tout le temps
+GRINCHEUX|2|Qui est toujours de mauvaise humeur
+TETU|1|Qui ne change pas d'avis
+NAIF|2|Qui croit tout ce qu'on lui dit
+RUSE|2|Qui trouve des astuces pour arriver à ses fins
+MALICIEUX|2|Qui aime jouer de petits tours
+ESPIEGLE|3|Vif et malicieux, sans méchanceté
+ETOURDI|2|Qui oublie souvent ce qu'il fait
+DISTRAIT|2|Qui ne fait pas attention
+MALADROIT|1|Qui fait tomber les choses
+ADROIT|2|Habile de ses mains
+HABILE|2|Qui fait les choses avec adresse
+INGENIEUX|3|Qui a l'esprit inventif
+FRIVOLE|3|Qui ne s'intéresse qu'à des choses légères
+FRUGAL|3|Qui se contente de peu, surtout pour manger
+SOBRE|3|Qui boit ou mange avec modération
+PRODIGUE|3|Qui dépense sans compter
+RANCUNIER|3|Qui garde le souvenir d'une offense
+SUSCEPTIBLE|2|Qui se vexe facilement
+JOVIAL|3|D'une gaieté franche et simple
+AFFABLE|3|Aimable et accueillant
+LOQUACE|3|Qui parle beaucoup
+TACITURNE|3|Qui parle peu et semble sombre
+MELANCOLIQUE|3|Qui éprouve une tristesse vague et douce
+NOSTALGIE|3|Regret mélancolique du passé
+SERENDIPITE|3|Art de faire une découverte heureuse par hasard
+QUIETUDE|3|Tranquillité de l'esprit
+SERENITE|2|Calme intérieur
+ALLEGRESSE|3|Joie très vive
+EUPHORIE|3|Sentiment intense de bien-être
+DESARROI|3|Trouble de celui qui ne sait plus que faire
+DESESPOIR|2|Perte de tout espoir
+ANGOISSE|2|Grande inquiétude
+EMOI|3|Trouble causé par une émotion
+STUPEUR|3|Étonnement profond qui laisse sans réaction
+EFFROI|3|Grande frayeur
+RANCOEUR|3|Amertume que l'on garde après une déception
+REMORDS|3|Regret d'avoir mal agi
+DILEMME|3|Choix difficile entre deux solutions
+PARADOXE|3|Idée qui semble contradictoire
+ENIGME|2|Question mystérieuse difficile à résoudre
+MYSTERE|1|Chose cachée que l'on ne comprend pas
+CHIMERE|3|Rêve impossible à réaliser
+UTOPIQUE|3|Qui relève du rêve, irréalisable
+ILLUSION|2|Image trompeuse
+MIRAGE|2|Illusion qui fait voir de l'eau dans le désert
+REVERIE|3|Pensée vague et agréable
+INSOUCIANCE|3|État de celui qui ne se fait aucun souci
+NONCHALANCE|3|Manque d'ardeur et d'empressement
+FLANER|2|Se promener sans but
+LAMBINER|3|Agir avec lenteur
+TERGIVERSER|3|Hésiter longtemps avant de décider
+PROCRASTINER|3|Remettre toujours au lendemain
+RESSASSER|3|Revenir sans cesse sur la même idée
+CHUCHOTEMENT|3|Bruit de paroles dites à voix très basse
+BROUHAHA|2|Bruit confus de voix
+VACARME|2|Bruit assourdissant
+TINTAMARRE|3|Grand bruit discordant
+CAPHARNAUM|3|Endroit en grand désordre
+FOUILLIS|2|Grand désordre
+PAGAILLE|2|Désordre
+TOHUBOHU|3|Grand désordre bruyant
+BRIBE|3|Petit morceau d'un ensemble
+BIBELOT|2|Petit objet décoratif
+BRICABRAC|3|Amas d'objets en vrac
+BABIOLE|3|Objet sans valeur
+FRIPERIE|3|Boutique de vêtements d'occasion
+BROCANTE|2|Commerce d'objets anciens
+AUBE|2|Premières lueurs du jour
+NOCTAMBULE|3|Personne qui vit la nuit
+SOMNAMBULE|2|Personne qui marche en dormant
+INSOMNIAQUE|3|Personne qui n'arrive pas à dormir
+FESTIN|2|Repas abondant et joyeux
+RIPAILLE|3|Repas où l'on mange et boit beaucoup
+BANQUET|2|Grand repas de fête
+AGAPES|3|Repas entre amis
+HOSPITALITE|3|Fait d'accueillir chaleureusement ses invités
+CONVIVIAL|2|Qui favorise les échanges et la bonne humeur
+CHALEUREUX|2|Qui accueille avec gentillesse
+EBAHI|3|Frappé d'étonnement
+ABASOURDI|3|Stupéfait
+INTERLOQUE|3|Interdit, déconcerté
+PANTOIS|3|Tellement surpris qu'on en reste sans voix
+EMERVEILLE|2|Rempli d'admiration
+EBLOUI|2|Aveuglé par une lumière ou par l'admiration
+FASCINE|2|Captivé par quelque chose
+PERPLEXE|3|Qui ne sait que penser
+DUBITATIF|3|Qui exprime le doute
+SCEPTIQUE|3|Qui doute de tout
+CREDULE|3|Qui croit trop facilement
+CANDIDE|3|Naïf et innocent
+INGENU|3|D'une franchise naïve
+ROUBLARD|3|Malin et rusé
+FILOU|3|Personne malhonnête et rusée
+CHENAPAN|3|Petit voyou, garnement
+GALOPIN|3|Enfant effronté
+GARNEMENT|3|Enfant turbulent
+POLISSON|3|Enfant espiègle et désobéissant
+BAMBIN|2|Petit enfant
+MARMOT|3|Petit enfant, familièrement
+BAMBOCHE|3|Fête joyeuse
+GUINGUETTE|3|Café populaire où l'on danse au bord de l'eau
+KERMESSE|3|Fête de quartier avec des jeux et des stands
+FLONFLON|3|Musique de bal populaire
+COTILLON|3|Petits objets de fête comme les serpentins
+CONFETTI|1|Petits ronds de papier coloré que l'on lance pendant les fêtes
+SERPENTIN|2|Rouleau de papier coloré que l'on lance pendant les fêtes
+CARNAVAL|1|Grande fête déguisée avant le carême
+DEGUISEMENT|1|Costume que l'on porte pour changer d'apparence
+MASQUE|1|Objet qui cache le visage
+FARCE|1|Tour joué à quelqu'un pour rire
+BLAGUE|1|Histoire drôle
+PLAISANTERIE|2|Propos destiné à faire rire
+CANULAR|3|Fausse nouvelle lancée pour plaisanter

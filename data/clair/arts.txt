@@ -1,0 +1,243 @@
+# MOT|niveau|définition
+ART|1|Activité qui cherche à créer la beauté, comme la peinture ou la musique
+ARTISTE|1|Personne qui crée des œuvres d'art
+PEINTURE|1|Art de représenter des images avec des couleurs
+PEINTRE|1|Artiste qui peint des tableaux
+TABLEAU|1|Œuvre peinte sur une toile
+TOILE|2|Tissu tendu sur un cadre sur lequel peint l'artiste
+PINCEAU|1|Outil à poils qui sert à peindre
+PALETTE|2|Plaque sur laquelle le peintre mélange ses couleurs
+CHEVALET|2|Support sur lequel le peintre pose sa toile
+DESSIN|1|Image tracée au crayon
+CRAYON|1|Petit bâton de bois qui sert à dessiner ou à écrire
+FEUTRE|1|Crayon à encre de couleur et à pointe souple
+AQUARELLE|2|Peinture à l'eau aux couleurs transparentes
+GOUACHE|2|Peinture à l'eau épaisse
+PASTEL|2|Bâtonnet de couleur poudreuse
+FUSAIN|3|Baguette de charbon de bois qui sert à dessiner
+ESQUISSE|2|Premier dessin rapide d'une œuvre
+CROQUIS|2|Dessin rapide pris sur le vif
+PORTRAIT|1|Représentation du visage d'une personne
+AUTOPORTRAIT|2|Portrait que l'artiste fait de lui-même
+PAYSAGE|1|Tableau qui représente la nature
+NATUREMORTE|2|Tableau qui représente des objets, comme des fruits ou des fleurs
+FRESQUE|2|Grande peinture faite sur un mur
+MOSAIQUE|2|Image faite de petits morceaux de pierre ou de verre colorés
+VITRAIL|2|Panneau de verres colorés qui orne les fenêtres des églises
+SCULPTURE|1|Art de façonner la pierre, le bois ou le métal
+SCULPTEUR|1|Artiste qui fait des sculptures
+STATUE|1|Sculpture qui représente un personnage en entier
+BUSTE|2|Sculpture qui représente la tête et le haut du corps
+MARBRE|2|Pierre blanche que travaillent les sculpteurs
+CISEAU|2|Outil du sculpteur pour tailler la pierre
+MODELAGE|2|Fait de façonner une matière molle comme l'argile
+POTERIE|2|Objet fabriqué en terre cuite
+CERAMIQUE|2|Art de fabriquer des objets en terre cuite
+MUSEE|1|Bâtiment où l'on expose des œuvres d'art
+LOUVRE|1|Grand musée de Paris où se trouve la Joconde
+JOCONDE|1|Célèbre portrait peint par Léonard de Vinci
+EXPOSITION|1|Présentation d'œuvres d'art au public
+GALERIE|2|Lieu où l'on expose et vend des œuvres d'art
+CHEFDOEUVRE|1|Œuvre exceptionnelle
+OEUVRE|1|Création d'un artiste
+COLLECTION|2|Ensemble d'œuvres réunies par un amateur ou un musée
+VERNISSAGE|3|Inauguration d'une exposition
+CADRE|1|Bordure qui entoure un tableau
+PICASSO|1|Peintre espagnol, l'un des créateurs du cubisme
+MONET|2|Peintre français des Nymphéas, maître de l'impressionnisme
+VANGOGH|2|Peintre hollandais des Tournesols, qui s'est coupé l'oreille
+RENOIR|3|Peintre impressionniste du Bal du moulin de la Galette
+CEZANNE|3|Peintre provençal de la montagne Sainte-Victoire
+MATISSE|3|Peintre français, maître du fauvisme
+REMBRANDT|3|Grand peintre hollandais de La Ronde de nuit
+MICHELANGE|2|Artiste italien qui a peint le plafond de la chapelle Sixtine
+RODIN|2|Sculpteur français du Penseur
+DALI|2|Peintre surréaliste espagnol aux montres molles
+MAGRITTE|3|Peintre surréaliste belge de « Ceci n'est pas une pipe »
+WARHOL|3|Artiste américain du pop art
+BANKSY|2|Artiste de rue anonyme
+CUBISME|3|Mouvement artistique qui représente les objets en formes géométriques
+SURREALISME|3|Mouvement artistique qui s'inspire des rêves
+ABSTRAIT|2|Se dit d'un art qui ne représente pas la réalité
+BAROQUE|3|Style artistique très chargé et spectaculaire du XVIIe siècle
+GOTHIQUE|2|Style des cathédrales du Moyen Âge, aux arcs pointus
+CLASSICISME|3|Style du XVIIe siècle qui recherche l'ordre et l'équilibre
+ROMANTISME|3|Mouvement artistique du XIXe siècle qui exalte les sentiments
+ARCHITECTURE|1|Art de concevoir les bâtiments
+ARCHITECTE|1|Personne qui dessine les plans des bâtiments
+FACADE|2|Côté avant d'un bâtiment
+COLONNE|2|Pilier rond qui soutient un édifice
+VOUTE|2|Plafond en arc
+COUPOLE|2|Toit arrondi en forme de demi-sphère
+DOME|2|Toit en forme de demi-sphère
+GARGOUILLE|2|Sculpture de monstre qui évacue l'eau de pluie d'une cathédrale
+ROSACE|3|Grand vitrail rond des cathédrales
+FRONTON|3|Partie triangulaire au-dessus de l'entrée d'un temple
+ARCADE|3|Suite d'arcs reposant sur des colonnes
+GRATTECIEL|1|Immeuble très haut
+PHOTOGRAPHIE|1|Art de prendre des images avec un appareil photo
+PHOTOGRAPHE|1|Personne qui prend des photos
+CINEMA|1|Art de faire des films
+FILM|1|Histoire racontée en images animées
+ACTEUR|1|Personne qui joue un rôle au cinéma ou au théâtre
+ACTRICE|1|Femme qui joue un rôle au cinéma ou au théâtre
+REALISATEUR|1|Personne qui dirige le tournage d'un film
+SCENARIO|2|Histoire écrite d'un film
+SCENARISTE|2|Personne qui écrit l'histoire d'un film
+TOURNAGE|2|Moment où l'on filme les scènes d'un film
+CAMERA|2|Appareil qui sert à filmer
+CLAP|3|Petite ardoise que l'on claque au début de chaque prise
+FIGURANT|2|Personne qui apparaît dans un film sans parler
+CASCADEUR|2|Personne qui fait les scènes dangereuses à la place de l'acteur
+DOUBLAGE|2|Remplacement des voix d'un film par d'autres, dans une autre langue
+SOUSTITRE|2|Traduction écrite en bas de l'écran
+BANDEANNONCE|2|Court extrait qui présente un film
+AFFICHE|1|Grande image qui annonce un film
+OSCAR|2|Statuette remise chaque année aux meilleurs films à Hollywood
+PALMEDOR|2|Récompense du festival de Cannes
+CANNES|1|Ville du célèbre festival de cinéma
+HOLLYWOOD|1|Quartier de Los Angeles, capitale du cinéma américain
+STAR|1|Acteur ou chanteur très célèbre
+VEDETTE|2|Artiste très connu
+DESSINANIME|1|Film fait de dessins animés image par image
+COMEDIE|1|Film ou pièce qui fait rire
+DRAME|2|Film ou pièce aux événements tristes
+HORREUR|1|Film d'___ : film qui fait peur
+WESTERN|2|Film de cowboys
+SUSPENSE|2|Attente angoissée de la suite d'une histoire
+SEQUENCE|3|Suite de plans qui forment une partie d'un film
+TRAVELLING|3|Mouvement de caméra sur des rails
+GENERIQUE|2|Liste des personnes qui ont participé à un film
+THEATRE|1|Art de jouer des histoires sur une scène
+SCENE|1|Plateau sur lequel jouent les acteurs
+RIDEAU|1|Grande toile qui ferme la scène
+COULISSES|2|Partie cachée du théâtre derrière la scène
+TRAGEDIE|2|Pièce de théâtre qui finit mal
+COMEDIEN|1|Acteur de théâtre
+ROLE|1|Personnage joué par un acteur
+REPLIQUE|2|Phrase dite par un acteur en réponse à un autre
+REPETITION|2|Séance de travail des acteurs avant le spectacle
+SPECTACLE|1|Représentation donnée devant un public
+SPECTATEUR|1|Personne qui regarde un spectacle
+PUBLIC|1|Ensemble des spectateurs
+APPLAUDIR|1|Taper dans ses mains pour féliciter
+ENTRACTE|2|Pause au milieu d'un spectacle
+MARIONNETTE|1|Poupée que l'on fait bouger avec des fils ou avec la main
+GUIGNOL|1|Marionnette lyonnaise
+CIRQUE|1|Spectacle de clowns, d'acrobates et d'animaux
+CLOWN|1|Artiste de cirque au nez rouge qui fait rire
+ACROBATE|1|Artiste qui fait des exercices d'équilibre
+JONGLEUR|1|Artiste qui lance et rattrape des objets
+MIME|2|Artiste qui s'exprime par des gestes, sans parler
+MOLIERE|1|Grand auteur de comédies, comme L'Avare
+SHAKESPEARE|2|Auteur anglais de Roméo et Juliette
+LITTERATURE|1|Ensemble des œuvres écrites, comme les romans et les poèmes
+LIVRE|1|Ensemble de pages imprimées et reliées
+ROMAN|1|Long récit d'imagination
+ROMANCIER|2|Auteur de romans
+ECRIVAIN|1|Personne qui écrit des livres
+AUTEUR|1|Personne qui a écrit une œuvre
+POEME|1|Texte écrit en vers
+POESIE|1|Art d'écrire des vers
+POETE|1|Personne qui écrit des poèmes
+VERS|2|Ligne d'un poème
+STROPHE|2|Groupe de vers dans un poème
+RIME|1|Retour du même son à la fin de deux vers
+SONNET|3|Poème de quatorze vers
+ALEXANDRIN|3|Vers de douze syllabes
+CONTE|1|Petite histoire merveilleuse, comme celle des fées
+FABLE|1|Petite histoire qui se termine par une morale
+NOUVELLE|2|Récit court
+RECIT|2|Histoire racontée
+ROMANCIERE|2|Femme qui écrit des romans
+BANDEDESSINEE|1|Histoire racontée en dessins et en bulles
+BULLE|1|Espace où l'on écrit les paroles des personnages de BD
+MANGA|1|Bande dessinée japonaise
+TINTIN|1|Reporter à la houppe créé par Hergé
+ASTERIX|1|Petit Gaulois créé par Goscinny et Uderzo
+SCHTROUMPF|1|Petit personnage bleu de bande dessinée
+PERSONNAGE|1|Personne qui apparaît dans une histoire
+HEROS|1|Personnage principal d'une histoire
+HEROINE|1|Personnage principal féminin
+INTRIGUE|2|Suite d'événements d'une histoire
+CHAPITRE|1|Partie d'un livre
+PAGE|1|Face d'une feuille d'un livre
+COUVERTURE|1|Partie extérieure d'un livre
+TITRE|1|Nom d'un livre ou d'un film
+PREFACE|3|Texte placé au début d'un livre pour le présenter
+EPILOGUE|3|Partie finale d'un récit
+PROLOGUE|3|Introduction d'un récit
+BIBLIOTHEQUE|1|Lieu où l'on emprunte des livres
+LIBRAIRIE|1|Magasin où l'on achète des livres
+EDITEUR|2|Personne qui publie des livres
+BESTSELLER|2|Livre qui se vend très bien
+BIOGRAPHIE|2|Récit de la vie d'une personne
+JOURNALINTIME|2|Cahier où l'on note ses pensées chaque jour
+MEMOIRES|3|Récit qu'une personnalité écrit sur sa vie
+ROMANPOLICIER|2|Roman qui raconte une enquête
+FANTASTIQUE|2|Genre de récit où le surnaturel surgit dans la réalité
+HUGO|1|Victor ___ : auteur des Misérables
+ZOLA|2|Émile ___ : auteur de Germinal
+BALZAC|2|Auteur de La Comédie humaine
+FLAUBERT|2|Auteur de Madame Bovary
+VERNE|1|Jules ___ : auteur de Vingt Mille Lieues sous les mers
+DUMAS|2|Alexandre ___ : auteur des Trois Mousquetaires
+LAFONTAINE|1|Auteur de fables comme Le Corbeau et le Renard
+PERRAULT|2|Auteur du Petit Chaperon rouge et du Chat botté
+VOLTAIRE|2|Philosophe des Lumières, auteur de Candide
+ROUSSEAU|3|Philosophe des Lumières, auteur du Contrat social
+BAUDELAIRE|2|Poète des Fleurs du mal
+RIMBAUD|2|Poète surdoué du Bateau ivre
+VERLAINE|3|Poète de « Les sanglots longs des violons »
+APOLLINAIRE|3|Poète d'Alcools et des Calligrammes
+PREVERT|2|Poète de Paroles et des Feuilles mortes
+CAMUS|2|Auteur de L'Étranger et de La Peste
+SARTRE|3|Philosophe existentialiste, auteur de La Nausée
+SAINTEXUPERY|2|Auteur du Petit Prince
+PROUST|3|Auteur d'À la recherche du temps perdu, célèbre pour sa madeleine
+MAUPASSANT|3|Auteur de nouvelles comme Boule de suif
+STENDHAL|3|Auteur du Rouge et le Noir
+COLETTE|3|Romancière de Claudine à l'école
+CYRANO|2|Héros au long nez d'Edmond Rostand
+QUASIMODO|2|Sonneur bossu de Notre-Dame de Paris
+GAVROCHE|2|Gamin de Paris des Misérables
+DONQUICHOTTE|2|Chevalier qui se bat contre des moulins à vent
+SHERLOCK|1|Célèbre détective de Conan Doyle
+POIROT|2|Détective belge d'Agatha Christie
+MAIGRET|3|Commissaire créé par Simenon
+ARSENELUPIN|2|Gentleman cambrioleur de Maurice Leblanc
+HARRYPOTTER|1|Jeune sorcier à la cicatrice en forme d'éclair
+PETITPRINCE|1|Héros de Saint-Exupéry qui vient d'une petite planète
+DRACULA|2|Comte vampire du roman de Bram Stoker
+FRANKENSTEIN|2|Savant qui crée une créature en assemblant des cadavres
+TARZAN|2|Homme élevé par les singes dans la jungle
+ZORRO|1|Justicier masqué qui signe d'un Z
+BATMAN|1|Super-héros de Gotham, déguisé en chauve-souris
+SUPERMAN|1|Super-héros venu de la planète Krypton
+SPIDERMAN|1|Super-héros qui tisse des toiles d'araignée
+DISNEY|1|Studio américain de dessins animés
+PIXAR|2|Studio américain de films d'animation comme Toy Story
+CHAPLIN|2|Acteur du cinéma muet à la canne et au chapeau melon
+HITCHCOCK|3|Réalisateur anglais, maître du suspense
+SPIELBERG|3|Réalisateur américain de Jurassic Park et d'E.T.
+DEPARDIEU|2|Acteur français qui a joué Obélix
+DELON|3|Acteur français de Plein Soleil
+BELMONDO|3|Acteur français surnommé Bébel
+FUNES|2|Louis de ___ : acteur comique du Gendarme de Saint-Tropez
+MELIES|3|Pionnier du cinéma, auteur du Voyage dans la Lune
+ORIGAMI|2|Art japonais du pliage de papier
+GRAFFITI|2|Dessin ou inscription peint sur un mur
+TAG|2|Signature peinte sur un mur
+CALLIGRAPHIE|3|Art de la belle écriture
+GRAVURE|3|Image imprimée à partir d'une plaque gravée
+ESTAMPE|3|Image imprimée à partir d'une gravure
+ENLUMINURE|3|Peinture décorant les manuscrits du Moyen Âge
+MANUSCRIT|3|Texte écrit à la main
+CARICATURE|2|Dessin qui exagère les traits d'une personne pour s'en moquer
+DESSINATEUR|2|Personne qui dessine
+ILLUSTRATEUR|3|Artiste qui fait les images d'un livre
+DESIGN|2|Création d'objets à la fois beaux et pratiques
+MODE|1|Manière de s'habiller propre à une époque
+COUTURIER|2|Créateur de vêtements de luxe
+MANNEQUIN|1|Personne qui présente des vêtements lors d'un défilé
+DEFILE|2|Présentation de vêtements par des mannequins

@@ -1,0 +1,185 @@
+# MOT|niveau|définition
+MOT|1|Suite de lettres qui a un sens
+LETTRE|1|Signe de l'alphabet, comme A ou B
+ALPHABET|1|Ensemble des lettres d'une langue, de A à Z
+VOYELLE|1|Lettre comme A, E, I, O, U ou Y
+CONSONNE|1|Lettre qui n'est pas une voyelle, comme B ou T
+SYLLABE|2|Partie d'un mot que l'on prononce d'un seul coup de voix
+PHRASE|1|Suite de mots qui forme un sens complet
+TEXTE|1|Ensemble de phrases écrites
+PARAGRAPHE|2|Partie d'un texte qui commence par un retrait à la ligne
+LANGUE|1|Système de mots que parle un peuple, comme le français
+LANGAGE|1|Moyen de communiquer par des mots ou des signes
+VOCABULAIRE|1|Ensemble des mots d'une langue ou d'une personne
+DICTIONNAIRE|1|Livre qui donne la définition des mots
+DEFINITION|1|Explication du sens d'un mot
+GRAMMAIRE|1|Ensemble des règles d'une langue
+ORTHOGRAPHE|1|Manière correcte d'écrire les mots
+CONJUGAISON|1|Ensemble des formes que prend un verbe
+VERBE|1|Mot qui exprime une action, comme courir ou manger
+NOM|1|Mot qui désigne une personne, un animal ou une chose
+ADJECTIF|1|Mot qui décrit un nom, comme grand ou rouge
+ADVERBE|2|Mot invariable qui modifie un verbe, comme vite ou bien
+PRONOM|2|Mot qui remplace un nom, comme il ou elle
+DETERMINANT|2|Mot placé devant le nom, comme le, mon ou ce
+PREPOSITION|3|Mot invariable qui relie deux mots, comme à, de ou pour
+CONJONCTION|3|Mot qui relie deux phrases, comme mais ou car
+INTERJECTION|3|Mot qui exprime une émotion, comme aïe ou oh
+SUJET|1|Mot qui fait l'action du verbe
+COMPLEMENT|2|Mot ou groupe de mots qui complète le sens d'un autre
+ATTRIBUT|3|Mot qui indique une qualité du sujet après le verbe être
+INFINITIF|2|Forme du verbe qui n'est pas conjuguée, comme chanter
+PARTICIPE|2|Forme du verbe, comme chanté ou chantant
+PRESENT|1|Temps du verbe qui exprime ce qui se passe maintenant
+PASSECOMPOSE|2|Temps du passé formé avec avoir ou être
+IMPARFAIT|2|Temps du passé qui décrit une action qui dure
+FUTUR|1|Temps du verbe qui exprime ce qui va se passer
+CONDITIONNEL|2|Mode du verbe qui exprime une condition ou un souhait
+SUBJONCTIF|3|Mode du verbe utilisé après « il faut que »
+IMPERATIF|2|Mode du verbe qui exprime un ordre
+INDICATIF|3|Mode du verbe qui exprime un fait réel
+PASSESIMPLE|2|Temps du passé utilisé dans les récits
+AUXILIAIRE|2|Verbe être ou avoir qui sert à former les temps composés
+SINGULIER|1|Forme d'un mot qui désigne une seule chose
+PLURIEL|1|Forme d'un mot qui désigne plusieurs choses
+MASCULIN|1|Genre des noms comme « le garçon »
+FEMININ|1|Genre des noms comme « la fille »
+SYNONYME|1|Mot qui a le même sens qu'un autre
+ANTONYME|2|Mot de sens contraire, comme chaud et froid
+CONTRAIRE|1|Mot de sens opposé
+HOMONYME|2|Mot qui se prononce comme un autre mais n'a pas le même sens, comme verre et vert
+PREFIXE|2|Élément placé au début d'un mot pour en changer le sens, comme « re- »
+SUFFIXE|2|Élément placé à la fin d'un mot, comme « -ment »
+RADICAL|3|Partie principale d'un mot, à laquelle on ajoute préfixes et suffixes
+ETYMOLOGIE|3|Origine d'un mot
+NEOLOGISME|3|Mot nouvellement créé
+ABREVIATION|2|Forme raccourcie d'un mot, comme « etc. »
+SIGLE|2|Mot formé des initiales d'autres mots, comme SNCF
+ACRONYME|3|Sigle que l'on prononce comme un mot, comme Unesco
+ANAGRAMME|2|Mot formé avec les mêmes lettres qu'un autre, comme chien et niche
+PALINDROME|3|Mot qui se lit dans les deux sens, comme radar
+ONOMATOPEE|3|Mot qui imite un bruit, comme boum ou miaou
+VERLAN|2|Argot qui inverse les syllabes des mots, comme « louche » devenu « chelou »
+ARGOT|2|Langage familier propre à un groupe
+PATOIS|3|Langue régionale parlée dans une campagne
+DIALECTE|3|Variante régionale d'une langue
+ACCENT|1|Façon de prononcer propre à une région
+ACCENTAIGU|2|Signe placé sur le e de « été »
+CEDILLE|2|Petit signe placé sous le c de « garçon »
+TREMA|3|Deux points placés sur une voyelle, comme dans « maïs »
+CIRCONFLEXE|3|Accent en forme de petit chapeau, comme sur « forêt »
+APOSTROPHE|2|Signe qui remplace une voyelle supprimée, comme dans « l'arbre »
+TIRET|2|Petit trait horizontal qui sépare ou introduit une réplique
+TRAITDUNION|3|Petit trait qui relie deux mots, comme dans « arc-en-ciel »
+PONCTUATION|2|Ensemble des signes comme le point et la virgule
+POINT|1|Signe qui marque la fin d'une phrase
+VIRGULE|1|Signe qui marque une petite pause dans une phrase
+GUILLEMETS|2|Signes qui encadrent une citation
+PARENTHESE|2|Signe qui isole une remarque dans une phrase
+MAJUSCULE|1|Grande lettre qui commence une phrase
+MINUSCULE|1|Petite lettre
+INTERROGATION|2|Point d'___ : signe qui termine une question
+EXCLAMATION|2|Point d'___ : signe qui marque l'étonnement
+POINTVIRGULE|3|Signe de ponctuation entre la virgule et le point
+DEUXPOINTS|3|Signe de ponctuation qui annonce une explication ou une liste
+EXPRESSION|1|Groupe de mots qui a un sens particulier
+PROVERBE|1|Phrase courte qui exprime une sagesse populaire
+DICTON|2|Phrase populaire, souvent sur la météo ou les saisons
+CITATION|2|Phrase célèbre que l'on répète en citant son auteur
+MAXIME|3|Phrase qui énonce une règle de conduite
+METAPHORE|3|Image qui compare sans utiliser « comme »
+COMPARAISON|2|Rapprochement de deux choses avec le mot « comme »
+HYPERBOLE|3|Exagération pour frapper l'esprit
+EUPHEMISME|3|Façon adoucie de dire une chose désagréable
+LITOTE|3|Façon de dire moins pour suggérer plus, comme « ce n'est pas mauvais »
+OXYMORE|3|Alliance de deux mots contraires, comme « obscure clarté »
+ALLITERATION|3|Répétition d'un même son de consonne
+ANTITHESE|3|Opposition de deux idées dans une même phrase
+JEUDEMOTS|2|Plaisanterie qui joue sur le sens ou le son des mots
+CALEMBOUR|3|Jeu de mots fondé sur des sons semblables
+CONTREPETERIE|3|Jeu de mots qui intervertit des sons pour créer une phrase drôle
+LECTURE|1|Action de lire
+ECRITURE|1|Action d'écrire
+LIRE|1|Comprendre ce qui est écrit
+ECRIRE|1|Former des lettres et des mots
+EPELER|2|Dire une à une les lettres d'un mot
+PRONONCER|1|Dire un mot à voix haute
+PRONONCIATION|2|Façon de prononcer les mots
+DICTEE|1|Exercice où l'on écrit un texte lu à voix haute
+REDACTION|1|Texte écrit par un élève sur un sujet donné
+RESUME|2|Texte court qui reprend l'essentiel d'un autre
+BROUILLON|1|Premier essai d'un texte, avant de le recopier
+CAHIER|1|Ensemble de feuilles reliées pour écrire
+STYLO|1|Instrument qui sert à écrire avec de l'encre
+ENCRE|1|Liquide coloré qui sert à écrire
+GOMME|1|Petit bloc qui efface le crayon
+CALLIGRAPHIER|3|Écrire avec de belles lettres
+CURSIVE|3|Écriture attachée
+FRANCAIS|1|Langue parlée en France
+ANGLAIS|1|Langue parlée en Angleterre et aux États-Unis
+ESPAGNOL|1|Langue parlée en Espagne et en Amérique latine
+ALLEMAND|1|Langue parlée en Allemagne
+ITALIEN|1|Langue parlée en Italie
+ARABE|1|Langue parlée au Maghreb et au Moyen-Orient
+CHINOIS|1|Langue parlée en Chine
+JAPONAIS|2|Langue parlée au Japon
+RUSSE|2|Langue parlée en Russie, écrite en alphabet cyrillique
+LATIN|2|Langue des Romains, ancêtre du français
+GREC|2|Langue d'Athènes, d'où viennent beaucoup de mots savants
+BRETON|3|Langue celtique parlée en Bretagne
+OCCITAN|3|Langue régionale du sud de la France
+CREOLE|3|Langue née du mélange du français et de langues africaines aux Antilles
+ESPERANTO|3|Langue inventée pour être parlée par tous les peuples
+BILINGUE|2|Qui parle deux langues
+POLYGLOTTE|3|Qui parle plusieurs langues
+TRADUCTION|1|Passage d'un texte d'une langue à une autre
+TRADUCTEUR|2|Personne qui traduit des textes
+INTERPRETE|2|Personne qui traduit à l'oral
+BRAILLE|2|Écriture en points saillants pour les personnes aveugles
+HIEROGLYPHES|3|Signes de l'écriture égyptienne ancienne
+CYRILLIQUE|3|Alphabet utilisé pour écrire le russe
+IDEOGRAMME|3|Signe qui représente une idée, comme en chinois
+ACADEMIE|2|___ française : institution qui veille sur la langue
+IMMORTEL|3|Surnom des membres de l'Académie française
+LAROUSSE|2|Célèbre dictionnaire illustré
+BESCHERELLE|3|Livre de référence pour la conjugaison
+ROBERT|3|Le Petit ___ : célèbre dictionnaire
+LEXIQUE|3|Ensemble des mots d'une langue ou d'un domaine
+JARGON|3|Vocabulaire propre à une profession, difficile à comprendre
+FAMILIER|2|Se dit d'un mot employé dans la conversation de tous les jours
+SOUTENU|3|Se dit d'un langage recherché
+VULGAIRE|2|Se dit d'un mot grossier
+GROSMOT|1|Mot grossier
+INJURE|2|Parole blessante
+COMPLIMENT|1|Parole aimable qui félicite
+POLITESSE|1|Ensemble des règles de bonne conduite, comme dire merci
+BONJOUR|1|Mot que l'on dit pour saluer
+MERCI|1|Mot que l'on dit pour remercier
+BAVARD|1|Qui parle beaucoup
+CHUCHOTER|1|Parler très bas
+CRIER|1|Parler très fort
+BEGAYER|2|Parler en répétant des syllabes
+BAFOUILLER|2|Parler de manière confuse
+DISCOURS|2|Texte prononcé devant un public
+DIALOGUE|1|Conversation entre deux personnes
+CONVERSATION|1|Échange de paroles entre plusieurs personnes
+MONOLOGUE|2|Discours d'une personne qui parle seule
+DEBAT|2|Discussion où chacun défend ses idées
+ARGUMENT|2|Raison que l'on donne pour convaincre
+RHETORIQUE|3|Art de bien parler pour convaincre
+ELOQUENCE|3|Talent de bien parler et de convaincre
+ORATEUR|3|Personne qui parle bien en public
+MESSAGE|1|Information transmise à quelqu'un
+LETTRES|2|Études de littérature et de langues
+COURRIER|1|Lettre envoyée par la poste
+ENVELOPPE|1|Pochette de papier dans laquelle on glisse une lettre
+TIMBRE|1|Petite vignette que l'on colle sur une lettre
+CARTEPOSTALE|1|Carte illustrée que l'on envoie en vacances
+TELEGRAMME|3|Message court envoyé autrefois par télégraphe
+SMS|1|Court message écrit envoyé par téléphone
+MOTCROISE|2|Grille où l'on place des mots à partir de définitions
+MOTSFLECHES|1|Grille où les définitions sont dans les cases
+ORTHOPHONISTE|2|Spécialiste qui aide à mieux parler et écrire
+DYSLEXIE|2|Trouble qui rend difficile l'apprentissage de la lecture
+ILLETTRISME|3|Difficulté à lire et à écrire chez un adulte allé à l'école
+ANALPHABETE|3|Qui ne sait ni lire ni écrire

@@ -1,0 +1,298 @@
+# MOT|niveau|définition
+SCIENCE|1|Ensemble des connaissances obtenues par l'observation et l'expérience
+SCIENTIFIQUE|1|Personne qui fait de la recherche
+LABORATOIRE|1|Lieu où les scientifiques font des expériences
+EXPERIENCE|1|Essai fait pour vérifier une idée
+CHERCHEUR|1|Scientifique qui fait des découvertes
+INVENTION|1|Création d'une chose nouvelle
+INVENTEUR|1|Personne qui crée une chose nouvelle
+ATOME|2|Plus petite partie d'un élément chimique
+MOLECULE|2|Assemblage d'atomes, comme celle de l'eau
+ELECTRON|2|Particule électrique qui tourne autour du noyau de l'atome
+PROTON|3|Particule positive du noyau de l'atome
+NEUTRON|3|Particule sans charge du noyau de l'atome
+OXYGENE|1|Gaz de l'air indispensable pour respirer
+HYDROGENE|2|Gaz le plus léger, qui compose l'eau avec l'oxygène
+CARBONE|2|Élément chimique du charbon et du diamant
+AZOTE|3|Gaz qui forme les trois quarts de l'air
+HELIUM|2|Gaz léger qui fait flotter les ballons
+GAZ|1|État de la matière, comme l'air ou la vapeur
+LIQUIDE|1|État de la matière qui coule, comme l'eau
+SOLIDE|1|État de la matière qui garde sa forme, comme la glace
+VAPEUR|1|Eau transformée en gaz par la chaleur
+ACIDE|2|Substance qui ronge, comme le vinaigre ou le citron
+CHIMIE|1|Science qui étudie les substances et leurs transformations
+CHIMISTE|2|Scientifique qui étudie les substances
+PHYSIQUE|1|Science qui étudie la matière, l'énergie et les forces
+PHYSICIEN|2|Scientifique qui étudie la physique
+BIOLOGIE|1|Science qui étudie les êtres vivants
+BIOLOGISTE|2|Scientifique qui étudie le vivant
+CELLULE|2|Plus petite unité d'un être vivant
+ADN|2|Molécule en double hélice qui porte les gènes
+GENE|2|Partie de l'ADN qui transmet un caractère héréditaire
+MICROBE|1|Être vivant minuscule, parfois cause de maladie
+BACTERIE|2|Micro-organisme d'une seule cellule
+VIRUS|1|Minuscule agent qui provoque des maladies comme la grippe
+MICROSCOPE|1|Instrument qui grossit les objets minuscules
+LOUPE|1|Verre bombé qui grossit les objets
+EVOLUTION|2|Transformation des espèces au fil du temps
+DARWIN|2|Savant anglais, auteur de la théorie de l'évolution
+EINSTEIN|1|Physicien célèbre pour sa théorie de la relativité
+NEWTON|2|Savant anglais qui a découvert la gravitation grâce à une pomme
+GALILEE|2|Savant italien qui a affirmé que la Terre tourne autour du Soleil
+PASTEUR|1|Savant français qui a inventé le vaccin contre la rage
+CURIE|2|Marie ___ : savante deux fois prix Nobel
+ARCHIMEDE|2|Savant grec qui s'est écrié « Eurêka ! » dans son bain
+PYTHAGORE|2|Mathématicien grec célèbre pour son théorème sur les triangles
+EUREKA|2|« J'ai trouvé ! », cri d'Archimède
+NOBEL|2|Prix prestigieux qui récompense les grands scientifiques
+MATHEMATIQUES|1|Science des nombres et des figures
+CALCUL|1|Opération faite sur des nombres
+NOMBRE|1|Quantité exprimée en chiffres
+CHIFFRE|1|Signe qui sert à écrire les nombres, de 0 à 9
+ADDITION|1|Opération qui consiste à ajouter des nombres
+SOUSTRACTION|1|Opération qui consiste à retirer un nombre d'un autre
+DIVISION|1|Opération qui consiste à partager un nombre
+FRACTION|2|Nombre qui s'écrit avec une barre, comme un demi
+EQUATION|2|Égalité avec une inconnue à trouver
+INCONNUE|2|Valeur cherchée dans une équation, souvent appelée x
+ALGEBRE|2|Partie des mathématiques qui utilise des lettres à la place des nombres
+GEOMETRIE|1|Partie des mathématiques qui étudie les figures
+TRIANGLE|1|Figure à trois côtés
+CARRE|1|Figure à quatre côtés égaux et quatre angles droits
+RECTANGLE|1|Figure à quatre angles droits et aux côtés opposés égaux
+CERCLE|1|Figure ronde dont tous les points sont à la même distance du centre
+LOSANGE|1|Figure à quatre côtés égaux, en forme de diamant
+TRAPEZE|2|Figure à quatre côtés dont deux sont parallèles
+HEXAGONE|2|Figure à six côtés, surnom de la France
+PENTAGONE|2|Figure à cinq côtés
+POLYGONE|2|Figure à plusieurs côtés
+CUBE|1|Solide à six faces carrées, comme un dé
+SPHERE|2|Solide parfaitement rond, comme une boule
+CYLINDRE|2|Solide en forme de tube
+ANGLE|1|Ouverture entre deux lignes qui se croisent
+DIAMETRE|2|Ligne qui traverse un cercle en passant par son centre
+RAYON|2|Distance entre le centre d'un cercle et son bord
+PERIMETRE|2|Longueur du tour d'une figure
+SURFACE|1|Étendue d'une figure, mesurée en mètres carrés
+VOLUME|1|Espace occupé par un objet
+PARALLELE|2|Se dit de deux droites qui ne se croisent jamais
+THEOREME|3|Proposition mathématique démontrée
+COMPAS|1|Instrument qui sert à tracer des cercles
+EQUERRE|1|Instrument qui sert à tracer des angles droits
+RAPPORTEUR|2|Instrument en demi-cercle qui mesure les angles
+REGLE|1|Instrument qui sert à tracer des traits droits
+POURCENTAGE|2|Proportion exprimée sur cent
+STATISTIQUE|3|Science qui analyse des données chiffrées
+PROBABILITE|3|Chance qu'un événement se produise, exprimée par un nombre
+MOYENNE|1|Résultat obtenu en additionnant des valeurs puis en divisant par leur nombre
+INFINI|2|Qui n'a pas de fin
+ZERO|1|Chiffre qui représente l'absence de quantité
+MILLION|1|Mille fois mille
+MILLIARD|2|Mille millions
+DECIMAL|3|Se dit d'un nombre à virgule
+PAIR|1|Se dit d'un nombre divisible par deux
+IMPAIR|1|Se dit d'un nombre qui n'est pas divisible par deux
+PREMIER|3|Nombre ___ : nombre divisible seulement par un et par lui-même
+METRE|1|Unité de longueur
+KILOMETRE|1|Mille mètres
+CENTIMETRE|1|Centième de mètre
+LITRE|1|Unité de volume des liquides
+GRAMME|1|Unité de masse
+KILOGRAMME|1|Mille grammes
+SECONDE|1|Soixantième partie d'une minute
+DEGRE|2|Unité de mesure des températures et des angles
+VOLT|3|Unité de tension électrique
+WATT|3|Unité de puissance électrique
+AMPERE|3|Unité d'intensité du courant électrique
+JOULE|3|Unité d'énergie
+HERTZ|3|Unité de fréquence
+ENERGIE|1|Force qui permet de produire un mouvement, de la chaleur ou de la lumière
+ELECTRICITE|1|Énergie qui fait fonctionner les appareils
+COURANT|2|Circulation de l'électricité dans un fil
+PILE|1|Petit objet qui fournit de l'électricité aux appareils
+AMPOULE|1|Globe de verre qui produit de la lumière
+AIMANT|1|Objet qui attire le fer
+MAGNETISME|3|Propriété des aimants d'attirer le fer
+LUMIERE|1|Ce qui éclaire et permet de voir
+SON|1|Ce que l'on entend
+VITESSE|1|Distance parcourue en un temps donné
+FORCE|1|Ce qui peut déplacer ou déformer un objet
+POIDS|1|Force qui attire un objet vers le sol
+MASSE|2|Quantité de matière d'un objet, mesurée en kilogrammes
+PRESSION|2|Force exercée sur une surface
+TEMPERATURE|1|Degré de chaleur ou de froid
+CHALEUR|1|Sensation de chaud
+FROID|1|Absence de chaleur
+FUSION|2|Passage de l'état solide à l'état liquide
+EBULLITION|2|État d'un liquide qui bout
+EVAPORATION|2|Transformation d'un liquide en vapeur
+CONDENSATION|3|Passage d'un gaz à l'état liquide, comme la buée sur une vitre
+CONGELATION|2|Transformation d'un liquide en glace
+DENSITE|3|Rapport entre la masse d'un corps et son volume
+GRAVITE|2|Force qui nous retient au sol
+FRICTION|3|Frottement de deux surfaces l'une contre l'autre
+LEVIER|2|Barre qui permet de soulever une lourde charge avec peu d'effort
+POULIE|2|Roue à gorge sur laquelle passe une corde, pour soulever des charges
+ENGRENAGE|2|Ensemble de roues dentées qui s'entraînent
+RESSORT|1|Spirale de métal qui reprend sa forme
+MOTEUR|1|Machine qui produit un mouvement
+TURBINE|3|Roue à pales qui tourne sous la poussée de l'eau ou de la vapeur
+MACHINE|1|Appareil qui effectue un travail
+ROBOT|1|Machine automatique qui peut remplacer l'homme
+TECHNOLOGIE|1|Ensemble des techniques modernes
+RADAR|2|Appareil qui repère les objets à distance grâce à des ondes
+LASER|2|Rayon de lumière très concentré
+RADIOACTIVITE|3|Rayonnement émis par certains atomes instables
+NUCLEAIRE|2|Énergie tirée du noyau des atomes
+CENTRALE|2|Usine qui produit de l'électricité
+EOLIENNE|1|Grande hélice qui produit de l'électricité grâce au vent
+BARRAGE|2|Mur qui retient l'eau d'une rivière pour produire de l'électricité
+ONDE|2|Vibration qui se propage, comme celle du son ou de la radio
+PRISME|3|Bloc de verre qui décompose la lumière en couleurs
+MIROIR|1|Surface qui reflète les images
+REFLET|1|Image renvoyée par un miroir ou par l'eau
+ORDINATEUR|1|Machine électronique qui traite des informations
+CLAVIER|1|Ensemble de touches qui permet d'écrire sur un ordinateur
+ECRAN|1|Surface sur laquelle s'affichent les images
+IMPRIMANTE|1|Appareil qui imprime sur du papier
+LOGICIEL|1|Programme qui fait fonctionner un ordinateur
+INTERNET|1|Réseau mondial qui relie les ordinateurs
+SITE|1|Ensemble de pages consultables sur Internet
+EMAIL|1|Message envoyé par Internet
+MOTDEPASSE|1|Code secret qui protège un compte
+FICHIER|1|Document enregistré sur un ordinateur
+DOSSIER|2|Ensemble de fichiers rangés ensemble
+TELECHARGER|1|Récupérer un fichier depuis Internet
+CLIQUER|1|Appuyer sur le bouton de la souris
+CURSEUR|2|Petite flèche qui se déplace sur l'écran
+ICONE|2|Petit dessin sur l'écran qui représente un programme
+APPLICATION|1|Programme que l'on installe sur un téléphone
+SMARTPHONE|1|Téléphone portable qui donne accès à Internet
+TABLETTE|1|Écran tactile plus grand qu'un téléphone
+WIFI|1|Connexion à Internet sans fil
+BLUETOOTH|2|Technologie qui relie des appareils sans fil sur de courtes distances
+USB|2|Prise qui permet de brancher un appareil à un ordinateur
+BUG|1|Erreur dans un programme informatique
+ALGORITHME|3|Suite d'instructions pour résoudre un problème
+PROGRAMME|2|Suite d'instructions qu'exécute un ordinateur
+CODE|2|Instructions écrites par un programmeur
+INFORMATIQUE|1|Science du traitement des données par ordinateur
+INFORMATICIEN|2|Spécialiste des ordinateurs
+NUMERIQUE|2|Qui utilise des données sous forme de nombres, comme les appareils modernes
+BINAIRE|3|Système de calcul qui n'utilise que 0 et 1
+OCTET|3|Unité de mémoire informatique
+PROCESSEUR|3|Cerveau de l'ordinateur, qui fait les calculs
+MEMOIRE|2|Partie de l'ordinateur où sont stockées les données
+RESEAU|2|Ensemble d'appareils reliés entre eux
+DRONE|1|Petit appareil volant sans pilote, commandé à distance
+GPS|1|Système qui indique sa position grâce à des satellites
+TELEPHONE|1|Appareil qui permet de parler à distance
+TELEVISION|1|Appareil qui reçoit des images et du son
+RADIO|1|Appareil qui reçoit des émissions sonores
+APPAREILPHOTO|2|Appareil qui prend des photos
+CALCULATRICE|1|Petit appareil qui fait des calculs
+MONTRE|1|Petit appareil qui donne l'heure, porté au poignet
+HORLOGE|1|Grand appareil qui indique l'heure
+THERMOSTAT|3|Appareil qui règle automatiquement la température
+CAPTEUR|3|Appareil qui détecte un phénomène, comme la chaleur ou le mouvement
+ELECTRONIQUE|2|Technique des circuits et des composants électriques
+TRANSISTOR|3|Petit composant électronique qui amplifie les signaux
+FIL|1|___ électrique : câble où passe le courant
+PRISE|1|Dispositif où l'on branche un appareil électrique
+INTERRUPTEUR|1|Bouton qui allume ou éteint la lumière
+FUSIBLE|3|Petit dispositif qui coupe le courant en cas de surcharge
+MECANIQUE|2|Science des mouvements et des machines
+INGENIEUR|1|Personne qui conçoit des machines ou des ouvrages
+TECHNICIEN|2|Spécialiste chargé d'appliquer une technique
+HYPOTHESE|2|Idée que l'on veut vérifier par une expérience
+THEORIE|2|Ensemble d'idées qui expliquent un phénomène
+FORMULE|2|Écriture qui résume une règle scientifique
+RESULTAT|1|Ce que l'on obtient à la fin d'un calcul ou d'une expérience
+OBSERVATION|2|Fait de regarder attentivement un phénomène
+ECHANTILLON|2|Petite quantité prélevée pour être analysée
+ELEMENT|2|Substance chimique de base, comme le fer ou l'oxygène
+MENDELEIEV|3|Chimiste russe qui a créé le tableau périodique des éléments
+ALLIAGE|3|Mélange de plusieurs métaux, comme le bronze
+ACIER|2|Alliage de fer et de carbone, très résistant
+BRONZE|2|Alliage de cuivre et d'étain
+LAITON|3|Alliage de cuivre et de zinc, de couleur dorée
+ALUMINIUM|2|Métal léger et argenté des canettes
+PLOMB|2|Métal lourd et toxique
+ZINC|3|Métal gris qui couvre les toits de Paris
+URANIUM|3|Métal radioactif utilisé dans les centrales nucléaires
+CALCIUM|2|Élément qui rend les os solides
+SODIUM|3|Élément qui forme le sel avec le chlore
+CHLORE|3|Gaz utilisé pour désinfecter l'eau des piscines
+SOUFRE|3|Élément jaune à l'odeur d'œuf pourri
+PLASTIQUE|1|Matière fabriquée à partir du pétrole
+CAOUTCHOUC|2|Matière élastique des pneus
+OXYDATION|3|Réaction avec l'oxygène, comme la rouille du fer
+ROUILLE|1|Couche rouge qui se forme sur le fer mouillé
+COMBUSTION|3|Réaction chimique d'un corps qui brûle
+RESPIRATION|2|Échange de gaz qui fournit l'oxygène au corps
+DIGESTION|2|Transformation des aliments dans le corps
+ECOSYSTEME|3|Ensemble des êtres vivants et de leur milieu
+ESPECE|2|Groupe d'êtres vivants semblables qui peuvent se reproduire entre eux
+CLONAGE|3|Création d'un être vivant génétiquement identique à un autre
+GENETIQUE|2|Science de l'hérédité
+HEREDITE|3|Transmission des caractères des parents aux enfants
+CHROMOSOME|3|Bâtonnet de la cellule qui porte les gènes
+MUTATION|3|Changement dans les gènes
+VACCIN|1|Produit qui protège contre une maladie
+ANTIBIOTIQUE|2|Médicament qui tue les bactéries
+ISOTOPE|3|Variante d'un élément chimique dont le noyau a plus ou moins de neutrons
+PARTICULE|3|Minuscule fragment de matière
+QUANTIQUE|3|Se dit de la physique de l'infiniment petit
+RELATIVITE|3|Théorie d'Einstein sur l'espace et le temps
+CATALYSEUR|3|Substance qui accélère une réaction chimique sans être consommée
+SOLUTION|3|Mélange dans lequel un corps est dissous dans un liquide
+DISSOUDRE|2|Faire fondre un solide dans un liquide, comme le sucre dans l'eau
+DISTILLATION|3|Procédé qui sépare les liquides en les chauffant
+FILTRATION|3|Procédé qui retient les particules solides d'un liquide
+CENTRIFUGEUSE|3|Appareil qui sépare des substances en les faisant tourner très vite
+PIPETTE|3|Petit tube qui sert à prélever des gouttes de liquide
+EPROUVETTE|2|Tube de verre utilisé pour les expériences de chimie
+OSCILLOSCOPE|3|Appareil qui affiche la forme d'un signal électrique
+SPECTROSCOPE|3|Appareil qui analyse la lumière
+INERTIE|3|Tendance d'un corps à conserver son mouvement ou son repos
+ACCELERATION|3|Augmentation de la vitesse
+FREQUENCE|3|Nombre de vibrations par seconde
+AMPLITUDE|3|Hauteur maximale d'une onde
+ULTRASON|3|Son trop aigu pour être entendu par l'homme
+INFRAROUGE|3|Rayonnement invisible qui transmet la chaleur
+ULTRAVIOLET|3|Rayonnement invisible du soleil qui fait bronzer
+RAYONX|2|Rayonnement qui permet de voir les os en radiographie
+ELECTROAIMANT|3|Aimant qui fonctionne grâce au courant électrique
+ISOLANT|3|Matériau qui ne laisse pas passer le courant ou la chaleur
+DYNAMO|3|Petite machine qui produit de l'électricité, sur un vélo par exemple
+ALTERNATEUR|3|Machine qui produit du courant alternatif
+SILICIUM|3|Élément qui sert à fabriquer les puces électroniques
+ROBOTIQUE|3|Science de la conception des robots
+DOMOTIQUE|3|Ensemble des techniques qui automatisent la maison
+CYBERNETIQUE|3|Science des systèmes de commande et de communication
+CRYPTOGRAPHIE|3|Science du codage des messages secrets
+PIXEL|2|Petit point de couleur qui compose une image numérique
+RESOLUTION|3|Nombre de pixels d'un écran ou d'une image
+BANDEPASSANTE|3|Quantité de données qu'une connexion peut transmettre
+CLOUD|2|Stockage de données sur des serveurs distants
+HACKER|3|Pirate informatique
+ANTIVIRUS|2|Logiciel qui protège l'ordinateur des programmes malveillants
+SPAM|2|Courrier électronique indésirable
+HASHTAG|2|Mot-clé précédé du signe #
+EMOJI|1|Petite image qui exprime une émotion dans un message
+SELFIE|1|Photo de soi prise avec son téléphone
+STREAMING|3|Lecture de vidéo ou de musique en direct sur Internet
+PODCAST|2|Émission audio que l'on écoute sur Internet
+HYPOTENUSE|3|Côté opposé à l'angle droit dans un triangle rectangle
+TANGENTE|3|Droite qui touche une courbe en un seul point
+PARABOLE|3|Courbe en forme de U
+ELLIPSE|3|Courbe en forme d'ovale
+LOGARITHME|3|Fonction mathématique qui transforme les multiplications en additions
+EXPOSANT|3|Petit nombre en haut à droite qui indique une puissance
+VECTEUR|3|Flèche qui représente une force ou un déplacement
+COORDONNEES|3|Nombres qui situent un point sur un graphique
+ABSCISSE|3|Coordonnée horizontale d'un point
+ORDONNEE|3|Coordonnée verticale d'un point
+GRAPHIQUE|2|Dessin qui représente des données chiffrées
+HISTOGRAMME|3|Graphique fait de barres verticales

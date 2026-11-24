@@ -1,0 +1,387 @@
+# MOT|niveau|définition
+TERRE|1|Planète sur laquelle nous vivons
+SOLEIL|1|Étoile autour de laquelle tourne la Terre
+LUNE|1|Satellite naturel de la Terre
+ETOILE|1|Astre qui brille la nuit par sa propre lumière
+PLANETE|1|Astre qui tourne autour d'une étoile
+MARS|1|Planète rouge, voisine de la Terre
+VENUS|2|Planète la plus brillante du ciel, surnommée l'étoile du Berger
+JUPITER|1|Plus grosse planète du système solaire
+SATURNE|1|Planète entourée de grands anneaux
+MERCURE|2|Planète la plus proche du Soleil
+URANUS|2|Septième planète du système solaire, couchée sur le côté
+NEPTUNE|2|Planète bleue, la plus éloignée du Soleil
+PLUTON|2|Planète naine aux confins du système solaire
+COMETE|1|Astre glacé qui laisse derrière lui une longue queue lumineuse
+METEORITE|2|Roche venue de l'espace tombée sur la Terre
+ASTEROIDE|2|Petit corps rocheux qui tourne autour du Soleil
+GALAXIE|2|Immense ensemble d'étoiles, comme la Voie lactée
+UNIVERS|1|Ensemble de tout ce qui existe dans l'espace
+ESPACE|1|Immensité qui s'étend au-delà de l'atmosphère terrestre
+CONSTELLATION|2|Groupe d'étoiles qui forme un dessin dans le ciel
+ORBITE|2|Trajectoire d'un astre autour d'un autre
+SATELLITE|2|Objet qui tourne autour d'une planète
+ECLIPSE|2|Disparition du Soleil caché par la Lune
+FUSEE|1|Engin propulsé qui part dans l'espace
+ASTRONAUTE|1|Personne qui voyage dans l'espace
+COSMONAUTE|2|Astronaute russe
+SPATIONAUTE|3|Astronaute français ou européen
+NASA|2|Agence spatiale américaine
+TELESCOPE|2|Instrument qui permet d'observer les astres lointains
+ASTRONOMIE|2|Science qui étudie les astres
+ASTRONOME|2|Scientifique qui observe les astres
+NEBULEUSE|3|Nuage de gaz et de poussière dans l'espace
+TROUNOIR|2|Région de l'espace qui avale tout, même la lumière
+SUPERNOVA|3|Explosion d'une étoile en fin de vie
+QUASAR|3|Astre très lointain et extrêmement lumineux
+PULSAR|3|Étoile qui émet des signaux réguliers en tournant sur elle-même
+ANNEELUMIERE|3|Distance parcourue par la lumière en un an
+GRAVITATION|3|Force qui attire les corps les uns vers les autres
+APESANTEUR|2|État de celui qui flotte, sans poids, dans l'espace
+SCAPHANDRE|2|Combinaison de l'astronaute
+NAVETTE|2|Vaisseau spatial réutilisable
+ROVER|3|Robot qui roule sur le sol d'une autre planète
+SONDE|2|Engin envoyé dans l'espace pour explorer
+CRATERE|2|Trou en forme de cuvette au sommet d'un volcan ou sur la Lune
+EQUINOXE|3|Jour où la nuit et le jour durent autant
+SOLSTICE|3|Jour le plus long ou le plus court de l'année
+ZENITH|3|Point du ciel situé juste au-dessus de nous
+HORIZON|1|Ligne où le ciel semble rejoindre la terre ou la mer
+CREPUSCULE|2|Lumière qui suit le coucher du soleil
+AURORE|2|Lumière qui précède le lever du soleil
+AUROREBOREALE|3|Voile lumineux coloré qui apparaît dans le ciel des régions polaires
+VOIELACTEE|2|Galaxie dont fait partie notre système solaire
+GRANDEOURSE|2|Constellation en forme de casserole
+ETOILEFILANTE|1|Trait lumineux qui traverse le ciel la nuit
+ARCENCIEL|1|Arc coloré qui apparaît dans le ciel après la pluie
+NUAGE|1|Masse de vapeur d'eau qui flotte dans le ciel
+PLUIE|1|Eau qui tombe des nuages
+NEIGE|1|Flocons blancs qui tombent quand il fait très froid
+GRELE|2|Pluie de petits grains de glace
+ORAGE|1|Mauvais temps avec tonnerre et éclairs
+TONNERRE|1|Grand bruit qui suit l'éclair
+ECLAIR|1|Lumière vive et brève pendant un orage
+FOUDRE|2|Décharge électrique qui tombe du ciel pendant un orage
+VENT|1|Air qui se déplace
+TEMPETE|1|Vent très violent
+OURAGAN|2|Tempête tropicale très violente
+CYCLONE|2|Tempête tropicale qui tourne sur elle-même
+TORNADE|2|Tourbillon de vent violent en forme d'entonnoir
+TYPHON|3|Cyclone qui frappe l'Asie
+MISTRAL|2|Vent froid et violent qui souffle dans la vallée du Rhône
+TRAMONTANE|3|Vent froid qui souffle dans le Languedoc
+SIROCCO|3|Vent chaud venu du Sahara
+BRISE|2|Vent léger et agréable
+BROUILLARD|1|Nuage très bas qui empêche de voir loin
+BRUME|2|Léger brouillard
+GIVRE|2|Fine couche de glace qui se dépose sur les objets
+VERGLAS|2|Couche de glace transparente sur la route
+GEL|1|Transformation de l'eau en glace quand il fait froid
+CANICULE|2|Période de très forte chaleur
+SECHERESSE|2|Longue période sans pluie
+INONDATION|1|Débordement des eaux qui recouvrent les terres
+CLIMAT|1|Temps qu'il fait habituellement dans une région
+METEO|1|Prévision du temps qu'il va faire
+THERMOMETRE|1|Instrument qui mesure la température
+BAROMETRE|3|Instrument qui mesure la pression de l'air
+ANTICYCLONE|3|Zone de haute pression qui apporte le beau temps
+ATMOSPHERE|2|Couche d'air qui entoure la Terre
+OZONE|3|Couche de gaz qui protège la Terre des rayons du soleil
+MOUSSON|3|Saison des grandes pluies en Asie
+MONTAGNE|1|Grande élévation du sol
+COLLINE|1|Petite élévation de terrain aux pentes douces
+SOMMET|1|Point le plus haut d'une montagne
+VALLEE|1|Creux entre deux montagnes
+PLAINE|1|Grande étendue de terrain plat
+PLATEAU|2|Étendue plate située en hauteur
+FALAISE|1|Paroi rocheuse verticale au bord de la mer
+GROTTE|1|Cavité creusée dans la roche
+CAVERNE|2|Grande grotte naturelle
+GOUFFRE|2|Trou profond dans le sol
+CANYON|2|Vallée très profonde aux parois abruptes
+GORGES|2|Vallée étroite et encaissée creusée par une rivière
+GLACIER|2|Énorme masse de glace qui descend lentement des montagnes
+VOLCAN|1|Montagne qui crache de la lave
+LAVE|1|Roche en fusion qui sort d'un volcan
+ERUPTION|2|Moment où un volcan rejette de la lave
+SEISME|2|Tremblement de terre
+TSUNAMI|2|Immense vague provoquée par un séisme sous la mer
+AVALANCHE|1|Masse de neige qui dévale une montagne
+DESERT|1|Région très sèche, souvent couverte de sable
+DUNE|1|Colline de sable façonnée par le vent
+OASIS|1|Endroit avec de l'eau et des palmiers au milieu du désert
+SAVANE|2|Grande plaine herbeuse d'Afrique
+JUNGLE|1|Forêt tropicale très dense
+TOUNDRA|3|Plaine glacée du Grand Nord où ne poussent que des mousses
+STEPPE|3|Grande plaine sèche couverte d'herbe
+BANQUISE|2|Étendue de glace qui couvre la mer dans les régions polaires
+ICEBERG|1|Énorme bloc de glace qui flotte sur la mer
+POLE|1|Chacune des deux extrémités de la Terre, au nord et au sud
+EQUATEUR|1|Ligne imaginaire qui partage la Terre en deux hémisphères
+HEMISPHERE|2|Moitié de la Terre, au nord ou au sud de l'équateur
+TROPIQUE|2|Ligne imaginaire parallèle à l'équateur, comme celle du Cancer
+LATITUDE|3|Distance d'un lieu par rapport à l'équateur, en degrés
+LONGITUDE|3|Distance d'un lieu par rapport au méridien de Greenwich, en degrés
+MERIDIEN|3|Ligne imaginaire qui relie les deux pôles
+CONTINENT|1|Très grande étendue de terre, comme l'Europe ou l'Afrique
+OCEAN|1|Immense étendue d'eau salée
+MER|1|Grande étendue d'eau salée
+LAC|1|Grande étendue d'eau entourée de terre
+ETANG|1|Petite étendue d'eau calme
+FLEUVE|1|Grand cours d'eau qui se jette dans la mer
+RIVIERE|1|Cours d'eau qui se jette dans un fleuve
+RUISSEAU|1|Petit cours d'eau
+SOURCE|1|Endroit où l'eau sort de terre
+CASCADE|1|Chute d'eau
+DELTA|2|Embouchure d'un fleuve divisée en plusieurs bras
+ESTUAIRE|3|Embouchure d'un fleuve en forme d'entonnoir, où entre la marée
+EMBOUCHURE|2|Endroit où un fleuve se jette dans la mer
+AFFLUENT|2|Cours d'eau qui se jette dans un autre
+ILE|1|Terre entourée d'eau de tous côtés
+ARCHIPEL|2|Groupe d'îles
+PRESQUILE|2|Terre entourée d'eau sauf d'un côté
+PENINSULE|3|Grande presqu'île, comme l'Italie
+ISTHME|3|Bande de terre étroite qui relie deux terres
+DETROIT|3|Bras de mer étroit entre deux terres, comme celui de Gibraltar
+GOLFE|2|Grande avancée de la mer dans les terres
+BAIE|2|Petite avancée de la mer dans la côte
+CAP|2|Pointe de terre qui s'avance dans la mer
+FJORD|3|Vallée glaciaire envahie par la mer, en Norvège
+ATOLL|3|Île de corail en forme d'anneau
+RECIF|2|Rochers à fleur d'eau, souvent de corail
+LAGON|2|Étendue d'eau calme entre la plage et le récif
+PLAGE|1|Bord de mer couvert de sable ou de galets
+COTE|1|Bord de la mer
+LITTORAL|2|Bande de terre le long de la mer
+MAREE|1|Montée et descente de la mer deux fois par jour
+VAGUE|1|Ondulation de la surface de la mer
+ROCHE|1|Matière dure qui forme la croûte terrestre
+GRANIT|2|Roche très dure et grenue, fréquente en Bretagne
+CALCAIRE|2|Roche blanche et tendre
+ARGILE|2|Terre grasse et collante qui sert à faire des poteries
+SABLE|1|Grains très fins qui forment les plages et les déserts
+GALET|1|Caillou arrondi et poli par la mer
+CAILLOU|1|Petite pierre
+CRISTAL|2|Minéral transparent aux faces régulières
+MINERAL|2|Substance naturelle qui forme les roches
+QUARTZ|3|Minéral très dur et transparent, qui sert aussi dans les montres
+DIAMANT|1|Pierre précieuse la plus dure qui soit
+RUBIS|2|Pierre précieuse rouge
+SAPHIR|2|Pierre précieuse bleue
+EMERAUDE|2|Pierre précieuse verte
+AMETHYSTE|3|Pierre semi-précieuse violette
+FER|1|Métal gris très utilisé dans l'industrie
+CUIVRE|2|Métal rougeâtre qui conduit bien l'électricité
+CHARBON|1|Roche noire que l'on brûle pour se chauffer
+PETROLE|1|Huile noire tirée du sous-sol, dont on fait l'essence
+GISEMENT|3|Accumulation naturelle de minerai ou de pétrole dans le sol
+MINE|1|Lieu souterrain d'où l'on extrait du charbon ou des métaux
+FOSSILE|2|Trace d'un être vivant ancien conservée dans la roche
+GEOLOGIE|2|Science qui étudie les roches et la formation de la Terre
+GEOGRAPHIE|1|Science qui décrit la Terre, ses reliefs et ses pays
+ATLAS|2|Recueil de cartes géographiques
+GLOBE|2|Sphère qui représente la Terre
+BOUSSOLE|1|Instrument dont l'aiguille indique le nord
+RELIEF|2|Ensemble des montagnes, des vallées et des plaines d'une région
+ALTITUDE|2|Hauteur d'un lieu au-dessus du niveau de la mer
+FRANCE|1|Pays dont la capitale est Paris
+PARIS|1|Capitale de la France
+LONDRES|1|Capitale du Royaume-Uni
+BERLIN|1|Capitale de l'Allemagne
+MADRID|1|Capitale de l'Espagne
+ROME|1|Capitale de l'Italie
+LISBONNE|2|Capitale du Portugal
+BRUXELLES|1|Capitale de la Belgique
+AMSTERDAM|2|Capitale des Pays-Bas, aux nombreux canaux
+VIENNE|2|Capitale de l'Autriche
+BERNE|3|Capitale de la Suisse
+ATHENES|2|Capitale de la Grèce
+VARSOVIE|2|Capitale de la Pologne
+MOSCOU|1|Capitale de la Russie
+PRAGUE|2|Capitale de la République tchèque
+BUDAPEST|2|Capitale de la Hongrie, traversée par le Danube
+OSLO|3|Capitale de la Norvège
+STOCKHOLM|2|Capitale de la Suède
+COPENHAGUE|3|Capitale du Danemark
+HELSINKI|3|Capitale de la Finlande
+DUBLIN|2|Capitale de l'Irlande
+PEKIN|1|Capitale de la Chine
+TOKYO|1|Capitale du Japon
+DELHI|3|New ___ : capitale de l'Inde
+WASHINGTON|2|Capitale des États-Unis
+OTTAWA|3|Capitale du Canada
+MEXICO|2|Capitale du Mexique
+BRASILIA|3|Capitale du Brésil
+BUENOSAIRES|2|Capitale de l'Argentine
+LIMA|3|Capitale du Pérou
+LECAIRE|2|Capitale de l'Égypte
+DAKAR|2|Capitale du Sénégal
+RABAT|3|Capitale du Maroc
+ALGER|2|Capitale de l'Algérie, la ville blanche du Maghreb
+TUNIS|2|Capitale du pays du jasmin, en Afrique du Nord
+CANBERRA|3|Capitale de l'Australie
+NEWYORK|1|Plus grande ville des États-Unis, célèbre pour ses gratte-ciel
+MARSEILLE|1|Grand port français au bord de la Méditerranée
+LYON|1|Grande ville française au confluent du Rhône et de la Saône
+BORDEAUX|1|Grande ville du Sud-Ouest, au bord de la Garonne
+LILLE|2|Grande ville du nord de la France
+TOULOUSE|1|Ville rose du Sud-Ouest
+NICE|1|Ville de la Côte d'Azur, célèbre pour sa promenade des Anglais
+NANTES|2|Grande ville de l'Ouest, au bord de la Loire
+STRASBOURG|2|Ville d'Alsace, siège du Parlement européen
+ESPAGNE|1|Pays voisin de la France, dont la capitale est Madrid
+ITALIE|1|Pays en forme de botte
+ALLEMAGNE|1|Pays voisin de la France, dont la capitale est Berlin
+BELGIQUE|1|Pays voisin de la France, dont la capitale est Bruxelles
+SUISSE|1|Pays des montagnes, du chocolat et des montres
+PORTUGAL|1|Pays dont la capitale est Lisbonne
+ANGLETERRE|1|Pays dont la capitale est Londres
+IRLANDE|2|Île verte dont l'emblème est le trèfle
+GRECE|1|Pays dont la capitale est Athènes
+SUEDE|2|Pays scandinave dont la capitale est Stockholm
+NORVEGE|2|Pays scandinave célèbre pour ses fjords
+RUSSIE|1|Plus grand pays du monde
+CHINE|1|Pays le plus peuplé d'Asie, dont la capitale est Pékin
+JAPON|1|Pays du Soleil-Levant
+INDE|1|Grand pays d'Asie dont la capitale est New Delhi
+BRESIL|1|Plus grand pays d'Amérique du Sud
+CANADA|1|Grand pays d'Amérique du Nord dont l'emblème est la feuille d'érable
+MEXIQUE|1|Pays au sud des États-Unis
+ARGENTINE|2|Pays d'Amérique du Sud dont la capitale est Buenos Aires
+EGYPTE|1|Pays des pyramides
+MAROC|1|Pays d'Afrique du Nord dont la capitale est Rabat
+ALGERIE|1|Plus grand pays d'Afrique
+SENEGAL|2|Pays d'Afrique de l'Ouest dont la capitale est Dakar
+AUSTRALIE|1|Pays-continent des kangourous
+ISLANDE|2|Île volcanique du nord de l'Atlantique
+AFRIQUE|1|Continent au sud de l'Europe
+AMERIQUE|1|Continent du Nouveau Monde
+ASIE|1|Plus grand continent du monde
+EUROPE|1|Continent dont fait partie la France
+OCEANIE|2|Continent de l'Australie et des îles du Pacifique
+ANTARCTIQUE|2|Continent glacé du pôle Sud
+ARCTIQUE|2|Région glacée autour du pôle Nord
+ATLANTIQUE|1|Océan entre l'Europe et l'Amérique
+PACIFIQUE|1|Le plus grand océan du monde
+MEDITERRANEE|1|Mer bordée par l'Europe du Sud et l'Afrique du Nord
+MANCHE|2|Mer entre la France et l'Angleterre
+SEINE|1|Fleuve qui traverse Paris
+LOIRE|1|Plus long fleuve de France, célèbre pour ses châteaux
+RHONE|2|Fleuve qui descend des Alpes et passe à Lyon
+GARONNE|2|Fleuve qui traverse Toulouse et Bordeaux
+RHIN|2|Fleuve qui marque la frontière entre la France et l'Allemagne
+DANUBE|2|Grand fleuve d'Europe centrale
+NIL|1|Fleuve d'Égypte, l'un des plus longs du monde
+AMAZONE|2|Fleuve d'Amérique du Sud qui traverse la plus grande forêt du monde
+GANGE|3|Fleuve sacré de l'Inde
+MISSISSIPPI|2|Grand fleuve des États-Unis
+ALPES|1|Chaîne de montagnes où se trouve le mont Blanc
+PYRENEES|1|Montagnes entre la France et l'Espagne
+JURA|3|Massif montagneux à la frontière suisse
+VOSGES|2|Massif montagneux de l'est de la France
+MASSIFCENTRAL|2|Région de montagnes volcaniques au centre de la France
+HIMALAYA|1|Plus haute chaîne de montagnes du monde
+EVEREST|1|Plus haut sommet du monde
+MONTBLANC|1|Plus haut sommet des Alpes
+ANDES|2|Longue chaîne de montagnes d'Amérique du Sud
+SAHARA|1|Plus grand désert chaud du monde
+AMAZONIE|2|Immense forêt tropicale d'Amérique du Sud
+CORSE|1|Île française surnommée l'île de Beauté
+BRETAGNE|1|Région de l'ouest de la France, terre des crêpes
+PROVENCE|1|Région du sud-est de la France, terre de la lavande
+NORMANDIE|1|Région du nord-ouest de la France, terre du camembert
+ALSACE|2|Région de l'est de la France, terre de la choucroute
+SICILE|2|Grande île au sud de l'Italie
+MADAGASCAR|2|Grande île au large de l'Afrique, terre des lémuriens
+HAWAII|2|Archipel américain du Pacifique
+POLYNESIE|3|Ensemble d'îles du Pacifique, dont Tahiti
+GUADELOUPE|2|Archipel français des Antilles
+MARTINIQUE|2|Île française des Antilles, surnommée l'île aux fleurs
+REUNION|2|Île française de l'océan Indien
+CAPITALE|1|Ville où siège le gouvernement d'un pays
+FRONTIERE|1|Limite qui sépare deux pays
+PAYS|1|Territoire d'une nation
+REGION|1|Partie d'un pays
+VILLE|1|Grande agglomération où vivent beaucoup d'habitants
+VILLAGE|1|Petite commune à la campagne
+CAMPAGNE|1|Territoire hors des villes, avec des champs et des bois
+POPULATION|2|Ensemble des habitants d'un lieu
+METROPOLE|3|Grande ville, centre d'une région
+MEGAPOLE|3|Ville géante de plusieurs millions d'habitants
+MAGMA|3|Roche en fusion située sous la croûte terrestre
+BASALTE|3|Roche volcanique noire et dure
+OBSIDIENNE|3|Verre volcanique noir et tranchant
+PONCE|3|Pierre volcanique très légère, pleine de trous
+GEYSER|3|Source chaude qui projette de l'eau bouillante en jets
+FUMEROLLE|3|Gaz chaud qui s'échappe du sol d'une région volcanique
+STALACTITE|3|Concrétion de calcaire qui pend du plafond d'une grotte
+STALAGMITE|3|Concrétion de calcaire qui monte du sol d'une grotte
+MORAINE|3|Débris de roches entassés par un glacier
+SEDIMENT|3|Dépôt de sable ou de boue laissé par l'eau
+ERUPTIF|3|Se dit d'un volcan en activité
+TECTONIQUE|3|Mouvement des grandes plaques qui forment l'écorce terrestre
+EPICENTRE|3|Point de la surface situé au-dessus du foyer d'un séisme
+RICHTER|3|Échelle de ___ : mesure la puissance des séismes
+SISMOGRAPHE|3|Appareil qui enregistre les tremblements de terre
+CONTINENTAL|3|Climat ___ : climat aux hivers froids et aux étés chauds
+OCEANIQUE|3|Climat doux et humide des régions proches de l'océan
+TEMPERE|3|Se dit d'un climat ni trop chaud ni trop froid
+ARIDE|3|Se dit d'une région très sèche
+HUMIDITE|2|Quantité d'eau contenue dans l'air
+ISOBARE|3|Ligne qui relie les points de même pression sur une carte météo
+CUMULUS|3|Gros nuage blanc en forme de chou-fleur
+CIRRUS|3|Nuage très haut en forme de filaments
+NIMBUS|3|Nuage sombre qui apporte la pluie
+GIBOULEE|3|Averse soudaine du mois de mars
+BLIZZARD|3|Tempête de neige glaciale
+CRACHIN|3|Pluie très fine et continue
+BRUINE|3|Pluie fine et légère
+AVERSE|2|Pluie forte et soudaine
+MERIDIONAL|3|Qui est situé au sud
+SEPTENTRION|3|Le nord, dans la langue d'autrefois
+OCCIDENT|2|Côté où le soleil se couche, l'ouest
+ORIENT|2|Côté où le soleil se lève, l'est
+ANTIPODES|3|Lieu de la Terre diamétralement opposé à un autre
+CARTOGRAPHE|3|Personne qui dessine les cartes géographiques
+TOPOGRAPHIE|3|Description précise du relief d'un lieu
+ECHELLE|2|Rapport entre une distance sur la carte et la distance réelle
+PLANISPHERE|3|Carte qui représente la Terre entière à plat
+MAPPEMONDE|2|Carte de la Terre en deux hémisphères
+ROSEDESVENTS|3|Étoile qui indique les points cardinaux sur une carte
+PIEMONT|3|Plaine au pied d'une montagne
+PIC|2|Sommet pointu d'une montagne
+CRETE|3|Ligne de sommets d'une montagne
+COL|2|Passage entre deux sommets
+VERSANT|3|Chacune des pentes d'une montagne
+ADRET|3|Versant d'une montagne exposé au soleil
+UBAC|3|Versant d'une montagne exposé à l'ombre
+MEANDRE|3|Courbe que forme une rivière
+CONFLUENT|3|Endroit où deux cours d'eau se rejoignent
+CRUE|2|Montée des eaux d'une rivière
+ETIAGE|3|Niveau le plus bas d'un cours d'eau
+LAGUNE|3|Étendue d'eau salée séparée de la mer par un cordon de sable
+MANGROVE|3|Forêt de palétuviers des côtes tropicales
+TOURBILLON|2|Masse d'eau ou d'air qui tourne rapidement
+HAUTFOND|3|Endroit où la mer est peu profonde
+ABYSSE|3|Grande profondeur de l'océan
+FOSSE|3|Dépression très profonde du fond de l'océan
+DORSALE|3|Chaîne de montagnes sous-marine
+EROSION|2|Usure du relief par l'eau et le vent
+SPELEOLOGUE|3|Personne qui explore les grottes
+VULCANOLOGUE|3|Scientifique qui étudie les volcans
+METEOROLOGUE|3|Spécialiste des prévisions du temps
+ASTROPHYSIQUE|3|Science qui étudie la physique des astres
+BIGBANG|2|Explosion qui serait à l'origine de l'univers
+EXOPLANETE|3|Planète qui tourne autour d'une autre étoile que le Soleil
+NAINEBLANCHE|3|Petite étoile très dense en fin de vie
+LUNAISON|3|Durée d'un cycle complet de la Lune, environ 29 jours
+PLEINELUNE|1|Lune entièrement éclairée et ronde
+ALUNIR|3|Se poser sur la Lune
+APOLLO|2|Programme américain qui a envoyé des hommes sur la Lune
+SPOUTNIK|3|Premier satellite artificiel, lancé par les Soviétiques en 1957
+GAGARINE|2|Premier homme à voyager dans l'espace, en 1961
+ARMSTRONG|2|Premier homme à marcher sur la Lune, en 1969
+PESQUET|2|Astronaute français qui a séjourné dans la Station spatiale internationale
+HUBBLE|3|Télescope spatial américain lancé en 1990
+OBSERVATOIRE|2|Bâtiment équipé de télescopes pour observer le ciel
+PLANETARIUM|3|Salle où l'on projette le ciel étoilé sur un dôme

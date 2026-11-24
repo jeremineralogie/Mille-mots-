@@ -1,0 +1,224 @@
+# MOT|niveau|définition
+VOYAGE|1|Déplacement vers un lieu lointain
+VOYAGEUR|1|Personne qui voyage
+VACANCES|1|Période de repos où l'on ne travaille pas
+TOURISTE|1|Personne qui visite un pays pour son plaisir
+TOURISME|2|Activité de ceux qui voyagent pour leur plaisir
+VALISE|1|Bagage rigide que l'on emporte en voyage
+BAGAGE|1|Sac ou valise que l'on emporte en voyage
+SACADOS|1|Sac que l'on porte sur le dos
+PASSEPORT|1|Document officiel qui permet de voyager à l'étranger
+VISA|2|Autorisation d'entrer dans un pays étranger
+DOUANE|2|Service qui contrôle les marchandises à la frontière
+DOUANIER|2|Agent qui contrôle les bagages à la frontière
+BILLET|1|Ticket qui permet de voyager
+RESERVATION|2|Fait de retenir une place à l'avance
+ITINERAIRE|2|Chemin à suivre pour aller d'un lieu à un autre
+DESTINATION|1|Lieu où l'on se rend
+EXCURSION|2|Courte promenade touristique
+CROISIERE|2|Voyage d'agrément en bateau
+SAFARI|2|Voyage en Afrique pour observer les animaux sauvages
+CAMPING|1|Terrain où l'on dort sous la tente
+TENTE|1|Abri de toile que l'on monte en camping
+CARAVANE|1|Petite maison sur roues tirée par une voiture
+HOTEL|1|Établissement où l'on loue des chambres
+AUBERGE|2|Petit hôtel-restaurant à la campagne
+GITE|2|Maison de vacances louée à la campagne
+RECEPTION|2|Accueil d'un hôtel
+GUIDE|1|Personne qui fait visiter un lieu
+VOITURE|1|Véhicule à quatre roues
+AUTO|1|Autre nom de la voiture
+CAMION|1|Gros véhicule qui transporte des marchandises
+BUS|1|Grand véhicule de transport en commun
+AUTOBUS|1|Bus qui circule en ville
+AUTOCAR|2|Grand bus qui fait de longs trajets
+TAXI|1|Voiture avec chauffeur que l'on paie pour se déplacer
+MOTO|1|Véhicule à deux roues et à moteur
+SCOOTER|1|Petite moto à cadre ouvert
+BICYCLETTE|1|Autre nom du vélo
+VELO|1|Véhicule à deux roues que l'on fait avancer en pédalant
+TRAIN|1|Véhicule qui roule sur des rails
+TGV|1|Train à grande vitesse
+LOCOMOTIVE|2|Machine qui tire les wagons d'un train
+WAGON|1|Voiture d'un train
+RAIL|2|Barre de métal sur laquelle roule le train
+GARE|1|Lieu où les trains s'arrêtent
+QUAI|2|Plateforme le long de laquelle s'arrête le train
+CONTROLEUR|2|Agent qui vérifie les billets dans le train
+METRO|1|Train qui circule sous la ville
+TRAMWAY|2|Train urbain qui roule sur des rails dans les rues
+RER|2|Train rapide qui relie Paris à sa banlieue
+FUNICULAIRE|3|Train tiré par un câble qui grimpe une pente raide
+TELEPHERIQUE|2|Cabine suspendue à un câble qui monte en montagne
+TELESIEGE|2|Remontée mécanique à sièges suspendus
+AVION|1|Engin volant muni d'ailes et de moteurs
+AEROPORT|1|Lieu où décollent et atterrissent les avions
+PILOTE|2|Personne qui conduit l'avion
+HOTESSE|1|___ de l'air : femme qui s'occupe des passagers dans l'avion
+STEWARD|2|Homme qui s'occupe des passagers dans l'avion
+PASSAGER|1|Personne transportée dans un véhicule
+DECOLLAGE|1|Moment où l'avion quitte le sol
+ATTERRISSAGE|2|Moment où l'avion se pose au sol
+COCKPIT|3|Poste de pilotage de l'avion
+HELICE|2|Pièce à pales qui tourne pour faire avancer un avion ou un bateau
+HELICOPTERE|1|Appareil volant à grandes pales qui tournent au-dessus
+MONTGOLFIERE|2|Grand ballon gonflé d'air chaud qui transporte des passagers dans une nacelle
+DIRIGEABLE|3|Grand ballon allongé à moteur
+PLANEUR|3|Avion sans moteur qui vole grâce aux courants d'air
+JETLAG|3|Fatigue due au décalage horaire
+BATEAU|1|Engin qui flotte et navigue sur l'eau
+NAVIRE|2|Grand bateau
+PAQUEBOT|2|Grand bateau qui transporte des passagers
+FERRY|2|Bateau qui transporte des voitures et des passagers
+VOILIER|1|Bateau qui avance grâce à ses voiles
+BARQUE|1|Petit bateau à rames
+PEDALO|1|Petit bateau que l'on fait avancer en pédalant
+YACHT|2|Bateau de luxe
+SOUSMARIN|1|Bateau qui navigue sous l'eau
+PETROLIER|3|Navire qui transporte du pétrole
+CHALUTIER|3|Bateau de pêche qui traîne un grand filet
+REMORQUEUR|3|Petit bateau puissant qui tire les gros navires
+PENICHE|2|Long bateau à fond plat qui navigue sur les canaux
+CANAL|2|Rivière creusée par l'homme pour les bateaux
+ECLUSE|2|Ouvrage qui permet aux bateaux de changer de niveau sur un canal
+PORT|1|Lieu abrité où accostent les bateaux
+PHARE|1|Tour qui éclaire la mer pour guider les bateaux
+ANCRE|1|Lourde pièce de métal qui retient le bateau au fond
+GOUVERNAIL|2|Pièce qui sert à diriger le bateau
+PROUE|2|Avant d'un bateau
+POUPE|2|Arrière d'un bateau
+BABORD|2|Côté gauche d'un bateau
+TRIBORD|2|Côté droit d'un bateau
+CALE|3|Partie basse d'un navire où l'on range la cargaison
+PONT|2|Plancher qui forme le dessus d'un bateau
+CABINE|2|Petite chambre sur un bateau
+HUBLOT|2|Petite fenêtre ronde d'un bateau ou d'un avion
+CAPITAINE|1|Personne qui commande un navire
+MARIN|1|Personne qui navigue sur la mer
+MATELOT|2|Marin de l'équipage
+EQUIPAGE|2|Ensemble des personnes qui travaillent à bord
+NAUFRAGE|2|Perte d'un bateau qui coule
+BOUEE|2|Anneau gonflable qui permet de flotter
+NOEUD|3|Unité de vitesse des bateaux
+MILLENAUTIQUE|3|Unité de distance en mer
+ROUTE|1|Voie de circulation pour les voitures
+AUTOROUTE|1|Grande route rapide à plusieurs voies
+PEAGE|2|Endroit où l'on paie pour utiliser l'autoroute
+CARREFOUR|1|Endroit où plusieurs routes se croisent
+ROND|2|___-point : carrefour où l'on tourne autour d'un terre-plein
+PANNEAU|1|Plaque qui donne une indication aux conducteurs
+PASSAGEPIETON|2|Bandes blanches où les piétons traversent
+TROTTOIR|1|Partie de la rue réservée aux piétons
+PIETON|1|Personne qui marche à pied
+EMBOUTEILLAGE|1|Longue file de voitures bloquées
+CIRCULATION|2|Déplacement des véhicules sur les routes
+TRAFIC|2|Circulation des véhicules
+PERMIS|1|Document qui autorise à conduire
+AUTOECOLE|2|École où l'on apprend à conduire
+CONDUCTEUR|1|Personne qui conduit un véhicule
+CONDUIRE|1|Diriger un véhicule
+CHAUFFEUR|2|Personne dont le métier est de conduire
+GARAGE|1|Lieu où l'on gare ou répare les voitures
+GARAGISTE|2|Personne qui répare les voitures
+PARKING|1|Lieu où l'on gare les voitures
+ESSENCE|1|Carburant des voitures
+GAZOLE|2|Carburant des moteurs diesel
+CARBURANT|2|Produit qui fait fonctionner un moteur
+PNEU|1|Enveloppe de caoutchouc gonflée autour de la roue
+ROUE|1|Disque qui tourne et fait avancer un véhicule
+VOLANT|1|Roue que l'on tourne pour diriger une voiture
+FREIN|1|Dispositif qui ralentit ou arrête un véhicule
+KLAXON|1|Avertisseur sonore d'une voiture
+CEINTURE|1|___ de sécurité : sangle qui retient le passager en cas de choc
+COFFRE|1|Partie de la voiture où l'on range les bagages
+CAPOT|2|Couvercle qui recouvre le moteur d'une voiture
+RETROVISEUR|2|Petit miroir qui permet de voir derrière soi en conduisant
+PAREBRISE|2|Grande vitre à l'avant d'une voiture
+ESSUIEGLACE|2|Balai qui nettoie le pare-brise
+CLIGNOTANT|2|Lumière qui indique que l'on va tourner
+EMBRAYAGE|3|Pédale qui permet de changer de vitesse
+ACCELERATEUR|2|Pédale qui permet d'aller plus vite
+CROISEMENT|2|Endroit où deux routes se croisent
+DEVIATION|3|Route qui contourne des travaux
+DETOUR|2|Chemin plus long que le chemin direct
+RACCOURCI|1|Chemin plus court
+PLAN|1|Carte d'une ville
+NORD|1|Point cardinal opposé au sud
+SUD|1|Point cardinal opposé au nord
+EST|1|Point cardinal où se lève le soleil
+OUEST|1|Point cardinal où se couche le soleil
+ALLER|1|Trajet vers une destination
+RETOUR|1|Trajet pour revenir
+ARRIVEE|1|Moment où l'on arrive
+DEPART|1|Moment où l'on part
+TRAJET|1|Chemin parcouru pour aller d'un lieu à un autre
+ESCALE|2|Arrêt pendant un voyage
+RETARD|1|Arrivée après l'heure prévue
+HORAIRE|2|Tableau des heures de départ et d'arrivée
+TERMINUS|2|Dernier arrêt d'une ligne
+ARRET|1|Endroit où le bus prend et dépose les voyageurs
+STATION|2|Arrêt d'une ligne de métro
+TICKET|1|Petit billet de transport
+ABONNEMENT|2|Titre de transport valable pour une longue période
+COVOITURAGE|2|Partage d'une voiture entre plusieurs personnes qui font le même trajet
+AUTOSTOP|2|Fait de faire signe aux voitures pour être transporté gratuitement
+GLOBETROTTER|3|Personne qui parcourt le monde
+ROUTARD|3|Voyageur qui part sac au dos
+NOMADE|3|Personne qui se déplace sans cesse, sans domicile fixe
+EXPATRIE|3|Personne qui vit hors de son pays
+DEPAYSEMENT|3|Changement agréable dû à un voyage
+DECALAGE|3|___ horaire : différence d'heure entre deux pays
+FUSEAU|3|___ horaire : zone de la Terre qui a la même heure
+AIGUILLAGE|3|Dispositif qui permet à un train de changer de voie
+TRAVERSE|3|Pièce de bois ou de béton sur laquelle reposent les rails
+CABOTAGE|3|Navigation le long des côtes
+ACCOSTER|3|S'approcher d'un quai pour s'y amarrer
+AMARRER|3|Attacher un bateau avec des cordages
+APPAREILLER|3|Quitter le port, pour un navire
+LOUVOYER|3|Naviguer en zigzag contre le vent
+TANGAGE|3|Mouvement d'avant en arrière d'un bateau sur les vagues
+ROULIS|3|Mouvement de balancement d'un bateau de gauche à droite
+CARLINGUE|3|Corps d'un avion
+FUSELAGE|3|Corps allongé d'un avion
+TURBULENCES|3|Secousses ressenties en avion dans les remous de l'air
+TARMAC|3|Partie de l'aéroport où circulent les avions au sol
+ATTERRIR|2|Se poser au sol, pour un avion
+DECOLLER|2|Quitter le sol, pour un avion
+EMBARQUEMENT|3|Montée des passagers à bord
+DEBARQUER|2|Descendre d'un bateau ou d'un avion
+SOUTE|3|Partie d'un avion où l'on range les bagages
+CARGO|3|Navire qui transporte des marchandises
+CONTENEUR|3|Grande caisse métallique pour transporter des marchandises
+VAPORETTO|3|Bateau-bus de Venise
+GONDOLE|2|Barque longue et étroite de Venise
+GONDOLIER|3|Batelier qui conduit une gondole
+BATELIER|3|Personne qui conduit un bateau sur une rivière
+PASSEUR|3|Personne qui fait traverser une rivière en barque
+CALECHE|2|Voiture tirée par des chevaux
+CARROSSE|2|Voiture luxueuse tirée par des chevaux
+DILIGENCE|3|Ancienne voiture à chevaux qui transportait des voyageurs
+CHARRETTE|2|Voiture à deux roues tirée par un cheval
+TRAINEAU|2|Véhicule sur patins tiré sur la neige
+TUKTUK|3|Taxi à trois roues d'Asie
+LIMOUSINE|3|Très longue voiture de luxe
+CABRIOLET|3|Voiture dont le toit se replie
+DECAPOTABLE|2|Voiture dont on peut ôter le toit
+BREAK|3|Voiture au grand coffre
+QUATREQUATRE|2|Voiture tout-terrain à quatre roues motrices
+CAMPINGCAR|2|Véhicule aménagé pour y vivre en voyage
+VAN|2|Petit camion aménagé pour voyager
+SIDECAR|3|Petit habitacle fixé sur le côté d'une moto
+MOBYLETTE|2|Petit vélo à moteur
+TANDEM|2|Vélo à deux places
+MONOCYCLE|3|Vélo à une seule roue
+OMNIBUS|3|Train qui s'arrête à toutes les gares
+MICHELINE|3|Ancien autorail sur pneus
+TORTILLARD|3|Petit train lent qui fait beaucoup de détours
+CONCORDE|2|Avion de ligne supersonique franco-britannique
+AIRBUS|2|Constructeur européen d'avions de ligne
+BOEING|3|Constructeur américain d'avions de ligne
+AVIATEUR|2|Pilote d'avion
+COPILOTE|2|Second pilote d'un avion
+NAVIGATEUR|2|Personne qui dirige la route d'un bateau ou d'un avion
+EXPLORER|2|Parcourir un pays inconnu
+DEPAYSER|3|Changer quelqu'un de ses habitudes, en voyage

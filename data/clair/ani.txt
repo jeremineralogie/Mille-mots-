@@ -1,0 +1,416 @@
+# MOT|niveau|définition
+POISSON|1|Animal qui vit dans l'eau et respire avec des branchies
+OURS|1|Grand mammifère au pelage épais, brun ou blanc
+POULE|1|Oiseau de basse-cour qui pond des œufs
+AILE|1|Membre qui permet aux oiseaux de voler
+VACHE|1|Animal de la ferme qui donne du lait
+LAPIN|1|Petit animal aux longues oreilles qui vit dans un terrier
+CHOUETTE|1|Oiseau de nuit aux grands yeux ronds
+SERPENT|1|Reptile sans pattes au corps très long
+PROIE|2|Animal chassé et mangé par un autre
+SINGE|1|Mammifère agile qui grimpe aux arbres, proche de l'homme
+MOUTON|1|Animal de la ferme dont la laine sert à faire des pulls
+COCHON|1|Animal rose de la ferme, au museau en groin
+NID|1|Abri construit par les oiseaux pour pondre leurs œufs
+MOUCHE|1|Petit insecte volant qui bourdonne
+PAPILLON|1|Insecte aux grandes ailes colorées
+CHEVRE|1|Animal à cornes dont le lait sert à faire du fromage
+COQ|1|Mâle de la poule, qui chante le matin
+TAUREAU|1|Mâle de la vache, aux cornes puissantes
+ANE|1|Animal aux longues oreilles qui brait
+REQUIN|1|Grand poisson carnivore aux dents tranchantes
+ELEPHANT|1|Plus gros animal terrestre, muni d'une trompe
+SAUMON|1|Poisson à chair rose qui remonte les rivières pour pondre
+VER|1|Petit animal mou et allongé, sans pattes, qui vit dans la terre
+PIGEON|1|Oiseau gris très courant dans les villes
+CORNE|1|Excroissance dure sur la tête de certains animaux, comme le taureau
+BOUC|2|Mâle de la chèvre
+GUEPARD|2|Félin tacheté, l'animal le plus rapide du monde
+BALEINE|1|Énorme mammifère marin, le plus grand animal du monde
+COLIBRI|2|Minuscule oiseau qui fait du surplace en battant très vite des ailes
+FOURMI|1|Petit insecte qui vit en colonie dans une fourmilière
+LIBELLULE|2|Insecte à quatre ailes transparentes qui vole au-dessus des étangs
+COCCINELLE|1|Petit insecte rouge à points noirs
+KOALA|1|Petit marsupial d'Australie qui mange des feuilles d'eucalyptus
+LOUP|1|Animal sauvage qui ressemble à un chien et vit en meute
+CERF|1|Grand animal des forêts dont le mâle porte des bois
+HIPPOPOTAME|1|Gros animal d'Afrique qui passe ses journées dans l'eau
+RHINOCEROS|1|Gros animal à la peau épaisse, avec une ou deux cornes sur le nez
+PHOQUE|1|Mammifère marin qui se déplace sur la banquise en rampant
+JAGUAR|2|Grand félin tacheté d'Amérique du Sud
+ESCARGOT|1|Petit animal lent qui porte sa coquille sur le dos
+CHAUVESOURIS|1|Mammifère volant qui se repère dans le noir grâce aux ultrasons
+PAON|1|Oiseau qui déploie sa queue en éventail coloré
+CHAT|1|Petit félin domestique qui ronronne
+CHEVAL|1|Grand animal que l'on monte et qui galope
+OIE|1|Grand oiseau de basse-cour au long cou
+DINDE|1|Grosse volaille que l'on mange à Noël
+RAT|1|Rongeur à longue queue, plus gros que la souris
+ARA|2|Grand perroquet aux couleurs vives
+YAK|3|Bœuf à longs poils des montagnes du Tibet
+TOUCAN|2|Oiseau tropical au bec énorme et coloré
+GRILLON|2|Insecte sauteur qui chante la nuit
+MEUTE|2|Groupe de loups ou de chiens qui chassent ensemble
+SCORPION|2|Animal du désert qui pique avec sa queue
+GIBIER|2|Animaux sauvages que l'on chasse
+TAUPE|1|Petit mammifère presque aveugle qui creuse des galeries
+PREDATEUR|2|Animal qui chasse d'autres animaux pour se nourrir
+SANGLIER|1|Cochon sauvage des forêts
+POUSSIN|1|Petit de la poule
+FAUVE|2|Grand félin sauvage, comme le lion ou le tigre
+PANDA|1|Ours noir et blanc de Chine qui mange du bambou
+RUCHE|1|Abri où vivent les abeilles
+BELIER|2|Mâle de la brebis
+GRIFFE|1|Ongle pointu et crochu des chats
+MOUSTIQUE|1|Insecte qui pique et suce le sang
+ARETE|2|Petit os fin du poisson
+CRABE|1|Crustacé qui marche de côté
+LEOPARD|2|Félin tacheté d'Afrique qui grimpe aux arbres
+BICHE|1|Femelle du cerf
+VOLAILLE|2|Oiseau de basse-cour élevé pour sa chair
+CARAPACE|2|Coquille dure qui protège la tortue
+PANTHERE|2|Grand félin au pelage noir ou tacheté
+CHAMEAU|1|Animal du désert qui porte deux bosses
+HOMARD|2|Gros crustacé bleu aux grandes pinces
+REPAIRE|3|Lieu où se cache une bête sauvage
+CARPE|2|Gros poisson d'eau douce des étangs
+LEZARD|1|Petit reptile qui aime se chauffer au soleil
+ECUREUIL|1|Petit rongeur roux à queue en panache qui mange des noisettes
+TERRIER|2|Trou creusé dans le sol où vit un animal, comme le lapin
+FLAIR|2|Odorat très développé, comme celui du chien
+HIBOU|1|Oiseau de nuit qui a des aigrettes de plumes sur la tête
+AUTRUCHE|1|Très grand oiseau qui ne vole pas mais court très vite
+PINGOUIN|1|Oiseau marin noir et blanc des régions froides
+LYNX|2|Félin sauvage aux oreilles terminées par un pinceau de poils
+CREVETTE|1|Petit crustacé rose que l'on mange
+HAMSTER|1|Petit rongeur que l'on garde en cage, aux grosses joues
+MULE|2|Femelle issue du croisement d'un âne et d'une jument
+GORILLE|1|Le plus grand des singes, vivant en Afrique
+HERISSON|1|Petit animal couvert de piquants qui se roule en boule
+CAMELEON|2|Lézard qui change de couleur
+MEDUSE|1|Animal marin gélatineux qui pique les baigneurs
+BLAIREAU|2|Mammifère au museau rayé de noir et blanc qui vit dans un terrier
+FOUINE|3|Petit carnassier qui s'attaque aux poulaillers
+PLUMAGE|2|Ensemble des plumes d'un oiseau
+MAMMOUTH|1|Éléphant préhistorique couvert de longs poils
+SABOT|2|Pied corné du cheval
+CRINIERE|2|Longs poils sur le cou du lion ou du cheval
+KANGOUROU|1|Animal d'Australie qui saute et porte son petit dans une poche
+BOA|2|Grand serpent qui étouffe ses proies
+GUEPE|1|Insecte jaune et noir qui pique
+VIPERE|2|Petit serpent venimeux de nos campagnes
+COBAYE|2|Petit rongeur utilisé pour les expériences
+ZEBRE|1|Cheval d'Afrique au pelage rayé noir et blanc
+ECLORE|2|Sortir de l'œuf
+MARMOTTE|1|Rongeur des montagnes qui hiberne et siffle
+HUITRE|2|Coquillage que l'on mange cru, qui peut contenir une perle
+IBIS|3|Oiseau aux longues pattes et au bec courbé, sacré chez les Égyptiens
+BERGERIE|2|Bâtiment où l'on abrite les moutons
+HERMINE|3|Petit carnassier dont le pelage devient blanc en hiver
+MOINEAU|1|Petit oiseau brun très commun
+LOUTRE|2|Mammifère aquatique joueur qui nage sur le dos
+MOUETTE|1|Oiseau blanc et gris du bord de mer
+CIGALE|1|Insecte qui chante l'été dans le Midi
+HIBERNATION|2|Long sommeil de certains animaux pendant l'hiver
+MARTINET|3|Oiseau aux longues ailes en faucille, qui vole sans cesse
+MULET|2|Mâle issu du croisement d'un âne et d'une jument
+ESSAIM|2|Groupe d'abeilles qui quittent leur ruche
+RONGEUR|2|Mammifère aux dents qui poussent sans cesse, comme la souris
+CHIEN|1|Animal domestique fidèle qui aboie
+CHIOT|1|Petit du chien
+CHATON|1|Petit du chat
+LION|1|Grand félin d'Afrique à la crinière, appelé roi des animaux
+LIONNE|1|Femelle du lion
+TIGRE|1|Grand félin orange rayé de noir
+GIRAFE|1|Animal d'Afrique au très long cou
+DAUPHIN|1|Mammifère marin intelligent qui saute hors de l'eau
+TORTUE|1|Reptile lent protégé par une carapace
+GRENOUILLE|1|Petit amphibien vert qui saute et coasse
+CRAPAUD|2|Amphibien à la peau couverte de pustules
+SOURIS|1|Petit rongeur gris
+ABEILLE|1|Insecte qui fabrique le miel
+CANARD|1|Oiseau aquatique au bec plat
+CYGNE|1|Grand oiseau blanc au long cou
+AIGLE|1|Grand rapace aux serres puissantes
+FAUCON|2|Rapace rapide utilisé pour la chasse
+VAUTOUR|2|Rapace au cou déplumé qui se nourrit de cadavres
+CORBEAU|1|Grand oiseau tout noir
+PIE|2|Oiseau noir et blanc qui aime les objets brillants
+MERLE|2|Oiseau noir au bec jaune qui siffle
+ROUGEGORGE|2|Petit oiseau à la poitrine orangée
+HIRONDELLE|1|Oiseau qui annonce le printemps
+PERROQUET|1|Oiseau coloré qui peut imiter la voix humaine
+PERRUCHE|1|Petit perroquet que l'on garde en cage
+CANARI|2|Petit oiseau jaune qui chante en cage
+FLAMANT|2|Oiseau rose qui se tient sur une patte
+CIGOGNE|2|Grand oiseau blanc qui fait son nid sur les toits
+HERON|2|Grand oiseau aux longues pattes qui pêche dans les marais
+PELICAN|2|Oiseau dont le bec possède une grande poche
+MANCHOT|2|Oiseau de l'Antarctique qui ne vole pas mais nage très bien
+ALBATROS|3|Grand oiseau marin aux ailes immenses
+CORMORAN|3|Oiseau marin noir qui plonge pour pêcher
+GOELAND|2|Grand oiseau de mer, plus gros que la mouette
+RAPACE|2|Oiseau carnivore aux griffes puissantes, comme l'aigle
+BUSE|3|Rapace brun que l'on voit souvent perché le long des routes
+EPERVIER|3|Petit rapace des bois
+CHARDONNERET|3|Petit oiseau coloré au masque rouge
+MESANGE|2|Petit oiseau des jardins à la tête noire
+ROSSIGNOL|2|Petit oiseau au chant mélodieux, la nuit
+COUCOU|2|Oiseau qui pond ses œufs dans le nid des autres
+PIVERT|2|Oiseau qui frappe les troncs avec son bec
+GEAI|3|Oiseau des bois au plumage bleu sur les ailes
+ETOURNEAU|3|Oiseau noir tacheté qui vole en grandes nuées
+CAILLE|3|Petit oiseau des champs, gibier apprécié
+FAISAN|2|Oiseau à longue queue, gibier apprécié
+PERDRIX|2|Oiseau des champs chassé en automne
+PINTADE|2|Volaille au plumage gris tacheté de blanc
+COLOMBE|2|Pigeon blanc, symbole de la paix
+VEAU|1|Petit de la vache
+AGNEAU|1|Petit du mouton
+BREBIS|1|Femelle du mouton
+CHEVREAU|2|Petit de la chèvre
+POULAIN|1|Petit du cheval
+JUMENT|1|Femelle du cheval
+PORCELET|2|Petit du cochon
+TRUIE|2|Femelle du cochon
+LAPEREAU|3|Petit du lapin
+LOUVETEAU|2|Petit du loup
+OURSON|1|Petit de l'ours
+LIONCEAU|1|Petit du lion
+FAON|2|Petit de la biche
+CANETON|2|Petit du canard
+TETARD|2|Larve de la grenouille, qui vit dans l'eau
+CHENILLE|1|Larve du papillon
+LARVE|2|Forme jeune de l'insecte, avant sa transformation
+COCON|2|Enveloppe que tisse la chenille pour se transformer
+MUE|3|Changement de peau ou de plumage d'un animal
+TROUPEAU|1|Groupe d'animaux de la ferme qui vivent ensemble
+ETABLE|2|Bâtiment où l'on abrite les vaches
+ECURIE|1|Bâtiment où vivent les chevaux
+POULAILLER|1|Abri où vivent les poules
+CLAPIER|3|Cage où l'on élève les lapins
+NICHE|1|Petite cabane du chien
+AQUARIUM|1|Bac rempli d'eau où l'on garde des poissons
+ZOO|1|Parc où l'on peut voir des animaux du monde entier
+VETERINAIRE|1|Médecin des animaux
+ELEVEUR|2|Personne qui élève des animaux
+APICULTEUR|2|Personne qui élève des abeilles
+DRESSEUR|2|Personne qui apprend des tours aux animaux
+SOIGNEUR|2|Personne qui s'occupe des animaux dans un zoo
+ABOYER|1|Pousser son cri, pour un chien
+MIAULER|1|Pousser son cri, pour un chat
+MEUGLER|2|Pousser son cri, pour une vache
+BELER|2|Pousser son cri, pour un mouton
+HENNIR|2|Pousser son cri, pour un cheval
+RUGIR|2|Pousser son cri, pour un lion
+BRAMER|3|Pousser son cri, pour un cerf
+HULULER|3|Pousser son cri, pour une chouette
+COASSER|2|Pousser son cri, pour une grenouille
+BARRIR|3|Pousser son cri, pour un éléphant
+CAQUETER|3|Pousser son cri, pour une poule
+RONRONNER|1|Faire un bruit de contentement, pour un chat
+PATTE|1|Membre sur lequel marche un animal
+MUSEAU|1|Partie avant de la tête du chien ou du chat
+QUEUE|1|Prolongement de la colonne vertébrale à l'arrière d'un animal
+PELAGE|2|Ensemble des poils d'un animal
+FOURRURE|1|Poils épais et doux qui couvrent certains animaux
+PLUME|1|Ce qui couvre le corps des oiseaux
+BEC|1|Bouche dure et pointue des oiseaux
+ECAILLE|2|Petite plaque qui recouvre la peau des poissons et des reptiles
+NAGEOIRE|1|Membre qui permet au poisson de nager
+BRANCHIES|2|Organes qui permettent aux poissons de respirer sous l'eau
+TROMPE|1|Long nez de l'éléphant
+DEFENSE|2|Longue dent d'ivoire de l'éléphant
+BOSSE|1|Réserve de graisse sur le dos du chameau
+ANTENNE|2|Organe sensoriel sur la tête des insectes
+DARD|2|Aiguillon avec lequel pique l'abeille
+VENIN|2|Poison injecté par certains serpents ou araignées
+PINCE|1|Partie avant des pattes du crabe, qui sert à saisir
+TENTACULE|2|Long bras souple de la pieuvre
+VENTOUSE|3|Petit disque qui permet à la pieuvre de s'accrocher
+CARNIVORE|2|Qui se nourrit de viande
+HERBIVORE|2|Qui se nourrit de plantes
+OMNIVORE|3|Qui mange de tout, viande comme végétaux
+MAMMIFERE|2|Animal dont la femelle allaite ses petits
+REPTILE|2|Animal à sang froid couvert d'écailles, comme le lézard
+AMPHIBIEN|3|Animal qui vit dans l'eau et sur terre, comme la grenouille
+INSECTE|1|Petit animal à six pattes, comme la fourmi
+ARAIGNEE|1|Petit animal à huit pattes qui tisse une toile
+MOLLUSQUE|3|Animal au corps mou, souvent protégé par une coquille
+CRUSTACE|2|Animal à carapace qui vit dans l'eau, comme le crabe
+MARSUPIAL|3|Mammifère dont la femelle porte son petit dans une poche
+FELIN|2|Animal de la famille du chat
+CANIDE|3|Animal de la famille du chien
+PRIMATE|3|Mammifère de l'ordre des singes et de l'homme
+CETACE|3|Grand mammifère marin, comme la baleine ou le dauphin
+PIEUVRE|1|Animal marin à huit tentacules
+CALMAR|2|Mollusque marin qui projette de l'encre
+SEICHE|3|Mollusque marin à os plat, cousin du calmar
+ETOILEDEMER|1|Animal marin à cinq bras
+OURSIN|2|Petit animal marin couvert de piquants
+MOULE|2|Coquillage noir qui vit accroché aux rochers
+COQUILLAGE|1|Animal marin protégé par une coquille
+LANGOUSTE|2|Crustacé marin sans grosses pinces
+THON|1|Grand poisson de mer que l'on mange en boîte
+SARDINE|1|Petit poisson de mer que l'on mange grillé
+TRUITE|2|Poisson tacheté des rivières
+BROCHET|2|Poisson d'eau douce carnassier aux dents pointues
+ANGUILLE|2|Poisson allongé qui ressemble à un serpent
+MORUE|2|Poisson des mers froides, que l'on sale
+RAIE|3|Poisson plat en forme de losange
+ESPADON|2|Poisson au long nez pointu comme une épée
+HIPPOCAMPE|2|Petit poisson à tête de cheval
+PIRANHA|2|Poisson d'Amazonie aux dents acérées
+POISSONROUGE|1|Petit poisson orange que l'on garde dans un bocal
+ORQUE|2|Grand cétacé noir et blanc
+NARVAL|3|Cétacé dont le mâle porte une longue défense torsadée
+MORSE|2|Gros mammifère marin à longues défenses
+OTARIE|2|Mammifère marin proche du phoque, que l'on voit dans les cirques
+LAMANTIN|3|Gros mammifère marin herbivore, surnommé vache de mer
+CROCODILE|1|Grand reptile aux puissantes mâchoires
+ALLIGATOR|2|Crocodile d'Amérique au museau large
+IGUANE|2|Grand lézard vert d'Amérique
+VARAN|3|Grand lézard carnivore
+COBRA|2|Serpent venimeux qui dresse la tête et déploie son cou
+PYTHON|2|Grand serpent qui étouffe ses proies
+COULEUVRE|3|Serpent non venimeux de nos régions
+SALAMANDRE|3|Amphibien noir et jaune qui ressemble à un lézard
+TRITON|3|Petit amphibien à queue aplatie des mares
+DINOSAURE|1|Grand reptile préhistorique disparu
+TARENTULE|2|Grosse araignée velue
+MILLEPATTES|2|Petit animal au corps allongé couvert de nombreuses pattes
+PUCE|2|Insecte sauteur qui vit sur les chiens et les chats
+POU|2|Petit insecte qui vit dans les cheveux
+TIQUE|2|Petit acarien qui s'accroche à la peau pour sucer le sang
+PUNAISE|3|Insecte plat qui dégage une mauvaise odeur
+TERMITE|2|Insecte qui ronge le bois
+SAUTERELLE|2|Insecte vert aux longues pattes arrière qui saute très loin
+CRIQUET|2|Insecte sauteur qui forme des nuées dévastatrices
+MANTE|3|___ religieuse : insecte qui joint ses pattes avant comme pour prier
+FRELON|2|Grosse guêpe
+BOURDON|2|Gros insecte velu qui butine les fleurs
+LUCIOLE|3|Insecte qui brille dans la nuit
+SCARABEE|2|Insecte à carapace dure et brillante
+HANNETON|3|Gros insecte brun qui vole en mai
+LIMACE|2|Escargot sans coquille
+LOMBRIC|3|Ver de terre
+SANGSUE|3|Ver aquatique qui suce le sang
+RENARD|1|Animal roux à queue touffue, réputé rusé
+LIEVRE|2|Animal proche du lapin, aux très longues oreilles, qui court très vite
+CHEVREUIL|2|Petit cerf des forêts
+ELAN|3|Grand cerf des pays du Nord aux bois aplatis
+RENNE|2|Cerf des pays froids qui tire le traîneau du père Noël
+BISON|2|Grand bœuf sauvage d'Amérique du Nord
+BUFFLE|2|Grand bœuf sauvage d'Afrique ou d'Asie
+CHAMOIS|3|Animal agile des montagnes aux petites cornes recourbées
+BOUQUETIN|3|Chèvre sauvage des Alpes aux grandes cornes
+LAMA|2|Animal des Andes à laine, proche du chameau
+DROMADAIRE|2|Chameau à une seule bosse
+CASTOR|2|Rongeur qui construit des barrages sur les rivières
+RATON|2|___ laveur : petit mammifère au masque noir
+MOUFFETTE|3|Petit mammifère qui projette un liquide nauséabond
+PUTOIS|3|Petit carnassier qui dégage une forte odeur
+BELETTE|3|Petit carnassier au corps fin et allongé
+TATOU|3|Mammifère protégé par une carapace articulée
+PARESSEUX|2|Mammifère très lent qui vit suspendu aux arbres
+FOURMILIER|3|Mammifère à long museau qui mange des fourmis
+ORNITHORYNQUE|3|Mammifère d'Australie au bec de canard, qui pond des œufs
+OPOSSUM|3|Petit marsupial d'Amérique
+CHIMPANZE|2|Singe d'Afrique très intelligent
+ORANGOUTAN|2|Grand singe roux d'Asie
+BABOUIN|3|Singe d'Afrique au museau allongé
+OURSBLANC|1|Ours des régions polaires
+GRIZZLI|3|Grand ours brun d'Amérique du Nord
+HYENE|2|Animal d'Afrique qui ricane et mange des charognes
+CHACAL|3|Canidé sauvage d'Afrique et d'Asie
+COYOTE|3|Canidé sauvage d'Amérique du Nord
+SURICATE|3|Petit mammifère d'Afrique qui se dresse pour surveiller
+GAZELLE|2|Antilope gracieuse et rapide
+ANTILOPE|2|Animal d'Afrique aux cornes fines, très rapide
+GNOU|3|Antilope d'Afrique qui migre en immenses troupeaux
+OKAPI|3|Animal d'Afrique proche de la girafe, aux pattes rayées
+TAPIR|3|Mammifère à petite trompe d'Amérique du Sud
+ZEBU|3|Bœuf à bosse d'Asie et d'Afrique
+GAUR|3|Grand bœuf sauvage d'Inde
+GIBBON|3|Petit singe d'Asie aux très longs bras
+MANDRILL|3|Singe d'Afrique au museau rouge et bleu
+OUISTITI|2|Tout petit singe d'Amérique du Sud
+LEMURIEN|3|Primate de Madagascar aux grands yeux
+CAPYBARA|3|Plus gros rongeur du monde, d'Amérique du Sud
+CHINCHILLA|3|Petit rongeur des Andes à la fourrure très douce
+GERBOISE|3|Petit rongeur du désert qui saute sur ses longues pattes arrière
+LOIR|3|Petit rongeur qui dort tout l'hiver
+MULOT|3|Petite souris des champs
+CAMPAGNOL|3|Petit rongeur des champs à queue courte
+MUSARAIGNE|3|Minuscule mammifère au museau pointu qui mange des insectes
+GENETTE|3|Petit carnassier tacheté à longue queue annelée
+MANGOUSTE|3|Petit carnassier agile, ennemi des serpents
+OCELOT|3|Félin tacheté d'Amérique du Sud
+PUMA|2|Grand félin d'Amérique au pelage fauve
+CARACAL|3|Félin d'Afrique aux oreilles noires pointues
+SERVAL|3|Félin d'Afrique aux longues pattes et aux grandes oreilles
+DINGO|3|Chien sauvage d'Australie
+WOMBAT|3|Marsupial d'Australie trapu qui creuse des terriers
+WALLABY|3|Petit kangourou
+DUGONG|3|Mammifère marin herbivore des mers chaudes
+CACHALOT|3|Grand cétacé à grosse tête carrée, chasseur de calmars
+BELUGA|3|Cétacé blanc des mers arctiques
+MARSOUIN|3|Petit cétacé proche du dauphin
+EPAULARD|3|Autre nom de l'orque
+MURENE|3|Poisson serpentiforme aux dents acérées qui vit dans les rochers
+BAUDROIE|3|Poisson à grosse tête dont la queue est appelée lotte
+LOTTE|2|Poisson à la chair ferme, à grosse tête
+DORADE|2|Poisson de mer aux reflets dorés
+MAQUEREAU|2|Poisson de mer au dos rayé bleu-vert
+HARENG|2|Poisson des mers froides que l'on mange fumé
+ANCHOIS|2|Petit poisson que l'on conserve dans le sel
+SOLE|2|Poisson plat très apprécié
+TURBOT|3|Grand poisson plat de mer
+MERLAN|3|Poisson de mer à chair fine
+GOUJON|3|Petit poisson d'eau douce que l'on mange frit
+SILURE|3|Énorme poisson d'eau douce à moustaches
+ESTURGEON|3|Gros poisson dont les œufs donnent le caviar
+POISSONCLOWN|2|Petit poisson orange et blanc qui vit dans une anémone
+ECREVISSE|2|Petit crustacé d'eau douce
+TOURTEAU|3|Gros crabe aux pinces noires
+ARAIGNEEDEMER|3|Crabe aux longues pattes fines
+BIGORNEAU|3|Petit coquillage en spirale que l'on mange avec une épingle
+PALOURDE|3|Coquillage que l'on ramasse dans le sable
+NAUTILE|3|Mollusque marin à coquille spiralée cloisonnée
+CORAIL|2|Animal marin qui forme des récifs colorés
+EPONGE|3|Animal marin très simple, plein de trous
+ANEMONEDEMER|3|Animal marin aux tentacules colorés fixé aux rochers
+PLANCTON|2|Minuscules organismes qui flottent dans la mer
+KRILL|3|Petites crevettes dont se nourrissent les baleines
+CONDOR|3|Grand vautour des Andes
+FAUCONNIER|3|Personne qui dresse les rapaces pour la chasse
+GRANDDUC|3|Le plus grand hibou d'Europe
+EFFRAIE|3|Chouette blanche des clochers
+MILAN|3|Rapace à queue fourchue
+BALBUZARD|3|Rapace qui pêche les poissons
+EMEU|3|Grand oiseau coureur d'Australie
+NANDOU|3|Grand oiseau coureur d'Amérique du Sud
+CASOAR|3|Grand oiseau coureur à casque, d'Océanie
+DODO|2|Gros oiseau de l'île Maurice, aujourd'hui disparu
+MACAREUX|3|Oiseau marin au gros bec coloré
+GRUE|3|Grand échassier gris qui migre en formation en V
+BECASSE|3|Oiseau des bois au long bec, gibier apprécié
+PLUVIER|3|Petit oiseau des rivages
+HUPPE|3|Oiseau à crête orangée en éventail
+LORIOT|3|Oiseau jaune vif au chant flûté
+BOUVREUIL|3|Petit oiseau à poitrine rose et tête noire
+PINSON|2|Petit oiseau chanteur très commun
+TOURTERELLE|2|Petit pigeon au roucoulement doux
+ALOUETTE|2|Petit oiseau des champs qui chante en s'élevant
+CORNEILLE|2|Oiseau noir proche du corbeau
+COLVERT|3|Canard sauvage à tête verte
+SARCELLE|3|Petit canard sauvage
+OUTARDE|3|Grand oiseau des steppes
+MITE|2|Petit papillon qui ronge les vêtements
+PHASME|3|Insecte qui ressemble à une brindille
+CHRYSALIDE|3|Enveloppe dans laquelle la chenille devient papillon
+ACARIEN|3|Minuscule animal qui vit dans la poussière
+FOURMILIERE|2|Nid où vivent les fourmis
+GARENNE|3|Lapin de ___ : lapin sauvage
+TANIERE|2|Abri d'une bête sauvage
+BAUGE|3|Lieu boueux où se vautre le sanglier

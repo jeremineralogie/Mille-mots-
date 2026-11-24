@@ -1,0 +1,404 @@
+# MOT|niveau|définition
+BOIS|1|Matière dure qui forme le tronc et les branches des arbres
+CHAMP|1|Terrain cultivé par un agriculteur
+ROSE|1|Fleur parfumée dont la tige porte des épines
+JARDIN|1|Terrain où l'on cultive des fleurs, des fruits ou des légumes
+PRINTEMPS|1|Saison où les arbres refleurissent
+ARBRE|1|Grande plante à tronc de bois, avec des branches et des feuilles
+AUTOMNE|1|Saison où les feuilles des arbres tombent
+PRE|2|Terrain couvert d'herbe où paissent les vaches
+PLANTE|1|Être vivant qui pousse dans la terre et ne se déplace pas
+POMME|1|Fruit rond du pommier, croquant et sucré
+HERBE|1|Plante verte et fine qui couvre les prés et les pelouses
+BLE|1|Céréale dont on fait la farine
+COTON|2|Fibres blanches qui entourent les graines d'une plante, et dont on fait du tissu
+CHOU|1|Légume aux grosses feuilles serrées en boule
+GRAIN|2|Petite semence des céréales, comme le blé ou le riz
+NOIX|1|Fruit à coque dure du noyer
+PELOUSE|1|Terrain couvert d'herbe courte et tondue
+BOUQUET|1|Fleurs coupées et réunies ensemble
+LIN|3|Plante à fleurs bleues dont on tire une fibre textile
+CITRON|1|Agrume jaune au jus acide
+OLIVE|1|Petit fruit vert ou noir dont on tire une huile
+SAPIN|1|Conifère toujours vert que l'on décore à Noël
+PIN|2|Conifère aux longues aiguilles des forêts des Landes
+VIGNE|1|Plante grimpante qui produit le raisin
+SOUCHE|2|Partie du tronc qui reste en terre quand on a coupé l'arbre
+IRIS|2|Fleur violette ou jaune aux grands pétales
+POIS|1|Petite graine verte et ronde que l'on mange
+TIGE|1|Partie de la plante qui porte les feuilles et les fleurs
+GAZON|1|Herbe courte et serrée d'une pelouse
+TRONC|1|Partie principale d'un arbre, entre les racines et les branches
+SEMER|1|Mettre des graines dans la terre
+CHENE|1|Grand arbre robuste qui produit des glands
+BOULEAU|2|Arbre à l'écorce blanche
+PLATANE|2|Arbre des places et des routes, à l'écorce qui se détache par plaques
+PEUPLIER|2|Arbre très haut et élancé, qui pousse au bord de l'eau
+OLIVIER|1|Arbre méditerranéen qui produit les olives
+ERABLE|2|Arbre du Canada dont la sève donne un sirop
+CACTUS|1|Plante du désert couverte d'épines
+FOUGERE|2|Plante des sous-bois aux longues feuilles découpées, sans fleurs
+LIERRE|2|Plante grimpante toujours verte qui s'accroche aux murs
+LAVANDE|1|Plante aux fleurs violettes et parfumées, emblème de la Provence
+ORCHIDEE|2|Fleur exotique aux formes étonnantes, très appréciée en pot
+PETALE|1|Chacune des parties colorées d'une fleur
+POLLEN|2|Poudre jaune des fleurs, transportée par les abeilles
+GRAINE|1|Petite partie de la plante qui, semée, donne une nouvelle plante
+MARAIS|2|Terrain gorgé d'eau où poussent roseaux et joncs
+TOURBIERE|3|Marais où s'accumulent des débris de mousses
+HUMUS|3|Terre noire et riche formée de feuilles décomposées
+MYRTILLE|2|Petite baie bleue des sous-bois
+GLAND|1|Fruit du chêne
+BRUYERE|2|Petit arbuste aux fleurs roses ou violettes des landes
+LILAS|2|Arbuste aux grappes de fleurs mauves très parfumées
+HORTENSIA|2|Arbuste aux grosses boules de fleurs roses ou bleues
+PISSENLIT|2|Plante à fleur jaune dont les graines s'envolent quand on souffle
+NENUPHAR|2|Plante aquatique aux grandes feuilles rondes qui flottent sur l'étang
+ACACIA|3|Arbre épineux aux grappes de fleurs blanches
+PALMIER|1|Arbre des pays chauds au sommet garni de grandes feuilles
+HETRE|2|Grand arbre forestier à l'écorce lisse et grise
+CERISIER|1|Arbre qui produit les cerises
+FRENE|3|Arbre au bois souple, utilisé pour les manches d'outils
+AULNE|3|Arbre qui pousse au bord des rivières
+PAQUERETTE|1|Petite fleur blanche à cœur jaune des pelouses
+ALGUE|1|Plante qui pousse dans la mer
+FOIN|1|Herbe coupée et séchée pour nourrir les animaux
+OIGNON|1|Légume en bulbe qui fait pleurer quand on le coupe
+CHAMPIGNON|1|Végétal sans feuilles qui pousse dans les bois après la pluie
+PEPIN|1|Petite graine que l'on trouve dans la pomme ou le raisin
+VERDURE|2|Ensemble des plantes vertes d'un paysage
+FLORAISON|2|Moment où les fleurs s'épanouissent
+POIRIER|2|Arbre qui produit les poires
+COSMOS|3|Fleur de jardin aux pétales roses ou blancs
+LEGUME|1|Plante du potager que l'on mange, comme la carotte ou le haricot
+MOTTE|2|Morceau de terre compacte
+AMANDE|1|Fruit sec à coque, ingrédient de la frangipane
+BROUSSE|3|Végétation d'arbustes et de buissons des pays chauds
+VERGER|1|Terrain planté d'arbres fruitiers
+RAMEAU|2|Petite branche d'arbre
+LATEX|3|Liquide laiteux tiré de l'hévéa, qui sert à faire le caoutchouc
+LOTUS|3|Fleur aquatique sacrée en Asie
+MAQUIS|3|Végétation dense d'arbustes en Corse
+SEMIS|3|Jeunes plantes nées de graines semées
+EPINE|1|Pointe qui pique sur la tige d'une rose
+MOISSON|2|Récolte des céréales en été
+JASMIN|2|Arbuste aux petites fleurs blanches très parfumées
+SILLON|2|Trace creusée dans la terre par la charrue
+LISIERE|3|Bord d'une forêt
+TOURNESOL|1|Grande fleur jaune qui suit le soleil
+TERREAU|2|Terre riche dont on remplit les pots de fleurs
+CUEILLETTE|2|Fait de ramasser des fruits ou des fleurs
+VIVACE|3|Se dit d'une plante qui vit plusieurs années
+SEVE|2|Liquide qui circule dans les plantes et les nourrit
+CONCOMBRE|1|Long légume vert que l'on mange en salade
+LANDE|3|Étendue de terre pauvre couverte de bruyères et d'ajoncs
+GERME|2|Petite pousse qui sort de la graine
+CACAHUETE|1|Petite graine que l'on mange grillée à l'apéritif
+PULPE|2|Partie charnue et juteuse d'un fruit
+PAPYRUS|3|Roseau du Nil dont les Égyptiens faisaient du papier
+BOCAGE|3|Paysage de champs entourés de haies
+CLAIRIERE|2|Endroit dégagé au milieu d'une forêt
+SEIGLE|3|Céréale qui donne un pain sombre
+ARBUSTE|1|Petit arbre
+NAVET|2|Légume blanc à racine ronde
+RADIS|1|Petit légume rouge et piquant que l'on croque avec du beurre
+POMMIER|1|Arbre qui produit les pommes
+PAMPLEMOUSSE|1|Gros agrume au goût acide et amer
+SAULE|2|Arbre des bords de l'eau, dont les branches pendent jusqu'au sol
+COURGE|2|Gros légume de la famille de la citrouille
+BOSQUET|2|Petit groupe d'arbres
+TILLEUL|2|Arbre dont les fleurs donnent une tisane qui aide à dormir
+FROMENT|3|Autre nom du blé
+ROSIER|1|Arbuste qui produit les roses
+COURGETTE|1|Légume vert allongé de la ratatouille
+COSSE|2|Enveloppe qui contient les petits pois ou les haricots
+OSEILLE|3|Plante potagère aux feuilles acides
+ORME|3|Grand arbre presque disparu à cause d'une maladie
+POIREAU|1|Légume long, blanc et vert, de la soupe
+LIANE|2|Longue plante grimpante des forêts tropicales
+CHAUME|3|Paille qui reste dans le champ après la moisson
+HERBIER|2|Collection de plantes séchées et collées dans un cahier
+POTAGER|1|Jardin où l'on cultive des légumes
+CADUC|3|Se dit d'un feuillage qui tombe chaque automne
+ROSEAU|2|Haute plante à tige creuse qui pousse au bord de l'eau
+TULIPE|1|Fleur à bulbe, symbole de la Hollande
+CHARDON|2|Plante épineuse aux fleurs violettes
+ASPERGE|2|Légume en longue tige tendre, blanche ou verte
+BOURGEON|2|Petite pousse sur une branche, d'où sortiront feuilles ou fleurs
+FIGUIER|2|Arbre méditerranéen qui produit les figues
+FEVE|2|Grosse graine verte que l'on mange fraîche
+CAPUCINE|3|Fleur orange comestible, plante grimpante
+SUCCULENTE|3|Plante grasse qui stocke l'eau dans ses feuilles
+FANE|3|Feuilles et tiges d'un légume, comme celles des carottes
+LUZERNE|3|Plante fourragère à fleurs violettes
+MUGUET|1|Petites clochettes blanches offertes le 1er mai
+AUBIER|3|Partie tendre du bois, juste sous l'écorce
+SAUGE|3|Plante aromatique aux feuilles grises et veloutées
+ARTICHAUT|2|Légume dont on mange le cœur et le bas des feuilles
+PISTACHE|2|Petite graine verte dans une coque, que l'on grignote
+FENOUIL|3|Légume au goût d'anis
+HORTICULTURE|3|Art de cultiver les fleurs et les jardins
+CHATAIGNE|1|Fruit brun du châtaignier, que l'on grille en hiver
+PRUNIER|2|Arbre qui produit les prunes
+VITICULTEUR|3|Personne qui cultive la vigne
+TAILLIS|3|Bois de jeunes arbres que l'on coupe régulièrement
+GRENADIER|3|Arbre qui produit la grenade
+BAOBAB|2|Énorme arbre d'Afrique au tronc très large
+ORTIE|1|Plante dont les feuilles piquent la peau
+JARDINIERE|2|Bac où l'on fait pousser des fleurs sur un balcon
+MARRONNIER|2|Arbre des parcs qui produit des marrons non comestibles
+TREILLE|3|Vigne qui grimpe le long d'un support
+ANEMONE|3|Fleur de printemps aux couleurs vives
+BLEUET|2|Fleur bleue des champs de blé
+TUBERCULE|3|Racine renflée, comme celle de la pomme de terre
+AGAVE|3|Plante grasse du Mexique d'où l'on tire la tequila
+TROGNON|2|Cœur d'une pomme ou d'une poire, que l'on ne mange pas
+IVRAIE|3|Mauvaise herbe qui pousse dans les blés
+SANTAL|3|Arbre dont le bois a une odeur très parfumée
+MURIER|3|Arbre qui produit les mûres et nourrit les vers à soie
+PEDONCULE|3|Petite tige qui porte une fleur ou un fruit
+COMPOST|2|Engrais fait de déchets de cuisine et de jardin
+GLYCINE|2|Plante grimpante aux grappes de fleurs mauves
+MANDRAGORE|3|Plante à racine en forme d'homme, liée aux légendes de sorcellerie
+PIVOINE|2|Grosse fleur ronde rose, rouge ou blanche
+ARROSOIR|1|Récipient à long bec pour arroser les plantes
+FUTAIE|3|Forêt de grands arbres
+TAIGA|3|Immense forêt de conifères du nord de la Russie
+JONQUILLE|2|Fleur jaune de printemps en forme de trompette
+SECATEUR|2|Gros ciseaux qui servent à tailler les plantes
+SEQUOIA|3|Arbre géant de Californie, l'un des plus grands du monde
+POLLINISATION|3|Transport du pollen d'une fleur à une autre
+PISTIL|3|Organe femelle au centre de la fleur
+ELAGUER|3|Couper les branches inutiles d'un arbre
+MERISIER|3|Cerisier sauvage
+GRAMINEE|3|Plante de la famille du blé et des herbes des prairies
+SALSIFIS|3|Légume en longue racine noire
+CONIFERE|2|Arbre à aiguilles qui produit des cônes, comme le pin
+AZALEE|3|Arbuste aux nombreuses fleurs vives
+CEPE|2|Champignon à chapeau brun très apprécié
+EGLANTIER|3|Rosier sauvage
+BEGONIA|3|Plante à fleurs souvent cultivée en pot
+GLAIEUL|3|Fleur en long épi
+GENET|3|Arbuste à fleurs jaunes des landes
+FLEUR|1|Partie colorée et parfumée d'une plante
+FEUILLE|1|Partie verte et plate qui pousse sur les branches
+RACINE|1|Partie de la plante qui s'enfonce dans la terre
+BRANCHE|1|Partie de l'arbre qui part du tronc
+ECORCE|2|Peau qui recouvre le tronc d'un arbre
+FORET|1|Grande étendue couverte d'arbres
+BUISSON|1|Touffe d'arbustes
+HAIE|2|Rangée d'arbustes qui sert de clôture
+MOUSSE|2|Petite plante verte et douce qui pousse sur les pierres
+FRUIT|1|Partie de la plante qui contient les graines, souvent sucrée
+CAROTTE|1|Légume orange en forme de racine
+TOMATE|1|Fruit rouge que l'on mange en salade
+HARICOT|1|Légume vert en gousse
+LAITUE|2|Variété de salade aux feuilles tendres
+EPINARD|1|Légume aux feuilles vertes, riche en fer
+CITROUILLE|1|Gros légume orange d'Halloween
+POTIRON|2|Grosse courge ronde et orange
+POIVRON|1|Légume rouge, vert ou jaune, creux à l'intérieur
+BETTERAVE|2|Racine rouge que l'on mange en salade
+CELERI|2|Légume au goût fort, en branche ou en boule
+BROCOLI|1|Légume vert en petits bouquets
+POMMEDETERRE|1|Tubercule dont on fait les frites
+PATATE|1|Nom familier de la pomme de terre
+MAIS|1|Céréale aux gros épis de grains jaunes
+AVOINE|2|Céréale dont on fait des flocons
+ORGE|2|Céréale qui sert à fabriquer la bière
+RIZIERE|2|Champ inondé où l'on cultive le riz
+CEREALE|1|Plante comme le blé, le maïs ou le riz
+FRAISE|1|Petit fruit rouge du printemps
+FRAMBOISE|1|Petit fruit rouge fait de petites boules
+CERISE|1|Petit fruit rouge à noyau, qui pousse par deux
+PECHE|1|Fruit à peau duveteuse et à gros noyau
+ABRICOT|1|Petit fruit orange à noyau
+PRUNE|1|Fruit violet ou jaune à noyau
+POIRE|1|Fruit juteux plus large en bas qu'en haut
+RAISIN|1|Fruit en grappe dont on fait le vin
+BANANE|1|Fruit jaune et allongé que l'on épluche
+ORANGE|1|Agrume rond et juteux
+MANDARINE|1|Petit agrume facile à éplucher
+CLEMENTINE|1|Petit agrume sans pépins, fruit d'hiver
+ANANAS|1|Gros fruit tropical surmonté d'une touffe de feuilles
+MANGUE|1|Fruit tropical à chair orange et sucrée
+KIWI|1|Fruit à peau brune et poilue, à chair verte
+MELON|1|Gros fruit rond à chair orange, mangé en été
+PASTEQUE|1|Gros fruit vert à chair rouge et pleine d'eau
+FIGUE|2|Fruit violet et sucré, plein de petites graines
+GROSEILLE|2|Petite baie rouge et acide en grappe
+CASSIS|2|Petite baie noire au goût acidulé
+MURE|2|Petite baie noire des ronces
+NOISETTE|1|Petit fruit sec à coque du noisetier
+MARRON|1|Fruit brun du châtaignier que l'on mange grillé
+GRENADE|2|Fruit rond rempli de petits grains rouges
+LITCHI|2|Petit fruit asiatique à coque rose et chair blanche
+NOYAU|1|Partie dure au centre d'une cerise ou d'une pêche
+AGRUME|2|Fruit de la famille du citron et de l'orange
+MARGUERITE|1|Fleur blanche à cœur jaune que l'on effeuille
+COQUELICOT|1|Fleur rouge des champs
+VIOLETTE|2|Petite fleur parfumée de couleur mauve
+LYS|2|Grande fleur blanche, symbole des rois de France
+CAMELIA|3|Arbuste aux fleurs ressemblant à des roses
+MIMOSA|2|Arbuste aux petites boules jaunes parfumées
+ROSEE|1|Gouttes d'eau déposées sur l'herbe le matin
+JARDINIER|1|Personne qui s'occupe d'un jardin
+JARDINAGE|1|Activité qui consiste à entretenir un jardin
+BINER|3|Remuer la terre autour des plantes
+BECHER|2|Retourner la terre avec une bêche
+BECHE|2|Outil à large lame pour retourner la terre
+RATEAU|1|Outil à dents pour ramasser les feuilles
+PELLE|1|Outil pour creuser et déplacer la terre
+TONDEUSE|1|Machine qui coupe l'herbe de la pelouse
+ARROSER|1|Donner de l'eau aux plantes
+TAILLER|2|Couper les branches d'un arbuste pour lui donner forme
+REMPOTER|3|Changer une plante de pot
+BOUTURE|3|Morceau de tige que l'on plante pour obtenir une nouvelle plante
+ENGRAIS|2|Produit qui nourrit la terre et aide les plantes à pousser
+SERRE|2|Abri vitré où l'on cultive les plantes au chaud
+POT|1|Récipient dans lequel pousse une plante d'intérieur
+RECOLTE|1|Ramassage des produits de la terre
+FERMIER|1|Personne qui cultive une ferme
+AGRICULTEUR|1|Personne qui cultive la terre
+TRACTEUR|1|Véhicule agricole qui tire les machines
+CHARRUE|2|Machine qui laboure la terre
+LABOURER|2|Retourner la terre d'un champ avec une charrue
+MOISSONNEUSE|2|Machine qui récolte les céréales
+EPOUVANTAIL|1|Mannequin placé dans un champ pour effrayer les oiseaux
+BOTTE|2|Paquet de foin ou de paille attaché
+PAILLE|1|Tiges séchées des céréales
+GRANGE|2|Bâtiment où l'on range le foin et les récoltes
+FEUILLAGE|2|Ensemble des feuilles d'un arbre
+SOUSBOIS|2|Partie de la forêt couverte par les arbres
+BUCHERON|1|Personne qui abat les arbres
+FORESTIER|3|Garde chargé de surveiller une forêt
+ROSERAIE|3|Jardin planté de rosiers
+POTAGERE|3|Se dit d'une plante cultivée pour être mangée
+BOTANISTE|3|Scientifique qui étudie les plantes
+BOTANIQUE|2|Science qui étudie les plantes
+VEGETAL|2|Qui appartient au monde des plantes
+CHLOROPHYLLE|3|Pigment qui donne aux plantes leur couleur verte
+PHOTOSYNTHESE|3|Processus par lequel les plantes fabriquent leur nourriture grâce à la lumière
+BULBE|3|Partie renflée de certaines plantes, comme la tulipe ou l'oignon
+EPI|2|Groupe de grains au sommet d'une tige de blé
+GOUSSE|2|Enveloppe allongée qui contient des graines, comme celle du haricot
+BRINDILLE|2|Petite branche fine et sèche
+COPEAU|3|Fine lamelle de bois enlevée au rabot
+NOISETIER|2|Arbuste qui produit les noisettes
+NOYER|2|Arbre qui produit les noix
+CHATAIGNIER|2|Arbre qui produit les châtaignes
+CEDRE|3|Grand conifère aux branches étalées, emblème du Liban
+MELEZE|3|Conifère des montagnes qui perd ses aiguilles en hiver
+EPICEA|3|Conifère souvent utilisé comme sapin de Noël
+CYPRES|3|Conifère élancé des paysages méditerranéens
+EUCALYPTUS|2|Arbre d'Australie, nourriture des koalas
+BAMBOU|1|Grande plante à tige creuse, nourriture du panda
+HEVEA|3|Arbre tropical dont on tire le caoutchouc
+CACAOYER|3|Arbre tropical dont les fèves donnent le chocolat
+CAFEIER|3|Arbuste dont les graines donnent le café
+COCOTIER|2|Palmier qui produit les noix de coco
+BANANIER|2|Grande plante tropicale qui produit les bananes
+VANILLIER|3|Orchidée grimpante qui produit la vanille
+RONCE|2|Arbuste épineux qui produit les mûres
+HOUX|2|Arbuste aux feuilles piquantes et aux boules rouges
+GUI|2|Plante aux boules blanches sous laquelle on s'embrasse au Nouvel An
+ACAJOU|3|Arbre tropical au bois rouge foncé, très apprécié en ébénisterie
+EBENE|3|Bois noir et très dur d'un arbre tropical
+TECK|3|Bois tropical imputrescible utilisé pour les ponts de bateaux
+OSIER|2|Branches souples de saule avec lesquelles on tresse des paniers
+JONC|3|Plante des marais à tige droite et souple
+NERPRUN|3|Arbuste épineux des haies aux baies noires
+AUBEPINE|3|Arbuste épineux aux fleurs blanches qui fleurit au printemps
+SUREAU|3|Arbuste aux petites baies noires en grappes
+ARGOUSIER|3|Arbuste épineux aux baies orange riches en vitamine C
+AJONC|3|Arbuste épineux aux fleurs jaunes des landes bretonnes
+EDELWEISS|3|Fleur blanche et duveteuse de haute montagne
+GENTIANE|3|Plante de montagne dont la racine sert à faire une liqueur amère
+CHRYSANTHEME|2|Fleur que l'on dépose sur les tombes à la Toussaint
+GERANIUM|2|Fleur rouge des balcons et des fenêtres
+PETUNIA|3|Fleur de jardin en forme de trompette
+DAHLIA|3|Grosse fleur aux nombreux pétales, cultivée dans les jardins
+LUPIN|3|Plante aux longs épis de fleurs colorées
+DIGITALE|3|Plante toxique aux fleurs en forme de doigt de gant
+MYOSOTIS|3|Petite fleur bleue surnommée « ne m'oubliez pas »
+PERCENEIGE|2|Petite fleur blanche qui sort de terre à la fin de l'hiver
+CROCUS|3|Petite fleur violette qui éclot à la fin de l'hiver
+JACINTHE|3|Fleur à bulbe en épi très parfumé
+GARDENIA|3|Arbuste aux fleurs blanches très parfumées
+MAGNOLIA|3|Arbre aux grandes fleurs blanches ou roses
+CAMOMILLE|2|Plante aux petites fleurs dont on fait une tisane apaisante
+VERVEINE|2|Plante dont on fait une tisane digestive
+ALOEVERA|2|Plante grasse dont le gel apaise les brûlures
+PERSILLADE|3|Mélange d'ail et de persil hachés
+CRESSON|3|Plante aquatique aux feuilles piquantes que l'on mange en salade
+ROQUETTE|3|Salade aux feuilles dentelées au goût poivré
+ENDIVE|2|Légume blanc aux feuilles serrées, au goût amer
+CHOUFLEUR|1|Chou dont on mange la boule blanche
+COLZA|2|Plante aux fleurs jaunes dont on tire une huile
+LENTILLE|1|Petite graine plate et ronde que l'on mange cuite
+POISCHICHE|2|Grosse graine beige du houmous
+SOJA|2|Plante dont les graines servent à faire le tofu
+TOPINAMBOUR|3|Tubercule au goût d'artichaut
+PANAIS|3|Racine blanche ressemblant à une carotte, au goût sucré
+RUTABAGA|3|Grosse racine proche du navet
+PATATEDOUCE|2|Tubercule orange au goût sucré
+GOMBO|3|Légume vert allongé, très utilisé en Afrique et aux Antilles
+PIMENT|1|Petit légume rouge très piquant
+CANNEASUCRE|2|Grande tige dont on extrait le sucre
+COTONNIER|3|Plante dont les graines sont entourées de fibres de coton
+CHANVRE|3|Plante dont on tire des fibres pour faire des cordes
+TABAC|2|Plante dont on sèche les feuilles pour les fumer
+HOUBLON|3|Plante grimpante qui donne son amertume à la bière
+QUETSCHE|3|Prune violette d'Alsace
+MIRABELLE|2|Petite prune jaune de Lorraine
+REINECLAUDE|3|Prune verte et très sucrée
+COING|3|Fruit jaune et dur dont on fait de la gelée
+NECTARINE|2|Pêche à peau lisse
+AIRELLE|3|Petite baie rouge des montagnes
+NEFLE|3|Fruit brun que l'on mange blet
+PAPAYE|2|Fruit tropical à chair orange et aux graines noires
+GOYAVE|3|Fruit tropical à chair rose et parfumée
+DATTE|2|Fruit sucré du palmier des oasis
+COCO|1|Noix de ___ : gros fruit à coque du cocotier
+KAKI|3|Fruit orange qui ressemble à une tomate
+CEDRAT|3|Gros agrume à peau épaisse, souvent confit
+BERGAMOTE|3|Agrume qui parfume le thé Earl Grey
+YUZU|3|Agrume japonais très parfumé
+GIROLLE|3|Champignon jaune orangé en forme d'entonnoir
+MORILLE|3|Champignon au chapeau alvéolé comme une éponge
+TRUFFIERE|3|Terrain où poussent les truffes
+AMANITE|3|Champignon dont certaines espèces sont mortelles
+LICHEN|3|Organisme qui forme des taches sur les rochers et les arbres
+MOISISSURE|2|Duvet de champignons qui se forme sur les aliments abîmés
+SPORE|3|Minuscule cellule qui permet aux champignons et aux fougères de se reproduire
+ETAMINE|3|Organe mâle de la fleur, qui porte le pollen
+SEPALE|3|Petite feuille verte qui entoure la base d'une fleur
+COROLLE|3|Ensemble des pétales d'une fleur
+NERVURE|3|Fine ligne qui parcourt la feuille
+AIGUILLE|2|Feuille fine et pointue du sapin ou du pin
+PERENNE|3|Se dit d'une plante qui vit plusieurs années
+ANNUELLE|3|Plante qui vit une seule année
+DESHERBER|2|Arracher les mauvaises herbes
+DESHERBANT|3|Produit qui détruit les mauvaises herbes
+PESTICIDE|2|Produit chimique qui tue les parasites des cultures
+JACHERE|3|Terre que l'on laisse reposer sans la cultiver
+ASSOLEMENT|3|Rotation des cultures d'une année sur l'autre
+IRRIGATION|2|Arrosage des champs par des canaux ou des tuyaux
+FENAISON|3|Récolte du foin
+VENDANGEUR|3|Personne qui récolte le raisin
+SILO|2|Grand réservoir où l'on stocke les céréales
+BOTTELEUSE|3|Machine qui met le foin en bottes
+SEMOIR|3|Machine qui sert à semer les graines
+HERSE|3|Instrument agricole à dents qui brise les mottes de terre
+FAUX|2|Grande lame courbe au bout d'un manche pour couper l'herbe
+SERPE|3|Outil à lame recourbée pour couper les branches
+FOURCHE|2|Outil à longues dents pour remuer le foin
+BROUETTE|1|Petit chariot à une roue pour transporter la terre
+TUTEUR|3|Bâton qui soutient une jeune plante
+PEPINIERE|3|Terrain où l'on fait pousser de jeunes arbres pour les replanter
+PEPINIERISTE|3|Professionnel qui cultive de jeunes arbres
+FLEURISTE|1|Commerçant qui vend des fleurs
+PAYSAGISTE|2|Professionnel qui aménage les jardins
+ARBORICULTEUR|3|Personne qui cultive les arbres fruitiers
+MARAICHER|3|Cultivateur de légumes
+BOUQUETIERE|3|Marchande de fleurs ambulante

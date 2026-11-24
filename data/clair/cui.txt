@@ -1,0 +1,458 @@
+# MOT|niveau (1 facile, 2 moyen, 3 difficile)|définition claire, dans le sens du thème
+ENTREE|1|Plat servi au début du repas, avant le plat principal
+VIN|1|Boisson alcoolisée obtenue à partir du raisin
+CAFE|1|Boisson noire et chaude, souvent bue au petit déjeuner
+METS|2|Plat préparé que l'on sert à table
+CUISINE|1|Pièce de la maison où l'on prépare les repas
+BAR|1|Comptoir où l'on sert des boissons
+PAIN|1|Aliment fait de farine, d'eau et de levain, cuit au four
+RESTAURANT|1|Établissement où l'on paie pour manger un repas
+HUILE|1|Matière grasse liquide, comme celle d'olive ou de tournesol
+VIANDE|1|Chair des animaux que l'on mange
+CRU|1|Se dit d'un aliment qui n'a pas été cuit
+SUCRE|1|Produit blanc et doux que l'on met dans le café
+BIERE|1|Boisson alcoolisée faite avec de l'orge et du houblon
+CREME|1|Partie grasse du lait, que l'on peut fouetter
+SEL|1|Assaisonnement blanc qui donne du goût, tiré de la mer
+GRAS|2|Se dit d'un aliment riche en beurre ou en huile
+JUS|1|Boisson obtenue en pressant des fruits
+FROMAGE|1|Aliment fait de lait caillé, comme le camembert
+BEURRE|1|Matière grasse jaune obtenue en battant la crème
+SAUCE|1|Préparation liquide qui accompagne un plat
+GATEAU|1|Pâtisserie sucrée, comme celle d'anniversaire
+MENU|1|Liste des plats proposés dans un restaurant
+SOUPE|1|Plat liquide fait de légumes cuits dans de l'eau
+CAVE|2|Pièce fraîche où l'on conserve les bouteilles de vin
+ROUX|3|Mélange de beurre et de farine cuits, base de la béchamel
+CANAPE|2|Petite tranche de pain garnie, servie à l'apéritif
+MIEL|1|Produit sucré fabriqué par les abeilles
+GOUTER|1|Petit repas de l'après-midi
+DESSERT|1|Plat sucré servi à la fin du repas
+FARINE|1|Poudre de blé moulu qui sert à faire le pain
+CUIRE|1|Chauffer un aliment pour qu'il soit prêt à manger
+TARTE|1|Pâtisserie faite d'une pâte garnie de fruits ou de crème
+PUREE|1|Pommes de terre écrasées avec du lait et du beurre
+COCKTAIL|1|Boisson faite d'un mélange de plusieurs ingrédients
+BARBECUE|1|Appareil pour griller la viande en plein air
+SALE|1|Se dit d'un plat qui contient du sel, par opposition à sucré
+PAVE|2|Épais morceau de bœuf ou de poisson
+BACON|1|Fines tranches de lard fumé
+CUISINIER|1|Personne qui prépare les repas
+CROUTE|1|Partie extérieure et dure du pain
+CHOCOLAT|1|Aliment fait à partir de cacao
+TIRAMISU|2|Dessert italien au mascarpone, au café et aux biscuits
+PAELLA|2|Plat espagnol de riz au safran, aux fruits de mer et au poulet
+PIZZA|1|Galette italienne garnie de tomate et de fromage
+RISOTTO|2|Plat italien de riz crémeux cuit avec du bouillon
+TAJINE|2|Plat marocain mijoté dans un récipient au couvercle conique
+CANNELLE|2|Épice brune tirée de l'écorce d'un arbre, parfum du vin chaud
+PERSIL|1|Herbe verte hachée que l'on parsème sur les plats
+ROMARIN|2|Herbe aux feuilles en aiguilles, pour parfumer les grillades
+AIL|1|Petit bulbe à gousses au goût fort
+ECHALOTE|2|Petit bulbe proche de l'oignon, au goût plus doux
+ROQUEFORT|2|Fromage bleu au lait de brebis, affiné dans des grottes
+BRIE|2|Fromage à croûte blanche, originaire de la région de Meaux
+POTAUFEU|2|Plat de bœuf et de légumes cuits longtemps dans un bouillon
+CHOUQUETTE|2|Petit chou de pâtisserie couvert de grains de sucre
+RIZ|1|Petits grains blancs que l'on cuit à l'eau
+PATES|1|Spaghettis, coquillettes ou tagliatelles
+FRITES|1|Bâtonnets de pommes de terre cuits dans l'huile
+STEAK|1|Tranche de bœuf grillée
+GELEE|2|Jus de fruits sucré qui prend en refroidissant
+PATISSERIE|1|Boutique où l'on vend des gâteaux
+MADELEINE|1|Petit gâteau moelleux en forme de coquille
+CARAMEL|1|Sucre chauffé jusqu'à devenir brun
+CONFITURE|1|Fruits cuits avec du sucre, que l'on tartine
+CASSEROLE|1|Récipient à manche pour faire chauffer les aliments
+YAOURT|1|Lait fermenté que l'on mange à la cuillère
+SODA|1|Boisson sucrée et gazeuse
+DEGUSTER|2|Goûter lentement pour apprécier la saveur
+CONSOMME|3|Bouillon de viande clarifié, servi en début de repas
+BOUILLIR|1|Chauffer un liquide jusqu'à ce qu'il fasse des bulles
+GALETTE|1|___ des rois : gâteau qui cache une fève
+CAVIAR|2|Œufs d'esturgeon, mets de luxe
+CIDRE|1|Boisson pétillante faite avec des pommes
+BISCUIT|1|Petit gâteau sec et croquant
+CAKE|2|Gâteau rectangulaire aux fruits confits
+MIE|2|Partie molle à l'intérieur du pain
+SAFRAN|2|Épice rouge très chère, tirée d'une fleur
+OMELETTE|1|Œufs battus cuits à la poêle
+KETCHUP|1|Sauce à la tomate sucrée, servie avec les frites
+FONDUE|2|Plat savoyard où l'on trempe du pain dans du fromage fondu
+CREPE|1|Fine galette de pâte cuite à la poêle
+LEVURE|2|Poudre qui fait gonfler la pâte
+CHARLOTTE|3|Dessert entouré de biscuits à la cuillère
+MILLESIME|3|Année de récolte du raisin indiquée sur une bouteille de vin
+FICELLE|3|Baguette de pain très fine
+SUSHI|1|Bouchée japonaise de riz et de poisson cru
+GRATIN|2|Plat couvert de fromage doré au four
+LIQUEUR|2|Boisson alcoolisée sucrée et parfumée
+BOURGUIGNON|2|Bœuf mijoté au vin rouge
+BRIOCHE|1|Pain moelleux et sucré au beurre
+BISTROT|1|Petit café-restaurant simple
+ROTI|2|Pièce de viande cuite au four
+SAUCISSON|1|Charcuterie sèche que l'on coupe en rondelles
+FLAN|2|Dessert à base d'œufs et de lait, cuit au four
+APERITIF|1|Boisson servie avant le repas
+TOFU|3|Pâté de soja blanc, très utilisé en cuisine asiatique
+COUSCOUS|1|Plat de semoule servi avec des légumes et de la viande
+KEBAB|1|Sandwich de viande grillée à la broche
+GIN|2|Alcool blanc parfumé au genièvre
+GRIGNOTER|1|Manger par petites quantités, entre les repas
+COMPOTE|1|Fruits cuits et écrasés, comme celle de pommes
+CHANTILLY|1|Crème fouettée sucrée
+TARTINE|1|Tranche de pain recouverte de beurre ou de confiture
+EPICE|1|Substance qui donne du goût, comme le poivre ou le curry
+GARNITURE|2|Ce qui accompagne le plat principal, comme les légumes
+INFUSION|2|Boisson chaude faite de plantes trempées dans l'eau bouillante
+NECTAR|3|Jus de fruits épais, additionné d'eau et de sucre
+SPIRITUEUX|3|Boisson très alcoolisée, comme le cognac ou le whisky
+QUENELLE|3|Boulette allongée de farine et de poisson, spécialité lyonnaise
+QUICHE|1|Tarte salée aux œufs, à la crème et aux lardons
+TOAST|1|Tranche de pain grillé
+CHOUCROUTE|2|Chou fermenté servi avec de la charcuterie, plat alsacien
+LIMONADE|1|Boisson gazeuse au citron
+GOURMET|2|Personne qui apprécie la bonne cuisine
+RATATOUILLE|1|Plat provençal de légumes mijotés
+CONFIT|3|Cuisse de canard cuite et conservée dans sa graisse
+PINARD|3|Vin ordinaire, en langage familier
+TOQUE|2|Haute coiffe blanche du chef cuisinier
+FRITURE|2|Poissons ou aliments cuits dans l'huile bouillante
+PASTIS|2|Boisson à l'anis du Midi, que l'on allonge d'eau
+AUBERGINE|2|Légume violet de la moussaka
+POUTINE|3|Plat québécois de frites, de fromage et de sauce
+TRIPES|3|Plat fait d'estomac de bœuf cuit en sauce
+NUTELLA|1|Pâte à tartiner au chocolat et aux noisettes
+BEAUFORT|3|Fromage savoyard à pâte dure
+FRIT|1|Cuit dans l'huile bouillante
+CHEF|1|Personne qui dirige la cuisine d'un restaurant
+FRIRE|2|Cuire dans de l'huile très chaude
+MIXEUR|1|Appareil électrique qui broie et mélange les aliments
+RAGOUT|2|Viande et légumes cuits longtemps en sauce
+MOZZARELLA|1|Fromage italien blanc et moelleux, de la pizza
+BAVAROISE|3|Dessert à la crème, moulé et servi froid
+MACARON|1|Petit gâteau rond et coloré, fait de deux coques fourrées
+VINAIGRETTE|1|Sauce faite d'huile et de vinaigre pour la salade
+NOUILLE|1|Pâte alimentaire en longs rubans
+PAPRIKA|2|Épice rouge en poudre, faite de piment doux
+SOMMELIER|2|Spécialiste du vin dans un restaurant
+BEIGNET|1|Pâte frite, souvent sucrée
+MIJOTER|2|Cuire doucement et longtemps
+MARGARINE|2|Matière grasse végétale qui remplace le beurre
+THEIERE|1|Récipient dans lequel on prépare le thé
+VELOUTE|2|Soupe épaisse et onctueuse
+SPATULE|2|Ustensile plat qui sert à mélanger ou à retourner
+GIGOT|2|Cuisse d'agneau rôtie
+NOUGAT|2|Confiserie aux amandes et au miel, spécialité de Montélimar
+GAUFRE|1|Gâteau léger cuit entre deux plaques quadrillées
+COULIS|2|Sauce faite de fruits mixés
+SAKE|3|Alcool de riz japonais
+SORBET|2|Glace à l'eau et aux fruits, sans lait
+CANTAL|3|Fromage d'Auvergne à pâte pressée
+PARMENTIER|2|Hachis ___ : plat de viande hachée couverte de purée
+BENTO|3|Boîte-repas japonaise à compartiments
+FRIANDISE|1|Petite douceur sucrée
+MUFFIN|2|Petit gâteau rond et gonflé, d'origine anglaise
+BROWNIE|2|Gâteau américain fondant au chocolat
+HOUMOUS|2|Purée de pois chiches au sésame
+TOURTE|3|Tarte recouverte d'un couvercle de pâte
+CARBONARA|2|Sauce pour pâtes à la crème, aux lardons et à l'œuf
+CASSOULET|2|Plat de haricots blancs et de saucisses, spécialité de Castelnaudary
+MERINGUE|2|Pâtisserie légère faite de blancs d'œufs et de sucre
+USTENSILE|2|Objet qui sert à cuisiner
+HACHOIR|3|Appareil qui sert à hacher la viande
+INFUSER|3|Laisser tremper dans un liquide chaud pour en tirer l'arôme
+CRACKER|3|Petit biscuit salé et croustillant
+CROQUETTE|3|Boulette panée et frite
+MICHE|3|Gros pain rond
+GUACAMOLE|2|Purée d'avocat mexicaine
+TARTIFLETTE|1|Gratin savoyard de pommes de terre, de lardons et de reblochon
+BECHAMEL|2|Sauce blanche au lait, au beurre et à la farine
+MARMELADE|3|Confiture de fruits écrasés, souvent d'oranges
+BRETZEL|3|Biscuit salé en forme de nœud, spécialité alsacienne
+POLENTA|3|Bouillie de farine de maïs, d'origine italienne
+SANGRIA|2|Boisson espagnole de vin rouge et de fruits
+BLANQUETTE|2|Veau cuit dans une sauce blanche
+MILLEFEUILLE|2|Pâtisserie faite de couches de pâte feuilletée et de crème
+MINUTEUR|2|Appareil qui sonne à la fin du temps de cuisson
+HACHIS|3|Viande hachée finement
+MARGHERITA|3|Pizza à la tomate, à la mozzarella et au basilic
+CAVISTE|3|Marchand de vins
+MILKSHAKE|2|Boisson de lait battu avec de la glace
+PRALINE|3|Amande enrobée de sucre caramélisé
+BOUILLABAISSE|2|Soupe de poissons, spécialité marseillaise
+GROG|3|Boisson chaude au rhum, au citron et au miel
+PETRIR|2|Travailler la pâte avec les mains
+TAPAS|2|Petites portions servies à l'apéritif en Espagne
+PLANCHA|2|Plaque de métal chauffée pour griller les aliments
+CHAPELURE|3|Pain sec réduit en poudre, pour paner
+LARDON|1|Petit morceau de lard
+REBLOCHON|2|Fromage savoyard de la tartiflette
+CLAFOUTIS|2|Gâteau aux cerises cuit au four, spécialité du Limousin
+ENTREMETS|3|Dessert à base de crème et de mousse, en plusieurs couches
+POIVRE|1|Épice en petits grains noirs, souvent associée au sel
+CHUTNEY|3|Condiment aigre-doux de fruits cuits, d'origine indienne
+GASPACHO|2|Soupe froide espagnole à la tomate
+POTEE|3|Plat de chou, de porc et de légumes cuits ensemble
+FETA|2|Fromage grec de brebis, en cubes dans la salade
+MASCARPONE|3|Fromage italien crémeux du tiramisu
+OENOLOGUE|3|Spécialiste du vin et de sa fabrication
+CROUTON|2|Petit morceau de pain grillé que l'on met dans la soupe
+ROGNON|3|Rein d'animal cuisiné
+AIOLI|3|Sauce provençale à l'ail et à l'huile d'olive
+MECHOUI|3|Agneau entier rôti à la broche
+SAUCIER|3|Cuisinier chargé de préparer les sauces
+PAPILLOTE|3|Feuille de papier ou d'aluminium dans laquelle on cuit un aliment
+PISTOU|3|Sauce au basilic et à l'ail, spécialité niçoise
+BISQUE|3|Potage épais de crustacés
+PILAF|3|Riz revenu dans le beurre puis cuit dans un bouillon
+MOUSSAKA|2|Gratin grec d'aubergines et de viande hachée
+FOUGASSE|3|Pain plat provençal, souvent garni d'olives
+SASHIMI|3|Tranches de poisson cru servies sans riz
+PANURE|3|Couche de chapelure qui enrobe un aliment frit
+PROFITEROLE|2|Petit chou garni de glace et nappé de chocolat chaud
+POULET|1|Volaille que l'on rôtit au four
+JAMBON|1|Charcuterie faite de cuisse de porc
+SAUCISSE|1|Viande hachée dans un boyau
+OEUF|1|Aliment pondu par la poule, que l'on mange à la coque ou au plat
+LAIT|1|Boisson blanche donnée par la vache
+THE|1|Boisson chaude faite de feuilles infusées
+EAU|1|Boisson indispensable, plate ou gazeuse
+SIROP|1|Liquide sucré que l'on mélange à de l'eau
+GLACE|1|Dessert froid servi en boules
+BONBON|1|Petite friandise au sucre
+SANDWICH|1|Deux tranches de pain avec une garniture
+HAMBURGER|1|Sandwich rond garni d'un steak haché
+HOTDOG|1|Sandwich composé d'une saucisse dans un petit pain
+BAGUETTE|1|Pain long et fin
+SALADE|1|Plat froid de feuilles vertes assaisonnées
+POELE|1|Ustensile plat à long manche pour faire sauter les aliments
+FOUR|1|Appareil fermé dans lequel on fait cuire les plats
+FRIGO|1|Appareil qui garde les aliments au froid
+FOURCHETTE|1|Couvert à dents qui sert à piquer les aliments
+COUTEAU|1|Couvert à lame qui sert à couper
+CUILLERE|1|Couvert creux pour manger la soupe
+ASSIETTE|1|Pièce de vaisselle dans laquelle on mange
+VERRE|1|Récipient dans lequel on boit
+TASSE|1|Petit récipient à anse pour boire le café
+BOL|1|Récipient rond sans anse, pour le lait du matin
+PLAT|1|Mets principal d'un repas
+REPAS|1|Nourriture prise à heures fixes
+DEJEUNER|1|Repas de midi
+DINER|1|Repas du soir
+PETITDEJEUNER|1|Premier repas de la journée
+PIQUENIQUE|1|Repas pris en plein air
+RECETTE|1|Liste des ingrédients et des étapes pour préparer un plat
+INGREDIENT|1|Élément qui entre dans la préparation d'un plat
+GOURMAND|1|Qui aime manger, surtout les bonnes choses
+FAIM|1|Envie de manger
+SOIF|1|Envie de boire
+MOUTARDE|1|Condiment jaune et piquant, spécialité de Dijon
+MAYONNAISE|1|Sauce froide à l'œuf et à l'huile
+VINAIGRE|1|Liquide acide utilisé pour assaisonner
+CORNICHON|1|Petit concombre conservé dans le vinaigre
+CHAMPAGNE|1|Vin pétillant que l'on boit pour faire la fête
+WHISKY|2|Alcool de grain, spécialité écossaise
+RHUM|2|Alcool de canne à sucre des Antilles
+COGNAC|2|Eau-de-vie de vin de Charente
+TEQUILA|2|Alcool mexicain tiré de l'agave
+VODKA|2|Alcool blanc d'origine russe ou polonaise
+CAMEMBERT|1|Fromage normand rond à croûte blanche
+GRUYERE|1|Fromage à pâte dure, souvent râpé
+PARMESAN|2|Fromage italien dur, râpé sur les pâtes
+BOULANGER|1|Artisan qui fabrique le pain
+BOULANGERIE|1|Boutique où l'on achète le pain
+BOUCHERIE|1|Boutique où l'on achète la viande
+CHARCUTERIE|1|Produits à base de porc, comme le saucisson et le jambon
+EPICERIE|1|Petit magasin d'alimentation
+BRASSERIE|2|Grand café-restaurant où l'on sert des plats simples
+SERVEUR|1|Personne qui apporte les plats à table
+POURBOIRE|1|Argent laissé au serveur en remerciement
+NAPPE|1|Grand tissu qui couvre la table
+SERVIETTE|1|Morceau de tissu pour s'essuyer la bouche à table
+TIREBOUCHON|1|Outil qui sert à ouvrir les bouteilles de vin
+DECAPSULEUR|2|Outil qui sert à ouvrir les bouteilles de bière
+ECONOME|2|Couteau qui sert à éplucher les légumes
+FOUET|2|Ustensile en fil de métal pour battre les œufs
+PASSOIRE|1|Ustensile percé de trous pour égoutter les pâtes
+RAPE|2|Ustensile pour réduire le fromage en filaments
+ROULEAU|1|___ à pâtisserie : cylindre pour étaler la pâte
+BALANCE|1|Appareil qui sert à peser les ingrédients
+LOUCHE|1|Grande cuillère pour servir la soupe
+COCOTTE|2|Marmite en fonte pour les plats mijotés
+MARMITE|2|Grand récipient à couvercle pour faire cuire
+WOK|2|Poêle asiatique profonde
+GRILLE|2|Support métallique du four ou du barbecue
+CONGELATEUR|1|Appareil qui conserve les aliments à très basse température
+MICROONDES|1|Four qui réchauffe très vite les aliments
+CAFETIERE|1|Appareil qui sert à faire le café
+GRILLEPAIN|1|Appareil qui fait griller les tranches de pain
+EPLUCHER|1|Retirer la peau d'un fruit ou d'un légume
+EMINCER|3|Couper en tranches très fines
+HACHER|2|Couper en tout petits morceaux
+FOUETTER|2|Battre vivement une crème ou des blancs d'œufs
+DORER|2|Faire cuire jusqu'à ce que ce soit bien coloré
+GRILLER|1|Faire cuire sur le feu ou sous le gril
+ROTIR|2|Faire cuire au four à feu vif
+POCHER|3|Cuire dans un liquide qui frémit
+FLAMBER|2|Arroser d'alcool et y mettre le feu
+SAUPOUDRER|2|Couvrir d'une fine couche de poudre, comme du sucre
+NAPPER|3|Recouvrir d'une couche de sauce
+GLACER|3|Recouvrir un gâteau d'un mélange brillant de sucre
+ASSAISONNER|2|Ajouter du sel, du poivre ou des épices
+MARINER|3|Laisser tremper dans une préparation pour attendrir et parfumer
+SAVEUR|2|Goût d'un aliment
+AMER|2|Goût fort et désagréable, comme celui du café sans sucre
+PIQUANT|2|Se dit d'un plat très épicé
+FADE|2|Qui manque de goût
+SAIGNANT|2|Se dit d'une viande à peine cuite
+APOINT|3|Se dit d'une viande cuite juste ce qu'il faut
+ALDENTE|3|Se dit de pâtes cuites mais encore fermes
+CURRY|1|Mélange d'épices jaune, d'origine indienne
+VANILLE|1|Gousse parfumée utilisée dans les desserts
+MUSCADE|2|Noix râpée qui parfume la béchamel
+CUMIN|2|Épice aux petites graines, très utilisée au Maghreb
+GINGEMBRE|2|Racine au goût piquant et citronné
+CLOU|2|___ de girofle : épice en forme de petite pointe
+THYM|2|Herbe aromatique de Provence
+BASILIC|1|Herbe aromatique du pesto
+CIBOULETTE|2|Herbe en fines tiges vertes, au goût d'oignon
+LAURIER|2|Feuille aromatique ajoutée aux plats mijotés
+ESTRAGON|3|Herbe aromatique de la sauce béarnaise
+CORIANDRE|2|Herbe aromatique très utilisée en cuisine asiatique
+MENTHE|1|Plante au goût frais, utilisée dans le thé marocain
+PESTO|2|Sauce italienne au basilic, au parmesan et aux pignons
+LASAGNES|1|Plat de pâtes en couches avec de la viande et de la béchamel
+SPAGHETTIS|1|Longues pâtes fines
+RAVIOLIS|1|Petits carrés de pâte farcis
+GNOCCHIS|3|Petites boulettes de pomme de terre, d'origine italienne
+COQUILLETTES|2|Petites pâtes courbées
+CANNELLONIS|3|Gros tubes de pâte farcis et gratinés
+CROQUEMBOUCHE|3|Pièce montée de choux caramélisés
+PIECEMONTEE|2|Grand gâteau de mariage fait de choux empilés
+BUCHE|1|Gâteau roulé en forme de morceau de bois, servi à Noël
+FORETNOIRE|3|Gâteau au chocolat, aux cerises et à la chantilly
+PARISBREST|3|Pâtisserie en couronne garnie de crème pralinée
+TARTETATIN|2|Tarte aux pommes caramélisées, cuite à l'envers
+FINANCIER|3|Petit gâteau rectangulaire aux amandes
+CANNELE|3|Petit gâteau bordelais au rhum et à la vanille
+KOUIGNAMANN|3|Gâteau breton très riche en beurre et en sucre
+CALISSON|3|Confiserie d'Aix-en-Provence à base d'amandes
+DRAGEE|2|Amande recouverte de sucre, offerte lors des baptêmes
+GUIMAUVE|2|Bonbon mou et sucré
+SUCETTE|1|Bonbon fixé au bout d'un bâton
+CHEWINGGUM|1|Pâte que l'on mâche sans l'avaler
+PANCAKE|2|Petite crêpe épaisse d'origine américaine
+CHOCOLATINE|2|Autre nom du pain au chocolat dans le Sud-Ouest
+VIENNOISERIE|2|Croissant, pain au chocolat ou brioche
+FEUILLETE|3|Se dit d'une pâte formée de fines couches
+CHAUSSON|2|___ aux pommes : pâte feuilletée repliée sur une compote
+CROQUANT|2|Qui craque sous la dent
+MOELLEUX|2|Gâteau au chocolat au cœur fondant
+FONDANT|2|Qui fond dans la bouche
+GOURMANDISE|2|Plaisir de manger de bonnes choses
+DIETETIQUE|3|Qui concerne une alimentation équilibrée
+VEGETARIEN|2|Qui ne mange pas de viande
+VEGAN|3|Qui ne consomme aucun produit d'origine animale
+BIO|2|Se dit d'un aliment cultivé sans produit chimique
+RESTAURATEUR|2|Personne qui tient un restaurant
+TRAITEUR|3|Commerçant qui vend des plats préparés
+CANTINE|1|Restaurant d'une école ou d'une entreprise
+SELF|2|Restaurant où l'on se sert soi-même
+FASTFOOD|2|Restauration rapide
+BRUNCH|2|Repas qui réunit petit déjeuner et déjeuner
+BUFFET|2|Table où les plats sont disposés et où chacun se sert
+VENDANGES|2|Récolte du raisin
+VIGNERON|2|Personne qui cultive la vigne et fait le vin
+VIGNOBLE|2|Ensemble de vignes d'une région
+CEPAGE|3|Variété de vigne, comme le merlot ou le chardonnay
+BEAUJOLAIS|2|Vin rouge dont le nouveau est fêté en novembre
+BOUCHON|1|Ce qui ferme une bouteille de vin
+TONNEAU|2|Grand récipient en bois où vieillit le vin
+CARAFE|2|Récipient en verre pour servir l'eau ou le vin
+APERO|1|Moment convivial où l'on boit un verre avant le repas
+TRINQUER|2|Choquer son verre contre celui des autres avant de boire
+IVRE|2|Qui a trop bu d'alcool
+CHOPE|2|Grand verre à bière muni d'une anse
+BLONDE|2|Bière de couleur claire
+MOJITO|2|Cocktail cubain au rhum, à la menthe et au citron vert
+SPRITZ|3|Cocktail italien orangé, à l'apéritif amer
+KIR|2|Apéritif de vin blanc et de crème de cassis
+PANACHE|2|Mélange de bière et de limonade
+SMOOTHIE|2|Boisson épaisse de fruits mixés
+CAPPUCCINO|2|Café surmonté de mousse de lait
+EXPRESSO|1|Café serré et fort
+DECA|2|Café sans caféine
+TISANE|1|Boisson chaude faite de plantes
+CHOCOLATCHAUD|1|Boisson chaude au cacao
+BRUNOISE|3|Légumes taillés en tout petits dés
+JULIENNE|3|Légumes coupés en fins bâtonnets
+CHIFFONNADE|3|Feuilles de salade ou d'herbes coupées en fines lanières
+MIREPOIX|3|Dés de carotte, d'oignon et de céleri qui parfument une sauce
+BOUQUETGARNI|2|Petit fagot de thym, de laurier et de persil qui parfume un plat
+BEARNAISE|2|Sauce au beurre, à l'œuf et à l'estragon, servie avec la viande
+HOLLANDAISE|3|Sauce chaude au beurre et au jaune d'œuf, parfumée au citron
+FUMET|3|Bouillon concentré de poisson qui sert de base aux sauces
+DEGLACER|3|Verser un liquide dans une poêle chaude pour décoller les sucs
+BLANCHIR|3|Plonger quelques instants un aliment dans l'eau bouillante
+REDUIRE|3|Faire évaporer une sauce pour la rendre plus épaisse
+FONCER|3|Garnir un moule d'une pâte
+ZESTER|3|Prélever la fine peau parfumée d'un agrume
+BRAISER|3|Cuire longuement à couvert avec un peu de liquide
+DESOSSER|3|Retirer les os d'une viande
+CARAMELISER|2|Recouvrir de sucre fondu et doré
+TORREFIER|3|Griller les grains de café pour développer leur arôme
+MACERER|3|Laisser tremper des fruits dans de l'alcool ou du sirop
+DECANTER|3|Verser un vin dans une carafe pour l'aérer
+CHAMBRER|3|Laisser un vin rouge prendre la température de la pièce
+AMUSEBOUCHE|2|Petite bouchée servie avant le repas
+TERRINE|2|Pâté cuit dans un plat en terre
+RILLETTES|2|Viande de porc cuite longuement dans sa graisse, à tartiner
+ANDOUILLETTE|3|Saucisse faite de tripes de porc, spécialité de Troyes
+BOUDIN|2|Charcuterie noire faite de sang de porc
+MAGRET|2|Filet de canard gras
+FOIEGRAS|1|Foie de canard ou d'oie engraissé, servi à Noël
+CARPACCIO|3|Fines tranches de bœuf cru assaisonnées d'huile d'olive
+TARTARE|2|Viande de bœuf hachée et mangée crue
+CEVICHE|3|Poisson cru mariné dans du citron vert, spécialité d'Amérique du Sud
+TEMPURA|3|Beignet japonais très léger de légumes ou de crevettes
+RAMEN|3|Soupe japonaise de nouilles dans un bouillon
+NEM|1|Petit rouleau frit vietnamien, que l'on enroule dans une feuille de salade
+FALAFEL|3|Boulette frite de pois chiches, du Proche-Orient
+TABOULE|2|Salade de semoule, de tomates et de menthe
+BRANDADE|3|Purée de morue et de pommes de terre, spécialité de Nîmes
+PISSALADIERE|3|Tarte niçoise aux oignons, aux anchois et aux olives
+SOCCA|3|Galette de farine de pois chiches, spécialité niçoise
+KOUGLOF|3|Gâteau alsacien en couronne, aux raisins secs
+BABA|2|___ au rhum : gâteau imbibé de sirop alcoolisé
+VACHERIN|3|Dessert glacé fait de meringue et de chantilly
+SAINTHONORE|3|Gâteau de choux caramélisés et de crème chiboust
+GANACHE|3|Crème de chocolat et de crème fraîche, pour garnir les gâteaux
+NOUGATINE|3|Caramel dur mélangé à des amandes concassées
+TRUFFE|2|Bonbon au chocolat roulé dans du cacao
+CREMEBRULEE|2|Dessert à la crème couvert de sucre caramélisé au chalumeau
+ILEFLOTTANTE|2|Blanc d'œuf poché flottant sur une crème anglaise
+CREMEANGLAISE|2|Crème liquide à la vanille, faite de lait et de jaunes d'œufs
+CRUMBLE|2|Dessert de fruits recouverts d'une pâte qui s'émiette
+CHEESECAKE|2|Gâteau américain au fromage frais
+WAFFLE|3|Mot anglais pour désigner la gaufre
+BRIOCHER|3|Donner à une pâte la texture moelleuse de la brioche
+LEVAIN|3|Pâte fermentée qui fait lever le pain
+FOURNIL|3|Pièce où le boulanger pétrit et cuit le pain
+PETRIN|3|Coffre ou machine où l'on pétrit la pâte
+PATISSIER|1|Artisan qui fabrique des gâteaux
+CONFISEUR|3|Artisan qui fabrique des bonbons et des confiseries
+CHOCOLATIER|2|Artisan qui fabrique des chocolats
+FROMAGER|2|Commerçant qui vend des fromages
+AFFINEUR|3|Artisan qui fait mûrir les fromages en cave
+BRASSEUR|3|Fabricant de bière
+DISTILLERIE|3|Usine où l'on fabrique de l'alcool par distillation
+ALAMBIC|3|Appareil en cuivre qui sert à distiller l'alcool
+EAUDEVIE|2|Alcool fort obtenu par distillation de fruits
+CALVADOS|2|Eau-de-vie de cidre, spécialité normande
+ARMAGNAC|3|Eau-de-vie de vin de Gascogne
+CHARTREUSE|3|Liqueur verte fabriquée par des moines
+GENEPI|3|Liqueur de plante de montagne
+ANISETTE|3|Liqueur parfumée à l'anis
+DIGESTIF|2|Alcool que l'on boit après le repas
+CROISSANT|1|Viennoiserie feuilletée en forme de demi-lune

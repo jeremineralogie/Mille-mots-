@@ -1,0 +1,324 @@
+# MOT|niveau|définition
+HISTOIRE|1|Étude des événements du passé
+ROI|1|Souverain qui règne sur un royaume
+REINE|1|Épouse du roi, ou femme qui règne
+PRINCE|1|Fils d'un roi
+PRINCESSE|1|Fille d'un roi
+EMPEREUR|1|Souverain qui règne sur un empire
+EMPIRE|1|Ensemble de territoires gouvernés par un empereur
+ROYAUME|1|Pays gouverné par un roi
+CHATEAU|1|Grande demeure fortifiée d'un seigneur
+CHEVALIER|1|Guerrier noble du Moyen Âge qui combattait à cheval
+SEIGNEUR|2|Noble qui possédait une terre et commandait à ses paysans au Moyen Âge
+NOBLE|2|Personne titrée, comme un duc ou un comte
+NOBLESSE|2|Classe de ceux qui portent un titre, comme les ducs et les comtes
+DUC|2|Titre de noblesse le plus élevé après celui de prince
+COMTE|2|Titre de noblesse, entre le marquis et le vicomte
+MARQUIS|2|Titre de noblesse, entre le duc et le comte
+BARON|2|Titre de noblesse le moins élevé, après le vicomte
+VICOMTE|3|Titre de noblesse entre le comte et le baron
+VASSAL|3|Au Moyen Âge, homme qui doit fidélité à son seigneur
+FIEF|3|Terre qu'un seigneur confiait à son vassal
+SERF|3|Paysan du Moyen Âge attaché à la terre de son seigneur
+FEODALITE|3|Organisation de la société du Moyen Âge autour des seigneurs
+MOYENAGE|1|Période de l'histoire entre l'Antiquité et la Renaissance
+ANTIQUITE|2|Période de l'histoire des Grecs et des Romains
+PREHISTOIRE|1|Période avant l'invention de l'écriture
+RENAISSANCE|2|Période de renouveau des arts et des sciences au XVIe siècle
+REVOLUTION|1|Bouleversement brutal du pouvoir, comme celui de 1789
+GUERRE|1|Conflit armé entre des pays
+BATAILLE|1|Combat entre deux armées
+ARMEE|1|Ensemble des soldats d'un pays
+SOLDAT|1|Homme qui sert dans l'armée
+GENERAL|1|Officier qui commande une armée
+OFFICIER|2|Militaire qui a un grade de commandement, comme le capitaine
+CAPORAL|2|Premier grade au-dessus du simple soldat
+SERGENT|2|Sous-officier chargé d'encadrer les soldats
+COLONEL|2|Officier qui commande un régiment
+MARECHAL|2|Plus haute distinction militaire en France
+REGIMENT|2|Grande unité de soldats commandée par un colonel
+CASERNE|2|Bâtiment où logent les soldats
+UNIFORME|1|Tenue que portent tous les soldats
+LANCE|2|Longue arme pointue des chevaliers
+BOUCLIER|1|Plaque que tient le guerrier pour se protéger des coups
+ARMURE|1|Ensemble de pièces de métal qui protège le chevalier
+CASQUE|1|Protection que l'on porte sur la tête
+ARC|1|Arme qui lance des flèches
+FLECHE|1|Projectile pointu lancé avec un arc
+CATAPULTE|2|Machine de guerre qui lance de grosses pierres
+CANON|1|Grosse arme à feu qui tire des boulets
+FUSIL|1|Arme à feu à long canon
+REMPART|2|Grand mur qui protège une ville fortifiée
+DONJON|2|Tour principale d'un château fort
+PONTLEVIS|2|Pont qui se relève pour fermer l'entrée d'un château
+DOUVES|2|Fossés remplis d'eau autour d'un château
+CREMEAUX|3|Ouvertures en haut d'un rempart, entre lesquelles s'abritaient les défenseurs
+BLASON|2|Dessin qui représente les armoiries d'une famille noble
+ARMOIRIES|3|Emblème d'une famille noble ou d'une ville
+HERALDIQUE|3|Science qui étudie les blasons
+COURONNE|1|Bijou en cercle que le roi porte sur la tête
+SCEPTRE|2|Bâton de commandement du roi
+TRONE|1|Siège du roi
+SACRE|2|Cérémonie religieuse où l'on couronne un roi
+DYNASTIE|2|Suite de souverains d'une même famille
+MONARCHIE|2|Régime où le pouvoir appartient à un roi
+REPUBLIQUE|1|Régime où le peuple élit ses représentants
+DICTATURE|2|Régime où un seul homme a tous les pouvoirs
+TYRAN|2|Souverain cruel qui abuse de son pouvoir
+PHARAON|1|Souverain de l'Égypte antique
+PYRAMIDE|1|Immense tombeau des pharaons
+MOMIE|1|Corps embaumé et entouré de bandelettes
+HIEROGLYPHE|2|Signe de l'écriture des anciens Égyptiens
+SARCOPHAGE|2|Cercueil de pierre des pharaons
+SPHINX|2|Statue géante à corps de lion et à tête humaine près des pyramides
+CLEOPATRE|2|Dernière reine d'Égypte, alliée de César
+TOUTANKHAMON|2|Jeune pharaon dont le tombeau a été découvert intact en 1922
+ROMAIN|1|Habitant de la Rome antique
+GLADIATEUR|1|Combattant qui affrontait d'autres hommes ou des fauves dans l'arène
+COLISEE|2|Immense amphithéâtre de Rome où combattaient les gladiateurs
+LEGION|2|Grande unité de l'armée romaine
+LEGIONNAIRE|2|Soldat d'une légion romaine
+CENTURION|3|Officier romain qui commandait cent hommes
+CESAR|1|Général romain qui a conquis la Gaule
+AUGUSTE|3|Premier empereur romain
+NERON|2|Empereur romain accusé d'avoir incendié Rome
+SENAT|2|Assemblée qui conseillait les consuls dans la Rome antique
+TOGE|2|Grande pièce d'étoffe que portaient les Romains
+AQUEDUC|2|Canal en hauteur construit par les Romains pour amener l'eau
+GAULE|1|Nom de la France à l'époque des Romains
+GAULOIS|1|Habitant de l'ancienne Gaule
+VERCINGETORIX|2|Chef gaulois qui a résisté à César
+ALESIA|2|Bataille où Vercingétorix fut vaincu par César
+DRUIDE|2|Prêtre des Gaulois
+CELTE|3|Peuple de l'Antiquité dont faisaient partie les Gaulois
+VIKING|1|Guerrier navigateur venu de Scandinavie
+DRAKKAR|2|Long navire des Vikings, à la proue en tête de dragon
+BARBARE|2|Pour les Romains, étranger venu de l'extérieur de l'Empire
+HUNS|3|Peuple guerrier venu d'Asie, mené par Attila
+ATTILA|2|Chef des Huns, surnommé le fléau de Dieu
+CLOVIS|2|Premier roi des Francs à se faire baptiser
+CHARLEMAGNE|1|Empereur couronné en l'an 800, surnommé l'empereur à la barbe fleurie
+CAROLINGIEN|3|De la dynastie de Charlemagne
+MEROVINGIEN|3|De la première dynastie des rois francs, celle de Clovis
+CAPETIEN|3|De la dynastie fondée par Hugues Capet
+SAINTLOUIS|2|Roi de France qui rendait la justice sous un chêne
+CROISADE|2|Expédition militaire des chrétiens vers Jérusalem au Moyen Âge
+CROISE|3|Chevalier qui partait en croisade
+TEMPLIER|3|Moine-soldat d'un ordre de chevaliers du Moyen Âge
+JEANNEDARC|1|Héroïne de la guerre de Cent Ans, brûlée à Rouen
+PESTE|2|Grave épidémie qui a ravagé l'Europe au Moyen Âge
+FRANCOISIER|2|Roi de France vainqueur à Marignan
+MARIGNAN|2|Victoire de François Ier en 1515
+HENRIIV|2|Roi de France qui a signé l'édit de Nantes
+LOUISXIV|1|Roi de France surnommé le Roi-Soleil
+VERSAILLES|1|Château construit pour Louis XIV
+LOUISXVI|2|Roi de France guillotiné en 1793
+BASTILLE|1|Prison prise par les Parisiens le 14 juillet 1789
+GUILLOTINE|1|Machine qui servait à couper la tête des condamnés
+TERREUR|3|Période sanglante de la Révolution, en 1793-1794
+ROBESPIERRE|2|Révolutionnaire, figure de la Terreur, guillotiné en 1794
+DANTON|3|Révolutionnaire guillotiné en 1794
+SANSCULOTTE|3|Révolutionnaire parisien du peuple, en 1789
+MARSEILLAISE|1|Hymne national français, composé en 1792
+NAPOLEON|1|Empereur des Français, vaincu à Waterloo
+BONAPARTE|2|Nom de famille de Napoléon
+WATERLOO|2|Dernière défaite de Napoléon, en 1815
+AUSTERLITZ|2|Grande victoire de Napoléon en 1805
+JOSEPHINE|3|Première épouse de Napoléon
+GROGNARD|3|Vieux soldat de la Garde de Napoléon
+SAINTEHELENE|3|Île où Napoléon est mort en exil
+DREYFUS|3|Officier accusé à tort de trahison, au cœur d'une grande affaire
+POILU|2|Soldat français de la guerre de 1914-1918
+TRANCHEE|2|Fossé où s'abritaient les soldats de 1914-1918
+VERDUN|2|Terrible bataille de 1916
+ARMISTICE|2|Accord qui met fin aux combats, comme celui du 11 novembre 1918
+RESISTANCE|2|Combat clandestin contre l'occupant pendant la Seconde Guerre mondiale
+RESISTANT|2|Personne qui combattait l'occupation allemande
+OCCUPATION|3|Période où la France était occupée par l'armée allemande
+DEBARQUEMENT|1|Arrivée des Alliés sur les plages de Normandie le 6 juin 1944
+LIBERATION|2|Fin de l'occupation allemande en 1944
+DEGAULLE|1|Général qui a lancé l'appel du 18 Juin et fondé la Ve République
+HITLER|2|Dictateur allemand responsable de la Seconde Guerre mondiale
+CHURCHILL|2|Premier ministre britannique pendant la Seconde Guerre mondiale
+STALINE|2|Dictateur de l'Union soviétique
+HOLOCAUSTE|3|Extermination des Juifs par les nazis
+GUERREFROIDE|3|Opposition entre les États-Unis et l'URSS après 1945
+MURDEBERLIN|2|Mur qui a séparé Berlin de 1961 à 1989
+URSS|2|Union soviétique, État communiste disparu en 1991
+GANDHI|2|Homme de paix qui a mené l'Inde vers l'indépendance
+MANDELA|2|Président sud-africain qui a lutté contre l'apartheid
+APARTHEID|3|Régime de séparation raciale en Afrique du Sud
+LINCOLN|2|Président américain qui a aboli l'esclavage
+ESCLAVAGE|2|Fait de posséder des êtres humains comme des biens
+COLONIE|2|Territoire dominé par un pays étranger
+COLONISATION|3|Conquête de territoires lointains par un pays
+INDEPENDANCE|2|Libération d'un pays de la domination d'un autre
+CONQUISTADOR|3|Conquérant espagnol de l'Amérique
+INCA|2|Peuple d'Amérique du Sud dont l'empire était centré sur le Pérou
+AZTEQUE|2|Peuple de l'ancien Mexique
+MAYA|2|Peuple d'Amérique centrale aux grandes pyramides
+MAGELLAN|3|Navigateur dont l'expédition a fait le premier tour du monde
+EXPLORATEUR|1|Voyageur qui découvre des terres inconnues
+DECOUVERTE|1|Fait de trouver quelque chose d'inconnu
+SAMOURAI|2|Guerrier noble du Japon ancien
+SHOGUN|3|Chef militaire qui gouvernait le Japon
+SULTAN|2|Souverain d'un pays musulman
+CALIFE|3|Chef suprême des musulmans dans l'histoire de l'islam
+TSAR|2|Empereur de Russie
+ARCHEOLOGIE|2|Science qui étudie les traces du passé en faisant des fouilles
+ARCHEOLOGUE|2|Scientifique qui fouille le sol pour retrouver des vestiges
+FOUILLE|2|Recherche des vestiges du passé en creusant le sol
+VESTIGE|2|Reste d'un monument ou d'une civilisation ancienne
+RUINE|1|Restes d'un bâtiment détruit
+TOMBEAU|1|Monument où l'on enterre un mort
+CIVILISATION|2|Ensemble des connaissances et de la culture d'un peuple
+SILEX|2|Pierre dure que les hommes préhistoriques taillaient
+MAMMOUTHS|3|Grands éléphants laineux chassés par les hommes préhistoriques
+LASCAUX|2|Grotte ornée de peintures préhistoriques en Dordogne
+CROMAGNON|3|Homme de ___ : premier homme moderne en Europe
+NEANDERTAL|3|Homme de ___ : espèce humaine disparue
+MENHIR|2|Grande pierre dressée par les hommes préhistoriques
+DOLMEN|3|Grande table de pierre de la préhistoire
+CARNAC|3|Site breton aux milliers de menhirs alignés
+STONEHENGE|3|Cercle de pierres préhistorique en Angleterre
+NEOLITHIQUE|3|Période de la préhistoire où l'homme invente l'agriculture
+PALEOLITHIQUE|3|Période de la préhistoire où l'homme taille la pierre
+AGEDUFER|3|Période de la préhistoire où l'on apprend à travailler le fer
+CHRONOLOGIE|2|Ordre des événements dans le temps
+FRISE|2|___ chronologique : ligne du temps qui situe les événements
+SIECLE|1|Période de cent ans
+EPOQUE|1|Période de l'histoire
+DATE|1|Jour précis où un événement s'est produit
+ANCETRE|1|Personne de la famille qui a vécu il y a très longtemps
+HERITAGE|2|Ce qui est transmis par les générations passées
+PATRIMOINE|2|Ensemble des monuments et des biens hérités du passé
+MONUMENT|1|Construction remarquable par son histoire ou sa beauté
+TRAITE|2|Accord signé entre plusieurs pays
+ALLIANCE|2|Accord entre des pays pour s'entraider
+ALLIES|2|Pays qui combattent ensemble contre un ennemi commun
+ENNEMI|1|Adversaire contre qui l'on se bat
+INVASION|2|Entrée de troupes ennemies dans un pays
+SIEGE|2|Encerclement d'une ville pour l'obliger à se rendre
+CONQUETE|2|Fait de s'emparer d'un territoire par les armes
+ASSAUT|2|Attaque violente pour prendre une position
+TREVE|2|Arrêt provisoire des combats
+CAPITULATION|3|Fait de se rendre à l'ennemi
+REDDITION|3|Fait de se rendre
+TRAHISON|2|Fait de passer à l'ennemi
+ESPION|1|Personne qui recueille des secrets pour un autre pays
+VETERAN|2|Ancien soldat qui a fait la guerre
+DRAPEAU|1|Étoffe aux couleurs d'un pays
+TRICOLORE|2|Se dit du drapeau bleu, blanc, rouge
+DEVISE|2|Phrase qui résume un idéal, comme « Liberté, Égalité, Fraternité »
+MARIANNE|2|Figure féminine qui représente la République française
+BICENTENAIRE|3|Deux-centième anniversaire d'un événement
+CENTENAIRE|2|Centième anniversaire d'un événement
+COMMEMORATION|3|Cérémonie en souvenir d'un événement
+TOMBEINCONNU|3|Tombe d'un soldat anonyme sous l'Arc de triomphe
+ARCDETRIOMPHE|2|Monument de Paris érigé à la gloire des armées de Napoléon
+INVALIDES|3|Monument parisien où repose Napoléon
+PANTHEON|2|Monument parisien où reposent les grands hommes
+TUDOR|3|Famille royale anglaise d'Henri VIII et d'Élisabeth Ire
+WINDSOR|3|Famille royale britannique actuelle
+HABSBOURG|3|Grande famille impériale d'Autriche
+MEDICIS|3|Famille de banquiers et de mécènes de Florence
+BOURBON|3|Famille royale française d'Henri IV et de Louis XIV
+VALOIS|3|Famille royale française de François Ier
+ORLEANS|3|Ville délivrée par Jeanne d'Arc en 1429
+RICHELIEU|2|Cardinal et ministre de Louis XIII
+MAZARIN|3|Cardinal et ministre pendant l'enfance de Louis XIV
+COLBERT|3|Ministre des Finances de Louis XIV
+MOUSQUETAIRE|2|Soldat de la garde du roi, armé d'un mousquet
+MOUSQUET|3|Ancien fusil lourd
+HALLEBARDE|3|Longue arme à lame de hache des soldats du Moyen Âge
+ARBALETE|3|Arc monté sur un manche, qui tire des carreaux
+TREBUCHET|3|Grande machine de guerre du Moyen Âge qui lançait des projectiles
+COTTEDEMAILLE|3|Armure faite de petits anneaux de fer entrelacés
+HEAUME|3|Grand casque des chevaliers
+ECUYER|3|Jeune noble au service d'un chevalier
+TROUBADOUR|3|Poète et musicien qui chantait l'amour courtois au Moyen Âge
+MENESTREL|3|Musicien itinérant du Moyen Âge
+BOUFFON|2|Personnage chargé d'amuser le roi
+COURTISAN|3|Noble qui vit à la cour du roi
+COUR|2|Entourage du roi
+FAVORITE|3|Maîtresse officielle d'un roi
+REGENT|3|Personne qui gouverne à la place d'un roi trop jeune
+HERITIER|2|Personne qui doit succéder au roi
+ABDIQUER|3|Renoncer au trône
+DETRONER|3|Chasser un roi de son trône
+EXIL|2|Obligation de vivre hors de son pays
+REVOLTE|2|Soulèvement contre le pouvoir
+EMEUTE|2|Soulèvement violent d'une foule
+BARRICADE|2|Obstacle dressé dans une rue pendant une révolte
+INSURRECTION|3|Soulèvement armé contre le pouvoir
+JACQUERIE|3|Révolte de paysans au Moyen Âge
+GABELLE|3|Ancien impôt sur le sel
+DIME|3|Impôt versé à l'Église sous l'Ancien Régime
+TIERSETAT|3|Ensemble de ceux qui n'étaient ni nobles ni religieux sous l'Ancien Régime
+PRIVILEGE|3|Avantage réservé à la noblesse et au clergé
+ETATSGENERAUX|3|Assemblée réunie par le roi en 1789
+PHILOSOPHE|3|Penseur des Lumières, comme Voltaire ou Rousseau
+LUMIERES|3|Mouvement d'idées du XVIIIe siècle qui défendait la raison et la liberté
+ENCYCLOPEDIE|3|Grand ouvrage de Diderot et d'Alembert
+COLOMB|2|Christophe ___ : navigateur qui a découvert l'Amérique en 1492
+CENTANS|2|Guerre de ___ : long conflit entre la France et l'Angleterre au Moyen Âge
+PIRATE|1|Bandit des mers qui attaquait les navires
+TRESOR|1|Coffre rempli d'or et de bijoux caché par les pirates
+CORSAIRE|2|Marin autorisé par son roi à attaquer les navires ennemis
+FORTERESSE|1|Grand château fortifié
+PRISON|1|Lieu où l'on enferme les condamnés
+CACHOT|2|Cellule sombre au fond d'une prison
+BOURREAU|2|Personne chargée d'exécuter les condamnés
+PAYSAN|1|Personne qui cultive la terre, à la campagne
+PEUPLE|1|Ensemble des habitants d'un pays
+ESCLAVE|1|Personne privée de liberté, qui appartient à un maître
+SOUVERAIN|2|Personne qui règne sur un pays
+REGNE|1|Période pendant laquelle un roi gouverne
+REGNER|1|Gouverner un royaume
+COURONNEMENT|2|Cérémonie où l'on pose la couronne sur la tête du roi
+GUERRIER|1|Homme qui fait la guerre
+COMBAT|1|Affrontement entre des soldats
+COMBATTANT|1|Personne qui prend part au combat
+VAINQUEUR|1|Celui qui remporte la bataille
+CONQUERANT|2|Chef qui s'empare de nombreux territoires
+ARMES|1|Objets qui servent à combattre, comme l'épée ou le fusil
+POUDRE|2|___ à canon : explosif des armes à feu
+BOULET|2|Grosse boule de métal tirée par un canon
+CHAR|1|Véhicule blindé de combat, sur chenilles
+BOMBE|1|Engin qui explose
+SOUVENIR|1|Image du passé gardée en mémoire
+ARCHIVES|2|Documents anciens conservés pour l'histoire
+PARCHEMIN|2|Peau d'animal préparée sur laquelle on écrivait autrefois
+CALENDRIER|1|Tableau des jours, des semaines et des mois de l'année
+MILLENAIRE|2|Période de mille ans
+AUTREFOIS|1|Il y a longtemps
+ANCIEN|1|Qui date d'une époque lointaine
+LEGENDE|1|Récit d'un événement ancien, mêlé de merveilleux
+CHATEAUFORT|1|Château entouré de remparts et de tours, au Moyen Âge
+DEMOISELLE|2|Au Moyen Âge, jeune fille noble
+CHEVALERIE|2|Ensemble des chevaliers et de leurs règles d'honneur
+ROITELET|3|Petit roi sans grand pouvoir
+VILAIN|3|Au Moyen Âge, paysan libre
+BOURGEOIS|2|Habitant aisé d'une ville
+BOURG|2|Gros village où se tenait le marché
+CLERGE|2|Ensemble des religieux
+MONASTERE|2|Bâtiment où vivent des moines
+MOINE|1|Religieux qui vit dans un monastère
+ABBAYE|2|Monastère dirigé par un abbé
+CATHEDRALE|1|Grande église où siège un évêque
+PELERIN|2|Personne qui fait un voyage vers un lieu saint
+PELERINAGE|2|Voyage vers un lieu saint
+INQUISITION|3|Tribunal de l'Église qui jugeait les hérétiques
+BUCHER|2|Tas de bois où l'on brûlait les condamnés
+DRAGONS|3|Soldats à cheval qui combattaient aussi à pied
+CAVALERIE|2|Ensemble des soldats à cheval
+INFANTERIE|3|Ensemble des soldats qui combattent à pied
+ARTILLERIE|3|Ensemble des canons d'une armée
+FLOTTE|2|Ensemble des navires de guerre d'un pays
+AMIRAL|2|Officier qui commande une flotte
+GALERE|2|Navire de guerre ancien avancé à la rame par des forçats
+CARAVELLE|2|Petit navire à voiles des grands explorateurs
+GALION|3|Grand navire espagnol qui transportait l'or d'Amérique
+ARMADA|3|Grande flotte de guerre espagnole
+TITANIC|1|Paquebot qui a coulé en 1912 après avoir heurté un iceberg
+JOYAUX|2|Bijoux précieux de la couronne

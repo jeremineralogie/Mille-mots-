@@ -10,7 +10,7 @@ const ALLTHEMES=D.T;
 const THEMES=ALLTHEMES.filter(t=>t.id!=='mix');
 const themeById=id=>ALLTHEMES.find(t=>t.id===id);
 const colorOf=t=>t.id==='mix'?'#e0a21a':t.color;
-const DIFF=['Facile','Moyen','Difficile','Expert'];
+const DIFF=['Facile','Moyen','Difficile'];
 const MODES={cache:'Mot caché',croises:'Mots croisés',fleches:'Mots fléchés',meles:'Mots mêlés',ana:'Anagrammes'};
 const MODE_DESC={cache:'Une définition par ligne, un mot mystère en colonne',croises:'La grille classique à numéros',fleches:'Les définitions dans la grille',meles:'Retrouvez les mots cachés',ana:'Remettez les lettres dans l’ordre'};
 const MODE_IDS=['cache','croises','fleches','meles','ana'];

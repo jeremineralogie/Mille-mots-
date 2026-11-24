@@ -1,0 +1,191 @@
+# MOT|niveau|définition
+MUSIQUE|1|Art d'assembler des sons de façon agréable
+MUSICIEN|1|Personne qui joue d'un instrument
+CHANSON|1|Texte mis en musique que l'on chante
+CHANTEUR|1|Personne qui chante
+CHANTEUSE|1|Femme qui chante
+CHANTER|1|Produire des sons musicaux avec la voix
+CHANT|1|Suite de sons produits par la voix
+VOIX|1|Sons produits par la gorge quand on parle ou chante
+REFRAIN|1|Partie d'une chanson qui revient entre les couplets
+COUPLET|2|Partie d'une chanson entre deux refrains
+MELODIE|2|Suite de notes qui forme un air
+RYTHME|1|Retour régulier des temps forts dans la musique
+TEMPO|2|Vitesse à laquelle on joue un morceau
+NOTE|1|Signe qui représente un son, comme do, ré ou mi
+GAMME|2|Suite des notes do, ré, mi, fa, sol, la, si
+SOL|2|Cinquième note de la gamme
+PARTITION|1|Feuille où sont écrites les notes d'un morceau
+PORTEE|2|Ensemble des cinq lignes sur lesquelles on écrit les notes
+SOLFEGE|2|Apprentissage de la lecture des notes
+CLE|2|___ de sol : signe placé au début de la portée
+ACCORD|2|Plusieurs notes jouées en même temps
+SILENCE|2|Pause dans la musique, notée sur la partition
+SOUPIR|3|Silence qui dure un temps
+BLANCHE|3|Note qui dure deux temps
+NOIRE|3|Note qui dure un temps
+CROCHE|3|Note qui dure un demi-temps
+DIESE|3|Signe qui élève une note d'un demi-ton
+BEMOL|3|Signe qui abaisse une note d'un demi-ton
+OCTAVE|3|Intervalle de huit notes
+HARMONIE|2|Accord agréable entre plusieurs sons
+INSTRUMENT|1|Objet qui sert à jouer de la musique
+PIANO|1|Grand instrument à clavier, aux touches noires et blanches
+GUITARE|1|Instrument à six cordes que l'on gratte
+VIOLON|1|Instrument à cordes que l'on joue avec un archet
+VIOLONCELLE|2|Grand violon que l'on joue assis, posé entre les jambes
+CONTREBASSE|2|Plus grand instrument de la famille du violon
+ALTO|3|Instrument un peu plus grand que le violon, au son plus grave
+HARPE|2|Grand instrument à cordes en forme de triangle
+FLUTE|1|Instrument à vent dans lequel on souffle
+CLARINETTE|2|Instrument à vent en bois, à anche
+SAXOPHONE|1|Instrument à vent en métal du jazz
+TROMPETTE|1|Instrument en cuivre à pistons
+TROMBONE|2|Instrument en cuivre à coulisse
+TUBA|2|Gros instrument en cuivre au son très grave
+COR|2|Instrument en cuivre enroulé sur lui-même
+HAUTBOIS|3|Instrument à vent en bois à double anche
+BASSON|3|Grand instrument à vent en bois au son grave
+ACCORDEON|1|Instrument à soufflet et à boutons du bal musette
+HARMONICA|2|Petit instrument dans lequel on souffle en le faisant glisser sur les lèvres
+BATTERIE|1|Ensemble de tambours et de cymbales
+TAMBOUR|1|Instrument à peau tendue sur lequel on frappe
+CYMBALE|2|Disque de métal que l'on frappe pour faire un bruit éclatant
+XYLOPHONE|2|Instrument fait de lames de bois que l'on frappe avec des baguettes
+MARACAS|2|Instrument fait de deux boules remplies de graines que l'on secoue
+TAMBOURIN|2|Petit tambour plat garni de grelots
+CASTAGNETTES|3|Petits instruments de bois que l'on fait claquer dans la main
+ORGUE|2|Grand instrument à tuyaux des églises
+CLAVECIN|3|Ancien instrument à clavier dont les cordes sont pincées
+SYNTHETISEUR|3|Instrument électronique qui imite tous les sons
+UKULELE|3|Petite guitare hawaïenne à quatre cordes
+BANJO|3|Instrument à cordes au corps rond de la musique country
+MANDOLINE|3|Petit instrument à cordes au dos bombé
+CORNEMUSE|2|Instrument à poche d'air des Écossais et des Bretons
+BINIOU|3|Cornemuse bretonne
+DJEMBE|3|Tambour africain que l'on frappe avec les mains
+ARCHET|2|Baguette garnie de crins qui fait vibrer les cordes du violon
+CORDE|1|Fil tendu qui vibre sur une guitare ou un violon
+ORCHESTRE|1|Groupe de musiciens qui jouent ensemble
+CHORALE|2|Groupe de personnes qui chantent ensemble
+CHOEUR|2|Groupe de chanteurs
+FANFARE|2|Orchestre de cuivres et de tambours qui défile
+GROUPE|1|Ensemble de musiciens qui jouent ensemble
+DUO|1|Morceau joué ou chanté à deux
+TRIO|2|Groupe de trois musiciens
+QUATUOR|3|Groupe de quatre musiciens
+SOLISTE|2|Musicien qui joue seul une partie
+SOLO|2|Passage joué par un seul musicien
+COMPOSITEUR|1|Personne qui écrit de la musique
+COMPOSER|2|Écrire de la musique
+CONCERT|1|Spectacle où des musiciens jouent devant un public
+FESTIVAL|1|Grande fête musicale qui dure plusieurs jours
+OPERA|1|Pièce de théâtre entièrement chantée
+SYMPHONIE|2|Grande œuvre pour orchestre
+CONCERTO|3|Œuvre pour un soliste accompagné d'un orchestre
+SONATE|3|Œuvre pour un ou deux instruments
+REQUIEM|3|Messe chantée pour les morts
+BERCEUSE|1|Chanson douce pour endormir les enfants
+COMPTINE|1|Petite chanson pour enfants
+HYMNE|2|Chant solennel, comme celui d'un pays
+CANTIQUE|3|Chant religieux
+OPERETTE|3|Petit opéra léger et comique
+SOPRANO|3|Voix la plus aiguë chez la femme
+TENOR|3|Voix aiguë d'homme
+BARYTON|3|Voix d'homme entre le ténor et la basse
+BASSE|2|Voix d'homme la plus grave
+DIVA|2|Grande chanteuse d'opéra
+JAZZ|1|Musique née aux États-Unis, riche en improvisations
+ROCK|1|Musique énergique jouée avec des guitares électriques
+POP|1|Musique populaire et entraînante
+RAP|1|Musique où l'on dit des paroles en rythme
+REGGAE|2|Musique jamaïcaine popularisée par Bob Marley
+BLUES|2|Musique mélancolique des Noirs américains
+SOUL|3|Musique afro-américaine pleine d'émotion
+FUNK|3|Musique très rythmée, proche de la soul
+TECHNO|2|Musique électronique très répétitive
+ELECTRO|2|Musique faite avec des instruments électroniques
+DISCO|2|Musique de danse des années 1970
+VARIETE|2|Chansons populaires pour le grand public
+CLASSIQUE|1|Musique savante, comme celle de Mozart
+COUNTRY|3|Musique traditionnelle des campagnes américaines
+METAL|2|Rock très bruyant et puissant
+PUNK|3|Rock rapide et provocateur
+SLAM|3|Poésie déclamée de façon rythmée
+MOZART|1|Compositeur autrichien prodige de La Flûte enchantée
+BEETHOVEN|1|Compositeur allemand de la Neuvième Symphonie, devenu sourd
+BACH|2|Compositeur allemand de l'époque baroque
+CHOPIN|2|Compositeur et pianiste polonais
+VIVALDI|2|Compositeur italien des Quatre Saisons
+DEBUSSY|3|Compositeur français de Clair de lune
+RAVEL|3|Compositeur français du Boléro
+BIZET|3|Compositeur de l'opéra Carmen
+VERDI|3|Compositeur italien de La Traviata
+TCHAIKOVSKI|3|Compositeur russe du Lac des cygnes
+PIAF|1|Édith ___ : chanteuse de La Vie en rose
+BREL|2|Jacques ___ : chanteur belge de Ne me quitte pas
+BRASSENS|2|Georges ___ : chanteur à la guitare et à la moustache
+AZNAVOUR|2|Charles ___ : chanteur de La Bohème
+GAINSBOURG|2|Serge ___ : chanteur de La Javanaise
+HALLYDAY|1|Johnny ___ : rockeur français surnommé l'idole des jeunes
+GOLDMAN|2|Jean-Jacques ___ : chanteur et auteur de nombreux tubes
+STROMAE|2|Chanteur belge d'Alors on danse
+BEATLES|1|Groupe de Liverpool de Yesterday
+ELVIS|1|Chanteur américain surnommé le King
+MADONNA|2|Chanteuse américaine surnommée la reine de la pop
+DANSE|1|Suite de mouvements du corps en rythme
+DANSEUR|1|Personne qui danse
+DANSEUSE|1|Femme qui danse
+DANSER|1|Bouger son corps au rythme de la musique
+BALLET|2|Spectacle de danse classique
+BALLERINE|2|Danseuse de ballet
+TUTU|1|Jupe de danseuse en tulle
+POINTES|2|Chaussons de danseuse qui permettent de danser sur le bout des pieds
+CHOREGRAPHE|3|Personne qui invente les pas d'une danse
+CHOREGRAPHIE|3|Ensemble des pas d'une danse
+VALSE|1|Danse à trois temps où l'on tourne en couple
+TANGO|1|Danse argentine passionnée
+SALSA|2|Danse latine très rythmée
+ROCKNROLL|3|Danse acrobatique des années 1950
+CLAQUETTES|2|Danse où l'on fait claquer ses chaussures sur le sol
+FLAMENCO|2|Danse espagnole accompagnée de guitare et de claquements de mains
+BREAKDANCE|2|Danse acrobatique de rue
+HIPHOP|2|Culture urbaine qui comprend le rap et la danse
+SAMBA|2|Danse brésilienne du carnaval
+MENUET|3|Danse élégante de l'époque de Louis XIV
+POLKA|3|Danse à deux temps venue de Bohême
+FARANDOLE|2|Danse où l'on se tient par la main en file
+QUADRILLE|3|Ancienne danse de salon à quatre couples
+BAL|1|Fête où l'on danse
+DISCOTHEQUE|2|Lieu où l'on danse sur de la musique enregistrée
+TUBE|1|Chanson à grand succès
+ALBUM|1|Ensemble de chansons d'un artiste
+DISQUE|1|Support rond sur lequel est enregistrée la musique
+VINYLE|2|Disque noir que l'on écoute sur une platine
+PLATINE|3|Appareil qui fait tourner les disques vinyles
+CASSETTE|2|Petite boîte contenant une bande magnétique pour écouter de la musique
+MICRO|1|Appareil qui amplifie la voix du chanteur
+ENCEINTE|2|Appareil qui diffuse le son
+AMPLI|2|Appareil qui augmente la puissance du son
+STUDIO|2|Lieu où l'on enregistre la musique
+CONSERVATOIRE|2|École de musique
+MELOMANE|3|Personne qui aime passionnément la musique
+VIRTUOSE|3|Musicien d'un très grand talent
+IMPROVISER|2|Jouer sans avoir préparé
+ACCORDER|2|Régler un instrument pour qu'il joue juste
+FAUSSENOTE|1|Note jouée ou chantée de travers
+METRONOME|3|Appareil qui bat la mesure
+DIAPASON|3|Petit outil qui donne la note la pour accorder un instrument
+MESURE|2|Division de la musique en temps égaux
+CRESCENDO|3|Augmentation progressive du volume
+FORTISSIMO|3|Passage joué très fort
+PIANISSIMO|3|Passage joué très doucement
+ALLEGRO|3|Mouvement joué vif et gai
+ADAGIO|3|Mouvement joué lentement
+FUGUE|3|Œuvre où plusieurs voix reprennent le même thème
+PRELUDE|3|Morceau qui sert d'introduction
+OUVERTURE|3|Morceau joué au début d'un opéra
+NOCTURNE|3|Pièce rêveuse pour piano
+KARAOKE|1|Jeu où l'on chante sur une musique en lisant les paroles
+PAROLES|1|Texte d'une chanson
+GRIOT|3|Poète et musicien d'Afrique de l'Ouest qui transmet les traditions

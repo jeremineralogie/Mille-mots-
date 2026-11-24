@@ -131,7 +131,7 @@ SUCRE|Saccharose|Morceau du café|Casser du ___ sur le dos|Pain de ___
 POIVRE|Épice noire ou blanche|Moulin à ___|___ et sel : grisonnant|Grain piquant
 MIEL|Produit de l'abeille|Doux comme le ___|Pain d'épices au ___
 HUILE|Celle d'olive|Faire tache d'___
-OEUF|Il se mange à la coque|Il précède la poule, ou pas|Mettre ses ___ dans le même panier|Œuf de Pâques en chocolat
+OEUF|Il se mange à la coque|Il précède la poule, ou pas|Mettre ses ___ dans le même panier
 LAIT|Il est entier ou écrémé|Soupe au ___|Petit-___|Boire du petit ___
 CREME|Chantilly|Café-___|La ___ de la ___|Fraîche ou anglaise
 PAIN|Baguette ou miche|Gagner son ___|Ça ne mange pas de ___|___ perdu

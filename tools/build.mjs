@@ -38,6 +38,24 @@ const addClue = (w, t, c, where) => {
   if (toks.some(x => x === w.a || (w.a.length >= 4 && x.startsWith(w.a) && x.length <= w.a.length + 3))) { if (where) warnings.push(`${where} la définition contient la réponse : ${w.a} | ${c}`); return }
   L.push(c);
 };
+// 0. définitions réécrites (data/clair/<thème>.txt : MOT|niveau|définition) : elles font foi pour leur thème
+const CLAIR = new Set();
+for (const t of THEMES) {
+  const f = path.join(ROOT, 'data/clair', t.id + '.txt');
+  if (!fs.existsSync(f)) continue;
+  CLAIR.add(t.id);
+  fs.readFileSync(f, 'utf8').split('\n').forEach((line, ln) => {
+    line = line.trim(); if (!line || line.startsWith('#')) return;
+    const [m, lv, ...defs] = line.split('|'); const a = norm(m);
+    if (a.length < 3 || a.length > 13 || !/^[123]$/.test(lv)) { warnings.push(`clair/${t.id}:${ln + 1} ligne invalide : ${line}`); return }
+    const w = getW(a);
+    if (w.clair && w.clair !== t.id) { warnings.push(`clair/${t.id}:${ln + 1} ${a} déjà dans ${w.clair}`); return }
+    w.clair = t.id; w.lvl = +lv - 1; w.themes.add(t.id);
+    defs.forEach(c => addClue(w, t.id, c, `clair/${t.id}:${ln + 1}`));
+  });
+}
+// une définition manuelle n'est reprise que si elle est explicite (pas de devinette « Il… », pas de texte à trous)
+const explicit = c => c.split(/\s+/).length >= 4 && !c.includes('___') && !/^(Il|Elle|Ils|Elles|On|Sa|Son|Ses|Celui|Celle)\b/.test(c);
 // 1. définitions écrites à la main (prioritaires)
 for (const t of THEMES) {
   const txt = fs.readFileSync(path.join(ROOT, 'data', t.id + '.txt'), 'utf8');
@@ -45,7 +63,12 @@ for (const t of THEMES) {
     line = line.trim(); if (!line || line.startsWith('#')) return;
     const parts = line.split('|'); const a = norm(parts[0]);
     if (a.length < 3 || a.length > 13) { warnings.push(`${t.id}:${ln + 1} longueur ${a.length} : ${parts[0]}`); return }
-    const w = getW(a); w.themes.add(t.id); w.hand = true;
+    if (CLAIR.has(t.id)) {           // thème réécrit : seulement en complément d'un mot réécrit
+      const w = byA.get(a); if (!w || w.clair !== t.id) return;
+      parts.slice(1).filter(explicit).forEach(c => addClue(w, t.id, c, `${t.id}:${ln + 1}`)); return;
+    }
+    const w = getW(a); if (w.clair) return;
+    w.themes.add(t.id); w.hand = true;
     parts.slice(1).forEach(c => addClue(w, t.id, c, `${t.id}:${ln + 1}`));
   });
 }
@@ -56,7 +79,10 @@ if (fs.existsSync(dicoPath)) {
   for (const line of zlib.gunzipSync(fs.readFileSync(dicoPath)).toString('utf8').split('\n')) {
     if (!line) continue;
     const [a, z, th, defs, raw] = line.split('\t');
+    const t0 = th.split(',')[0];
+    if (CLAIR.has(t0)) continue;                         // thème réécrit : le dictionnaire brut n'y sert plus
     const w = getW(a); dicoN++;
+    if (w.clair) { w.z = +raw || +z; continue }
     // un mot écrit à la main garde la fréquence réelle du mot : ses définitions visent le sens courant
     w.z = Math.max(w.z ?? 0, w.hand && raw ? +raw : +z);
     const t = th.split(',')[0];
@@ -70,8 +96,11 @@ for (const w of byA.values()) {
   w.themes = new Set(t ? [t] : []);
   w.clues = t ? (w.src.get(t) || []) : [];
 }
-const WORDS = [...byA.values()].filter(w => w.clues.length && w.themes.size);
-WORDS.forEach((w, i) => { w.id = i; if (w.z == null) w.z = 3.6; w.tier = w.z >= 3.3 ? 0 : w.z >= 2.3 ? 1 : w.z >= 1 ? 2 : 3; w.short = Math.min(...w.clues.map(c => c.length)) });
+let WORDS = [...byA.values()].filter(w => w.clues.length && w.themes.size);
+// trois niveaux : le niveau choisi à la réécriture, sinon la fréquence du mot (les mots rares sont écartés)
+WORDS.forEach(w => { w.tier = w.clair ? w.lvl : w.z == null ? 0 : w.z >= 3.3 ? 0 : w.z >= 2.3 ? 1 : w.z >= 1.5 ? 2 : -1 });
+for (let i = WORDS.length - 1; i >= 0; i--) if (WORDS[i].tier < 0) WORDS.splice(i, 1);
+WORDS.forEach((w, i) => { w.id = i; if (w.z == null) w.z = 3.6; w.short = Math.min(...w.clues.map(c => c.length)) });
 
 /* ---------- Compteurs globaux ---------- */
 const clueUse = new Map();
@@ -80,7 +109,7 @@ const MODE_USE = {};            // un mot de thème peut revenir, mais dans un a
 let CUR_MODE = 'cache';
 const modeUse = () => MODE_USE[CUR_MODE] || (MODE_USE[CUR_MODE] = new Uint8Array(WORDS.length));
 const useOf = c => clueUse.get(clueKey(c)) || 0;
-const free = w => (w.themes.has('cg') ? wordUse[w.id] < WORD_CAP : modeUse()[w.id] < 1) && w.clues.some(c => useOf(c) < CLUE_CAP);
+const free = w => modeUse()[w.id] < 1 && w.clues.some(c => useOf(c) < CLUE_CAP);   // jamais deux fois dans le même mode
 
 // lisibilité d'une définition : au moins 3 mots et 20 caractères, pas de texte à trous
 const readable = c => (c.split(/\s+/).length >= 3 ? 2 : 0) + (c.length >= 20 ? 1 : 0) - (c.includes('___') ? 1 : 0);
@@ -123,15 +152,16 @@ const ALL = [MIXT, ...THEMES];
 const POOLS = {};
 for (const t of ALL) {
   // les mots d'un thème lui sont réservés ; le Grand mélange et la Culture générale partagent le vocabulaire général
-  const ws = t.id === 'mix' ? WORDS.filter(w => w.themes.has('cg')) : WORDS.filter(w => w.themes.has(t.id));
-  POOLS[t.id] = [0, 1, 2, 3].map(d => ws.filter(w => w.tier === d));
+  const ws = t.id === 'mix' ? WORDS : WORDS.filter(w => w.themes.has(t.id));   // le Grand mélange puise dans tous les thèmes
+  POOLS[t.id] = [0, 1, 2].map(d => ws.filter(w => w.tier === d));
 }
 // Pour un thème trop petit à un niveau, on complète avec le niveau voisin
 const POOLCACHE = new Map();
 function poolFor(tid, d) {
   const k = tid + d; if (POOLCACHE.has(k)) return POOLCACHE.get(k);
   const P = POOLS[tid]; let out = P[d];
-  if (out.length < 150) out = out.concat(...[d - 1, d + 1].filter(x => x >= 0 && x < 4).map(x => P[x]));
+  if (CLAIR.has(tid)) { POOLCACHE.set(k, out); return out }     // thème réécrit : chaque niveau garde strictement ses mots
+  if (out.length < 150) out = out.concat(...[d - 1, d + 1].filter(x => x >= 0 && x < 3).map(x => P[x]));
   if (out.length < 150) out = P.flat();
   POOLCACHE.set(k, out); return out;
 }
@@ -336,7 +366,7 @@ function genAna(tid, r, d) {
 const MODES = ['cache', 'croises', 'fleches', 'meles', 'ana'];
 const PRIO = { croises: 0, fleches: 0, ana: 1, cache: 2, meles: 3 };
 const slots = [];
-for (const t of ALL) for (const m of MODES) for (let d = 0; d < 4; d++) slots.push({ t: t.id, m, d, fail: 0, out: [], done: false });
+for (const t of ALL) for (const m of MODES) for (let d = 0; d < 3; d++) slots.push({ t: t.id, m, d, fail: 0, out: [], done: false });
 slots.sort((x, y) => (x.t === 'mix') - (y.t === 'mix') || PRIO[x.m] - PRIO[y.m] || y.d - x.d);
 const t0 = Date.now(); let round = 0, total = 0;
 while (slots.some(s => !s.done)) {
@@ -364,7 +394,7 @@ for (const t of ALL) {
   const ci = c => { if (!c) return -1; let i = cm.get(c); if (i == null) { i = C.length; C.push(c); cm.set(c, i) } return i };
   const L = {}; counts[t.id] = {};
   for (const m of MODES) {
-    L[m] = [0, 1, 2, 3].map(d => {
+    L[m] = [0, 1, 2].map(d => {
       const s = slots.find(x => x.t === t.id && x.m === m && x.d === d);
       return s.out.map(lv => {
         if (m === 'cache') return [[wi(lv.h[0]), ci(lv.h[1])], lv.rows.map(x => [wi(x[0]), ci(x[1]), x[2]])];

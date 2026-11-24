@@ -1,0 +1,201 @@
+# MOT|niveau|définition
+DIEU|1|Être suprême adoré dans les religions
+DEESSE|1|Divinité féminine
+DIVINITE|2|Être divin, dieu ou déesse
+RELIGION|1|Ensemble de croyances envers une ou plusieurs divinités
+CROYANCE|2|Fait de croire en quelque chose
+FOI|2|Fait de croire en Dieu
+PRIERE|1|Paroles adressées à Dieu
+PRIER|1|S'adresser à Dieu
+EGLISE|1|Bâtiment où se réunissent les chrétiens
+CHAPELLE|2|Petite église
+TEMPLE|1|Édifice consacré au culte d'une divinité
+MOSQUEE|1|Lieu de prière des musulmans
+SYNAGOGUE|2|Lieu de prière des juifs
+PAGODE|2|Temple bouddhiste en forme de tour à plusieurs toits
+PRETRE|1|Homme qui célèbre la messe
+CURE|1|Prêtre qui s'occupe d'une paroisse
+EVEQUE|2|Prêtre qui dirige un diocèse
+CARDINAL|2|Haut dignitaire de l'Église, vêtu de rouge, qui élit le pape
+PAPE|1|Chef de l'Église catholique
+VATICAN|1|Petit État de Rome où vit le pape
+RELIGIEUSE|1|Femme qui a consacré sa vie à Dieu
+NONNE|2|Religieuse qui vit dans un couvent
+COUVENT|2|Maison où vivent des religieux
+IMAM|2|Homme qui dirige la prière à la mosquée
+RABBIN|2|Chef religieux juif
+MESSE|1|Cérémonie religieuse catholique
+BAPTEME|1|Cérémonie qui fait entrer dans la religion chrétienne
+COMMUNION|2|Cérémonie où le croyant reçoit l'hostie
+MARIAGE|1|Union de deux personnes célébrée par une cérémonie
+BIBLE|1|Livre saint des chrétiens et des juifs
+CORAN|1|Livre saint des musulmans
+TORAH|2|Livre saint des juifs
+EVANGILE|2|Récit de la vie de Jésus
+APOTRE|2|Chacun des douze disciples de Jésus
+JESUS|1|Fondateur du christianisme
+MARIE|1|Mère de Jésus
+MOISE|2|Prophète qui a reçu les dix commandements
+NOE|1|Constructeur de l'arche qui a sauvé les animaux du déluge
+ADAM|1|Premier homme selon la Bible
+EVE|1|Première femme selon la Bible
+ABRAHAM|2|Patriarche de la Bible, père des peuples
+PROPHETE|2|Personne qui parle au nom de Dieu
+ANGE|1|Messager de Dieu, souvent représenté avec des ailes
+ARCHANGE|3|Ange d'un rang supérieur, comme Gabriel
+DEMON|1|Esprit du mal
+DIABLE|1|Esprit du mal, souvent représenté avec des cornes
+SATAN|2|Nom du diable
+ENFER|1|Lieu de souffrance où iraient les damnés
+PARADIS|1|Lieu de bonheur éternel où iraient les justes
+PURGATOIRE|3|Lieu où les âmes se purifient avant le paradis
+AME|1|Partie spirituelle de l'être humain
+SAINT|1|Personne reconnue pour sa vie exemplaire par l'Église
+MIRACLE|1|Événement extraordinaire attribué à Dieu
+PARDON|1|Fait de ne pas tenir rigueur d'une faute
+CHRETIEN|1|Personne qui croit en Jésus-Christ
+CATHOLIQUE|2|Chrétien qui reconnaît l'autorité du pape
+PROTESTANT|2|Chrétien qui suit la Réforme de Luther
+ORTHODOXE|3|Chrétien des Églises d'Orient, comme en Russie ou en Grèce
+MUSULMAN|1|Personne qui pratique l'islam
+ISLAM|1|Religion des musulmans
+JUIF|1|Personne qui pratique le judaïsme
+JUDAISME|2|Religion des juifs
+BOUDDHISME|2|Religion fondée par Bouddha
+BOUDDHA|1|Sage indien fondateur du bouddhisme
+HINDOUISME|3|Grande religion de l'Inde
+RAMADAN|1|Mois de jeûne des musulmans
+NOEL|1|Fête de la naissance de Jésus, le 25 décembre
+PAQUES|1|Fête de la résurrection de Jésus
+TOUSSAINT|2|Fête de tous les saints, le 1er novembre
+CAREME|2|Période de jeûne avant Pâques
+CRECHE|1|Représentation de la naissance de Jésus dans l'étable
+ROISMAGES|2|Trois sages venus d'Orient pour adorer Jésus
+CROIX|1|Symbole des chrétiens
+CHAPELET|2|Collier de grains qui sert à compter les prières
+CIERGE|2|Longue bougie allumée dans les églises
+AUTEL|2|Table où le prêtre célèbre la messe
+CLOCHER|1|Tour de l'église où sont les cloches
+CLOCHE|1|Instrument de métal qui sonne pour appeler à la messe
+LOURDES|2|Ville de pèlerinage des Pyrénées
+JERUSALEM|2|Ville sainte des juifs, des chrétiens et des musulmans
+LAMECQUE|3|Ville sainte de l'islam
+MYTHOLOGIE|1|Ensemble des légendes des dieux et des héros
+MYTHE|2|Récit légendaire des origines
+ZEUS|1|Roi des dieux grecs, maître de la foudre
+HERA|2|Épouse de Zeus, déesse du mariage
+ATHENA|2|Déesse grecque de la sagesse et de la guerre
+APOLLON|2|Dieu grec de la lumière, des arts et de la musique
+ARTEMIS|3|Déesse grecque de la chasse
+ARES|3|Dieu grec de la guerre
+APHRODITE|2|Déesse grecque de l'amour et de la beauté
+HERMES|2|Messager des dieux grecs, aux sandales ailées
+POSEIDON|2|Dieu grec de la mer, armé d'un trident
+HADES|2|Dieu grec des Enfers
+DIONYSOS|3|Dieu grec du vin et de la fête
+DEMETER|3|Déesse grecque des moissons
+HEPHAISTOS|3|Dieu grec forgeron
+PROMETHEE|3|Titan qui a volé le feu aux dieux pour le donner aux hommes
+OLYMPE|2|Montagne où vivaient les dieux grecs
+TITAN|3|Géant de la mythologie grecque, ancêtre des dieux
+HERCULE|1|Héros à la force prodigieuse qui accomplit douze travaux
+ULYSSE|2|Héros grec de l'Odyssée qui mit dix ans à rentrer chez lui
+ACHILLE|2|Héros grec invulnérable, sauf au talon
+PERSEE|3|Héros grec qui a tué Méduse
+THESEE|3|Héros grec qui a tué le Minotaure
+JASON|3|Héros grec parti à la recherche de la Toison d'or
+ORPHEE|3|Musicien grec qui descendit aux Enfers chercher sa femme
+ICARE|2|Jeune homme dont les ailes de cire fondirent au soleil
+PANDORE|3|Première femme qui ouvrit une boîte d'où sortirent tous les maux
+NARCISSE|2|Jeune homme qui tomba amoureux de son reflet
+MINOTAURE|2|Monstre à tête de taureau enfermé dans un labyrinthe
+CYCLOPE|2|Géant qui n'a qu'un œil au milieu du front
+CENTAURE|2|Créature mi-homme, mi-cheval
+PEGASE|2|Cheval ailé de la mythologie grecque
+HYDRE|3|Serpent à plusieurs têtes qui repoussaient quand on les coupait
+CERBERE|3|Chien à trois têtes qui garde les Enfers
+SIRENE|1|Créature mi-femme, mi-poisson, qui envoûte les marins par son chant
+NYMPHE|3|Divinité des bois et des eaux
+SATYRE|3|Créature des bois à corps d'homme et à pattes de bouc
+LABYRINTHE|2|Dédale où était enfermé le Minotaure
+TROIE|2|Ville assiégée par les Grecs, prise grâce à un cheval de bois
+ODYSSEE|3|Récit des voyages d'Ulysse
+ILIADE|3|Poème d'Homère sur la guerre de Troie
+HOMERE|3|Poète grec auteur de l'Iliade et de l'Odyssée
+JUNON|3|Reine des dieux chez les Romains
+MINERVE|3|Déesse romaine de la sagesse
+VULCAIN|3|Dieu romain du feu et des forges
+CUPIDON|1|Petit dieu de l'amour armé d'un arc
+ODIN|2|Dieu principal des Vikings
+THOR|1|Dieu viking du tonnerre, armé d'un marteau
+LOKI|3|Dieu viking de la ruse
+WALKYRIE|3|Guerrière de la mythologie nordique qui emporte les héros morts
+VALHALLA|3|Paradis des guerriers vikings
+OSIRIS|3|Dieu égyptien des morts
+ANUBIS|3|Dieu égyptien à tête de chacal, gardien des morts
+ISIS|3|Déesse égyptienne, épouse d'Osiris
+HORUS|3|Dieu égyptien à tête de faucon
+DRAGON|1|Monstre fabuleux qui crache du feu
+LICORNE|1|Cheval fabuleux qui porte une corne sur le front
+PHENIX|2|Oiseau fabuleux qui renaît de ses cendres
+GRIFFON|3|Créature mi-aigle, mi-lion
+FEE|1|Être magique, souvent bienfaisant, muni d'une baguette
+ELFE|2|Petit être magique de la forêt
+LUTIN|1|Petit être espiègle des contes
+GNOME|2|Petit être des légendes qui vit sous la terre
+TROLL|2|Créature laide des légendes nordiques
+OGRE|1|Géant des contes qui mange les enfants
+SORCIER|1|Personne qui pratique la magie
+SORCIERE|1|Femme qui pratique la magie, sur un balai
+MAGICIEN|2|Personne qui fait de la magie
+MAGIE|1|Pouvoir de produire des effets surnaturels
+SORTILEGE|2|Formule magique qui ensorcelle
+ENCHANTEUR|3|Magicien, comme Merlin
+MERLIN|1|Enchanteur de la légende du roi Arthur
+ARTHUR|2|Roi légendaire des chevaliers de la Table ronde
+EXCALIBUR|2|Épée magique du roi Arthur
+GRAAL|2|Coupe sacrée recherchée par les chevaliers de la Table ronde
+LANCELOT|3|Chevalier de la Table ronde, amoureux de Guenièvre
+FANTOME|1|Esprit d'un mort qui apparaît aux vivants
+SPECTRE|2|Apparition effrayante d'un mort
+VAMPIRE|1|Mort qui sort de sa tombe pour boire le sang des vivants
+LOUPGAROU|1|Homme qui se transforme en loup les nuits de pleine lune
+ZOMBIE|1|Mort-vivant
+GOLEM|3|Créature d'argile animée par magie, dans les légendes juives
+YETI|2|Abominable homme des neiges de l'Himalaya
+GENIE|1|Esprit magique qui sort d'une lampe et exauce des vœux
+ORACLE|3|Réponse d'un dieu à une question, donnée par un prêtre
+PROPHETIE|3|Prédiction de l'avenir
+DESTIN|2|Puissance qui fixerait à l'avance le cours des événements
+TALISMAN|3|Objet qui porte chance
+AMULETTE|2|Petit objet porté pour se protéger du malheur
+SUPERSTITION|2|Croyance qu'un fait peut porter bonheur ou malheur
+HOROSCOPE|1|Prédiction de l'avenir selon les signes du zodiaque
+ZODIAQUE|2|Ensemble des douze signes astrologiques
+ASTROLOGIE|2|Prédiction de l'avenir par l'étude des astres
+VOYANTE|1|Femme qui prétend prédire l'avenir
+ALCHIMIE|3|Science ancienne qui cherchait à transformer le métal en or
+ALCHIMISTE|3|Savant qui cherchait la pierre philosophale
+ELIXIR|3|Breuvage magique
+POTION|1|Boisson magique préparée par un druide ou une sorcière
+CULTE|2|Hommage rendu à une divinité
+RITE|2|Cérémonie religieuse
+OFFRANDE|3|Don fait à une divinité
+SACRIFICE|2|Offrande faite à une divinité
+IDOLE|3|Statue d'une divinité que l'on adore
+PAIEN|3|Qui adore plusieurs dieux
+DIVIN|2|Qui vient de Dieu
+ETERNITE|2|Temps qui n'a ni début ni fin
+RESURRECTION|3|Retour de la mort à la vie
+REINCARNATION|3|Renaissance de l'âme dans un autre corps
+KARMA|3|Selon les croyances indiennes, conséquences des actes sur les vies futures
+NIRVANA|3|Dans le bouddhisme, état de paix totale
+MEDITATION|2|Concentration de l'esprit dans le calme
+ERMITE|3|Personne qui vit seule pour prier
+MARTYR|3|Personne qui meurt pour sa foi
+CANONISER|3|Déclarer saint officiellement
+BENIR|2|Appeler la protection de Dieu sur quelqu'un
+AMEN|1|Mot qui termine les prières
+ALLELUIA|2|Cri de joie et de louange à Dieu
+HALO|2|Cercle de lumière autour de la tête des saints
+AUREOLE|2|Cercle doré qui entoure la tête des saints dans les tableaux

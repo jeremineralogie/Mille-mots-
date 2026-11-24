@@ -1,0 +1,281 @@
+# MOT|niveau|définition
+METIER|1|Travail que l'on exerce pour gagner sa vie
+TRAVAIL|1|Activité qui permet de gagner de l'argent
+EMPLOI|1|Poste de travail occupé par une personne
+SALAIRE|1|Argent que l'on reçoit en échange de son travail
+PATRON|1|Personne qui dirige une entreprise
+EMPLOYE|1|Personne qui travaille pour un patron
+OUVRIER|1|Personne qui fait un travail manuel dans une usine ou un atelier
+ARTISAN|2|Personne qui exerce un métier manuel à son compte
+USINE|1|Grand bâtiment où l'on fabrique des produits
+BUREAU|1|Pièce où l'on travaille assis à une table
+ENTREPRISE|1|Société qui produit des biens ou des services
+COLLEGUE|1|Personne qui travaille au même endroit que soi
+CHOMAGE|2|Situation de quelqu'un qui n'a pas de travail
+RETRAITE|1|Période où l'on arrête de travailler à cause de l'âge
+GREVE|2|Arrêt collectif du travail pour réclamer quelque chose
+SYNDICAT|2|Association qui défend les intérêts des travailleurs
+STAGE|2|Période de formation dans une entreprise
+APPRENTI|2|Jeune qui apprend un métier auprès d'un professionnel
+ENTRETIEN|2|Rendez-vous pour obtenir un emploi
+EMBAUCHE|2|Fait d'engager quelqu'un dans une entreprise
+CONTRAT|2|Accord écrit entre deux personnes
+POMPIER|1|Personne qui éteint les incendies
+POLICIER|1|Personne qui fait respecter la loi
+GENDARME|1|Militaire chargé de la sécurité dans les campagnes
+FACTEUR|1|Personne qui distribue le courrier
+BOUCHER|1|Commerçant qui vend de la viande
+BOULANGERE|2|Commerçante qui vend le pain
+COIFFEUR|1|Personne qui coupe les cheveux
+MACON|1|Ouvrier qui construit les murs
+PLOMBIER|1|Artisan qui répare les tuyaux et les robinets
+ELECTRICIEN|1|Artisan qui installe l'électricité
+MENUISIER|2|Artisan qui travaille le bois pour faire des portes et des fenêtres
+CHARPENTIER|2|Artisan qui construit la charpente des toits
+CARRELEUR|3|Artisan qui pose le carrelage
+COUVREUR|3|Artisan qui pose les tuiles des toits
+SERRURIER|2|Artisan qui répare les serrures
+VITRIER|3|Artisan qui pose les vitres
+FORGERON|2|Artisan qui travaille le fer au feu
+CORDONNIER|2|Artisan qui répare les chaussures
+COUTURIERE|2|Femme qui coud des vêtements
+TAILLEUR|3|Artisan qui fait des costumes sur mesure
+HORLOGER|3|Artisan qui répare les montres et les horloges
+BIJOUTIER|2|Commerçant qui vend des bijoux
+LIBRAIRE|2|Commerçant qui vend des livres
+EPICIER|2|Commerçant qui tient une épicerie
+COMMERCANT|1|Personne qui achète et vend des marchandises
+VENDEUR|1|Personne qui vend dans un magasin
+CAISSIER|1|Personne qui encaisse l'argent au supermarché
+MAGASIN|1|Boutique où l'on vend des marchandises
+BOUTIQUE|1|Petit magasin
+SUPERMARCHE|1|Grand magasin d'alimentation en libre-service
+MARCHE|1|Lieu où des commerçants vendent leurs produits en plein air
+CLIENT|1|Personne qui achète
+PRIX|1|Somme d'argent que coûte une chose
+SOLDES|1|Période où les prix sont réduits
+PROMOTION|2|Réduction du prix d'un produit
+FACTURE|2|Document qui indique la somme à payer
+REMBOURSER|2|Rendre l'argent dépensé
+ARGENT|1|Pièces et billets qui servent à payer
+MONNAIE|1|Pièces que l'on rend quand on paie
+PIECE|1|Petit disque de métal qui sert de monnaie
+EURO|1|Monnaie de la France et de nombreux pays européens
+DOLLAR|1|Monnaie des États-Unis
+BANQUE|1|Établissement où l'on dépose son argent
+BANQUIER|2|Personne qui dirige une banque
+COMPTE|1|Somme d'argent déposée à la banque
+CARTEBANCAIRE|2|Carte qui permet de payer et de retirer de l'argent
+CHEQUE|2|Papier qui permet de payer avec l'argent de son compte
+DISTRIBUTEUR|2|Machine qui donne des billets
+EPARGNE|2|Argent mis de côté
+TIRELIRE|1|Petite boîte où l'on met ses économies
+ECONOMIES|1|Argent que l'on a mis de côté
+CREDIT|2|Somme prêtée par une banque
+EMPRUNT|2|Argent prêté qu'il faut rembourser
+DETTE|2|Somme d'argent que l'on doit
+INTERET|3|Somme payée en plus quand on emprunte de l'argent
+IMPOT|2|Argent que l'on doit verser à l'État
+TAXE|2|Somme prélevée par l'État sur un achat
+TVA|3|Taxe ajoutée au prix de presque tout ce que l'on achète
+BUDGET|2|Somme dont on dispose pour ses dépenses
+DEPENSE|1|Argent que l'on paie pour acheter quelque chose
+RICHE|1|Qui a beaucoup d'argent
+PAUVRE|1|Qui manque d'argent
+PAUVRETE|2|Manque d'argent et de ressources
+MILLIONNAIRE|2|Personne qui possède des millions
+BOURSE|2|Lieu où l'on achète et vend des actions
+ACTION|3|Part du capital d'une entreprise
+ECONOMIE|2|Ensemble des activités de production, de commerce et de consommation
+INFLATION|3|Hausse générale des prix
+CRISE|2|Période de grandes difficultés économiques
+COMMERCE|2|Activité d'acheter et de vendre
+EXPORTATION|3|Vente de produits à l'étranger
+IMPORTATION|3|Achat de produits venus de l'étranger
+INDUSTRIE|2|Ensemble des usines qui fabriquent des produits
+AGRICULTURE|2|Culture de la terre et élevage
+PUBLICITE|1|Message qui fait la promotion d'un produit
+MARQUE|1|Nom qui distingue les produits d'une entreprise
+LOGO|2|Dessin qui représente une marque
+SOCIETE|2|Ensemble des personnes qui vivent ensemble
+CITOYEN|2|Membre d'un pays qui a des droits et des devoirs
+NATIONALITE|2|Appartenance d'une personne à un pays
+ETAT|2|Pays considéré du point de vue de son gouvernement
+GOUVERNEMENT|2|Ensemble des ministres qui dirigent un pays
+PRESIDENT|1|Chef de l'État en France
+MINISTRE|1|Membre du gouvernement chargé d'un domaine
+DEPUTE|2|Élu qui siège à l'Assemblée nationale
+SENATEUR|2|Élu qui siège au Sénat
+MAIRE|1|Élu qui dirige une commune
+MAIRIE|1|Bâtiment où siège le maire
+ELYSEE|2|Palais où réside le président de la République
+ASSEMBLEE|2|___ nationale : chambre où siègent les députés
+PARLEMENT|2|Ensemble des élus qui votent les lois
+LOI|1|Règle obligatoire votée par le Parlement
+CONSTITUTION|3|Texte qui fixe les règles d'organisation d'un pays
+ELECTION|1|Choix d'un représentant par un vote
+VOTE|1|Choix exprimé lors d'une élection
+VOTER|1|Exprimer son choix lors d'une élection
+ELECTEUR|2|Personne qui a le droit de voter
+BULLETIN|2|Papier que l'on glisse dans l'urne
+URNE|2|Boîte transparente dans laquelle on dépose son bulletin
+ISOLOIR|3|Cabine où l'on prépare son vote en secret
+CANDIDAT|1|Personne qui se présente à une élection
+SONDAGE|2|Enquête qui mesure l'opinion des gens
+REFERENDUM|3|Vote où les citoyens répondent par oui ou par non à une question
+DEMOCRATIE|2|Régime où le peuple choisit ses dirigeants
+POLITIQUE|1|Art de gouverner un pays
+PARTI|2|Groupe de personnes qui partagent les mêmes idées politiques
+GAUCHE|2|Ensemble des partis progressistes
+DROITE|2|Ensemble des partis conservateurs
+MANIFESTATION|1|Rassemblement dans la rue pour défendre une cause
+MANIFESTANT|2|Personne qui participe à une manifestation
+PETITION|3|Texte signé par de nombreuses personnes pour réclamer quelque chose
+LIBERTE|1|Possibilité d'agir comme on le veut
+EGALITE|1|Fait d'être traités de la même manière
+FRATERNITE|2|Lien de solidarité entre les êtres humains
+DROIT|1|Ce que la loi permet
+DEVOIR|1|Ce que l'on doit faire
+JUSTICE|1|Respect du droit et de la loi
+TRIBUNAL|1|Lieu où l'on juge les affaires de justice
+JUGE|1|Personne qui rend la justice
+AVOCAT|1|Personne qui défend un accusé
+PROCES|1|Jugement d'une affaire au tribunal
+ACCUSE|2|Personne que l'on soupçonne d'un crime et que l'on juge
+TEMOIN|2|Personne qui a vu ou entendu quelque chose
+VERDICT|2|Décision finale d'un tribunal
+CONDAMNER|2|Déclarer quelqu'un coupable et le punir
+COUPABLE|1|Qui a commis une faute
+INNOCENT|1|Qui n'a rien fait de mal
+JURY|2|Groupe de citoyens qui participent au jugement
+NOTAIRE|2|Officier public qui rédige les contrats et les testaments
+HUISSIER|3|Officier chargé de faire appliquer les décisions de justice
+PLAINTE|2|Démarche pour signaler un délit à la police
+DELIT|2|Faute punie par la loi
+CRIME|1|Faute très grave, comme un meurtre
+VOL|1|Fait de prendre ce qui appartient à un autre
+VOLEUR|1|Personne qui vole
+CAMBRIOLAGE|2|Vol commis en entrant dans une maison
+ESCROQUERIE|2|Fait de tromper quelqu'un pour lui prendre de l'argent
+ENQUETE|1|Recherche menée pour découvrir la vérité
+DETECTIVE|1|Personne qui mène des enquêtes
+COMMISSARIAT|2|Bureau de police
+MENOTTES|1|Bracelets de métal que l'on met aux poignets d'un suspect
+AMENDE|2|Somme à payer en punition d'une infraction
+POLICE|1|Service chargé de maintenir l'ordre
+SECURITE|1|Situation où l'on est à l'abri du danger
+FONCTIONNAIRE|2|Personne qui travaille pour l'État
+PREFET|3|Représentant de l'État dans un département
+DEPARTEMENT|2|Division administrative de la France, numérotée
+COMMUNE|2|Plus petite division administrative, dirigée par un maire
+PAPIERS|2|Documents officiels d'identité
+FORMULAIRE|2|Document à remplir
+ASSOCIATION|2|Groupe de personnes réunies autour d'un but commun
+BENEVOLE|2|Personne qui travaille sans être payée
+SOLIDARITE|2|Entraide entre les personnes
+CHARITE|3|Aide apportée aux plus démunis
+ECOLE|1|Établissement où l'on apprend à lire et à écrire
+ELEVE|1|Enfant qui va à l'école
+MAITRE|1|Personne qui enseigne aux enfants à l'école
+MAITRESSE|1|Femme qui enseigne aux enfants à l'école
+PROFESSEUR|1|Personne qui enseigne au collège ou au lycée
+COLLEGE|1|Établissement scolaire après l'école primaire
+LYCEE|1|Établissement scolaire après le collège
+UNIVERSITE|1|Établissement d'études supérieures
+ETUDIANT|1|Personne qui fait des études supérieures
+DIPLOME|1|Document qui prouve la réussite d'un examen
+BAC|1|Examen de fin de lycée
+EXAMEN|1|Épreuve pour contrôler les connaissances
+CARTABLE|1|Sac dans lequel l'écolier range ses affaires
+TROUSSE|1|Petit étui où l'on range ses stylos
+RECREATION|1|Pause pendant laquelle les élèves jouent dans la cour
+DIRECTEUR|1|Personne qui dirige une école ou une entreprise
+JOURNAL|1|Publication qui donne les nouvelles
+JOURNALISTE|1|Personne qui écrit des articles ou présente l'actualité
+ACTUALITE|1|Ensemble des événements récents
+INFORMATION|1|Nouvelle que l'on apprend
+MEDIA|2|Moyen de diffuser l'information, comme la télévision ou la radio
+PRESSE|2|Ensemble des journaux
+REPORTER|2|Journaliste qui va sur le terrain
+ARTICLE|2|Texte publié dans un journal
+UNE|3|Première page d'un journal
+INTERVIEW|2|Entretien d'un journaliste avec une personnalité
+RESEAUSOCIAL|2|Site où l'on partage des messages et des photos avec ses amis
+INFLUENCEUR|2|Personne suivie sur les réseaux sociaux qui fait la promotion de produits
+ECOLOGIE|2|Protection de la nature et de l'environnement
+ENVIRONNEMENT|2|Milieu naturel dans lequel on vit
+POLLUTION|1|Dégradation de l'environnement par des déchets ou des fumées
+RECYCLAGE|1|Réutilisation des déchets pour fabriquer de nouveaux objets
+DECHET|1|Ce que l'on jette
+POUBELLE|1|Récipient dans lequel on jette les déchets
+RECHAUFFEMENT|2|___ climatique : hausse des températures sur la Terre
+DEVELOPPEMENT|3|___ durable : progrès qui respecte l'environnement
+FAMILLE|1|Ensemble des parents et des enfants
+PARENTS|1|Le père et la mère
+VOISIN|1|Personne qui habite à côté
+AMITIE|1|Sentiment qui unit des amis
+GENERATION|2|Ensemble des personnes nées à la même époque
+SMIC|3|Salaire minimum légal en France
+INTERIM|3|Travail temporaire effectué pour le compte d'une agence
+PRUDHOMMES|3|Tribunal qui règle les conflits entre employeurs et salariés
+LICENCIEMENT|3|Fait de renvoyer un salarié
+DEMISSION|3|Fait de quitter volontairement son emploi
+CARRIERE|2|Suite des emplois occupés par une personne au cours de sa vie
+TELETRAVAIL|3|Travail fait depuis chez soi grâce à Internet
+SALARIE|3|Personne payée par un employeur
+PDG|2|Président-directeur général d'une entreprise
+ACTIONNAIRE|3|Personne qui possède des actions d'une entreprise
+DIVIDENDE|3|Part des bénéfices versée aux actionnaires
+BENEFICE|2|Argent gagné après avoir payé toutes les dépenses
+FAILLITE|3|Situation d'une entreprise qui ne peut plus payer ses dettes
+MONOPOLE|3|Situation d'une entreprise qui n'a pas de concurrent
+CONCURRENCE|3|Rivalité entre entreprises qui vendent les mêmes produits
+CAPITALISME|3|Système économique fondé sur la propriété privée et le profit
+SOCIALISME|3|Doctrine qui prône la justice sociale et la propriété collective
+COMMUNISME|3|Doctrine qui veut mettre en commun les biens de production
+LIBERALISME|3|Doctrine qui défend la liberté d'entreprendre
+ANARCHIE|3|Absence de gouvernement
+UTOPIE|3|Projet idéal qui semble impossible à réaliser
+LAICITE|3|Principe de séparation de l'État et des religions
+SUFFRAGE|3|___ universel : droit de vote accordé à tous les citoyens
+ABSTENTION|3|Fait de ne pas aller voter
+MANDAT|3|Durée pendant laquelle un élu exerce sa fonction
+QUINQUENNAT|3|Mandat présidentiel de cinq ans
+AMBASSADE|2|Représentation d'un pays à l'étranger
+AMBASSADEUR|3|Représentant d'un pays auprès d'un pays étranger
+DIPLOMATE|3|Personne chargée des relations entre les pays
+CONSULAT|3|Bureau qui aide les citoyens d'un pays à l'étranger
+ONU|2|Organisation des Nations unies
+UNESCO|3|Organisation de l'ONU pour l'éducation, la science et la culture
+UNICEF|3|Organisation de l'ONU qui protège les enfants
+OTAN|3|Alliance militaire entre l'Amérique du Nord et l'Europe
+EUROPEEN|2|Habitant de l'Europe
+SCHENGEN|3|Espace européen où l'on circule sans contrôle aux frontières
+LEGISLATION|3|Ensemble des lois
+DECRET|3|Décision écrite du gouvernement
+JURISPRUDENCE|3|Ensemble des décisions déjà rendues par les tribunaux
+TESTAMENT|3|Document qui indique à qui l'on lègue ses biens après sa mort
+CASIER|3|___ judiciaire : relevé des condamnations d'une personne
+PRISONNIER|2|Personne enfermée en prison
+GARDEAVUE|3|Retenue d'un suspect au commissariat
+PERQUISITION|3|Fouille d'un domicile par la police
+ALIBI|3|Preuve que l'on était ailleurs au moment d'un crime
+PREUVE|2|Ce qui démontre la vérité d'un fait
+EMPREINTE|2|Trace laissée par les doigts
+SUSPECT|2|Personne soupçonnée d'un crime
+INSPECTEUR|2|Policier chargé d'une enquête
+COMMISSAIRE|2|Chef d'un commissariat de police
+ALLOCATION|3|Aide financière versée par l'État
+MUTUELLE|3|Assurance qui complète les remboursements de santé
+ASSURANCE|2|Contrat qui protège contre les accidents et les dommages
+RECENSEMENT|3|Comptage de la population
+DEMOGRAPHIE|3|Étude de la population
+MIGRANT|3|Personne qui quitte son pays pour s'installer ailleurs
+REFUGIE|2|Personne qui a fui son pays à cause d'une guerre ou d'un danger
+ASILE|3|Protection accordée à un réfugié
+CHOMEUR|2|Personne sans emploi
+SANSABRI|3|Personne qui n'a pas de logement
+LOYER|2|Somme payée chaque mois pour habiter un logement
+PROPRIETAIRE|2|Personne qui possède un bien
+LOCATAIRE|2|Personne qui loue un logement
+DEMENAGEMENT|2|Fait de changer de logement

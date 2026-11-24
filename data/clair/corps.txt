@@ -1,0 +1,234 @@
+# MOT|niveau|définition
+CORPS|1|Ensemble formé par la tête, le tronc et les membres
+TETE|1|Partie du corps qui porte le visage
+VISAGE|1|Partie avant de la tête, avec les yeux, le nez et la bouche
+OEIL|1|Organe de la vue
+OREILLE|1|Organe de l'ouïe
+NEZ|1|Organe de l'odorat, au milieu du visage
+BOUCHE|1|Ouverture du visage par laquelle on mange et on parle
+DENT|1|Petit os blanc de la bouche qui sert à mâcher
+LEVRE|1|Chacun des deux bords de la bouche
+JOUE|1|Partie du visage sous chaque œil
+FRONT|1|Partie du visage au-dessus des yeux
+MENTON|1|Partie du visage sous la bouche
+SOURCIL|1|Ligne de poils au-dessus de l'œil
+CIL|1|Petit poil qui borde la paupière
+PAUPIERE|2|Peau mobile qui recouvre l'œil
+CHEVEU|1|Poil qui pousse sur la tête
+COU|1|Partie du corps qui relie la tête aux épaules
+EPAULE|1|Haut du bras, là où il rejoint le tronc
+BRAS|1|Membre supérieur, de l'épaule à la main
+COUDE|1|Articulation au milieu du bras
+POIGNET|1|Articulation entre le bras et la main
+MAIN|1|Extrémité du bras, avec cinq doigts
+DOIGT|1|Chacune des cinq extrémités de la main
+POUCE|1|Doigt le plus court et le plus gros de la main
+ONGLE|1|Lame dure qui recouvre le bout des doigts
+VENTRE|1|Partie avant du corps, sous la poitrine
+DOS|1|Partie arrière du corps, des épaules aux reins
+POITRINE|1|Partie avant du tronc, entre le cou et le ventre
+NOMBRIL|1|Petit creux au milieu du ventre
+HANCHE|2|Partie saillante du corps, sous la taille
+FESSE|2|Chacune des deux parties charnues sur lesquelles on s'assoit
+JAMBE|1|Membre inférieur, de la hanche au pied
+GENOU|1|Articulation au milieu de la jambe
+CHEVILLE|1|Articulation entre la jambe et le pied
+PIED|1|Extrémité de la jambe, sur laquelle on marche
+TALON|1|Arrière du pied
+ORTEIL|1|Doigt de pied
+MOLLET|2|Partie charnue à l'arrière de la jambe
+CUISSE|1|Partie de la jambe entre la hanche et le genou
+PEAU|1|Enveloppe qui recouvre tout le corps
+POIL|1|Petit filament qui pousse sur la peau
+SQUELETTE|1|Ensemble des os du corps
+CRANE|1|Ensemble des os de la tête, qui protège le cerveau
+VERTEBRE|2|Chacun des os de la colonne vertébrale
+CLAVICULE|3|Os qui relie l'épaule au haut de la poitrine
+OMOPLATE|3|Os plat en haut du dos
+FEMUR|3|Os de la cuisse, le plus long du corps
+TIBIA|3|Os principal de la jambe, sous le genou
+ROTULE|3|Petit os rond à l'avant du genou
+BASSIN|3|Ceinture d'os qui soutient le bas du tronc
+MACHOIRE|2|Os de la bouche qui porte les dents
+MUSCLE|1|Organe qui permet de bouger en se contractant
+BICEPS|2|Muscle de l'avant du bras
+ABDOMINAUX|2|Muscles du ventre
+TENDON|3|Cordon qui relie un muscle à un os
+LIGAMENT|3|Lien qui relie deux os d'une articulation
+ARTICULATION|2|Endroit où deux os se rejoignent et peuvent bouger
+COEUR|1|Organe qui pompe le sang dans tout le corps
+POUMON|1|Organe qui permet de respirer
+CERVEAU|1|Organe de la pensée, protégé par le crâne
+ESTOMAC|1|Organe où les aliments sont digérés
+FOIE|2|Gros organe qui filtre le sang et aide à la digestion
+REIN|2|Organe qui filtre le sang et produit l'urine
+INTESTIN|2|Long tube où se termine la digestion
+VESSIE|3|Poche qui recueille l'urine
+RATE|3|Organe situé à gauche de l'estomac, lié au sang
+PANCREAS|3|Organe qui fabrique l'insuline
+THYROIDE|3|Glande du cou qui règle le fonctionnement du corps
+ORGANE|2|Partie du corps qui remplit une fonction, comme le cœur
+SANG|1|Liquide rouge qui circule dans le corps
+VEINE|2|Vaisseau qui ramène le sang vers le cœur
+ARTERE|2|Vaisseau qui transporte le sang du cœur vers les organes
+GLOBULE|3|Cellule du sang, rouge ou blanche
+PLAQUETTE|3|Cellule du sang qui aide à cicatriser
+NERF|2|Fil qui transmet les messages entre le cerveau et le corps
+NEURONE|3|Cellule du cerveau et des nerfs
+HORMONE|3|Substance qui agit comme un messager dans le corps
+INSULINE|3|Hormone qui règle le sucre dans le sang
+ADRENALINE|3|Hormone libérée sous l'effet de la peur ou de l'excitation
+SALIVE|2|Liquide qui humidifie la bouche
+LARME|1|Goutte d'eau salée qui coule de l'œil
+SUEUR|2|Liquide qui coule sur la peau quand on a chaud
+RESPIRER|1|Faire entrer et sortir l'air des poumons
+DIGERER|2|Transformer les aliments dans l'estomac
+POULS|2|Battement du sang que l'on sent au poignet
+TENSION|2|Pression du sang dans les artères
+VUE|1|Sens qui permet de voir
+OUIE|2|Sens qui permet d'entendre
+ODORAT|2|Sens qui permet de sentir les odeurs
+GOUT|1|Sens qui permet de reconnaître les saveurs
+TOUCHER|1|Sens qui permet de sentir les objets avec la peau
+SANTE|1|Bon état du corps et de l'esprit
+MALADIE|1|Altération de la santé
+MALADE|1|Personne qui n'est pas en bonne santé
+MEDECIN|1|Personne qui soigne les malades
+DOCTEUR|1|Autre nom du médecin
+INFIRMIER|1|Personne qui fait les piqûres et les pansements
+INFIRMIERE|1|Femme qui soigne les malades à l'hôpital
+CHIRURGIEN|1|Médecin qui opère les malades
+DENTISTE|1|Médecin qui soigne les dents
+PHARMACIEN|1|Personne qui vend les médicaments
+PHARMACIE|1|Boutique où l'on achète des médicaments
+HOPITAL|1|Établissement où l'on soigne les malades
+CLINIQUE|2|Établissement de soins privé
+URGENCES|1|Service de l'hôpital qui reçoit les malades graves sans attendre
+AMBULANCE|1|Véhicule qui transporte les malades et les blessés
+MEDICAMENT|1|Produit qui sert à soigner
+PILULE|2|Petit médicament en forme de bille à avaler
+COMPRIME|1|Médicament en forme de pastille à avaler
+PIQURE|1|Injection faite avec une seringue
+SERINGUE|2|Petit tube muni d'une aiguille pour faire des piqûres
+PANSEMENT|1|Bande que l'on met sur une plaie
+SPARADRAP|2|Petite bande adhésive pour couvrir une coupure
+PLATRE|1|Bandage dur qui immobilise un membre cassé
+BEQUILLE|1|Canne sur laquelle on s'appuie quand on a mal à la jambe
+STETHOSCOPE|2|Instrument du médecin pour écouter le cœur et les poumons
+ORDONNANCE|2|Papier sur lequel le médecin écrit les médicaments à prendre
+CONSULTATION|2|Rendez-vous chez le médecin
+OPERATION|1|Intervention du chirurgien sur un malade
+ANESTHESIE|3|Endormissement d'un malade avant une opération
+RADIOGRAPHIE|2|Image des os obtenue grâce aux rayons X
+SCANNER|3|Examen qui donne des images en coupe de l'intérieur du corps
+ECHOGRAPHIE|3|Examen qui montre l'intérieur du corps grâce aux ultrasons
+PRISEDESANG|2|Prélèvement de sang pour l'analyser
+VACCINATION|2|Injection qui protège contre une maladie
+FIEVRE|1|Élévation anormale de la température du corps
+TOUX|1|Expulsion brusque et bruyante de l'air des poumons
+RHUME|1|Petite maladie qui fait couler le nez
+GRIPPE|1|Maladie contagieuse avec de la fièvre et des courbatures
+ANGINE|2|Inflammation de la gorge
+OTITE|3|Inflammation de l'oreille
+BRONCHITE|3|Inflammation des bronches qui fait tousser
+ALLERGIE|2|Réaction excessive du corps au pollen, à la poussière ou à un aliment
+ASTHME|2|Maladie qui gêne la respiration
+DIABETE|2|Maladie liée à un excès de sucre dans le sang
+CANCER|2|Maladie grave due à des cellules qui se multiplient anormalement
+VARICELLE|2|Maladie d'enfant qui couvre la peau de boutons
+ROUGEOLE|3|Maladie contagieuse qui donne des plaques rouges sur la peau
+OREILLONS|3|Maladie qui fait gonfler les joues
+MIGRAINE|2|Violent mal de tête
+INSOMNIE|2|Difficulté à dormir
+FATIGUE|1|Sensation de manquer d'énergie
+DOULEUR|1|Sensation pénible qui fait mal
+BLESSURE|1|Lésion du corps causée par un coup ou une coupure
+PLAIE|2|Coupure ou blessure ouverte de la peau
+CICATRICE|2|Trace laissée sur la peau par une blessure guérie
+ENTORSE|2|Torsion douloureuse d'une articulation, souvent à la cheville
+FRACTURE|2|Os cassé
+BRULURE|1|Blessure causée par le feu ou la chaleur
+BOUTON|1|Petite grosseur sur la peau
+VERRUE|3|Petite excroissance dure sur la peau
+CARIE|2|Trou dans une dent abîmée
+NAUSEE|2|Envie de vomir
+VERTIGE|2|Sensation que tout tourne autour de soi
+COMA|3|Perte de conscience prolongée
+EPIDEMIE|2|Maladie qui touche beaucoup de personnes en même temps
+PANDEMIE|3|Épidémie qui touche le monde entier
+CONTAGIEUX|2|Se dit d'une maladie qui se transmet d'une personne à une autre
+GUERIR|1|Retrouver la santé
+SOIGNER|1|Donner des soins à un malade
+CONVALESCENCE|3|Période de repos après une maladie
+REEDUCATION|3|Exercices pour retrouver l'usage d'un membre
+KINE|2|Professionnel qui soigne par des massages et des exercices
+OPHTALMOLOGUE|3|Médecin spécialiste des yeux
+PEDIATRE|2|Médecin spécialiste des enfants
+CARDIOLOGUE|3|Médecin spécialiste du cœur
+DERMATOLOGUE|3|Médecin spécialiste de la peau
+PSYCHOLOGUE|2|Spécialiste qui aide à aller mieux dans sa tête
+PSYCHIATRE|3|Médecin qui soigne les troubles de l'esprit
+GYNECOLOGUE|3|Médecin spécialiste des femmes
+SAGEFEMME|2|Personne qui aide les femmes à accoucher
+OSTEOPATHE|3|Professionnel qui soigne en manipulant les os et les muscles
+LUNETTES|1|Paire de verres qui aident à mieux voir
+MYOPE|2|Qui voit mal de loin
+APPAREIL|2|___ dentaire : fils de métal qui redressent les dents
+PROTHESE|3|Pièce artificielle qui remplace une partie du corps
+GROSSESSE|2|Période pendant laquelle une femme attend un bébé
+ACCOUCHEMENT|2|Naissance d'un bébé
+NAISSANCE|1|Venue au monde d'un enfant
+BEBE|1|Tout petit enfant
+NOURRISSON|2|Bébé qui n'est pas encore sevré
+EMBRYON|3|Être vivant aux premiers stades de son développement dans le ventre
+FOETUS|3|Bébé qui se développe dans le ventre de sa mère
+CROISSANCE|2|Fait de grandir
+PUBERTE|3|Période où le corps de l'enfant devient adulte
+VIEILLESSE|2|Dernière période de la vie
+HYGIENE|2|Ensemble des soins de propreté
+SOMMEIL|1|État de repos où l'on dort
+REVE|1|Images que l'on voit en dormant
+CAUCHEMAR|1|Mauvais rêve
+BAILLER|1|Ouvrir grand la bouche quand on est fatigué
+ETERNUER|1|Chasser brusquement l'air par le nez
+HOQUET|2|Petit bruit répété causé par une contraction du ventre
+ROUGIR|1|Devenir rouge de gêne ou d'émotion
+FRISSON|2|Tremblement causé par le froid ou la peur
+CHAIRDEPOULE|2|Petits boutons qui apparaissent sur la peau quand on a froid
+STRESS|2|Tension nerveuse causée par la pression
+DEPRESSION|3|Maladie qui provoque une grande tristesse
+REGIME|2|Façon de s'alimenter pour perdre du poids ou rester en forme
+VITAMINE|2|Substance indispensable à la santé, présente dans les fruits
+CALORIE|2|Unité qui mesure l'énergie apportée par les aliments
+PROTEINE|3|Substance nutritive présente dans la viande et les œufs
+CHOLESTEROL|3|Graisse présente dans le sang
+OBESITE|3|Excès de poids important
+ANOREXIE|3|Trouble qui pousse à ne plus manger
+BIENETRE|2|Sensation agréable de bonne santé
+DEFENSES|3|Ce qui protège le corps contre les maladies
+IMMUNITE|3|Capacité du corps à se défendre contre les maladies
+ANTICORPS|3|Substance fabriquée par le corps pour combattre un microbe
+INFECTION|2|Pénétration de microbes dans le corps
+INFLAMMATION|3|Réaction du corps qui rend une zone rouge, chaude et douloureuse
+ANTISEPTIQUE|3|Produit qui désinfecte une plaie
+DESINFECTER|2|Nettoyer une plaie pour tuer les microbes
+CHIRURGIE|2|Partie de la médecine qui soigne par des opérations
+SCALPEL|3|Petit couteau du chirurgien
+BISTOURI|3|Petit couteau du chirurgien
+BLOC|3|___ opératoire : salle où l'on opère
+GREFFE|3|Remplacement d'un organe malade par un organe sain
+TRANSFUSION|3|Injection de sang à un malade
+DIAGNOSTIC|3|Identification d'une maladie par le médecin
+SYMPTOME|3|Signe qui révèle une maladie
+TRAITEMENT|2|Ensemble des soins pour guérir une maladie
+REMEDE|2|Ce qui sert à soigner une maladie
+GELULE|3|Petite capsule contenant un médicament
+POMMADE|2|Crème que l'on étale sur la peau pour la soigner
+COLLYRE|3|Médicament en gouttes pour les yeux
+HOMEOPATHIE|3|Médecine qui soigne par de très petites doses
+ACUPUNCTURE|3|Médecine chinoise qui soigne avec de fines aiguilles
+SECOURISME|3|Ensemble des gestes qui sauvent les blessés
+SECOURISTE|2|Personne formée aux premiers secours
+MASSAGE|2|Pressions faites avec les mains pour détendre les muscles
+ANATOMIE|3|Science qui étudie la structure du corps
+MEDECINE|1|Science qui soigne les maladies
