@@ -10,7 +10,7 @@ const ALLTHEMES=D.T;
 const THEMES=ALLTHEMES.filter(t=>t.id!=='mix');
 const themeById=id=>ALLTHEMES.find(t=>t.id===id);
 const colorOf=t=>t.id==='mix'?'#e0a21a':t.color;
-const DIFF=['Facile','Moyen','Difficile','Expert'];
+const DIFF=['Facile','Moyen','Difficile'];
 const MODES={cache:'Mot caché',croises:'Mots croisés',fleches:'Mots fléchés',meles:'Mots mêlés',ana:'Anagrammes'};
 const MODE_DESC={cache:'Une définition par ligne, un mot mystère en colonne',croises:'La grille classique à numéros',fleches:'Les définitions dans la grille',meles:'Retrouvez les mots cachés',ana:'Remettez les lettres dans l’ordre'};
 const MODE_IDS=['cache','croises','fleches','meles','ana'];
@@ -49,7 +49,7 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const fmtT=s=>Math.floor(s/60)+':'+String(s%60).padStart(2,'0');
 const fmtN=n=>n.toLocaleString('fr-FR');
 const COST={letter:5,word:15};
-const P='mk3:';
+const P='mk4:';
 const todayStr=(d=new Date())=>d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0');
 const lvKey=(mode,tid,n)=>mode+'-'+tid+'-'+n;
 function getMode(){const m=store.get(P+'mode','cache');return MODES[m]?m:'cache'}

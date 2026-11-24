@@ -183,3 +183,77 @@ ORTHOPHONISTE|2|Spécialiste qui aide à mieux parler et écrire
 DYSLEXIE|2|Trouble qui rend difficile l'apprentissage de la lecture
 ILLETTRISME|3|Difficulté à lire et à écrire chez un adulte allé à l'école
 ANALPHABETE|3|Qui ne sait ni lire ni écrire
+INITIALE|2|Première lettre d'un mot ou d'un nom|Lettre du début
+ACCENTGRAVE|3|Signe placé sur le e de « père »|Accent qui penche vers la gauche
+ELISION|3|Suppression d'une voyelle remplacée par une apostrophe|L'arbre pour le arbre
+LIAISON|2|Son qui relie deux mots prononcés ensemble|Les_amis, avec le son z
+RIMER|2|Finir par le même son|Faire des vers qui se répondent
+PRONOMINAL|3|Se dit d'un verbe conjugué avec « se »|Se laver en est un
+TRANSITIF|3|Se dit d'un verbe qui a un complément d'objet|Manger quelque chose
+INVARIABLE|2|Qui ne change jamais de forme|Se dit d'un adverbe
+CONJUGUER|1|Donner les différentes formes d'un verbe|Je mange, tu manges, il mange
+TEMPS|2|Présent, passé ou futur, pour un verbe|Moment de l'action
+PERSONNE|2|Je, tu, il... dans la conjugaison|Première, deuxième ou troisième
+NEGATION|2|Forme qui dit non, avec « ne... pas »|Contraire de l'affirmation
+AFFIRMATION|3|Phrase qui dit oui|Contraire de la négation
+QUESTIONNER|2|Poser des questions|Interroger
+REPONDRE|1|Donner une réponse|Répliquer
+RACONTER|1|Faire le récit d'une histoire|Narrer
+EXPLIQUER|1|Faire comprendre|Éclaircir
+DECRIRE|2|Dire comment est quelque chose|Dépeindre
+RESUMER|2|Dire en peu de mots|Abréger
+SOULIGNER|1|Tirer un trait sous un mot|Mettre en évidence
+RATURE|2|Trait qui barre un mot écrit|Mot barré
+COQUILLE|3|Faute d'impression dans un texte|Erreur typographique
+DICO|1|Dictionnaire, en abrégé|Livre des mots
+GLOSSAIRE|3|Liste de mots rares expliqués à la fin d'un livre|Petit lexique
+INDEX|3|Liste alphabétique à la fin d'un livre|Table des renvois
+SOMMAIRE|2|Liste des chapitres au début d'un livre|Table des matières
+SLOGAN|2|Formule courte et frappante|Devise publicitaire
+RIMES|3|Sons qui se répondent en fin de vers|Assonances
+VERSIFICATION|3|Art de faire des vers|Métrique
+PROSE|2|Langage ordinaire, sans vers|Monsieur Jourdain en faisait sans le savoir
+STYLE|2|Manière d'écrire propre à un auteur|Plume
+NARRATEUR|2|Celui qui raconte l'histoire|Voix du récit
+DIALOGUER|2|Échanger des paroles|Converser
+TUTOYER|1|Dire « tu » à quelqu'un|Parler familièrement
+VOUVOYER|1|Dire « vous » à quelqu'un|Parler poliment
+SURNOM|1|Nom donné en plus du vrai nom|Sobriquet
+PSEUDONYME|2|Faux nom choisi par un auteur|Nom de plume
+ANONYME|2|Sans nom d'auteur|Inconnu
+SIGNATURE|1|Nom écrit à la main au bas d'une lettre|Paraphe
+AUTOGRAPHE|2|Signature d'une célébrité|Dédicace de star
+DEDICACE|2|Mot écrit par l'auteur sur un livre|Envoi personnalisé
+LOCUTION|3|Groupe de mots figé|Expression toute faite
+IDIOTISME|3|Expression propre à une langue|Tournure intraduisible
+ANGLICISME|3|Mot emprunté à l'anglais|Week-end en est un
+PATRONYME|3|Nom de famille|Nom du père
+TOPONYME|3|Nom de lieu|Nom de ville ou de rivière
+GENTILE|3|Nom des habitants d'un lieu|Parisien en est un
+PLEONASME|3|Répétition inutile, comme « monter en haut »|Redondance
+BARBARISME|3|Mot qui n'existe pas dans la langue|Faute de vocabulaire
+SOLECISME|3|Faute de construction de phrase|Faute de syntaxe
+SYNTAXE|3|Règles de construction des phrases|Ordre des mots
+SEMANTIQUE|3|Étude du sens des mots|Science de la signification
+PHONETIQUE|3|Étude des sons d'une langue|Alphabet des sons
+LINGUISTE|3|Spécialiste du langage|Savant des langues
+LEXICOGRAPHE|3|Auteur de dictionnaires|Rédacteur de définitions
+GRAMMAIRIEN|3|Spécialiste de la grammaire|Grevisse en était un
+ACADEMICIEN|3|Membre de l'Académie française|Immortel
+PLUMITIF|3|Écrivain médiocre|Gratte-papier
+BAVARDAGE|2|Conversation futile|Papotage
+COMMERAGE|3|Bavardage malveillant|Ragot
+RUMEUR|2|Bruit qui court|On-dit
+POTIN|3|Petit ragot|Cancan
+CANCAN|3|Médisance|Potin
+MURMURE|2|Bruit de voix très faible|Chuchotement
+CRI|1|Son poussé très fort|Hurlement
+SOUPIRER|2|Exprimer sa peine par un souffle|Pousser un soupir
+BREDOUILLER|3|Parler de façon confuse|Balbutier
+BALBUTIER|3|Parler en hésitant|Bégayer
+ZEZAYER|3|Prononcer z à la place de j|Défaut de prononciation
+ZOZOTER|3|Prononcer s comme z|Avoir un cheveu sur la langue
+JURON|2|Gros mot lancé sous le coup de la colère|Sacrebleu en est un
+INSULTE|2|Parole qui blesse|Offense
+EUPHONIE|3|Succession agréable de sons|Harmonie des mots
+CACOPHONIE|3|Mélange de sons désagréables|Charivari

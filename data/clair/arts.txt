@@ -241,3 +241,76 @@ MODE|1|Manière de s'habiller propre à une époque
 COUTURIER|2|Créateur de vêtements de luxe
 MANNEQUIN|1|Personne qui présente des vêtements lors d'un défilé
 DEFILE|2|Présentation de vêtements par des mannequins
+PERSPECTIVE|3|Technique qui donne l'illusion de la profondeur|Point de fuite d'un tableau
+CLAIROBSCUR|3|Contraste entre zones claires et sombres en peinture|Technique de Caravage
+TRIPTYQUE|3|Œuvre en trois panneaux|Retable à trois volets
+RETABLE|3|Grand tableau placé derrière l'autel|Décor d'autel
+MINIATURE|3|Petite peinture très détaillée|Tableau en réduction
+VERNIS|3|Couche transparente qui protège un tableau|Finition brillante
+PATINE|3|Couleur prise avec le temps par un objet|Aspect vieilli du bronze
+ATELIER|2|Lieu de travail d'un artiste|Studio du peintre
+MODELE|2|Personne qui pose pour un artiste|Sujet du portrait
+NU|3|Représentation d'un corps sans vêtements|Genre pictural
+MECENE|3|Personne riche qui soutient les artistes|Protecteur des arts
+FAUSSAIRE|3|Personne qui fabrique de fausses œuvres d'art|Copiste malhonnête
+COPIE|2|Reproduction d'une œuvre|Imitation
+CONSERVATEUR|3|Responsable des collections d'un musée|Gardien d'un musée
+ENCHERES|2|Vente où l'objet va au plus offrant|Vente publique d'art
+PIGMENT|3|Poudre colorée qui sert à faire la peinture|Matière colorante
+OCRE|3|Terre jaune ou rouge utilisée comme pigment|Couleur de terre
+SEPIA|3|Brun utilisé pour les dessins et les vieilles photos|Encre de seiche
+FAUVISME|3|Mouvement de peinture aux couleurs très vives|Style de Matisse
+POINTILLISME|3|Peinture faite de petits points de couleur|Technique de Seurat
+POPART|3|Art qui reprend les images de la publicité|Mouvement de Warhol
+STREETART|2|Art de la rue|Art urbain
+INSTALLATION|3|Œuvre d'art contemporain occupant un espace|Art in situ
+VIDEO|2|Film enregistré|Clip
+ANIMATION|2|Technique qui donne vie à des dessins|Cinéma d'images successives
+SALLE|2|Lieu où l'on projette les films|Cinéma de quartier
+POPCORN|1|Maïs éclaté que l'on mange au cinéma|Friandise de séance
+PROJECTION|2|Diffusion d'un film sur un écran|Séance
+BOXOFFICE|3|Classement des films par nombre d'entrées|Succès en salles
+SUCCES|1|Œuvre qui plaît beaucoup|Triomphe
+FLOP|2|Échec commercial|Bide
+SUITE|2|Film qui continue l'histoire d'un premier|Deuxième épisode
+SAGA|2|Longue suite de films ou de romans|Épopée familiale
+SERIE|1|Histoire racontée en plusieurs épisodes|Feuilleton télévisé
+EPISODE|1|Partie d'une série|Chapitre télévisé
+FEUILLETON|2|Histoire publiée par épisodes|Série
+SITCOM|3|Série comique tournée en studio|Comédie de situation
+TELEREALITE|2|Émission qui filme la vie de candidats|Loft Story en était une
+DOCUMENTAIRE|2|Film qui montre la réalité|Reportage
+COURTMETRAGE|3|Film de moins d'une heure|Petit film
+LONGMETRAGE|3|Film de plus d'une heure|Film de cinéma
+MUET|2|Se dit des films sans parole des débuts du cinéma|Cinéma de Charlot
+NOIRETBLANC|2|Se dit des vieux films sans couleur|Film d'avant la couleur
+MAQUILLEUR|3|Personne qui maquille les acteurs|Artiste du fard
+COSTUMIER|3|Personne qui crée les vêtements d'un spectacle|Habilleur
+DECOR|2|Ensemble des éléments qui forment le cadre d'une scène|Toile de fond
+ACCESSOIRE|2|Objet utilisé sur scène|Objet de décor
+METTEUR|3|___ en scène : personne qui dirige une pièce|Directeur de spectacle
+SOUFFLEUR|3|Personne qui souffle leur texte aux acteurs|Aide-mémoire caché
+TROUPE|2|Groupe d'acteurs qui jouent ensemble|Compagnie théâtrale
+TIRADE|3|Longue réplique d'un acteur|Monologue
+TRAC|2|Peur avant d'entrer en scène|Angoisse de l'acteur
+BIS|2|Cri du public qui réclame une reprise|Encore !
+RAPPEL|2|Retour des acteurs saluer le public|Salut final
+OVATION|3|Applaudissements enthousiastes|Triomphe
+STANDUP|2|Spectacle comique d'un humoriste seul|One-man-show
+HUMORISTE|1|Artiste qui fait rire|Comique
+SKETCH|2|Courte scène comique|Saynète
+IMPROVISATION|2|Jeu sans texte préparé|Impro
+CONTEUR|2|Personne qui raconte des histoires|Narrateur
+ROMANCE|3|Histoire d'amour|Idylle
+EPOPEE|3|Long récit d'aventures héroïques|Chanson de geste
+PARODIE|2|Imitation comique d'une œuvre|Pastiche
+SATIRE|3|Œuvre qui se moque des mœurs|Pamphlet
+PAMPHLET|3|Court écrit qui attaque violemment|Libelle
+ANTHOLOGIE|3|Recueil de textes choisis|Florilège
+RECUEIL|2|Livre qui rassemble plusieurs textes|Compilation
+TOME|2|Volume d'un ouvrage|Livre d'une série
+GONCOURT|2|Prix littéraire français le plus célèbre|Prix de novembre
+RENAUDOT|3|Prix littéraire décerné le même jour que le Goncourt|Prix littéraire
+BESTIAIRE|3|Recueil de textes sur les animaux|Fables animalières
+KAFKAIEN|3|Absurde et oppressant comme chez Kafka|Cauchemardesque
+CORNELIEN|3|Se dit d'un choix déchirant|Dilemme du Cid

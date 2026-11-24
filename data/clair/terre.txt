@@ -217,7 +217,7 @@ LIMA|3|Capitale du Pérou
 LECAIRE|2|Capitale de l'Égypte
 DAKAR|2|Capitale du Sénégal
 RABAT|3|Capitale du Maroc
-ALGER|2|Capitale de l'Algérie, la ville blanche du Maghreb
+ALGER|2|Capitale du plus grand pays d'Afrique, surnommée la ville blanche
 TUNIS|2|Capitale du pays du jasmin, en Afrique du Nord
 CANBERRA|3|Capitale de l'Australie
 NEWYORK|1|Plus grande ville des États-Unis, célèbre pour ses gratte-ciel

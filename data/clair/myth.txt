@@ -199,3 +199,80 @@ AMEN|1|Mot qui termine les prières
 ALLELUIA|2|Cri de joie et de louange à Dieu
 HALO|2|Cercle de lumière autour de la tête des saints
 AUREOLE|2|Cercle doré qui entoure la tête des saints dans les tableaux
+ABBE|2|Prêtre qui dirige une abbaye|Religieux supérieur d'un monastère
+DIACRE|3|Religieux qui aide le prêtre|Ministre du culte au-dessous du prêtre
+SACRISTAIN|3|Employé chargé de l'entretien d'une église|Gardien de la sacristie
+BENEDICTIN|3|Moine de l'ordre de saint Benoît|Religieux à la robe noire
+CHARTREUX|3|Moine qui vit dans une chartreuse|Religieux qui fait vœu de silence
+EVANGELISTE|3|Auteur d'un des quatre Évangiles|Matthieu, Marc, Luc ou Jean
+MESSIE|2|Sauveur attendu par les croyants|Envoyé de Dieu
+DELUGE|2|Inondation qui recouvrit la Terre selon la Bible|Raison de l'arche de Noé
+ARCHE|2|Grand bateau de Noé|Coffre de l'Alliance
+GENESE|3|Premier livre de la Bible|Récit de la création du monde
+APOCALYPSE|3|Dernier livre de la Bible|Fin du monde annoncée
+COMMANDEMENT|2|Chacune des dix règles données à Moïse|Loi divine
+SERMON|2|Discours religieux prononcé par le prêtre|Prêche
+HOSTIE|2|Petit pain rond et plat consacré à la messe|Pain de la communion
+CONFESSION|2|Aveu de ses péchés au prêtre|Sacrement du pardon
+CONFESSIONNAL|3|Petite cabine où l'on se confesse|Isoloir de l'église
+BENEDICTION|2|Prière qui appelle la grâce de Dieu|Signe de croix du prêtre
+SACREMENT|3|Rite chrétien comme le baptême ou le mariage|Il y en a sept chez les catholiques
+EUCHARISTIE|3|Sacrement du pain et du vin|Communion
+VEPRES|3|Prières de fin d'après-midi|Office du soir
+ANGELUS|3|Prière annoncée par les cloches|Sonnerie de midi
+CHAPELAIN|3|Prêtre d'une chapelle|Aumônier
+AUMONIER|3|Prêtre attaché à une école, une armée ou un hôpital|Religieux d'une institution
+MISSIONNAIRE|2|Religieux qui part répandre sa foi|Évangélisateur
+CONVERSION|3|Changement de religion|Adoption d'une nouvelle foi
+HERETIQUE|3|Qui s'écarte de la doctrine officielle|Dissident religieux
+SCHISME|3|Séparation au sein d'une Église|Division religieuse
+TRINITE|3|Le Père, le Fils et le Saint-Esprit|Dieu en trois personnes
+NATIVITE|3|Naissance de Jésus|Fête de Noël
+ASCENSION|3|Montée de Jésus au ciel|Fête de mai
+PENTECOTE|3|Fête qui célèbre la venue du Saint-Esprit|Fête cinquante jours après Pâques
+EPIPHANIE|3|Fête des Rois mages|Jour de la galette
+CHANDELEUR|2|Fête des crêpes le 2 février|Présentation de Jésus au Temple
+HANOUKKA|3|Fête juive des lumières|Fête du chandelier à neuf branches
+KIPPOUR|3|Grand jour de jeûne juif|Jour du Grand Pardon
+AID|3|Fête musulmane|___ el-Kébir : fête du mouton
+MINARET|2|Tour d'une mosquée|Tour du muezzin
+MUEZZIN|3|Homme qui appelle à la prière du haut du minaret|Crieur de la mosquée
+DALAILAMA|3|Chef spirituel des bouddhistes tibétains|Prix Nobel de la paix tibétain
+GOUROU|2|Maître spirituel en Inde|Guide spirituel
+YOGI|3|Personne qui pratique le yoga|Sage indien
+MANTRA|3|Formule répétée pendant la méditation|Om en est un
+TOTEM|2|Animal ou objet protecteur d'un clan|Mât sculpté amérindien
+CHAMAN|3|Sorcier guérisseur des peuples traditionnels|Intermédiaire avec les esprits
+FETICHE|3|Objet auquel on attribue un pouvoir magique|Gri-gri
+VAUDOU|3|Culte d'Haïti et d'Afrique de l'Ouest|Religion des poupées à épingles
+EXORCISTE|3|Prêtre qui chasse les démons|Chasseur de diable
+POSSEDE|3|Habité par un démon|Envoûté
+DAMNE|3|Condamné à l'enfer|Maudit
+MAUDIT|2|Frappé par une malédiction|Damné
+MALEDICTION|2|Mauvais sort|Sort funeste
+ENVOUTEMENT|3|Action de jeter un sort|Ensorcellement
+CHAUDRON|2|Grande marmite de la sorcière|Récipient des potions
+GRIMOIRE|3|Livre de formules magiques|Livre de sorcier
+INCANTATION|3|Formule magique prononcée|Formule d'enchantement
+ABRACADABRA|2|Formule magique célèbre|Mot du magicien
+FARFADET|3|Petit lutin malicieux|Esprit follet
+KORRIGAN|3|Petit lutin des légendes bretonnes|Nain de Bretagne
+LEPRECHAUN|3|Lutin irlandais gardien d'un trésor|Lutin au chapeau vert
+DJINN|3|Esprit des légendes arabes|Génie du désert
+HARPIE|3|Monstre à corps d'oiseau et visage de femme|Femme méchante
+GORGONE|3|Monstre à cheveux de serpents, comme Méduse|Sœur de Méduse
+KRAKEN|3|Pieuvre géante des légendes nordiques|Monstre marin
+LEVIATHAN|3|Monstre marin de la Bible|Créature des abysses
+BEHEMOTH|3|Monstre terrestre de la Bible|Bête colossale
+SASQUATCH|3|Grand singe légendaire d'Amérique du Nord|Bigfoot
+NESSIE|2|Monstre légendaire du Loch Ness|Monstre écossais
+CHUPACABRA|3|Créature légendaire qui suce le sang des chèvres|Monstre d'Amérique latine
+PERENOEL|1|Vieil homme barbu qui apporte les cadeaux|Santa Claus
+BEFANA|3|Sorcière qui apporte les cadeaux en Italie|Vieille de l'Épiphanie
+CENDRILLON|1|Héroïne qui perd sa pantoufle de verre|Princesse de Perrault
+BLANCHENEIGE|1|Princesse aux sept nains|Héroïne à la pomme empoisonnée
+RAIPONCE|2|Princesse à la très longue chevelure|Prisonnière de la tour
+PINOCCHIO|1|Pantin dont le nez s'allonge quand il ment|Marionnette de Geppetto
+ALADIN|1|Jeune homme à la lampe merveilleuse|Héros des Mille et Une Nuits
+SINBAD|3|Marin des Mille et Une Nuits|Navigateur aux sept voyages
+SHEHERAZADE|3|Conteuse des Mille et Une Nuits|Reine conteuse

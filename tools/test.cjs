@@ -12,7 +12,7 @@ const port=srv.address().port;
   if(SHOT)await p.screenshot({path:SHOT+'/home.png',fullPage:true});
   const results=[];
   const theme=process.env.THEME||'geo';
-  for(const [mode,diff] of [['cache',0],['croises',1],['fleches',0],['meles',0],['meles',2],['ana',1],['croises',2],['fleches',2],['cache',3],['ana',3]]){
+  for(const [mode,diff] of [['cache',0],['croises',1],['fleches',0],['meles',0],['meles',2],['ana',1],['croises',2],['fleches',2],['cache',2],['ana',2]]){
     const n=await p.evaluate(([t,m,d])=>{const L=levels(t,m);const i=L.findIndex(x=>x.d===d);return i+1},[theme,mode,diff]);
     if(!n){results.push(`${mode}/${diff} : aucune grille`);continue}
     await p.evaluate(([m,t,n])=>{store.set(P+'mode',m);openLevel(m,themeById(t),n)},[mode,theme,n]);

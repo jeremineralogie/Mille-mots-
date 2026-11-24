@@ -73,7 +73,7 @@ for (const t of THEMES) {
     if (a.length < 3 || a.length > 13) { warnings.push(`${t.id}:${ln + 1} longueur ${a.length} : ${parts[0]}`); return }
     if (CLAIR.has(t.id)) {           // thème réécrit : seulement en complément d'un mot réécrit
       const w = byA.get(a); if (!w || w.clair !== t.id) return;
-      parts.slice(1).filter(explicit).forEach(c => addClue(w, t.id, c, `${t.id}:${ln + 1}`)); return;
+      return;                      // thème réécrit : seules les définitions de data/clair sont utilisées
     }
     const w = getW(a); if (w.clair) return;
     w.themes.add(t.id); w.hand = true;
@@ -197,7 +197,7 @@ function candidates(tid, d, n, r, ok, thMax = n) {
   const fill = sample(POOLS.cg[d], n - th.length, r, ok); fill.forEach(w => w._th = false);
   return th.concat(fill);
 }
-const THEMED = id => id !== 'mix' && id !== 'cg';
+const THEMED = id => true;   // aucune grille ne pioche hors de son thème ni de son niveau
 const themedEnough = (tid, words) => !FILLER(tid) || (() => { const k = words.filter(w => w._th).length; return k >= 3 && k >= words.length * .3 })();
 
 /* ---------- Mots croisés / fléchés ---------- */

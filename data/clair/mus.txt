@@ -189,3 +189,101 @@ NOCTURNE|3|Pièce rêveuse pour piano
 KARAOKE|1|Jeu où l'on chante sur une musique en lisant les paroles
 PAROLES|1|Texte d'une chanson
 GRIOT|3|Poète et musicien d'Afrique de l'Ouest qui transmet les traditions
+LUTH|3|Ancien instrument à cordes pincées au dos bombé|Instrument de la Renaissance, ancêtre de la guitare
+LYRE|2|Petite harpe des Grecs anciens|Instrument d'Orphée
+CITHARE|3|Instrument à cordes tendues sur une caisse plate|Instrument du Tyrol
+SITAR|3|Instrument à cordes indien au long manche|Instrument de Ravi Shankar
+BALALAIKA|3|Instrument russe à trois cordes et à caisse triangulaire|Guitare russe
+GUIMBARDE|3|Petit instrument que l'on fait vibrer contre les dents|Instrument métallique qui se joue dans la bouche
+OCARINA|3|Petite flûte en terre cuite en forme d'œuf|Flûte globulaire
+FIFRE|3|Petite flûte au son aigu des fanfares militaires|Flûte traversière de soldat
+PICCOLO|3|Petite flûte au son très aigu|La plus aiguë des flûtes de l'orchestre
+CLAIRON|2|Petite trompette sans pistons des militaires|Instrument qui sonne le réveil à la caserne
+TIMBALE|3|Gros tambour en cuivre de l'orchestre|Percussion à peau tendue sur un bassin de métal
+CARILLON|2|Ensemble de cloches qui jouent un air|Cloches de beffroi
+GRELOT|2|Petite boule de métal creuse qui tinte|Clochette du traîneau
+CLOCHETTE|1|Petite cloche|Elle tinte au cou des vaches
+KAZOO|3|Petit instrument dans lequel on chante pour faire vibrer une membrane|Mirliton
+MIRLITON|3|Tube garni d'une membrane qui vibre quand on chante|Flûte de carnaval
+BOMBARDE|3|Instrument à vent breton au son puissant|Compagne du biniou
+VIELLE|3|Instrument à cordes frottées par une roue|___ à roue : instrument médiéval
+LUTHIER|3|Artisan qui fabrique des instruments à cordes|Fabricant de violons
+DOIGTE|3|Manière de placer les doigts sur un instrument|Technique du musicien
+MEDIATOR|3|Petite lamelle qui sert à gratter les cordes|Plectre du guitariste
+PUPITRE|2|Support qui tient la partition|Lutrin du musicien
+BAGUETTES|2|Bâtons du batteur|Elles frappent les tambours
+SOURDINE|3|Accessoire qui atténue le son d'un instrument|Mettre une ___ : baisser le ton
+REPRISE|2|Nouvelle version d'une chanson déjà connue|Cover
+MEDLEY|3|Enchaînement de plusieurs chansons|Pot-pourri musical
+JINGLE|2|Courte musique publicitaire|Ritournelle de radio
+RITOURNELLE|3|Petit air qui revient sans cesse|Refrain répétitif
+HITPARADE|2|Classement des chansons les plus vendues|Top 50
+PLAYBACK|2|Fait de chanter en faisant semblant, sur un enregistrement|Faux direct
+CONCERTISTE|3|Musicien qui donne des concerts|Soliste de récital
+RECITAL|3|Concert donné par un seul artiste|Spectacle d'un soliste
+TOURNEE|2|Série de concerts dans plusieurs villes|Voyage d'un artiste en concert
+FAN|1|Admirateur d'un chanteur|Groupie
+CHANSONNIER|3|Artiste qui chante des chansons satiriques|Humoriste chantant
+TROUVERE|3|Poète musicien du nord de la France au Moyen Âge|Équivalent du troubadour en langue d'oïl
+MAESTRO|3|Chef d'orchestre réputé|Grand musicien
+CANTATRICE|3|Chanteuse d'opéra|Diva
+CONTRALTO|3|Voix de femme la plus grave|Alto féminin
+MEZZO|3|Voix de femme entre soprano et contralto|___-soprano
+FALSETTO|3|Voix de tête très aiguë chez un homme|Fausset
+VOCALISE|3|Exercice de chant sur une voyelle|Échauffement du chanteur
+YODEL|3|Chant tyrolien qui passe rapidement du grave à l'aigu|Tyrolienne
+GOSPEL|2|Chant religieux des Noirs américains|Negro spiritual
+FADO|2|Chant mélancolique portugais|Chanson de Lisbonne
+RAI|3|Musique populaire d'Algérie|Chanson de Khaled
+ZOUK|2|Musique dansante des Antilles|Danse antillaise
+BOSSANOVA|3|Musique brésilienne douce, mêlant samba et jazz|Style de Rio
+MAMBO|3|Danse cubaine rapide|Danse latine des années 1950
+RUMBA|2|Danse cubaine sensuelle|Danse de salon latine
+CHACHACHA|3|Danse cubaine au rythme saccadé|Danse latine aux trois pas rapides
+FOXTROT|3|Danse de salon américaine|Danse à quatre temps
+CHARLESTON|3|Danse américaine endiablée des années 1920|Danse des Années folles
+TWIST|2|Danse des années 1960 où l'on se tortille|Danse de Chubby Checker
+JERK|3|Danse saccadée des années 1960|Danse yé-yé
+MADISON|3|Danse en ligne des années 1960|Danse à pas coordonnés
+JAVA|3|Danse populaire des bals musette|Danse des guinguettes
+BOURREE|3|Danse folklorique d'Auvergne|Danse paysanne
+GIGUE|3|Danse rapide d'origine irlandaise|Danse sautillante
+SARABANDE|3|Danse lente du XVIIe siècle|Danse baroque
+GAVOTTE|3|Danse ancienne d'origine française|Danse bretonne
+PASODOBLE|3|Danse espagnole inspirée de la corrida|Danse du torero
+LAMBADA|2|Danse brésilienne très sensuelle|Tube de l'été 1989
+MACARENA|2|Danse et tube espagnol des années 1990|Chorégraphie de groupe
+ENTRECHAT|3|Saut où le danseur croise les pieds en l'air|Pas de ballet
+PIROUETTE|2|Tour complet sur un pied|Rotation de danseuse
+ARABESQUE|3|Pose de danse sur une jambe, l'autre tendue en arrière|Figure de ballet
+PLIE|3|Flexion des genoux en danse classique|Premier exercice à la barre
+JETE|3|Saut d'une jambe sur l'autre en danse|Grand ___ : saut écarté
+DEMIPOINTE|3|Position du pied posé sur l'avant|Sur la plante des pieds
+BARRE|2|Rampe à laquelle s'exercent les danseurs|Accessoire du cours de danse
+JUSTAUCORPS|3|Tenue moulante de danseuse|Maillot de gymnaste
+CHAUSSONS|2|Souliers souples de danse|Pointes de ballerine
+BOLERO|3|Œuvre de Ravel au rythme obsédant|Danse espagnole
+CARMEN|2|Opéra de Bizet|Gitane de Séville
+NABUCCO|3|Opéra de Verdi|Opéra du chœur des esclaves
+TOSCA|3|Opéra de Puccini|Héroïne romaine de Puccini
+TRAVIATA|3|Opéra de Verdi|La Dame aux camélias en musique
+JOHNNY|1|Prénom de Hallyday|Idole des jeunes
+SARDOU|2|Michel, chanteur des Lacs du Connemara|Chanteur de La Maladie d'amour
+DALIDA|2|Chanteuse de Gigi l'Amoroso|Star de Paroles, paroles
+BARBARA|3|Chanteuse de L'Aigle noir|Dame en noir de la chanson
+RENAUD|2|Chanteur de Mistral gagnant|Chanteur au bandana
+TRENET|3|Charles, chanteur de La Mer|Le Fou chantant
+FERRAT|3|Jean, chanteur de La Montagne|Chanteur à moustache
+MOUSTAKI|3|Georges, chanteur du Métèque|Chanteur barbu
+CLOCLO|2|Surnom de Claude François|Chanteur d'Alexandrie Alexandra
+SHEILA|3|Chanteuse yéyé de L'École est finie|Idole des années 60
+VARTAN|3|Sylvie, chanteuse de La Plus Belle pour aller danser|Yéyé
+ZAZ|3|Chanteuse de Je veux|Voix éraillée de la chanson française
+ANGELE|2|Chanteuse belge de Balance ton quoi|Sœur de Roméo Elvis
+ADELE|2|Chanteuse britannique de Hello|Voix de Someone Like You
+RIHANNA|2|Chanteuse de la Barbade|Star de Umbrella
+BEYONCE|2|Chanteuse américaine de Single Ladies|Queen B
+QUEEN|2|Groupe de Freddie Mercury|Groupe de Bohemian Rhapsody
+ABBA|2|Groupe suédois de Mamma Mia|Groupe de Dancing Queen
+DAFTPUNK|3|Duo électro français casqué|Robots de la French Touch
+INDOCHINE|3|Groupe de L'Aventurier|Groupe de Nicola Sirkis

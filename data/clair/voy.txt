@@ -222,3 +222,42 @@ COPILOTE|2|Second pilote d'un avion
 NAVIGATEUR|2|Personne qui dirige la route d'un bateau ou d'un avion
 EXPLORER|2|Parcourir un pays inconnu
 DEPAYSER|3|Changer quelqu'un de ses habitudes, en voyage
+VOYAGISTE|3|Entreprise qui organise des voyages|Tour-opérateur
+AGENCE|2|___ de voyages : boutique où l'on réserve ses vacances|Bureau de tourisme
+SEJOUR|2|Temps passé dans un lieu de vacances|Villégiature
+VILLEGIATURE|3|Séjour de repos à la campagne ou à la mer|Vacances au vert
+PERIPLE|3|Long voyage avec plusieurs étapes|Tour
+COMPOSTELLE|3|Ville espagnole au bout du chemin des pèlerins|Saint-Jacques-de-___
+RANDONNEUR|2|Personne qui fait de longues marches|Marcheur sac au dos
+GOURDE|2|Bouteille du randonneur|Récipient pour l'eau en balade
+DUVET|2|Sac de couchage|Couette de camping
+HAMAC|2|Toile suspendue pour dormir|Lit des marins
+GLACIERE|2|Boîte qui garde la nourriture au frais|Caisse isotherme
+JUMELLES|2|Instrument pour voir de loin|Longue-vue à deux tubes
+PANORAMA|2|Vue étendue sur un paysage|Point de vue
+BELVEDERE|3|Point de vue aménagé|Terrasse panoramique
+CROISIERISTE|3|Passager d'une croisière|Vacancier en paquebot
+BRONZER|1|Prendre des couleurs au soleil|Se dorer sur la plage
+PARASOL|1|Grand parapluie de plage|Abri contre le soleil
+TONGS|1|Sandales de plage|Claquettes
+CHALET|1|Maison de bois en montagne|Logement de ski
+REFUGE|2|Abri de montagne pour les randonneurs|Cabane d'altitude
+MOTEL|2|Hôtel au bord de la route|Hôtel pour automobilistes
+PALACE|2|Hôtel de grand luxe|Hôtel cinq étoiles
+BAGAGISTE|3|Employé qui porte les valises à l'hôtel|Porteur
+CONCIERGE|3|Employé d'hôtel qui renseigne les clients|Clefs d'or
+CHANGE|2|Bureau où l'on échange sa monnaie|Conversion des devises
+ADAPTATEUR|2|Prise pour brancher ses appareils à l'étranger|Convertisseur de prise
+CRUDITES|3|Légumes crus à éviter dans certains pays|Salade de voyage
+TURISTA|3|Diarrhée du voyageur|Mal des voyageurs
+MALDEMER|2|Nausée sur un bateau|Haut-le-cœur en mer
+NAVIGATION|2|Art de conduire un bateau|Voyage en mer
+CARTEMARINE|3|Carte des côtes et des fonds|Carte des marins
+SEXTANT|3|Instrument qui mesure la hauteur des astres|Outil du navigateur
+LONGUEVUE|2|Lunette des marins|Télescope de pirate
+VIGIE|3|Matelot qui surveille l'horizon|Poste d'observation au sommet du mât
+CABESTAN|3|Treuil qui remonte l'ancre|Moulinet de bateau
+DRISSE|3|Cordage qui hisse une voile|Corde de mât
+COQUE|2|Carcasse d'un bateau|Corps du navire
+SILLAGE|3|Trace laissée derrière un bateau|Remous à l'arrière
+ECUME|2|Mousse blanche des vagues|Bave de la mer
