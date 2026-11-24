@@ -4,7 +4,7 @@ et produit data/dico.tsv.gz : RÉPONSE \t zipf \t thèmes \t déf1|déf2|déf3
 
 Usage : python3 -I tools/import_dico.py <chemin vers lemmas.csv.gz> <sortie.tsv.gz>
 """
-import csv, gzip, json, re, sys, unicodedata, collections
+import csv, gzip, json, math, re, sys, unicodedata, collections
 
 csv.field_size_limit(10**9)
 SRC, OUT = sys.argv[1], sys.argv[2]
@@ -140,13 +140,46 @@ def ok_def(d, ans, lemma):
         if len(t) < 4: continue
         cp = 0
         while cp < min(len(t), len(ans)) and t[cp] == ans[cp]: cp += 1
-        if cp >= 4 and cp >= .7 * len(t): return False      # même racine : poivre / poivrier
+        if cp >= 4 and cp >= .7 * len(t): return False
+        if cp >= 5 and len(ans) >= 6: return False                # ciselure / ciselant      # même racine : poivre / poivrier
         if len(t) >= 5 and t in ans: return False            # compiler / recompiler
     stem = ans[:max(4, min(len(ans) - 1, 6))] if len(ans) > 4 else ans
     for t in toks:
         if not t: continue
         if t == ans or (len(t) >= 4 and (t.startswith(stem) or ans.startswith(t) and len(t) >= len(ans) - 2)): return False
     return True
+
+
+# ---------- Clarté des définitions ----------
+# Fréquence des mots du dictionnaire, pour repérer les mots savants à l'intérieur d'une définition
+Z = {}
+with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
+    for r in csv.DictReader(fh):
+        try: z = float(r['zipf_frequency'] or 0)
+        except ValueError: z = 0
+        k = r['lemma'].lower()
+        if z > Z.get(k, 0): Z[k] = z
+def zf(t):
+    t = t.lower().strip("'’")
+    if t in Z: return Z[t]
+    cands = []
+    for suf, rep in (('s',''),('x',''),('es',''),('e',''),('ées','er'),('ée','er'),('és','er'),('é','er'),('aient','er'),('ait','er'),('ant','er'),('ent','er'),('ent',''),('ait','re'),('ant','re'),('issent','ir'),('it','ir'),('is','ir'),('ales','al'),('aux','al'),('elle','el'),('elles','el'),('ive','if'),('ives','if'),('euse','eux'),('euses','eux'),('ière','ier'),('ières','ier'),('ienne','ien'),('iennes','ien'),('ette','et'),('onne','on'),('e','er'),('es','er'),('ent','er'),('it','ire'),('ient','enir'),('ient','enir'),('sant','re'),('isant','ire'),('era','er'),('eront','er'),('ait','aire'),('t','re'),('','re'),('','er'),('','ir'),('ée','re'),('ue','re'),('u','re'),('ues','re'),('ent','ir'),('ait','ir'),('ant','ir'),('ons','er'),('ez','er'),('ra','r'),('ront','r'),('rait','r'),('ée','ir'),('ie','ir'),('ies','ir'),('ise','ire'),('ite','ire'),('erait','er'),('ement','')):
+        if t.endswith(suf) and len(t) - len(suf) >= 2: cands.append(t[:-len(suf)] + rep)
+    return max([Z.get(c, 0) for c in cands] + [0])
+STOP = set("le la les un une des du de d l au aux et ou à en par pour sur dans avec sans qui que dont où se sa son ses leur leurs ce cet cette ces il elle on est sont a été être avoir plus très ne pas n y qu s c lui eux tout tous toute toutes même autre autres etc quelqu lesquels lesquelles laquelle lequel auxquels auxquelles duquel desquels quelque quelques chacun chacune".split())
+def hard(d):
+    toks = re.findall(r"[a-zA-ZÀ-ÿœæ]+", d)
+    return [t for t in toks if t.lower() not in STOP and len(t) >= 4 and not t[0].isupper() and zf(t) < 2.3]
+
+def hard_words(d): return [t for t in hard(d) if zf(t) < 2.0]
+SYN_LIST = re.compile(r"^[\wÀ-ÿ'’-]+(?:(?:,| ;| ou| et) [\wÀ-ÿ'’-]+){1,4}$")       # « Taire ; celer ; dissimuler »
+HOLLOW = re.compile(r"^(Élément|Chose|Ce qui|Ce que|Quelque chose|Objet|Fait|État|Caractère|Qualité|Manière|Situation|Position|Moment|Opération|Ensemble|Sorte d'évolution|Action)", re.I)
+OLD_SENSE = re.compile(r"^(Se disait|Qualifiait|Désignait|Était|Se dit anciennement)\b|\b(anciennement|autrefois|jadis|naguère|vieilli)\b", re.I)
+def clear_def(d):
+    """0 = claire ; 1 = un mot savant (pas en Facile/Moyen) ; 2 = à écarter"""
+    if SYN_LIST.match(d) or (HOLLOW.match(d) and nwords(d) < 6): return 2
+    h = hard_words(d)
+    return 0 if not h else 1 if len(h) == 1 else 2
 
 words = collections.OrderedDict()
 seen = 0
@@ -158,6 +191,11 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         if not lemma or not lemma[0].islower() or re.search(r"[\s'’\-.0-9]", lemma): continue
         try: z = float(row['zipf_frequency'] or 0)
         except ValueError: z = 0.0
+        # Fréquence propre à cette nature de mot (Lexique) : « émeut » (fiente) n'hérite pas de la fréquence du verbe émouvoir
+        try: lex = max(float(row['lexique_freq_films'] or 0), float(row['lexique_freq_books'] or 0))
+        except ValueError: lex = 0.0
+        if lex > 0: z = min(z, math.log10(lex) + 3.3)
+        elif z >= 2.3: z = 1.5 if (row['examples'] or '[]').replace(' ', '') in ('[]', '[[]]') else min(z, 2.9)
         zraw = z
         rare = z < 1.0          # mot hors des corpus de fréquence : accepté seulement s'il est clairement thématique
         if rare and row['scrabble_valid'] != '1': continue
@@ -184,8 +222,9 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
             if raw[:1].islower(): continue                     # suite d'une définition coupée
             d = clean_def(d)
             if pos == 'verb' and re.match(r"^(Un|Une|Le|La|Les|L'|Des|Du|De|Sa|Son|Ses|Quelqu)\b", d): continue
+            if re.match(r"^(Des|De|Du|D')\s?[a-zéèêàâ]", d) and pos == 'noun': continue          # « De vase, de glace… » : suite d'une définition
             if z < 2.5 and re.match(r"^(Langue|Dialecte|Peuple|Ethnie)\b.*\b(parlée?|vivant|habitant|établi)", d): continue   # langues et peuples obscurs
-            if ok_def(d, ans, lemma) and d not in good: good.append(d); exn[d] = nex[i] if i < len(nex) else 0
+            if ok_def(d, ans, lemma) and d not in good and clear_def(d) < 2: good.append(d); exn[d] = nex[i] if i < len(nex) else 0
         if not good: continue
         good.sort(key=lambda x: x.lower().startswith('synonyme de'))   # « Synonyme de … » en dernier recours
         if len(ans) == 3 and (z < 3 or re.match(r'(organisme|sigle|acronyme|abréviation)', good[0], re.I)): continue
@@ -219,6 +258,9 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         top = (lambda d: maxex == 0 or exn.get(d, 0) >= maxex)
         if z >= 3.3 and not any(top(d) for d in pool):
             z = 3.2                                  # pas le sens le plus courant : au mieux Moyen
+        if z >= 2.3:
+            pool = [d for d in pool if clear_def(d) == 0] or (z := min(z, 2.2)) and pool
+        if z >= 2.3 and all(OLD_SENSE.search(d) or re.search(r'\b[A-Z]{3,}\b', d) for d in pool): z = min(z, 2.2)      # sens ancien ou technique (« doublet en LISP ») : pas en Facile/Moyen
         if z >= 2.3:
             mains = [d for d in pool if cur(d)]
             if mains: pool = mains

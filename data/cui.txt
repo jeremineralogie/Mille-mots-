@@ -123,7 +123,7 @@ GRATIN|Le ___ dauphinois|Croûte dorée|Plat passé au four
 VELOUTE|Potage onctueux|Doux comme de la soie|Crème mixée|Velours liquide
 ROUX|Base de la béchamel|Couleur de cheveux|Cuisson beurre-farine|Poil de carotte
 SARRASIN|Blé noir|Farine des galettes bretonnes|Céréale sans gluten
-BAVAROISE|Dessert à la crème gélifiée|Femme de Munich|Charlotte froide|Entremets en moule
+BAVAROISE|Dessert à la crème gélifiée|Charlotte froide|Entremets en moule
 EPINARD|Légume de Popeye|Mettre du beurre dans les ___|Légume vert riche en fer, dit-on|Feuille du florentine
 # --- mots ajoutés (v3) ---
 SEL|Chlorure de sodium|Il relève les plats|Grain de ___|Fleur de ___
