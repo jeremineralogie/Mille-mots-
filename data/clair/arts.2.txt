@@ -1,0 +1,242 @@
+ART|Création esthétique
+ARTISTE|Créateur
+PEINTURE|Art du pinceau
+PEINTRE|Artiste du pinceau
+TABLEAU|Toile peinte
+TOILE|Support du peintre
+PINCEAU|Outil du peintre
+PALETTE|Plaque des couleurs
+CHEVALET|Support de toile
+DESSIN|Œuvre au crayon
+CRAYON|Mine de bois
+FEUTRE|Marqueur
+AQUARELLE|Peinture à l'eau
+GOUACHE|Peinture épaisse
+PASTEL|Craie colorée
+FUSAIN|Charbon à dessin
+ESQUISSE|Ébauche
+CROQUIS|Dessin rapide
+PORTRAIT|Représentation d'un visage
+AUTOPORTRAIT|Portrait de soi
+PAYSAGE|Vue de nature
+NATUREMORTE|Tableau d'objets
+FRESQUE|Peinture murale
+MOSAIQUE|Assemblage de tesselles
+VITRAIL|Verrière colorée
+SCULPTURE|Art de la statue
+SCULPTEUR|Artiste de la pierre
+STATUE|Œuvre sculptée
+BUSTE|Sculpture du haut du corps
+MARBRE|Pierre de Carrare
+CISEAU|Outil du sculpteur
+MODELAGE|Façonnage
+POTERIE|Objet en terre cuite
+CERAMIQUE|Art de la terre cuite
+MUSEE|Lieu d'exposition
+LOUVRE|Musée à pyramide de verre
+JOCONDE|Mona Lisa
+EXPOSITION|Présentation d'œuvres
+GALERIE|Lieu de vente d'art
+CHEFDOEUVRE|Œuvre majeure
+OEUVRE|Création d'artiste
+COLLECTION|Ensemble d'œuvres
+VERNISSAGE|Inauguration d'exposition
+CADRE|Bordure de tableau
+PICASSO|Peintre de Guernica
+MONET|Peintre des Nymphéas
+VANGOGH|Peintre des Tournesols
+RENOIR|Peintre impressionniste
+CEZANNE|Peintre d'Aix
+MATISSE|Peintre fauve
+REMBRANDT|Maître hollandais
+MICHELANGE|Sculpteur du David
+RODIN|Sculpteur du Penseur
+DALI|Peintre aux moustaches
+MAGRITTE|Peintre belge
+WARHOL|Pape du pop art
+BANKSY|Artiste de rue
+CUBISME|Art des formes géométriques
+SURREALISME|Art du rêve
+ABSTRAIT|Non figuratif
+BAROQUE|Style chargé
+GOTHIQUE|Style des cathédrales
+CLASSICISME|Style de l'ordre
+ROMANTISME|Mouvement des sentiments
+ARCHITECTURE|Art de bâtir
+ARCHITECTE|Concepteur de bâtiments
+FACADE|Devant d'un bâtiment
+COLONNE|Pilier
+VOUTE|Plafond arrondi
+COUPOLE|Dôme
+DOME|Coupole
+GARGOUILLE|Monstre de pierre
+ROSACE|Vitrail rond
+FRONTON|Triangle d'entrée
+ARCADE|Suite d'arcs
+GRATTECIEL|Tour géante
+PHOTOGRAPHIE|Art de l'image fixe
+PHOTOGRAPHE|Artiste de l'objectif
+CINEMA|Septième art
+FILM|Long métrage
+ACTEUR|Comédien de cinéma
+ACTRICE|Comédienne
+REALISATEUR|Metteur en scène
+SCENARIO|Histoire d'un film
+SCENARISTE|Auteur de scénario
+TOURNAGE|Prise de vues
+CAMERA|Appareil de tournage
+CLAP|Signal de prise
+FIGURANT|Rôle muet
+CASCADEUR|Doublure des scènes dangereuses
+DOUBLAGE|Version française
+SOUSTITRE|Texte en bas de l'écran
+BANDEANNONCE|Aperçu de film
+AFFICHE|Annonce de film
+OSCAR|Récompense d'Hollywood
+PALMEDOR|Récompense de Cannes
+CANNES|Ville du festival
+HOLLYWOOD|Usine à rêves
+STAR|Célébrité
+VEDETTE|Tête d'affiche
+DESSINANIME|Film d'animation
+COMEDIE|Film drôle
+DRAME|Film triste
+HORREUR|Film qui fait peur
+WESTERN|Film de cowboys
+SUSPENSE|Attente angoissée
+SEQUENCE|Partie de film
+TRAVELLING|Plan en mouvement
+GENERIQUE|Liste de fin
+THEATRE|Art de la scène
+SCENE|Plateau
+RIDEAU|Toile de scène
+COULISSES|Arrière-scène
+TRAGEDIE|Pièce qui finit mal
+COMEDIEN|Acteur
+ROLE|Personnage joué
+REPLIQUE|Réponse sur scène
+REPETITION|Entraînement d'acteurs
+SPECTACLE|Représentation
+SPECTATEUR|Membre du public
+PUBLIC|Assistance
+APPLAUDIR|Battre des mains
+ENTRACTE|Pause au théâtre
+MARIONNETTE|Pantin
+GUIGNOL|Marionnette lyonnaise
+CIRQUE|Chapiteau
+CLOWN|Auguste
+ACROBATE|Voltigeur
+JONGLEUR|Lanceur de balles
+MIME|Artiste muet
+MOLIERE|Auteur du Malade imaginaire
+SHAKESPEARE|Auteur d'Hamlet
+LITTERATURE|Art d'écrire
+LIVRE|Bouquin
+ROMAN|Œuvre de fiction
+ROMANCIER|Auteur de romans
+ECRIVAIN|Homme de lettres
+AUTEUR|Écrivain
+POEME|Œuvre en vers
+POESIE|Art des vers
+POETE|Auteur de vers
+VERS|Ligne de poème
+STROPHE|Groupe de vers
+RIME|Son répété
+SONNET|Poème de quatorze vers
+ALEXANDRIN|Vers de douze pieds
+CONTE|Histoire de fées
+FABLE|Récit à morale
+NOUVELLE|Récit bref
+RECIT|Narration
+ROMANCIERE|Autrice de romans
+BANDEDESSINEE|BD
+BULLE|Phylactère
+MANGA|BD japonaise
+TINTIN|Reporter d'Hergé
+ASTERIX|Héros gaulois
+SCHTROUMPF|Lutin bleu
+PERSONNAGE|Figure d'un récit
+HEROS|Protagoniste
+HEROINE|Protagoniste féminine
+INTRIGUE|Trame
+CHAPITRE|Partie de livre
+PAGE|Feuillet
+COUVERTURE|Dessus du livre
+TITRE|Nom d'une œuvre
+PREFACE|Avant-propos
+EPILOGUE|Conclusion
+PROLOGUE|Introduction
+BIBLIOTHEQUE|Lieu de prêt de livres
+LIBRAIRIE|Boutique de livres
+EDITEUR|Publieur
+BESTSELLER|Succès de librairie
+BIOGRAPHIE|Récit d'une vie
+JOURNALINTIME|Carnet secret
+MEMOIRES|Souvenirs écrits
+ROMANPOLICIER|Polar
+FANTASTIQUE|Genre surnaturel
+HUGO|Auteur des Misérables
+ZOLA|Auteur de Germinal
+BALZAC|Auteur du Père Goriot
+FLAUBERT|Auteur de Madame Bovary
+VERNE|Auteur du Tour du monde en 80 jours
+DUMAS|Auteur de Monte-Cristo
+LAFONTAINE|Fabuliste
+PERRAULT|Auteur de contes
+VOLTAIRE|Auteur de Candide
+ROUSSEAU|Auteur des Confessions
+BAUDELAIRE|Poète maudit
+RIMBAUD|Poète précoce
+VERLAINE|Poète mélancolique
+APOLLINAIRE|Poète d'Alcools
+PREVERT|Poète de Paroles
+CAMUS|Auteur de L'Étranger
+SARTRE|Philosophe existentialiste
+SAINTEXUPERY|Aviateur écrivain
+PROUST|Auteur de la madeleine
+MAUPASSANT|Maître de la nouvelle
+STENDHAL|Auteur du Rouge et le Noir
+COLETTE|Romancière bourguignonne
+CYRANO|Héros au grand nez
+QUASIMODO|Bossu de Notre-Dame
+GAVROCHE|Gamin des Misérables
+DONQUICHOTTE|Chevalier de la Manche
+SHERLOCK|Holmes
+POIROT|Hercule, détective belge
+MAIGRET|Commissaire à la pipe
+ARSENELUPIN|Gentleman cambrioleur
+HARRYPOTTER|Apprenti sorcier
+PETITPRINCE|Enfant venu d'une autre planète
+DRACULA|Comte vampire
+FRANKENSTEIN|Savant créateur d'un monstre
+TARZAN|Roi de la jungle
+ZORRO|Justicier masqué
+BATMAN|Homme chauve-souris
+SUPERMAN|Homme d'acier
+SPIDERMAN|Homme-araignée
+DISNEY|Studio de Mickey
+PIXAR|Studio de Toy Story
+CHAPLIN|Charlot
+HITCHCOCK|Maître du suspense
+SPIELBERG|Réalisateur d'E.T.
+DEPARDIEU|Obélix au cinéma
+DELON|Acteur du Samouraï
+BELMONDO|Bébel
+FUNES|Comique du Gendarme
+MELIES|Pionnier des effets spéciaux
+ORIGAMI|Pliage japonais
+GRAFFITI|Dessin mural
+TAG|Signature murale
+CALLIGRAPHIE|Belle écriture
+GRAVURE|Image gravée
+ESTAMPE|Image imprimée
+ENLUMINURE|Peinture de manuscrit
+MANUSCRIT|Texte écrit à la main
+CARICATURE|Dessin moqueur
+DESSINATEUR|Artiste du crayon
+ILLUSTRATEUR|Dessinateur de livres
+DESIGN|Création d'objets
+MODE|Tendance vestimentaire
+COUTURIER|Styliste
+MANNEQUIN|Modèle de défilé
+DEFILE|Présentation de mode

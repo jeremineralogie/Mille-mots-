@@ -1,0 +1,190 @@
+MUSIQUE|Art des sons
+MUSICIEN|Instrumentiste
+CHANSON|Air chanté
+CHANTEUR|Interprète
+CHANTEUSE|Interprète
+CHANTER|Pousser la chansonnette
+CHANT|Mélodie vocale
+VOIX|Organe du chanteur
+REFRAIN|Partie répétée
+COUPLET|Strophe de chanson
+MELODIE|Air
+RYTHME|Cadence
+TEMPO|Vitesse musicale
+NOTE|Do, ré ou mi
+GAMME|Suite de notes
+SOL|Note de la clé
+PARTITION|Musique écrite
+PORTEE|Cinq lignes musicales
+SOLFEGE|Lecture de la musique
+CLE|Signe en début de portée
+ACCORD|Notes simultanées
+SILENCE|Pause musicale
+SOUPIR|Silence d'un temps
+BLANCHE|Note de deux temps
+NOIRE|Note d'un temps
+CROCHE|Note d'un demi-temps
+DIESE|Signe qui monte
+BEMOL|Signe qui baisse
+OCTAVE|Huit notes
+HARMONIE|Accord des sons
+INSTRUMENT|Objet musical
+PIANO|Instrument à queue
+GUITARE|Instrument à six cordes
+VIOLON|Instrument à archet
+VIOLONCELLE|Grand violon
+CONTREBASSE|Violon géant
+ALTO|Violon grave
+HARPE|Instrument à cordes pincées
+FLUTE|Instrument à vent
+CLARINETTE|Instrument à anche
+SAXOPHONE|Cuivre du jazz
+TROMPETTE|Cuivre à pistons
+TROMBONE|Cuivre à coulisse
+TUBA|Gros cuivre
+COR|Cuivre enroulé
+HAUTBOIS|Bois à double anche
+BASSON|Grand bois grave
+ACCORDEON|Piano à bretelles
+HARMONICA|Musique à bouche
+BATTERIE|Percussions
+TAMBOUR|Instrument à peau
+CYMBALE|Disque de métal
+XYLOPHONE|Lames de bois
+MARACAS|Boules à secouer
+TAMBOURIN|Petit tambour
+CASTAGNETTES|Claquettes espagnoles
+ORGUE|Instrument d'église
+CLAVECIN|Ancêtre du piano
+SYNTHETISEUR|Clavier électronique
+UKULELE|Petite guitare
+BANJO|Instrument country
+MANDOLINE|Petit luth
+CORNEMUSE|Instrument écossais
+BINIOU|Cornemuse bretonne
+DJEMBE|Tambour africain
+ARCHET|Baguette du violon
+CORDE|Fil vibrant
+ORCHESTRE|Ensemble de musiciens
+CHORALE|Groupe de chanteurs
+CHOEUR|Ensemble vocal
+FANFARE|Orchestre de cuivres
+GROUPE|Formation musicale
+DUO|À deux
+TRIO|À trois
+QUATUOR|À quatre
+SOLISTE|Musicien seul
+SOLO|Passage seul
+COMPOSITEUR|Créateur de musique
+COMPOSER|Écrire de la musique
+CONCERT|Spectacle musical
+FESTIVAL|Fête de la musique
+OPERA|Spectacle chanté
+SYMPHONIE|Œuvre pour orchestre
+CONCERTO|Œuvre pour soliste
+SONATE|Œuvre pour piano
+REQUIEM|Messe des morts
+BERCEUSE|Chanson pour dormir
+COMPTINE|Chanson d'enfant
+HYMNE|Chant solennel
+CANTIQUE|Chant d'église
+OPERETTE|Petit opéra
+SOPRANO|Voix aiguë
+TENOR|Voix d'homme aiguë
+BARYTON|Voix d'homme médiane
+BASSE|Voix grave
+DIVA|Cantatrice
+JAZZ|Musique de La Nouvelle-Orléans
+ROCK|Musique électrique
+POP|Musique populaire
+RAP|Musique des mots
+REGGAE|Musique de Bob Marley
+BLUES|Musique mélancolique
+SOUL|Musique de l'âme
+FUNK|Musique groovy
+TECHNO|Musique électronique
+ELECTRO|Musique de synthés
+DISCO|Musique des années 70
+VARIETE|Chanson grand public
+CLASSIQUE|Musique de Mozart
+COUNTRY|Musique de cowboys
+METAL|Rock lourd
+PUNK|Rock rebelle
+SLAM|Poésie orale
+MOZART|Wolfgang Amadeus
+BEETHOVEN|Compositeur sourd
+BACH|Jean-Sébastien
+CHOPIN|Pianiste polonais
+VIVALDI|Auteur des Quatre Saisons
+DEBUSSY|Auteur de La Mer
+RAVEL|Auteur du Boléro
+BIZET|Auteur de Carmen
+VERDI|Auteur d'Aïda
+TCHAIKOVSKI|Auteur de Casse-Noisette
+PIAF|Môme de la chanson
+BREL|Chanteur belge
+BRASSENS|Poète à la guitare
+AZNAVOUR|Chanteur de La Bohème
+GAINSBOURG|Chanteur provocateur
+HALLYDAY|Johnny
+GOLDMAN|Jean-Jacques
+STROMAE|Chanteur belge
+BEATLES|Fab Four
+ELVIS|Le King
+MADONNA|Reine de la pop
+DANSE|Mouvement en musique
+DANSEUR|Personne qui danse
+DANSEUSE|Femme qui danse
+DANSER|Bouger en rythme
+BALLET|Danse classique
+BALLERINE|Danseuse étoile
+TUTU|Jupe de danseuse
+POINTES|Chaussons de danse
+CHOREGRAPHE|Créateur de danse
+CHOREGRAPHIE|Pas d'un ballet
+VALSE|Danse à trois temps
+TANGO|Danse argentine
+SALSA|Danse latine
+ROCKNROLL|Danse des années 50
+CLAQUETTES|Danse sonore
+FLAMENCO|Danse andalouse
+BREAKDANCE|Danse acrobatique
+HIPHOP|Culture urbaine
+SAMBA|Danse du carnaval
+MENUET|Danse de cour
+POLKA|Danse de Bohême
+FARANDOLE|Danse en file
+QUADRILLE|Danse de salon
+BAL|Soirée dansante
+DISCOTHEQUE|Boîte de nuit
+TUBE|Succès musical
+ALBUM|Disque de chansons
+DISQUE|Galette musicale
+VINYLE|Disque noir
+PLATINE|Tourne-disque
+CASSETTE|Bande audio
+MICRO|Amplificateur de voix
+ENCEINTE|Baffle
+AMPLI|Amplificateur
+STUDIO|Lieu d'enregistrement
+CONSERVATOIRE|École de musique
+MELOMANE|Amateur de musique
+VIRTUOSE|Musicien brillant
+IMPROVISER|Jouer sans partition
+ACCORDER|Régler un instrument
+FAUSSENOTE|Couac
+METRONOME|Batteur de mesure
+DIAPASON|Donneur de la
+MESURE|Unité de temps musical
+CRESCENDO|De plus en plus fort
+FORTISSIMO|Très fort
+PIANISSIMO|Très doux
+ALLEGRO|Vif
+ADAGIO|Lent
+FUGUE|Œuvre à voix multiples
+PRELUDE|Introduction musicale
+OUVERTURE|Début d'opéra
+NOCTURNE|Pièce de nuit
+KARAOKE|Chant sur écran
+PAROLES|Texte chanté
+GRIOT|Conteur africain

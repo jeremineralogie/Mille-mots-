@@ -1,0 +1,280 @@
+METIER|Profession
+TRAVAIL|Boulot
+EMPLOI|Poste
+SALAIRE|Paie
+PATRON|Chef d'entreprise
+EMPLOYE|Salarié
+OUVRIER|Travailleur manuel
+ARTISAN|Travailleur indépendant
+USINE|Fabrique
+BUREAU|Lieu de travail
+ENTREPRISE|Firme
+COLLEGUE|Confrère
+CHOMAGE|Sans-emploi
+RETRAITE|Fin de carrière
+GREVE|Arrêt de travail
+SYNDICAT|Organisation de salariés
+STAGE|Période d'apprentissage
+APPRENTI|Élève artisan
+ENTRETIEN|Rendez-vous d'embauche
+EMBAUCHE|Recrutement
+CONTRAT|Engagement écrit
+POMPIER|Soldat du feu
+POLICIER|Agent de police
+GENDARME|Militaire de la sécurité
+FACTEUR|Postier
+BOUCHER|Marchand de viande
+BOULANGERE|Vendeuse de pain
+COIFFEUR|Coupeur de cheveux
+MACON|Bâtisseur de murs
+PLOMBIER|Réparateur de tuyaux
+ELECTRICIEN|Installateur électrique
+MENUISIER|Artisan du bois
+CHARPENTIER|Bâtisseur de charpentes
+CARRELEUR|Poseur de carreaux
+COUVREUR|Poseur de tuiles
+SERRURIER|Réparateur de serrures
+VITRIER|Poseur de vitres
+FORGERON|Batteur de fer
+CORDONNIER|Réparateur de chaussures
+COUTURIERE|Couseuse
+TAILLEUR|Faiseur de costumes
+HORLOGER|Réparateur de montres
+BIJOUTIER|Joaillier
+LIBRAIRE|Vendeur de livres
+EPICIER|Commerçant d'alimentation
+COMMERCANT|Marchand
+VENDEUR|Marchand
+CAISSIER|Employé de caisse
+MAGASIN|Commerce
+BOUTIQUE|Échoppe
+SUPERMARCHE|Grande surface
+MARCHE|Foire
+CLIENT|Acheteur
+PRIX|Coût
+SOLDES|Rabais
+PROMOTION|Réduction
+FACTURE|Note à payer
+REMBOURSER|Rendre l'argent
+ARGENT|Monnaie
+MONNAIE|Pièces
+PIECE|Monnaie métallique
+EURO|Monnaie européenne
+DOLLAR|Billet vert
+BANQUE|Établissement financier
+BANQUIER|Financier
+COMPTE|Avoir bancaire
+CARTEBANCAIRE|Carte de paiement
+CHEQUE|Moyen de paiement papier
+DISTRIBUTEUR|Guichet automatique
+EPARGNE|Économies
+TIRELIRE|Cochon à pièces
+ECONOMIES|Pécule
+CREDIT|Prêt bancaire
+EMPRUNT|Prêt
+DETTE|Somme due
+INTERET|Rémunération d'un prêt
+IMPOT|Contribution
+TAXE|Prélèvement
+TVA|Taxe sur la valeur ajoutée
+BUDGET|Prévision de dépenses
+DEPENSE|Sortie d'argent
+RICHE|Fortuné
+PAUVRE|Démuni
+PAUVRETE|Misère
+MILLIONNAIRE|Très riche
+BOURSE|Marché financier
+ACTION|Titre boursier
+ECONOMIE|Activité économique
+INFLATION|Hausse des prix
+CRISE|Récession
+COMMERCE|Négoce
+EXPORTATION|Vente à l'étranger
+IMPORTATION|Achat à l'étranger
+INDUSTRIE|Secteur des usines
+AGRICULTURE|Secteur des fermes
+PUBLICITE|Réclame
+MARQUE|Nom commercial
+LOGO|Emblème de marque
+SOCIETE|Communauté
+CITOYEN|Membre de la nation
+NATIONALITE|Appartenance nationale
+ETAT|Nation organisée
+GOUVERNEMENT|Ensemble des ministres
+PRESIDENT|Chef de l'État
+MINISTRE|Membre du gouvernement
+DEPUTE|Élu du Palais-Bourbon
+SENATEUR|Élu du Palais du Luxembourg
+MAIRE|Premier magistrat de la commune
+MAIRIE|Hôtel de ville
+ELYSEE|Palais présidentiel
+ASSEMBLEE|Chambre des députés
+PARLEMENT|Pouvoir législatif
+LOI|Règle votée
+CONSTITUTION|Loi fondamentale
+ELECTION|Scrutin
+VOTE|Suffrage
+VOTER|Glisser un bulletin
+ELECTEUR|Votant
+BULLETIN|Papier de vote
+URNE|Boîte de vote
+ISOLOIR|Cabine de vote
+CANDIDAT|Prétendant
+SONDAGE|Enquête d'opinion
+REFERENDUM|Vote par oui ou non
+DEMOCRATIE|Pouvoir du peuple
+POLITIQUE|Gouvernement de la cité
+PARTI|Formation politique
+GAUCHE|Camp progressiste
+DROITE|Camp conservateur
+MANIFESTATION|Défilé revendicatif
+MANIFESTANT|Personne qui défile
+PETITION|Liste de signatures
+LIBERTE|Indépendance
+EGALITE|Parité
+FRATERNITE|Solidarité
+DROIT|Prérogative
+DEVOIR|Obligation
+JUSTICE|Équité
+TRIBUNAL|Cour de justice
+JUGE|Magistrat
+AVOCAT|Défenseur
+PROCES|Jugement
+ACCUSE|Prévenu
+TEMOIN|Personne qui témoigne
+VERDICT|Décision du jury
+CONDAMNER|Punir
+COUPABLE|Fautif
+INNOCENT|Non coupable
+JURY|Jurés
+NOTAIRE|Officier des actes
+HUISSIER|Officier de justice
+PLAINTE|Dépôt d'accusation
+DELIT|Infraction
+CRIME|Forfait
+VOL|Larcin
+VOLEUR|Chapardeur
+CAMBRIOLAGE|Vol avec effraction
+ESCROQUERIE|Arnaque
+ENQUETE|Investigation
+DETECTIVE|Enquêteur
+COMMISSARIAT|Poste de police
+MENOTTES|Bracelets d'acier
+AMENDE|Contravention
+POLICE|Forces de l'ordre
+SECURITE|Protection
+FONCTIONNAIRE|Agent de l'État
+PREFET|Représentant de l'État
+DEPARTEMENT|Division territoriale
+COMMUNE|Municipalité
+PAPIERS|Documents d'identité
+FORMULAIRE|Imprimé
+ASSOCIATION|Groupement
+BENEVOLE|Volontaire
+SOLIDARITE|Entraide
+CHARITE|Aumône
+ECOLE|Établissement scolaire
+ELEVE|Écolier
+MAITRE|Instituteur
+MAITRESSE|Institutrice
+PROFESSEUR|Enseignant
+COLLEGE|Établissement de la sixième à la troisième
+LYCEE|Établissement de la seconde à la terminale
+UNIVERSITE|Faculté
+ETUDIANT|Élève du supérieur
+DIPLOME|Titre obtenu
+BAC|Examen de fin de lycée
+EXAMEN|Contrôle
+CARTABLE|Sac d'écolier
+TROUSSE|Étui à stylos
+RECREATION|Récré
+DIRECTEUR|Chef d'établissement
+JOURNAL|Quotidien
+JOURNALISTE|Reporter
+ACTUALITE|Nouvelles
+INFORMATION|Nouvelle
+MEDIA|Organe d'information
+PRESSE|Journaux
+REPORTER|Envoyé spécial
+ARTICLE|Papier de journal
+UNE|Première page
+INTERVIEW|Entretien
+RESEAUSOCIAL|Plateforme en ligne
+INFLUENCEUR|Star des réseaux
+ECOLOGIE|Protection de la nature
+ENVIRONNEMENT|Cadre naturel
+POLLUTION|Contamination
+RECYCLAGE|Valorisation des déchets
+DECHET|Ordure
+POUBELLE|Bac à ordures
+RECHAUFFEMENT|Hausse des températures
+DEVELOPPEMENT|Croissance
+FAMILLE|Foyer
+PARENTS|Père et mère
+VOISIN|Personne d'à côté
+AMITIE|Camaraderie
+GENERATION|Classe d'âge
+SMIC|Salaire minimum
+INTERIM|Travail temporaire
+PRUDHOMMES|Tribunal du travail
+LICENCIEMENT|Renvoi
+DEMISSION|Départ volontaire
+CARRIERE|Parcours professionnel
+TELETRAVAIL|Travail à domicile
+SALARIE|Employé
+PDG|Grand patron
+ACTIONNAIRE|Détenteur d'actions
+DIVIDENDE|Part de bénéfice
+BENEFICE|Profit
+FAILLITE|Banqueroute
+MONOPOLE|Exclusivité
+CONCURRENCE|Rivalité commerciale
+CAPITALISME|Économie de marché
+SOCIALISME|Doctrine de gauche
+COMMUNISME|Doctrine marxiste
+LIBERALISME|Doctrine du libre marché
+ANARCHIE|Absence d'État
+UTOPIE|Idéal
+LAICITE|Séparation Église-État
+SUFFRAGE|Vote
+ABSTENTION|Non-vote
+MANDAT|Durée d'élu
+QUINQUENNAT|Cinq ans
+AMBASSADE|Représentation diplomatique
+AMBASSADEUR|Diplomate en chef
+DIPLOMATE|Négociateur international
+CONSULAT|Bureau à l'étranger
+ONU|Nations unies
+UNESCO|Agence culturelle de l'ONU
+UNICEF|Agence de l'ONU pour l'enfance
+OTAN|Alliance atlantique
+EUROPEEN|Citoyen de l'Union
+SCHENGEN|Espace sans frontières
+LEGISLATION|Lois
+DECRET|Arrêté
+JURISPRUDENCE|Décisions antérieures
+TESTAMENT|Dernières volontés
+CASIER|___ judiciaire : relevé de condamnations
+PRISONNIER|Détenu
+GARDEAVUE|Rétention policière
+PERQUISITION|Fouille judiciaire
+ALIBI|Preuve d'absence
+PREUVE|Indice décisif
+EMPREINTE|Trace digitale
+SUSPECT|Soupçonné
+INSPECTEUR|Policier enquêteur
+COMMISSAIRE|Chef de police
+ALLOCATION|Aide sociale
+MUTUELLE|Complémentaire santé
+ASSURANCE|Garantie
+RECENSEMENT|Comptage
+DEMOGRAPHIE|Science de la population
+MIGRANT|Émigré
+REFUGIE|Exilé
+ASILE|Refuge
+CHOMEUR|Demandeur d'emploi
+SANSABRI|Sans-logis
+LOYER|Prix de la location
+PROPRIETAIRE|Possesseur
+LOCATAIRE|Occupant qui paie un loyer
+DEMENAGEMENT|Changement de domicile

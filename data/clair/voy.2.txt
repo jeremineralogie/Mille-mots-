@@ -1,0 +1,223 @@
+VOYAGE|Périple
+VOYAGEUR|Passager
+VACANCES|Congés
+TOURISTE|Vacancier
+TOURISME|Industrie des vacances
+VALISE|Bagage à roulettes
+BAGAGE|Affaires de voyage
+SACADOS|Sac de randonneur
+PASSEPORT|Pièce d'identité de voyage
+VISA|Autorisation d'entrée
+DOUANE|Contrôle aux frontières
+DOUANIER|Gabelou
+BILLET|Titre de transport
+RESERVATION|Place retenue
+ITINERAIRE|Trajet
+DESTINATION|But du voyage
+EXCURSION|Sortie
+CROISIERE|Voyage en paquebot
+SAFARI|Voyage en brousse
+CAMPING|Vacances sous la tente
+TENTE|Abri de campeur
+CARAVANE|Roulotte
+HOTEL|Établissement à étoiles
+AUBERGE|Hôtellerie de campagne
+GITE|Location rurale
+RECEPTION|Accueil d'hôtel
+GUIDE|Accompagnateur
+VOITURE|Automobile
+AUTO|Voiture
+CAMION|Poids lourd
+BUS|Autobus
+AUTOBUS|Transport urbain
+AUTOCAR|Car
+TAXI|Voiture de location avec chauffeur
+MOTO|Deux-roues motorisé
+SCOOTER|Petite moto
+BICYCLETTE|Vélo
+VELO|Petite reine
+TRAIN|Convoi ferroviaire
+TGV|Train rapide
+LOCOMOTIVE|Motrice
+WAGON|Voiture de train
+RAIL|Voie ferrée
+GARE|Station de trains
+QUAI|Bord de voie
+CONTROLEUR|Vérificateur de billets
+METRO|Transport souterrain
+TRAMWAY|Tram
+RER|Train de banlieue parisienne
+FUNICULAIRE|Train à câble
+TELEPHERIQUE|Cabine suspendue
+TELESIEGE|Remontée à sièges
+AVION|Appareil volant
+AEROPORT|Aérogare
+PILOTE|Commandant de bord
+HOTESSE|Accompagnatrice de vol
+STEWARD|Accompagnateur de vol
+PASSAGER|Voyageur
+DECOLLAGE|Envol
+ATTERRISSAGE|Posé
+COCKPIT|Cabine de pilotage
+HELICE|Pale rotative
+HELICOPTERE|Hélico
+MONTGOLFIERE|Ballon à air chaud
+DIRIGEABLE|Zeppelin
+PLANEUR|Avion sans moteur
+JETLAG|Décalage horaire
+BATEAU|Embarcation
+NAVIRE|Vaisseau
+PAQUEBOT|Navire de croisière
+FERRY|Transbordeur
+VOILIER|Bateau à voiles
+BARQUE|Canot à rames
+PEDALO|Bateau à pédales
+YACHT|Bateau de luxe
+SOUSMARIN|Submersible
+PETROLIER|Tanker
+CHALUTIER|Bateau de pêche
+REMORQUEUR|Bateau tracteur
+PENICHE|Bateau fluvial
+CANAL|Voie d'eau
+ECLUSE|Sas pour bateaux
+PORT|Havre
+PHARE|Tour lumineuse
+ANCRE|Grappin de bateau
+GOUVERNAIL|Barre
+PROUE|Avant du navire
+POUPE|Arrière du navire
+BABORD|Gauche du navire
+TRIBORD|Droite du navire
+CALE|Soute du navire
+PONT|Plancher du navire
+CABINE|Chambre de bateau
+HUBLOT|Fenêtre ronde
+CAPITAINE|Commandant du navire
+MARIN|Navigateur
+MATELOT|Homme d'équipage
+EQUIPAGE|Personnel de bord
+NAUFRAGE|Perte d'un navire
+BOUEE|Flotteur
+NOEUD|Vitesse en mer
+MILLENAUTIQUE|Distance en mer
+ROUTE|Chaussée
+AUTOROUTE|Voie rapide
+PEAGE|Barrière payante
+CARREFOUR|Croisement
+ROND|___-point : giratoire
+PANNEAU|Signalisation
+PASSAGEPIETON|Zébra
+TROTTOIR|Bord de rue
+PIETON|Marcheur
+EMBOUTEILLAGE|Bouchon
+CIRCULATION|Trafic
+TRAFIC|Circulation
+PERMIS|Autorisation de conduire
+AUTOECOLE|École de conduite
+CONDUCTEUR|Automobiliste
+CONDUIRE|Piloter
+CHAUFFEUR|Conducteur professionnel
+GARAGE|Atelier auto
+GARAGISTE|Mécanicien auto
+PARKING|Stationnement
+ESSENCE|Super
+GAZOLE|Diesel
+CARBURANT|Combustible moteur
+PNEU|Gomme de roue
+ROUE|Disque de véhicule
+VOLANT|Direction
+FREIN|Ralentisseur
+KLAXON|Avertisseur
+CEINTURE|Sangle de sécurité
+COFFRE|Malle
+CAPOT|Couvercle moteur
+RETROVISEUR|Rétro
+PAREBRISE|Vitre avant
+ESSUIEGLACE|Balai de pare-brise
+CLIGNOTANT|Feu de direction
+EMBRAYAGE|Pédale de gauche
+ACCELERATEUR|Pédale de droite
+CROISEMENT|Intersection
+DEVIATION|Itinéraire bis
+DETOUR|Crochet
+RACCOURCI|Chemin direct
+PLAN|Carte de ville
+NORD|Haut de la carte
+SUD|Bas de la carte
+EST|Droite de la carte
+OUEST|Gauche de la carte
+ALLER|Trajet de départ
+RETOUR|Trajet pour rentrer chez soi
+ARRIVEE|Terme du voyage
+DEPART|Début du voyage
+TRAJET|Parcours
+ESCALE|Halte
+RETARD|Arrivée tardive
+HORAIRE|Heures de passage
+TERMINUS|Fin de ligne
+ARRET|Halte de bus
+STATION|Arrêt de métro
+TICKET|Billet
+ABONNEMENT|Forfait
+COVOITURAGE|Trajet partagé
+AUTOSTOP|Pouce levé
+GLOBETROTTER|Grand voyageur
+ROUTARD|Voyageur sac au dos
+NOMADE|Vagabond
+EXPATRIE|Exilé volontaire
+DEPAYSEMENT|Changement d'air
+DECALAGE|___ horaire : écart de fuseau
+FUSEAU|___ horaire : zone d'heure
+AIGUILLAGE|Embranchement de rails
+TRAVERSE|Pièce sous les rails
+CABOTAGE|Navigation côtière
+ACCOSTER|Aborder un quai
+AMARRER|Attacher un bateau
+APPAREILLER|Lever l'ancre
+LOUVOYER|Zigzaguer contre le vent
+TANGAGE|Balancement avant-arrière
+ROULIS|Balancement latéral
+CARLINGUE|Corps d'avion
+FUSELAGE|Coque d'avion
+TURBULENCES|Secousses en vol
+TARMAC|Piste d'aéroport
+ATTERRIR|Se poser
+DECOLLER|S'envoler
+EMBARQUEMENT|Montée à bord
+DEBARQUER|Descendre à terre
+SOUTE|Compartiment à bagages
+CARGO|Navire de marchandises
+CONTENEUR|Container
+VAPORETTO|Bateau-bus vénitien
+GONDOLE|Barque vénitienne
+GONDOLIER|Batelier vénitien
+BATELIER|Marinier
+PASSEUR|Batelier de rivière
+CALECHE|Voiture à cheval
+CARROSSE|Voiture de Cendrillon
+DILIGENCE|Voiture du Far West
+CHARRETTE|Voiture agricole
+TRAINEAU|Véhicule des neiges
+TUKTUK|Taxi asiatique
+LIMOUSINE|Voiture de star
+CABRIOLET|Voiture décapotable
+DECAPOTABLE|Cabriolet
+BREAK|Familiale
+QUATREQUATRE|Tout-terrain
+CAMPINGCAR|Maison roulante
+VAN|Minibus aménagé
+SIDECAR|Nacelle de moto
+MOBYLETTE|Cyclomoteur
+TANDEM|Vélo à deux
+MONOCYCLE|Vélo de clown
+OMNIBUS|Train lent
+MICHELINE|Autorail
+TORTILLARD|Petit train lent
+CONCORDE|Avion supersonique
+AIRBUS|Avionneur européen
+BOEING|Avionneur américain
+AVIATEUR|Pilote
+COPILOTE|Second pilote
+NAVIGATEUR|Marin
+EXPLORER|Découvrir
+DEPAYSER|Dérouter

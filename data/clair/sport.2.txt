@@ -1,0 +1,485 @@
+EQUIPE|Ensemble des joueurs qui portent le même maillot
+JOUER|S'amuser à un jeu
+BUT|Cage gardée par le goal
+MATCH|Partie disputée entre deux adversaires
+FAUTE|Infraction sifflée par l'arbitre
+COURT|Le central de Roland-Garros en est un
+COURSE|Compétition de vitesse à pied, à vélo ou en voiture
+FOU|Aux échecs, il y en a deux par camp, sur les cases blanches et noires
+CHAMPION|Vainqueur d'un titre
+ECHEC|Menace directe sur le roi, sur l'échiquier
+TROU|Au golf, il y en a dix-huit sur un parcours
+PARTENAIRE|Allié dans un jeu en équipe
+STADE|Enceinte sportive avec gradins, comme celui de France
+SKI|Sport d'hiver pratiqué en station
+SUPPORTER|Fan qui chante dans les tribunes
+PISCINE|Lieu où se disputent les épreuves de natation
+TRANSFERT|Achat d'un joueur par un autre club
+MAILLOT|Le jaune récompense le leader du Tour de France
+TENNIS|Sport de raquette de Federer et Nadal
+BASKET|Sport de la NBA
+GOLF|Sport pratiqué sur un parcours de dix-huit trous
+DESCENTE|Discipline de vitesse du ski alpin
+EPEE|Arme d'escrime avec laquelle on peut toucher tout le corps
+ARBITRE|Il siffle les fautes
+COACH|Il donne les consignes depuis le bord du terrain
+HOCKEY|Sport collectif qui se joue souvent sur glace
+SCORE|Résultat affiché sur le tableau d'un match
+FINALE|Match qui désigne le champion
+MAT|Fin de la partie d'échecs
+OBSTACLE|Haie ou barre à franchir
+ATHLETE|Sportif des Jeux olympiques
+FAVORI|Celui sur qui l'on parie le plus
+PERFORMANCE|Exploit sportif mesuré en temps ou en points
+FORFAIT|Abandon avant une épreuve
+BOXE|Sport de combat pratiqué sur un ring
+POTEAU|La balle qui le touche ne rentre pas toujours dans le but
+SET|Un match de tennis se joue en deux ou trois gagnants
+POKER|Jeu de cartes du bluff et des jetons
+TIREUR|Joueur qui frappe vers le but
+RUGBY|Sport du Tournoi des Six Nations
+MELEE|Regroupement de joueurs de rugby autour du ballon
+COUREUR|Athlète qui participe à une course à pied
+PARIER|Miser sur le vainqueur
+PELOTON|Gros groupe de cyclistes
+FOULEE|Enjambée du coureur
+ARENE|Lieu où l'on combat le taureau
+RING|Carré où l'on boxe
+SURF|Sport de glisse sur les vagues
+VESTIAIRE|Lieu où l'on enfile son maillot avant le match
+ROUND|Reprise de trois minutes en boxe
+FULL|Brelan plus une paire, au poker
+SPRINT|Course de vitesse sur courte distance
+PODIUM|On y reçoit or, argent ou bronze
+MARATHON|Épreuve olympique de course de fond sur route
+LOTO|Jeu de grille où l'on coche des numéros
+CHRONO|Temps mesuré à la seconde près
+POLO|Sport de cavaliers qui frappent une balle avec un maillet
+FOOTBALL|Sport le plus populaire du monde
+KARATE|Art martial dont le nom veut dire « main vide »
+ESCRIME|Sport des épéistes
+NATATION|Sport de bassin
+SNOWBOARD|Glisse sur une seule planche
+HANDBALL|Sport de ballon joué à la main, à sept contre sept
+VOLLEY|Sport de filet joué à six contre six
+PETANQUE|Jeu de boules du Midi
+PENALTY|Coup de pied tiré face au gardien
+HORSJEU|Le juge de touche lève son drapeau pour le signaler
+ZIDANE|Zizou, auteur de deux buts de la tête en finale de 1998
+MBAPPE|Attaquant né à Bondy, très rapide
+PLATINI|Ancien capitaine des Bleus, triple Ballon d'or
+NADAL|Rafa, tennisman de Majorque
+BOLT|Usain, recordman du 100 mètres
+PHELPS|Requin des bassins américain
+RINER|Teddy, géant du judo
+HINAULT|Cycliste surnommé le Blaireau
+HAIES|Course du 110 mètres
+TROPHEE|Récompense du vainqueur
+ALPINISME|Ascension des grands sommets
+PINGPONG|Tennis de table
+TOURDEFRANCE|Course cycliste de juillet, la Grande Boucle
+DOPAGE|Tricherie par produits interdits
+JUDOKA|Combattant en kimono blanc
+DOSSARD|Numéro épinglé sur le maillot
+SPRINTEUR|Spécialiste du cent mètres
+ECHECS|Jeu des rois, des tours et des fous
+DAMES|Jeu de pions sur un damier
+SCRABBLE|Jeu du mot compte triple
+MONOPOLY|Jeu de la rue de la Paix
+SUDOKU|Grille de chiffres à compléter sans répétition
+RUBIK|Cube aux six faces colorées
+FLECHETTES|Jeu de cible des pubs anglais
+PACMAN|Héros jaune de jeu d'arcade
+TETRIS|Jeu vidéo russe de briques qui tombent
+MARIO|Héros à casquette rouge de Nintendo
+ZELDA|Saga de jeux vidéo dont le héros s'appelle Link
+REBUS|Énigme en images
+DEVINETTE|Petite énigme
+CLUEDO|Jeu du colonel Moutarde
+UNO|Jeu de cartes où l'on crie son nom quand il en reste une
+CROQUET|Jeu de maillets et d'arceaux
+CASSETETE|Énigme difficile à résoudre
+JENGA|Tour de bois qu'il ne faut pas faire tomber
+ESCAPEGAME|Jeu d'évasion en équipe
+MAHJONG|Jeu de tuiles chinois
+MASTERMIND|Jeu de code couleur
+PICTIONARY|Jeu de dessin à faire deviner
+RAMI|Jeu de cartes à combinaisons
+BALANCOIRE|Jeu de jardin pour se balancer
+CERFVOLANT|Jouet qui vole au vent
+TROTTINETTE|Patinette
+NINTENDO|Firme de la Switch
+POKEMON|Pikachu en est un
+MINECRAFT|Jeu vidéo de construction en blocs
+FIXATION|Elle retient la chaussure sur le ski
+BRIDGE|Jeu de cartes où l'un des joueurs s'appelle le mort
+DEALER|Croupier qui donne les cartes
+JOKER|Carte au bouffon
+PUZZLE|Jeu de pièces à assembler
+CONSULTANT|Commentateur sportif
+ACE|Service gagnant
+OPEN|Tournoi ouvert à tous
+MENEUR|Organisateur du jeu
+BILLARD|Jeu de queue et de boules
+MANEGE|Lieu où l'on dresse les chevaux
+CARREAU|Couleur des cartes en losange
+INTERNATIONAL|Joueur de l'équipe nationale
+PION|Pièce la plus faible aux échecs
+AILIER|Joueur qui court le long de la touche
+EQUITATION|Sport du cavalier
+PORTIER|Gardien de but
+MANETTE|Commande de console
+GALOP|Allure rapide du cheval
+CHALLENGER|Concurrent qui défie le champion
+JUDO|Sport de combat de Teddy Riner
+SKATE|Planche à roulettes
+BLUFF|Feinte au poker
+BUNKER|Piège de sable au golf
+SHOOT|Frappe de balle
+ATTAQUANT|Avant-centre
+GREEN|Pelouse autour du trou, au golf
+BOWLING|Jeu de quilles à l'américaine
+ROLLER|Patin à roulettes en ligne
+RAQUETTE|Outil du joueur de badminton
+CYCLISME|Sport de la petite reine
+SIFFLER|Signaler une faute
+SLALOM|Course entre des portes de ski
+LUCARNE|Angle du but
+SWING|Geste du golfeur
+VELODROME|Stade aménagé pour les courses de vélo
+HIPPODROME|Champ de courses de chevaux
+BENJAMIN|Jeune sportif après la catégorie des poussins
+PLAQUER|Faire tomber l'adversaire au rugby
+CORRIDA|Combat de taureaux
+FINALISTE|Concurrent de la finale
+MANILLE|Jeu de cartes où le dix est roi
+GONG|Il sonne la fin d'un round
+RELEGATION|Descente en division inférieure
+LUGE|Petit traîneau de descente
+AVIRON|Sport de rame
+DRIVER|Club pour le premier coup au golf
+MASSUE|Engin de gymnastique rythmique
+QUINTE|Suite de cinq cartes
+TAROT|Jeu de cartes à atouts
+TOBOGGAN|Glissière d'aire de jeux
+JONGLER|Faire sauter des balles en l'air
+GRIMPEUR|Spécialiste de la montagne à vélo
+OUTSIDER|Concurrent peu attendu
+FOOTING|Jogging
+SKATEBOARD|Planche du skateur
+LEGO|Briques en plastique à assembler
+CROSS|Course à pied tout-terrain
+BELLE|Partie décisive
+MENE|Manche de pétanque
+FIFA|Organisatrice de la Coupe du monde
+CHAMPIONNE|Gagnante d'un titre
+UEFA|Organisatrice de la Ligue des champions
+TRAIL|Course en pleine nature
+SMASH|Coup écrasé
+BUTEUR|Marqueur de buts
+DERBY|Match entre voisins
+PLAYSTATION|Console de Sony
+LUTZ|Saut du patinage artistique
+TOMBOLA|Loterie de kermesse
+KAYAK|Embarcation à pagaie double
+KARTING|Course de petits bolides
+BOBSLEIGH|Traîneau des Jeux d'hiver
+PALET|Disque du hockey sur glace
+JAVELOT|Lance d'athlétisme
+BIATHLON|Ski et tir à la carabine
+DECATHLON|Épreuve en dix disciplines
+DUNK|Smash au basket
+BLACKJACK|Jeu de casino du 21
+FRISBEE|Disque volant
+BELOTE|Jeu de cartes du « dix de der »
+DRIBBLE|Crochet balle au pied
+CRAVACHE|Baguette du cavalier
+JOCKEY|Cavalier de course
+TURF|Monde des courses hippiques
+CORDAGE|Cordes de la raquette
+BADMINTON|Sport du volant
+FEDERER|Roger, tennisman suisse
+TRIATHLON|Natation, vélo et course
+CROUPIER|Employé de casino
+TORERO|Matador
+PARKOUR|Course acrobatique en ville
+CURLING|Pétanque sur glace
+MARELLE|Jeu à cloche-pied
+KENDO|Escrime japonaise en bambou
+MARATHONIEN|Coureur de 42 kilomètres
+TATAMI|Tapis du judoka
+HEPTATHLON|Épreuve d'athlétisme en sept disciplines
+MORPION|Jeu des trois en ligne
+SKELETON|Luge à plat ventre
+BRELAN|Trois cartes identiques
+DRIBBLER|Éviter l'adversaire balle au pied
+EPEISTE|Escrimeur à l'épée
+CULTURISME|Bodybuilding
+TALONNEUR|Joueur du centre de la mêlée
+PENTATHLON|Épreuve en cinq disciplines
+MECCANO|Jeu de construction en métal
+BACKGAMMON|Jacquet
+PUTTER|Club pour le green
+YAMS|Jeu de cinq dés
+SHOGI|Échecs japonais
+CADDIE|Porteur de clubs
+SPEAKER|Animateur au micro d'un stade
+BOARD|Planche de glisse
+COACHING|Entraînement personnalisé
+START|Départ d'une course
+TIERCE|Pari hippique
+SPRINGBOKS|Rugbymen sud-africains
+PUMAS|Rugbymen argentins
+CALCIO|Football italien
+TRIPLETTE|Équipe de trois boulistes
+VAREUSE|Maillot de footballeur
+ENDURO|Moto tout-terrain
+TIFOSI|Supporters italiens
+WELTER|Catégorie de poids en boxe
+YACHTING|Navigation de plaisance
+OVALIE|Pays du rugby
+STRETCHING|Étirements
+INDOOR|En salle
+KICKER|Baby-foot
+PADDOCK|Enclos des chevaux de course
+BIRDIE|Un coup sous le par
+SAVATE|Boxe française
+OLYMPIADE|Quatre ans entre deux Jeux
+TRICK|Figure de skate
+CRITERIUM|Course cycliste sur circuit
+PANIER|Il en faut un pour marquer au basket
+FILET|Le ballon de volley doit passer par-dessus
+BALLE|Projectile du tennis
+BALLON|Il est rond au foot et ovale au rugby
+CROSSE|Bâton du hockeyeur
+GARDIEN|Goal
+DEFENSEUR|Arrière
+CORNER|Coup de pied de coin
+TOUCHE|Sortie du ballon sur le côté
+ESSAI|Cinq points au rugby
+SIFFLET|Instrument de l'arbitre
+MEDAILLE|Or, argent ou bronze
+PLONGEON|Saut dans l'eau
+ESCALADE|Sport de grimpe
+RANDONNEE|Longue marche
+PATIN|Chaussure à lame pour la glace
+GYMNASTIQUE|Sport aux agrès
+LANCER|Épreuve du disque ou du javelot
+SAUT|Épreuve de hauteur ou de longueur
+PERCHE|Saut avec une longue tige
+RELAIS|Course à quatre avec un témoin
+PISTE|Anneau d'athlétisme
+TERRAIN|Pelouse du match
+ENTRAINEUR|Coach
+CLUB|Association sportive
+TOURNOI|Compétition à élimination
+COUPE|Trophée du vainqueur
+OLYMPIQUE|Relatif aux Jeux
+RECORD|Meilleure marque jamais réalisée
+DEFAITE|Match perdu
+VICTOIRE|Match gagné
+NUL|Match sans vainqueur
+CARTE|Il y en a 52 dans un jeu
+ATOUT|Couleur maîtresse
+DAME|Reine aux échecs
+TOUR|Pièce qui roque avec le roi
+CAVALIER|Pièce qui se déplace en L aux échecs
+VALET|Figure entre le dix et la dame
+PIQUE|Couleur noire en fer de lance
+TREFLE|Couleur noire à trois feuilles
+DAMIER|Plateau du jeu de dames
+ECHIQUIER|Plateau de 64 cases
+SABLIER|Minuteur de jeu de société
+COCHONNET|But de la pétanque
+QUILLE|Cible du bowling
+BILLE|Agate de cour de récréation
+TOUPIE|Jouet qui tourne sur sa pointe
+YOYO|Jouet qui monte et descend
+DOMINO|Pièce à points que l'on aligne
+JACQUET|Backgammon
+OSSELETS|Jeu d'adresse avec de petits os
+DIABOLO|Jouet en bobine que l'on lance sur une ficelle
+CACHECACHE|Jeu où l'on se cache
+LOTERIE|Jeu de tirage
+CASINO|Lieu de jeux d'argent
+ROULETTE|Jeu de casino à la bille
+JETON|Pièce de casino
+MISE|Somme pariée
+JACKPOT|Gros lot
+GAGNANT|Vainqueur
+PERDANT|Battu
+TRICHER|Enfreindre les règles en douce
+TIRAGE|Moment où l'on sort les numéros
+ADVERSAIRE|Rival du match
+CHAMPIONNAT|Compétition de toute une saison
+QUALIFICATION|Accès au tour suivant
+ELIMINATION|Sortie de la compétition
+DEMIFINALE|Avant-dernier match
+PROLONGATION|Temps supplémentaire
+MITEMPS|Pause entre les deux périodes
+TEMPSMORT|Arrêt de jeu demandé par le coach
+REMPLACANT|Joueur du banc
+BRASSARD|Signe du capitaine
+CARTON|Jaune ou rouge
+EXCLUSION|Renvoi d'un joueur
+TIRAUBUT|Frappe vers les cages
+PASSE|Transmission du ballon
+TACLE|Glissade pour récupérer le ballon
+CROCHET|Coup de poing circulaire
+UPPERCUT|Coup de poing de bas en haut
+GANTS|Protection des mains du boxeur
+KIMONO|Tenue de judo
+DOJO|Salle d'arts martiaux
+SUMO|Lutte japonaise de colosses
+CATCH|Lutte spectacle
+LUTTE|Sport de combat au corps à corps
+TAEKWONDO|Art martial coréen
+NAGEUR|Sportif du bassin
+CRAWL|Nage la plus rapide
+BRASSE|Nage de la grenouille
+PLONGEOIR|Tremplin de piscine
+WATERPOLO|Handball aquatique
+VOILE|Sport des régates
+REGATE|Course de voiliers
+CANOE|Embarcation à pagaie simple
+RAFTING|Descente en canot pneumatique
+PLANCHE|Support du surfeur
+KITESURF|Surf tracté par une aile
+PARAPENTE|Vol sous une voile
+PARACHUTE|Toile de saut en chute libre
+DELTAPLANE|Aile volante
+VTT|Vélo tout-terrain
+CYCLISTE|Coureur à vélo
+PEDALE|On appuie dessus pour avancer à vélo
+ETAPE|Course d'une journée du Tour
+MAILLOTJAUNE|Leader du Tour de France
+ECHAPPEE|Coureurs détachés du peloton
+GRIMPEE|Ascension d'un col
+FORMULEUN|Course automobile de monoplaces
+CIRCUIT|Piste de course automobile
+STAND|Arrêt au ___ : passage aux pneus
+GRANDPRIX|Course de Formule 1
+RALLYE|Course automobile sur routes
+MOTOCROSS|Moto tout-terrain
+SKIEUR|Pratiquant du ski
+TELESKI|Remontée mécanique
+PISTENOIRE|Piste pour skieurs confirmés
+BATONS|Ils aident le skieur
+FOND|Ski de randonnée nordique
+SAUTEUR|Athlète du saut
+LANCEUR|Il envoie la balle au baseball
+BATTEUR|Il frappe la balle au baseball
+BATTE|Bâton du baseball
+BASEBALL|Sport national américain
+CRICKET|Sport anglais à batte plate
+RUGBYMAN|Joueur de rugby
+FOOTBALLEUR|Joueur de foot
+BASKETTEUR|Joueur de basket
+TENNISMAN|Joueur de tennis
+GOLFEUR|Joueur de golf
+SERVICE|Mise en jeu au tennis
+REVERS|Coup de tennis du côté opposé
+COUPDROIT|Coup de tennis du côté de la raquette
+VOLEE|Coup au filet
+TIEBREAK|Jeu décisif
+WIMBLEDON|Tournoi sur gazon
+ROLANDGARROS|Tournoi sur terre battue
+FLAMME|Feu olympique
+ANNEAUX|Agrès suspendus
+POUTRE|Agrès d'équilibre
+BARRES|Agrès parallèles
+TRAMPOLINE|Toile de rebond
+SALTO|Saut périlleux
+GRANDECART|Écart complet des jambes
+HALTERE|Poids de musculation
+HALTEROPHILIE|Lever de poids
+MUSCULATION|Renforcement des muscles
+ECHAUFFEMENT|Préparation avant l'effort
+COURBATURE|Douleur musculaire après l'effort
+TRANSPIRER|Suer
+SOUFFLE|Respiration du sportif
+ENDURANCE|Résistance à l'effort long
+AGILITE|Souplesse et vivacité
+SOUPLESSE|Qualité du gymnaste
+ARBITRAGE|Décisions de l'arbitre
+VAR|Assistance vidéo à l'arbitrage
+PALMARES|Liste des titres
+SELECTIONNEUR|Il choisit l'équipe nationale
+LIGUE|___ des champions : grande compétition européenne de football
+MONDIAL|Coupe du monde de football
+BLEUS|Équipe de France
+GRADIN|Rangée de sièges du stade
+TRIBUNE|Partie couverte du stade
+OLA|Vague des supporters
+HOOLIGAN|Supporter violent
+MASCOTTE|Porte-bonheur d'une équipe
+FLEURET|Arme d'escrime légère
+SABRE|Arme d'escrime de taille
+PARADE|Défense en escrime
+RIPOSTE|Contre-attaque en escrime
+FENTE|Allongement vers l'avant en escrime
+PISTARD|Cycliste sur piste
+ROULEUR|Cycliste du plat
+DOMESTIQUE|Équipier dévoué du leader
+LANTERNEROUGE|Dernier du classement
+CHISTERA|Gant d'osier de la pelote
+PELOTE|Jeu basque de balle contre un mur
+RAMEUR|Sportif de l'aviron
+BARREUR|Il dirige le bateau d'aviron
+SPINNAKER|Voile d'avant gonflée
+SKIPPER|Chef de bord
+VENDEEGLOBE|Tour du monde à la voile en solitaire
+APNEE|Plongée sans respirer
+PALMES|Accessoires du nageur
+GOLDEN|___ goal : but en or
+LOB|Balle haute
+RETOURNEE|Frappe acrobatique dos au but
+PETITPONT|Ballon passé entre les jambes
+CENTRE|Passe vers le milieu
+CONTREATTAQUE|Riposte rapide
+PRESSING|Pression sur l'adversaire
+LIBERO|Défenseur du volley
+REBOND|Ballon récupéré au basket
+LANCERFRANC|Tir après une faute au basket
+MARCHER|Faute au basket
+DROP|Coup de pied tombé
+TOUCHEUR|Lanceur de touche au rugby
+DEMIDEMELEE|Numéro neuf du rugby
+OUVREUR|Numéro dix du rugby
+PILIER|Joueur de première ligne au rugby
+ARRIERE|Dernier défenseur
+HANDICAP|Avantage au golf
+PAR|Nombre de coups prévu au golf
+CLUBHOUSE|Accueil d'un golf
+TRIPLESAUT|Trois bonds
+MARTEAU|Boule lancée au bout d'un câble
+STARTINGBLOCK|Appui de départ
+COULOIR|Bande de piste
+PHOTOFINISH|Photo d'arrivée
+FAUXDEPART|Départ trop tôt
+DECIMALE|Centième de seconde
+CIBLE|Disque visé
+CARABINE|Arme du biathlon
+BALLTRAP|Tir aux plateaux
+CROSSFIT|Entraînement intensif
+ZUMBA|Fitness dansé
+YOGA|Postures et respiration
+STEP|Gym sur une marche
+ABDOS|Muscles du ventre
+POMPES|Exercice des bras au sol
+TRACTION|Exercice à la barre
+GAINAGE|Exercice de la planche
+FRACTIONNE|Entraînement par intervalles
+SEMIMARATHON|Course de 21 kilomètres
+ULTRATRAIL|Très longue course en montagne
+CANYONING|Descente de torrent
+VIAFERRATA|Parcours d'escalade équipé
+SPELEOLOGIE|Exploration des grottes
+GRIMPE|Escalade
+MOUSQUETON|Anneau d'escalade
+BAUDRIER|Harnais du grimpeur
+PIOLET|Pioche de l'alpiniste
+CRAMPONS|Pointes pour la glace
+CORDEE|Alpinistes encordés
+SHERPA|Guide de l'Himalaya
+BIVOUAC|Campement d'alpiniste

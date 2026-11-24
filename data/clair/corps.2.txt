@@ -1,0 +1,233 @@
+CORPS|Enveloppe physique de l'être humain
+TETE|Partie du corps qui contient le cerveau
+VISAGE|Figure
+OEIL|On en a deux pour voir
+OREILLE|On en a deux pour entendre
+NEZ|Organe qui permet de sentir
+BOUCHE|Elle sert à manger et à parler
+DENT|La molaire en est une
+LEVRE|Bord rouge de la bouche
+JOUE|On y fait la bise
+FRONT|Haut du visage
+MENTON|Bas du visage
+SOURCIL|Poils au-dessus de l'œil
+CIL|Poil de la paupière
+PAUPIERE|Volet de l'œil
+CHEVEU|Il pousse sur le crâne
+COU|Il relie la tête au tronc
+EPAULE|Articulation du haut du bras
+BRAS|Membre supérieur
+COUDE|Articulation du bras
+POIGNET|Articulation de la main
+MAIN|Elle a cinq doigts
+DOIGT|L'index en est un
+POUCE|Doigt opposable
+ONGLE|Lame dure au bout du doigt
+VENTRE|Abdomen
+DOS|Arrière du tronc
+POITRINE|Torse
+NOMBRIL|Petit creux du ventre
+HANCHE|Côté du bassin
+FESSE|On s'assoit dessus
+JAMBE|Membre inférieur
+GENOU|Articulation de la jambe
+CHEVILLE|Articulation du pied
+PIED|Il porte la chaussure
+TALON|Arrière du pied
+ORTEIL|Doigt de pied
+MOLLET|Muscle arrière de la jambe
+CUISSE|Haut de la jambe
+PEAU|Plus grand organe du corps
+POIL|Petit cheveu du corps
+SQUELETTE|Charpente osseuse
+CRANE|Boîte osseuse de la tête
+VERTEBRE|Os du dos
+CLAVICULE|Os de l'épaule
+OMOPLATE|Os plat du dos
+FEMUR|Os de la cuisse
+TIBIA|Os de la jambe
+ROTULE|Os du genou
+BASSIN|Os du bas du ventre
+MACHOIRE|Os des dents
+MUSCLE|Il se contracte pour bouger
+BICEPS|Muscle du bras
+ABDOMINAUX|Muscles du ventre
+TENDON|Lien entre muscle et os
+LIGAMENT|Lien entre deux os
+ARTICULATION|Jointure
+COEUR|Il bat dans la poitrine
+POUMON|Organe de la respiration
+CERVEAU|Organe de la pensée
+ESTOMAC|Poche de la digestion
+FOIE|Organe qui filtre le sang
+REIN|Organe qui produit l'urine
+INTESTIN|Tube digestif
+VESSIE|Réservoir d'urine
+RATE|Organe à gauche du ventre
+PANCREAS|Organe de l'insuline
+THYROIDE|Glande du cou
+ORGANE|Le cœur en est un
+SANG|Liquide rouge
+VEINE|Vaisseau bleu sous la peau
+ARTERE|Vaisseau qui part du cœur
+GLOBULE|Cellule du sang
+PLAQUETTE|Cellule de la coagulation
+NERF|Fil sensible
+NEURONE|Cellule nerveuse
+HORMONE|Messager chimique
+INSULINE|Hormone du sucre
+ADRENALINE|Hormone de la peur
+SALIVE|Liquide de la bouche
+LARME|Goutte de l'œil
+SUEUR|Transpiration
+RESPIRER|Inspirer et expirer
+DIGERER|Assimiler les aliments
+POULS|Battement du cœur au poignet
+TENSION|Pression artérielle
+VUE|Sens des yeux
+OUIE|Sens des oreilles
+ODORAT|Sens du nez
+GOUT|Sens de la langue
+TOUCHER|Sens de la peau
+SANTE|Forme physique
+MALADIE|Mal qui affecte la santé
+MALADE|Patient
+MEDECIN|Docteur
+DOCTEUR|Médecin
+INFIRMIER|Soignant de l'hôpital
+INFIRMIERE|Soignante de l'hôpital
+CHIRURGIEN|Médecin qui opère
+DENTISTE|Médecin des dents
+PHARMACIEN|Vendeur de médicaments
+PHARMACIE|Boutique à la croix verte
+HOPITAL|Centre de soins
+CLINIQUE|Hôpital privé
+URGENCES|Service des cas graves
+AMBULANCE|Véhicule des blessés
+MEDICAMENT|Remède
+PILULE|Petit médicament rond
+COMPRIME|Médicament à avaler
+PIQURE|Injection
+SERINGUE|Instrument d'injection
+PANSEMENT|Bandage
+SPARADRAP|Bande adhésive
+PLATRE|Coque pour membre cassé
+BEQUILLE|Canne de soutien
+STETHOSCOPE|Instrument d'écoute du médecin
+ORDONNANCE|Prescription
+CONSULTATION|Visite chez le médecin
+OPERATION|Acte chirurgical
+ANESTHESIE|Endormissement médical
+RADIOGRAPHIE|Image aux rayons X
+SCANNER|Examen en coupes
+ECHOGRAPHIE|Examen aux ultrasons
+PRISEDESANG|Analyse sanguine
+VACCINATION|Injection de vaccin
+FIEVRE|Température élevée
+TOUX|Expulsion d'air bruyante
+RHUME|Nez qui coule
+GRIPPE|Maladie de l'hiver
+ANGINE|Mal de gorge
+OTITE|Mal d'oreille
+BRONCHITE|Toux persistante
+ALLERGIE|Réaction au pollen
+ASTHME|Gêne respiratoire
+DIABETE|Excès de sucre
+CANCER|Tumeur maligne
+VARICELLE|Boutons d'enfance
+ROUGEOLE|Maladie à plaques rouges
+OREILLONS|Joues gonflées
+MIGRAINE|Mal de tête
+INSOMNIE|Nuit blanche
+FATIGUE|Lassitude
+DOULEUR|Souffrance
+BLESSURE|Lésion
+PLAIE|Coupure
+CICATRICE|Marque sur la peau
+ENTORSE|Cheville tordue
+FRACTURE|Os brisé
+BRULURE|Lésion due au feu
+BOUTON|Petite grosseur
+VERRUE|Excroissance cutanée
+CARIE|Dent trouée
+NAUSEE|Mal au cœur
+VERTIGE|Tête qui tourne
+COMA|Perte de conscience
+EPIDEMIE|Contagion de masse
+PANDEMIE|Épidémie mondiale
+CONTAGIEUX|Transmissible
+GUERIR|Aller mieux
+SOIGNER|Traiter un malade
+CONVALESCENCE|Repos après maladie
+REEDUCATION|Exercices de récupération
+KINE|Masseur soignant
+OPHTALMOLOGUE|Médecin des yeux
+PEDIATRE|Médecin des enfants
+CARDIOLOGUE|Médecin du cœur
+DERMATOLOGUE|Médecin de la peau
+PSYCHOLOGUE|Spécialiste de l'esprit
+PSYCHIATRE|Médecin de l'esprit
+GYNECOLOGUE|Médecin des femmes
+SAGEFEMME|Accoucheuse
+OSTEOPATHE|Thérapeute manuel
+LUNETTES|Verres correcteurs
+MYOPE|Qui voit flou de loin
+APPAREIL|Correcteur dentaire
+PROTHESE|Membre artificiel
+GROSSESSE|Neuf mois d'attente
+ACCOUCHEMENT|Mise au monde
+NAISSANCE|Venue au monde
+BEBE|Nouveau-né
+NOURRISSON|Bébé
+EMBRYON|Début de la vie
+FOETUS|Bébé avant la naissance
+CROISSANCE|Développement de l'enfant
+PUBERTE|Passage à l'adolescence
+VIEILLESSE|Grand âge
+HYGIENE|Propreté
+SOMMEIL|Repos de la nuit
+REVE|Images nocturnes
+CAUCHEMAR|Rêve effrayant
+BAILLER|Ouvrir la bouche de fatigue
+ETERNUER|Faire atchoum
+HOQUET|Spasme répété
+ROUGIR|Devenir écarlate
+FRISSON|Tremblement
+CHAIRDEPOULE|Peau hérissée
+STRESS|Tension nerveuse
+DEPRESSION|Grande tristesse
+REGIME|Alimentation contrôlée
+VITAMINE|Nutriment des fruits
+CALORIE|Unité d'énergie
+PROTEINE|Nutriment des muscles
+CHOLESTEROL|Graisse du sang
+OBESITE|Surpoids important
+ANOREXIE|Refus de manger
+BIENETRE|Sensation de forme
+DEFENSES|Protection naturelle
+IMMUNITE|Résistance aux maladies
+ANTICORPS|Défenseur du corps
+INFECTION|Contamination
+INFLAMMATION|Rougeur douloureuse
+ANTISEPTIQUE|Désinfectant
+DESINFECTER|Nettoyer une plaie
+CHIRURGIE|Médecine opératoire
+SCALPEL|Couteau chirurgical
+BISTOURI|Lame du chirurgien
+BLOC|Salle d'opération
+GREFFE|Transplantation
+TRANSFUSION|Don de sang reçu
+DIAGNOSTIC|Identification d'une maladie
+SYMPTOME|Signe de maladie
+TRAITEMENT|Soins
+REMEDE|Médicament
+GELULE|Capsule
+POMMADE|Crème soignante
+COLLYRE|Gouttes pour les yeux
+HOMEOPATHIE|Médecine douce
+ACUPUNCTURE|Médecine des aiguilles
+SECOURISME|Premiers secours
+SECOURISTE|Sauveteur
+MASSAGE|Détente musculaire
+ANATOMIE|Étude du corps
+MEDECINE|Art de soigner

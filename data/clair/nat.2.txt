@@ -1,0 +1,403 @@
+BOIS|Forêt de petite taille
+CHAMP|Parcelle de blé ou de maïs
+ROSE|Reine des fleurs
+JARDIN|Espace vert autour d'une maison
+PRINTEMPS|Saison des bourgeons
+ARBRE|Le chêne en est un
+AUTOMNE|Saison des feuilles mortes
+PRE|Prairie
+PLANTE|Végétal
+POMME|Fruit tombé sur la tête de Newton
+HERBE|Végétation des prairies
+BLE|Céréale des moissons
+COTON|Fibre blanche d'une plante des pays chauds
+CHOU|Légume de la choucroute
+GRAIN|Semence de céréale
+NOIX|Fruit sec que l'on casse
+PELOUSE|Gazon tondu
+BOUQUET|Fleurs offertes
+LIN|Plante textile aux fleurs bleues
+CITRON|Fruit jaune acide
+OLIVE|Fruit de l'olivier
+SAPIN|Arbre de Noël
+PIN|Il donne des pignons
+VIGNE|Plante du raisin
+SOUCHE|Reste d'un arbre coupé
+IRIS|Fleur emblème de Florence
+POIS|Petite boule verte de la cosse
+TIGE|Elle porte la fleur
+GAZON|Herbe fine
+TRONC|Corps de l'arbre
+SEMER|Mettre en terre des graines
+CHENE|Arbre des glands
+BOULEAU|Arbre à l'écorce blanche
+PLATANE|Arbre des places de village
+PEUPLIER|Arbre élancé
+OLIVIER|Arbre de la paix
+ERABLE|Arbre du sirop canadien
+CACTUS|Plante piquante du désert
+FOUGERE|Plante sans fleurs des sous-bois
+LIERRE|Plante grimpante
+LAVANDE|Fleur violette de Provence
+ORCHIDEE|Fleur exotique
+PETALE|Partie de la fleur
+POLLEN|Poussière jaune des fleurs
+GRAINE|Semence
+MARAIS|Zone humide
+TOURBIERE|Marais de mousses
+HUMUS|Terre de feuilles décomposées
+MYRTILLE|Baie bleue
+GLAND|Fruit du chêne
+BRUYERE|Arbuste des landes
+LILAS|Fleur mauve de mai
+HORTENSIA|Arbuste à grosses boules de fleurs
+PISSENLIT|Dent-de-lion
+NENUPHAR|Fleur de l'étang
+ACACIA|Arbre épineux
+PALMIER|Arbre des oasis
+HETRE|Arbre des forêts
+CERISIER|Arbre des cerises
+FRENE|Arbre au bois souple
+AULNE|Arbre des rives
+PAQUERETTE|Petite fleur des pelouses
+ALGUE|Plante marine
+FOIN|Herbe séchée
+OIGNON|Légume qui fait pleurer
+CHAMPIGNON|Cèpe ou girolle
+PEPIN|Graine de raisin
+VERDURE|Végétation
+FLORAISON|Éclosion des fleurs
+POIRIER|Arbre des poires
+COSMOS|Fleur de jardin
+LEGUME|Produit du potager
+MOTTE|Bloc de terre
+AMANDE|Fruit sec du massepain
+BROUSSE|Végétation de buissons
+VERGER|Champ d'arbres fruitiers
+RAMEAU|Petite branche
+LATEX|Sève de l'hévéa
+LOTUS|Fleur sacrée d'Asie
+MAQUIS|Végétation corse
+SEMIS|Jeunes pousses
+EPINE|Pointe de la rose
+MOISSON|Récolte des blés
+JASMIN|Fleur parfumée
+SILLON|Trace de la charrue
+LISIERE|Bord de la forêt
+TOURNESOL|Fleur qui suit le soleil
+TERREAU|Terre de rempotage
+CUEILLETTE|Ramassage de fruits
+VIVACE|Qui repousse chaque année
+SEVE|Sang des plantes
+CONCOMBRE|Légume de salade
+LANDE|Terre de bruyères
+GERME|Pousse de la graine
+CACAHUETE|Arachide
+PULPE|Chair du fruit
+PAPYRUS|Roseau du Nil
+BOCAGE|Champs entourés de haies
+CLAIRIERE|Trouée dans la forêt
+SEIGLE|Céréale du pain noir
+ARBUSTE|Petit arbre
+NAVET|Légume blanc
+RADIS|Petit légume rose
+POMMIER|Arbre des pommes
+PAMPLEMOUSSE|Gros agrume
+SAULE|Arbre pleureur
+COURGE|Légume de la famille du potiron
+BOSQUET|Groupe d'arbres
+TILLEUL|Arbre à tisane
+FROMENT|Blé
+ROSIER|Arbuste des roses
+COURGETTE|Légume vert du potager
+COSSE|Enveloppe des petits pois
+OSEILLE|Plante acide
+ORME|Arbre malade
+POIREAU|Légume de la soupe
+LIANE|Plante grimpante tropicale
+CHAUME|Tige de céréale coupée
+HERBIER|Collection de plantes séchées
+POTAGER|Jardin de légumes
+CADUC|Qui perd ses feuilles
+ROSEAU|Plante des rives
+TULIPE|Fleur de Hollande
+CHARDON|Plante épineuse
+ASPERGE|Légume de printemps
+BOURGEON|Future feuille
+FIGUIER|Arbre des figues
+FEVE|Grosse graine verte
+CAPUCINE|Fleur orange comestible
+SUCCULENTE|Plante grasse
+FANE|Feuille de carotte
+LUZERNE|Plante fourragère
+MUGUET|Fleur du 1er mai
+AUBIER|Bois tendre
+SAUGE|Plante aromatique
+ARTICHAUT|Légume à cœur
+PISTACHE|Graine verte
+FENOUIL|Légume anisé
+HORTICULTURE|Culture des jardins
+CHATAIGNE|Fruit du châtaignier
+PRUNIER|Arbre des prunes
+VITICULTEUR|Cultivateur de vigne
+TAILLIS|Bois de jeunes arbres
+GRENADIER|Arbre des grenades
+BAOBAB|Arbre géant d'Afrique
+ORTIE|Plante qui pique
+JARDINIERE|Bac à fleurs
+MARRONNIER|Arbre des marrons d'Inde
+TREILLE|Vigne grimpante
+ANEMONE|Fleur de printemps
+BLEUET|Fleur des blés
+TUBERCULE|Racine renflée
+AGAVE|Plante du Mexique
+TROGNON|Cœur de pomme
+IVRAIE|Mauvaise graine
+SANTAL|Bois parfumé
+MURIER|Arbre des vers à soie
+PEDONCULE|Queue d'une fleur
+COMPOST|Engrais naturel
+GLYCINE|Grappes mauves
+MANDRAGORE|Plante des sorcières
+PIVOINE|Grosse fleur ronde
+ARROSOIR|Récipient du jardinier
+FUTAIE|Forêt de grands arbres
+TAIGA|Forêt du Grand Nord
+JONQUILLE|Fleur jaune de printemps
+SECATEUR|Outil de taille
+SEQUOIA|Arbre géant
+POLLINISATION|Travail des abeilles
+PISTIL|Cœur femelle de la fleur
+ELAGUER|Tailler les branches
+MERISIER|Cerisier sauvage
+GRAMINEE|Herbe des prairies
+SALSIFIS|Racine noire
+CONIFERE|Arbre à aiguilles
+AZALEE|Arbuste fleuri
+CEPE|Champignon de Bordeaux
+EGLANTIER|Rosier sauvage
+BEGONIA|Fleur en pot
+GLAIEUL|Fleur en épi
+GENET|Arbuste jaune
+FLEUR|Elle éclot au printemps
+FEUILLE|Elle tombe à l'automne
+RACINE|Elle puise l'eau du sol
+BRANCHE|Elle porte les feuilles
+ECORCE|Peau de l'arbre
+FORET|Grand bois
+BUISSON|Touffe d'arbustes
+HAIE|Clôture végétale
+MOUSSE|Tapis vert sur les pierres
+FRUIT|Pomme, poire ou orange
+CAROTTE|Légume orange
+TOMATE|Fruit rouge du potager
+HARICOT|Légume en gousse
+LAITUE|Salade
+EPINARD|Légume de Popeye
+CITROUILLE|Légume d'Halloween
+POTIRON|Courge orange
+POIVRON|Légume coloré et creux
+BETTERAVE|Racine rouge
+CELERI|Légume en branche
+BROCOLI|Petit arbre vert
+POMMEDETERRE|Tubercule des frites
+PATATE|Pomme de terre
+MAIS|Épis jaunes
+AVOINE|Céréale du porridge
+ORGE|Céréale de la bière
+RIZIERE|Champ de riz
+CEREALE|Blé, orge ou riz
+FRAISE|Fruit rouge
+FRAMBOISE|Petite baie rouge
+CERISE|Fruit rouge à noyau
+PECHE|Fruit duveteux
+ABRICOT|Fruit orange
+PRUNE|Fruit violet
+POIRE|Fruit en forme de goutte
+RAISIN|Fruit de la vigne
+BANANE|Fruit jaune
+ORANGE|Agrume juteux
+MANDARINE|Petit agrume
+CLEMENTINE|Agrume d'hiver
+ANANAS|Fruit tropical à couronne
+MANGUE|Fruit tropical sucré
+KIWI|Fruit vert et poilu
+MELON|Fruit d'été
+PASTEQUE|Fruit à chair rouge
+FIGUE|Fruit du figuier
+GROSEILLE|Baie rouge en grappe
+CASSIS|Baie noire
+MURE|Baie des ronces
+NOISETTE|Fruit du noisetier
+MARRON|Fruit du châtaignier
+GRENADE|Fruit à grains rouges
+LITCHI|Fruit asiatique
+NOYAU|Centre dur du fruit
+AGRUME|Fruit de la famille de l'orange
+MARGUERITE|Fleur à effeuiller
+COQUELICOT|Fleur rouge des champs
+VIOLETTE|Petite fleur mauve
+LYS|Fleur royale
+CAMELIA|Arbuste fleuri
+MIMOSA|Fleur jaune de février
+ROSEE|Gouttes du matin
+JARDINIER|Il cultive le jardin
+JARDINAGE|Entretien du jardin
+BINER|Ameublir la terre
+BECHER|Retourner la terre
+BECHE|Pelle du jardinier
+RATEAU|Outil à dents
+PELLE|Outil pour creuser
+TONDEUSE|Machine à gazon
+ARROSER|Donner de l'eau
+TAILLER|Couper les branches
+REMPOTER|Changer de pot
+BOUTURE|Tige à replanter
+ENGRAIS|Nourriture des plantes
+SERRE|Abri vitré
+POT|Récipient de plante
+RECOLTE|Cueillette
+FERMIER|Exploitant agricole
+AGRICULTEUR|Cultivateur
+TRACTEUR|Engin agricole
+CHARRUE|Outil de labour
+LABOURER|Retourner la terre
+MOISSONNEUSE|Machine à moisson
+EPOUVANTAIL|Mannequin des champs
+BOTTE|Paquet de foin
+PAILLE|Tige séchée
+GRANGE|Abri des récoltes
+FEUILLAGE|Ensemble des feuilles
+SOUSBOIS|Ombre de la forêt
+BUCHERON|Abatteur d'arbres
+FORESTIER|Garde des forêts
+ROSERAIE|Jardin de roses
+POTAGERE|Cultivée pour être mangée
+BOTANISTE|Spécialiste des plantes
+BOTANIQUE|Science des plantes
+VEGETAL|Relatif aux plantes
+CHLOROPHYLLE|Pigment vert
+PHOTOSYNTHESE|Fabrication de sucre par la lumière
+BULBE|Base de la tulipe
+EPI|Tête de blé
+GOUSSE|Enveloppe de graines
+BRINDILLE|Petite branche sèche
+COPEAU|Lamelle de bois
+NOISETIER|Arbuste à noisettes
+NOYER|Arbre à noix
+CHATAIGNIER|Arbre à châtaignes
+CEDRE|Arbre du Liban
+MELEZE|Conifère des Alpes
+EPICEA|Sapin de Noël
+CYPRES|Conifère méditerranéen
+EUCALYPTUS|Arbre du koala
+BAMBOU|Tige du panda
+HEVEA|Arbre à caoutchouc
+CACAOYER|Arbre à cacao
+CAFEIER|Arbuste à café
+COCOTIER|Palmier des plages
+BANANIER|Plante à bananes
+VANILLIER|Orchidée à vanille
+RONCE|Buisson à mûres
+HOUX|Feuillage de Noël
+GUI|Plante du Nouvel An
+ACAJOU|Bois rouge
+EBENE|Bois noir
+TECK|Bois des ponts de bateaux
+OSIER|Bois des paniers
+JONC|Plante des marais
+NERPRUN|Arbuste aux baies noires
+AUBEPINE|Arbuste aux fleurs blanches
+SUREAU|Arbuste aux baies noires
+ARGOUSIER|Arbuste aux baies orange
+AJONC|Arbuste jaune breton
+EDELWEISS|Étoile des neiges
+GENTIANE|Fleur des montagnes
+CHRYSANTHEME|Fleur de la Toussaint
+GERANIUM|Fleur de balcon
+PETUNIA|Fleur en trompette
+DAHLIA|Fleur aux nombreux pétales
+LUPIN|Fleur en épi
+DIGITALE|Fleur toxique
+MYOSOTIS|Ne m'oubliez pas
+PERCENEIGE|Fleur de fin d'hiver
+CROCUS|Fleur violette précoce
+JACINTHE|Fleur à bulbe parfumée
+GARDENIA|Fleur blanche parfumée
+MAGNOLIA|Arbre à grandes fleurs
+CAMOMILLE|Tisane apaisante
+VERVEINE|Tisane digestive
+ALOEVERA|Plante apaisante
+PERSILLADE|Ail et persil hachés
+CRESSON|Salade aquatique
+ROQUETTE|Salade poivrée
+ENDIVE|Chicon
+CHOUFLEUR|Chou blanc
+COLZA|Champ jaune
+LENTILLE|Légumineuse
+POISCHICHE|Graine du houmous
+SOJA|Graine du tofu
+TOPINAMBOUR|Tubercule oublié
+PANAIS|Racine blanche
+RUTABAGA|Grosse racine
+PATATEDOUCE|Tubercule orange
+GOMBO|Légume africain
+PIMENT|Légume qui pique
+CANNEASUCRE|Plante sucrière
+COTONNIER|Plante à coton
+CHANVRE|Plante à cordes
+TABAC|Plante à cigarettes
+HOUBLON|Plante de la bière
+QUETSCHE|Prune d'Alsace
+MIRABELLE|Prune de Lorraine
+REINECLAUDE|Prune verte
+COING|Fruit à gelée
+NECTARINE|Pêche lisse
+AIRELLE|Baie rouge
+NEFLE|Fruit blet
+PAPAYE|Fruit tropical
+GOYAVE|Fruit rose tropical
+DATTE|Fruit du palmier
+COCO|Noix tropicale
+KAKI|Fruit orange d'hiver
+CEDRAT|Gros citron
+BERGAMOTE|Agrume du thé
+YUZU|Agrume japonais
+GIROLLE|Champignon jaune
+MORILLE|Champignon alvéolé
+TRUFFIERE|Terre à truffes
+AMANITE|Champignon mortel
+LICHEN|Croûte sur les rochers
+MOISISSURE|Duvet de champignon
+SPORE|Cellule de reproduction
+ETAMINE|Organe mâle de la fleur
+SEPALE|Petite feuille de la fleur
+COROLLE|Ensemble des pétales
+NERVURE|Ligne de la feuille
+AIGUILLE|Feuille du pin
+PERENNE|Qui dure longtemps
+ANNUELLE|Plante d'une saison
+DESHERBER|Enlever les mauvaises herbes
+DESHERBANT|Herbicide
+PESTICIDE|Produit contre les parasites
+JACHERE|Terre au repos
+ASSOLEMENT|Rotation des cultures
+IRRIGATION|Arrosage des champs
+FENAISON|Récolte du foin
+VENDANGEUR|Cueilleur de raisin
+SILO|Réservoir à grain
+BOTTELEUSE|Machine à bottes
+SEMOIR|Machine à semer
+HERSE|Outil à dents
+FAUX|Lame pour faucher
+SERPE|Outil à lame courbe
+FOURCHE|Outil à foin
+BROUETTE|Chariot à une roue
+TUTEUR|Soutien de plante
+PEPINIERE|Jardin de jeunes arbres
+PEPINIERISTE|Cultivateur de jeunes arbres
+FLEURISTE|Marchand de fleurs
+PAYSAGISTE|Créateur de jardins
+ARBORICULTEUR|Cultivateur d'arbres
+MARAICHER|Cultivateur de légumes
+BOUQUETIERE|Vendeuse de fleurs

@@ -1,0 +1,386 @@
+TERRE|Troisième planète du système solaire
+SOLEIL|Astre qui nous éclaire le jour
+LUNE|Astre de la nuit, qui change de forme au cours du mois
+ETOILE|Point lumineux dans le ciel nocturne
+PLANETE|Mars ou Vénus, par exemple
+MARS|Planète visitée par des robots américains
+VENUS|Deuxième planète en partant du Soleil
+JUPITER|Planète géante gazeuse
+SATURNE|Planète aux anneaux
+MERCURE|Petite planète brûlante
+URANUS|Planète bleu-vert glacée
+NEPTUNE|Huitième planète
+PLUTON|Ancienne neuvième planète
+COMETE|Astre chevelu
+METEORITE|Pierre tombée du ciel
+ASTEROIDE|Rocher de l'espace
+GALAXIE|Amas d'étoiles
+UNIVERS|Cosmos
+ESPACE|Vide sidéral
+CONSTELLATION|Dessin formé par des étoiles
+ORBITE|Trajectoire d'un satellite
+SATELLITE|Objet qui tourne autour de la Terre
+ECLIPSE|Soleil caché par la Lune
+FUSEE|Lanceur spatial
+ASTRONAUTE|Voyageur spatial américain
+COSMONAUTE|Voyageur spatial russe
+SPATIONAUTE|Voyageur spatial français
+NASA|Agence de la conquête de la Lune
+TELESCOPE|Lunette d'astronome
+ASTRONOMIE|Science du ciel
+ASTRONOME|Observateur des étoiles
+NEBULEUSE|Nuage cosmique
+TROUNOIR|Ogre cosmique
+SUPERNOVA|Étoile qui explose
+QUASAR|Source lumineuse lointaine
+PULSAR|Étoile à neutrons qui tourne
+ANNEELUMIERE|Unité de distance astronomique
+GRAVITATION|Force d'attraction
+APESANTEUR|Absence de poids
+SCAPHANDRE|Tenue spatiale
+NAVETTE|Engin spatial réutilisable
+ROVER|Véhicule martien
+SONDE|Explorateur robotique
+CRATERE|Trou d'impact
+EQUINOXE|Jour et nuit égaux
+SOLSTICE|Jour le plus long de l'année, en juin
+ZENITH|Point le plus haut du ciel
+HORIZON|Ligne entre ciel et terre
+CREPUSCULE|Tombée du jour
+AURORE|Lever du jour
+AUROREBOREALE|Lumières du Grand Nord
+VOIELACTEE|Notre galaxie
+GRANDEOURSE|Constellation de la casserole
+ETOILEFILANTE|On fait un vœu en la voyant
+ARCENCIEL|Arc aux sept couleurs
+NUAGE|Masse grise ou blanche dans le ciel
+PLUIE|Gouttes qui tombent du ciel
+NEIGE|Flocons de l'hiver
+GRELE|Grêlons
+ORAGE|Tempête avec éclairs
+TONNERRE|Grondement d'orage
+ECLAIR|Zigzag de lumière
+FOUDRE|Électricité du ciel
+VENT|Souffle d'air
+TEMPETE|Vent violent
+OURAGAN|Tempête tropicale
+CYCLONE|Tempête tournoyante
+TORNADE|Tourbillon destructeur
+TYPHON|Cyclone d'Asie
+MISTRAL|Vent du Rhône
+TRAMONTANE|Vent du Languedoc
+SIROCCO|Vent du Sahara
+BRISE|Vent léger
+BROUILLARD|Nuage au sol
+BRUME|Léger brouillard
+GIVRE|Glace sur les vitres
+VERGLAS|Glace sur la route
+GEL|Froid qui glace l'eau
+CANICULE|Forte chaleur
+SECHERESSE|Manque de pluie
+INONDATION|Crue qui envahit les terres
+CLIMAT|Temps moyen d'une région
+METEO|Bulletin du temps
+THERMOMETRE|Il mesure la température
+BAROMETRE|Il mesure la pression
+ANTICYCLONE|Zone de beau temps
+ATMOSPHERE|Air qui entoure la planète
+OZONE|Gaz protecteur
+MOUSSON|Saison des pluies
+MONTAGNE|Relief élevé
+COLLINE|Petit relief
+SOMMET|Point culminant
+VALLEE|Creux entre les monts
+PLAINE|Terrain plat
+PLATEAU|Plaine en hauteur
+FALAISE|Paroi au bord de la mer
+GROTTE|Cavité rocheuse
+CAVERNE|Grande grotte
+GOUFFRE|Abîme
+CANYON|Gorge profonde
+GORGES|Vallée encaissée
+GLACIER|Fleuve de glace
+VOLCAN|Montagne de feu
+LAVE|Roche en fusion
+ERUPTION|Réveil d'un volcan
+SEISME|Tremblement de terre
+TSUNAMI|Raz-de-marée
+AVALANCHE|Coulée de neige
+DESERT|Étendue de sable
+DUNE|Butte de sable
+OASIS|Îlot de verdure du désert
+SAVANE|Prairie africaine
+JUNGLE|Forêt dense
+TOUNDRA|Plaine arctique
+STEPPE|Plaine herbeuse
+BANQUISE|Mer gelée
+ICEBERG|Montagne de glace flottante
+POLE|Nord ou Sud
+EQUATEUR|Ligne du milieu de la Terre
+HEMISPHERE|Moitié du globe
+TROPIQUE|Ligne du Cancer
+LATITUDE|Position nord-sud
+LONGITUDE|Position est-ouest
+MERIDIEN|Ligne de pôle à pôle
+CONTINENT|Grande masse de terre
+OCEAN|Vaste mer
+MER|Étendue d'eau salée
+LAC|Étendue d'eau douce
+ETANG|Petit lac
+FLEUVE|Cours d'eau qui va à la mer
+RIVIERE|Cours d'eau
+RUISSEAU|Petite rivière
+SOURCE|Naissance d'un cours d'eau
+CASCADE|Chute d'eau
+DELTA|Embouchure en éventail
+ESTUAIRE|Embouchure large
+EMBOUCHURE|Fin d'un fleuve
+AFFLUENT|Rivière qui rejoint un fleuve
+ILE|Terre au milieu de l'eau
+ARCHIPEL|Chapelet d'îles
+PRESQUILE|Presque une île
+PENINSULE|Grande avancée de terre
+ISTHME|Langue de terre
+DETROIT|Passage maritime étroit
+GOLFE|Grande baie
+BAIE|Anse
+CAP|Pointe avancée dans la mer
+FJORD|Bras de mer norvégien
+ATOLL|Île de corail
+RECIF|Rocher affleurant
+LAGON|Eaux calmes derrière le récif
+PLAGE|Bord de mer sableux
+COTE|Rivage
+LITTORAL|Bord de mer
+MAREE|Montée de la mer
+VAGUE|Ondulation de la mer
+ROCHE|Pierre
+GRANIT|Pierre bretonne
+CALCAIRE|Roche tendre
+ARGILE|Terre du potier
+SABLE|Grains de la plage
+GALET|Caillou poli
+CAILLOU|Petite pierre
+CRISTAL|Minéral transparent
+MINERAL|Matière de la roche
+QUARTZ|Cristal de roche
+DIAMANT|Pierre précieuse incolore
+RUBIS|Pierre rouge
+SAPHIR|Pierre bleue
+EMERAUDE|Pierre verte
+AMETHYSTE|Pierre violette
+FER|Métal de la tour Eiffel
+CUIVRE|Métal rouge
+CHARBON|Combustible noir
+PETROLE|Or noir
+GISEMENT|Réserve de minerai
+MINE|Exploitation souterraine
+FOSSILE|Empreinte dans la pierre
+GEOLOGIE|Science de la Terre
+GEOGRAPHIE|Science des lieux
+ATLAS|Livre de cartes
+GLOBE|Sphère terrestre
+BOUSSOLE|Aiguille aimantée
+RELIEF|Forme du terrain
+ALTITUDE|Hauteur
+FRANCE|Hexagone
+PARIS|Ville Lumière
+LONDRES|Ville de Big Ben
+BERLIN|Ville du mur tombé en 1989
+MADRID|Capitale espagnole
+ROME|Ville éternelle
+LISBONNE|Capitale portugaise
+BRUXELLES|Capitale belge
+AMSTERDAM|Ville des canaux
+VIENNE|Capitale autrichienne
+BERNE|Capitale suisse
+ATHENES|Capitale grecque
+VARSOVIE|Capitale polonaise
+MOSCOU|Capitale russe
+PRAGUE|Capitale tchèque
+BUDAPEST|Capitale hongroise
+OSLO|Capitale norvégienne
+STOCKHOLM|Capitale suédoise
+COPENHAGUE|Capitale danoise
+HELSINKI|Capitale finlandaise
+DUBLIN|Capitale irlandaise
+PEKIN|Capitale chinoise
+TOKYO|Capitale japonaise
+DELHI|Ville indienne
+WASHINGTON|Capitale américaine
+OTTAWA|Capitale canadienne
+MEXICO|Capitale mexicaine
+BRASILIA|Capitale brésilienne
+BUENOSAIRES|Capitale argentine
+LIMA|Capitale péruvienne
+LECAIRE|Capitale égyptienne
+DAKAR|Capitale sénégalaise
+RABAT|Capitale marocaine
+ALGER|Capitale algérienne
+TUNIS|Capitale tunisienne
+CANBERRA|Capitale australienne
+NEWYORK|Big Apple
+MARSEILLE|Cité phocéenne
+LYON|Capitale des Gaules
+BORDEAUX|Ville du vin
+LILLE|Capitale des Flandres
+TOULOUSE|Ville rose
+NICE|Perle de la Côte d'Azur
+NANTES|Ville des ducs de Bretagne
+STRASBOURG|Capitale alsacienne
+ESPAGNE|Pays de la paella
+ITALIE|Pays de la pizza
+ALLEMAGNE|Pays de la bière et des bretzels
+BELGIQUE|Pays des frites et des gaufres
+SUISSE|Pays des montres
+PORTUGAL|Pays du fado
+ANGLETERRE|Pays du thé
+IRLANDE|Île verte
+GRECE|Pays de l'Acropole
+SUEDE|Pays scandinave
+NORVEGE|Pays des fjords
+RUSSIE|Pays des tsars
+CHINE|Empire du Milieu
+JAPON|Pays du Soleil-Levant
+INDE|Pays du Taj Mahal
+BRESIL|Pays de la samba
+CANADA|Pays de l'érable
+MEXIQUE|Pays des sombreros
+ARGENTINE|Pays du tango
+EGYPTE|Pays du Nil
+MAROC|Pays de Marrakech
+ALGERIE|Pays d'Alger
+SENEGAL|Pays de Dakar
+AUSTRALIE|Pays des koalas
+ISLANDE|Île des volcans
+AFRIQUE|Continent noir
+AMERIQUE|Nouveau Monde
+ASIE|Continent de la Chine
+EUROPE|Vieux Continent
+OCEANIE|Continent des îles
+ANTARCTIQUE|Continent du pôle Sud
+ARCTIQUE|Région du pôle Nord
+ATLANTIQUE|Océan de la traversée transatlantique
+PACIFIQUE|Plus grand océan
+MEDITERRANEE|Mer du sud de la France
+MANCHE|Mer du tunnel sous la mer
+SEINE|Fleuve de Paris
+LOIRE|Fleuve des châteaux
+RHONE|Fleuve de Lyon
+GARONNE|Fleuve de Toulouse
+RHIN|Fleuve frontière
+DANUBE|Fleuve de Vienne
+NIL|Fleuve d'Égypte
+AMAZONE|Fleuve d'Amazonie
+GANGE|Fleuve sacré
+MISSISSIPPI|Fleuve américain
+ALPES|Montagnes du mont Blanc
+PYRENEES|Montagnes franco-espagnoles
+JURA|Massif du comté
+VOSGES|Massif de l'Est
+MASSIFCENTRAL|Montagnes d'Auvergne
+HIMALAYA|Toit du monde
+EVEREST|Plus haut sommet
+MONTBLANC|Sommet des Alpes
+ANDES|Montagnes d'Amérique du Sud
+SAHARA|Grand désert africain
+AMAZONIE|Poumon vert de la planète
+CORSE|Île de Beauté
+BRETAGNE|Région des crêpes
+PROVENCE|Région de la lavande
+NORMANDIE|Région du camembert
+ALSACE|Région de la choucroute
+SICILE|Île de l'Etna
+MADAGASCAR|Grande Île
+HAWAII|Archipel du Pacifique
+POLYNESIE|Îles de Tahiti
+GUADELOUPE|Île papillon
+MARTINIQUE|Île aux fleurs
+REUNION|Île intense
+CAPITALE|Ville principale d'un pays
+FRONTIERE|Limite de pays
+PAYS|Nation
+REGION|Partie de pays
+VILLE|Grande agglomération
+VILLAGE|Petite commune
+CAMPAGNE|Monde rural
+POPULATION|Nombre d'habitants
+METROPOLE|Grande ville
+MEGAPOLE|Ville géante
+MAGMA|Roche en fusion souterraine
+BASALTE|Roche volcanique noire
+OBSIDIENNE|Verre volcanique
+PONCE|Pierre légère
+GEYSER|Jet d'eau chaude naturel
+FUMEROLLE|Gaz volcanique
+STALACTITE|Pointe qui pend
+STALAGMITE|Pointe qui monte
+MORAINE|Débris glaciaires
+SEDIMENT|Dépôt
+ERUPTIF|En activité
+TECTONIQUE|Mouvement des plaques
+EPICENTRE|Point d'origine d'un séisme
+RICHTER|Échelle des séismes
+SISMOGRAPHE|Enregistreur de séismes
+CONTINENTAL|Climat aux hivers froids
+OCEANIQUE|Climat doux et humide
+TEMPERE|Ni chaud ni froid
+ARIDE|Très sec
+HUMIDITE|Vapeur d'eau dans l'air
+ISOBARE|Ligne de pression
+CUMULUS|Nuage en chou-fleur
+CIRRUS|Nuage en filaments
+NIMBUS|Nuage de pluie
+GIBOULEE|Averse de mars
+BLIZZARD|Tempête de neige
+CRACHIN|Pluie fine
+BRUINE|Petite pluie
+AVERSE|Ondée
+MERIDIONAL|Du sud
+SEPTENTRION|Nord
+OCCIDENT|Ouest
+ORIENT|Est
+ANTIPODES|Bout du monde opposé
+CARTOGRAPHE|Dessinateur de cartes
+TOPOGRAPHIE|Relief détaillé
+ECHELLE|Rapport de la carte
+PLANISPHERE|Carte du monde à plat
+MAPPEMONDE|Carte du monde
+ROSEDESVENTS|Étoile des directions
+PIEMONT|Pied de montagne
+PIC|Sommet pointu
+CRETE|Ligne de sommets
+COL|Passage en montagne
+VERSANT|Pente
+ADRET|Versant ensoleillé
+UBAC|Versant ombragé
+MEANDRE|Courbe de rivière
+CONFLUENT|Rencontre de rivières
+CRUE|Montée des eaux
+ETIAGE|Basses eaux
+LAGUNE|Étang salé
+MANGROVE|Forêt littorale tropicale
+TOURBILLON|Remous
+HAUTFOND|Eau peu profonde
+ABYSSE|Fond de l'océan
+FOSSE|Creux océanique
+DORSALE|Montagne sous-marine
+EROSION|Usure du relief
+SPELEOLOGUE|Explorateur des grottes
+VULCANOLOGUE|Spécialiste des volcans
+METEOROLOGUE|Prévisionniste
+ASTROPHYSIQUE|Physique des astres
+BIGBANG|Naissance de l'univers
+EXOPLANETE|Planète d'une autre étoile
+NAINEBLANCHE|Étoile mourante
+LUNAISON|Cycle lunaire
+PLEINELUNE|Lune ronde
+ALUNIR|Se poser sur la Lune
+APOLLO|Mission lunaire
+SPOUTNIK|Premier satellite
+GAGARINE|Youri, premier cosmonaute
+ARMSTRONG|Neil, premier pas lunaire
+PESQUET|Thomas, astronaute français
+HUBBLE|Télescope spatial
+OBSERVATOIRE|Lieu d'observation des astres
+PLANETARIUM|Salle du ciel artificiel

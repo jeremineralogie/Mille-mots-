@@ -1,0 +1,457 @@
+ENTREE|Premier plat d'un menu
+VIN|Il peut être rouge, blanc ou rosé
+CAFE|Un petit noir au comptoir
+METS|Aliment préparé
+CUISINE|Art de préparer les plats
+BAR|Lieu où l'on prend un verre
+PAIN|Aliment de base vendu en baguette
+RESTAURANT|On y commande à la carte
+HUILE|Matière grasse de la vinaigrette
+VIANDE|Bœuf, porc ou agneau
+CRU|Le steak tartare l'est
+SUCRE|On en met en morceaux dans le café
+BIERE|Boisson mousseuse servie à la pression
+CREME|Elle se fouette en chantilly
+SEL|Il relève le goût des plats
+GRAS|Le foie de canard l'est
+JUS|Boisson d'orange pressée
+FROMAGE|Il y en a plus de mille en France
+BEURRE|On l'étale sur les tartines
+SAUCE|La béchamel en est une
+GATEAU|On y plante les bougies d'anniversaire
+MENU|Entrée, plat, dessert à prix fixe
+SOUPE|Potage de légumes
+CAVE|Sous-sol où vieillissent les bouteilles
+ROUX|Base de la béchamel
+CANAPE|Petit four salé de l'apéritif
+MIEL|Douceur fabriquée par les abeilles
+GOUTER|Collation de quatre heures
+DESSERT|On le sert à la fin du repas
+FARINE|Base du pain et des gâteaux
+CUIRE|Passer au four ou à la poêle
+TARTE|Celle aux pommes est un classique
+PUREE|Accompagnement de pommes de terre écrasées
+COCKTAIL|Mélange de plusieurs boissons
+BARBECUE|Grillades en plein air
+SALE|Ni sucré ni amer
+PAVE|Morceau épais de rumsteck
+BACON|Lard fumé en tranches
+CUISINIER|Personne aux fourneaux
+CROUTE|Partie dorée du pain
+CHOCOLAT|Il est noir, au lait ou blanc
+TIRAMISU|Dessert italien au café
+PAELLA|Plat de riz de Valence
+PIZZA|Spécialité de Naples
+RISOTTO|Riz crémeux italien
+TAJINE|Plat mijoté du Maroc
+CANNELLE|Épice en bâtons
+PERSIL|Herbe plate ou frisée
+ROMARIN|Herbe de Provence aux aiguilles
+AIL|Il éloigne les vampires, dit-on
+ECHALOTE|Petit bulbe du beurre blanc
+ROQUEFORT|Fromage bleu de brebis
+BRIE|Fromage de Meaux
+POTAUFEU|Bœuf et légumes bouillis
+CHOUQUETTE|Petit chou au sucre perlé
+RIZ|Céréale de l'Asie
+PATES|Spaghettis ou penne
+FRITES|Accompagnement belge des moules
+STEAK|Bifteck
+GELEE|Confiture de groseilles transparente
+PATISSERIE|Gâteau
+MADELEINE|Petit gâteau de Proust
+CARAMEL|Sucre fondu et doré
+CONFITURE|Pot de fruits au sucre
+CASSEROLE|Récipient à manche
+YAOURT|Laitage au bifidus
+SODA|Boisson gazeuse sucrée
+DEGUSTER|Savourer
+CONSOMME|Bouillon clair
+BOUILLIR|Atteindre cent degrés, pour l'eau
+GALETTE|Crêpe de sarrasin bretonne
+CAVIAR|Œufs d'esturgeon
+CIDRE|Boisson de pommes de Normandie
+BISCUIT|Petit gâteau sec
+CAKE|Gâteau aux fruits confits
+MIE|Intérieur du pain
+SAFRAN|Épice de la paella
+OMELETTE|Œufs battus à la poêle
+KETCHUP|Sauce tomate sucrée
+FONDUE|Plat de fromage fondu
+CREPE|Elle se fait sauter à la Chandeleur
+LEVURE|Elle fait lever la pâte
+CHARLOTTE|Dessert aux biscuits à la cuillère
+MILLESIME|Année d'un vin
+FICELLE|Pain très fin
+SUSHI|Spécialité japonaise au poisson cru
+GRATIN|Le dauphinois en est un
+LIQUEUR|Digestif sucré
+BOURGUIGNON|Bœuf au vin rouge
+BRIOCHE|Viennoiserie au beurre
+BISTROT|Café du coin
+ROTI|Viande au four
+SAUCISSON|Charcuterie sèche
+FLAN|Dessert pâtissier aux œufs
+APERITIF|Boisson d'avant repas
+TOFU|Pâte de soja
+COUSCOUS|Semoule et légumes du Maghreb
+KEBAB|Sandwich de viande à la broche
+GIN|Alcool au genièvre
+GRIGNOTER|Manger entre les repas
+COMPOTE|Purée de fruits cuits
+CHANTILLY|Crème fouettée
+TARTINE|Pain beurré
+EPICE|Le poivre en est une
+GARNITURE|Accompagnement du plat
+INFUSION|Tisane
+NECTAR|Jus de fruits épais
+SPIRITUEUX|Alcool fort
+QUENELLE|Spécialité lyonnaise
+QUICHE|Tarte lorraine
+TOAST|Pain grillé
+CHOUCROUTE|Spécialité alsacienne au chou
+LIMONADE|Boisson gazeuse au citron
+GOURMET|Fine bouche
+RATATOUILLE|Légumes mijotés de Provence
+CONFIT|Cuisse de canard dans sa graisse
+PINARD|Vin, en argot
+TOQUE|Chapeau du cuisinier
+FRITURE|Petits poissons frits
+PASTIS|Apéritif anisé
+AUBERGINE|Légume violet
+POUTINE|Frites au fromage du Québec
+TRIPES|Abats cuisinés
+NUTELLA|Pâte à tartiner chocolatée
+BEAUFORT|Fromage des Alpes
+FRIT|Passé à la friteuse
+CHEF|Patron des cuisines
+FRIRE|Cuire dans l'huile
+MIXEUR|Robot qui broie
+RAGOUT|Plat mijoté en sauce
+MOZZARELLA|Fromage de la pizza
+BAVAROISE|Entremets moulé
+MACARON|Douceur de Ladurée
+VINAIGRETTE|Sauce de salade
+NOUILLE|Pâte en ruban
+PAPRIKA|Épice hongroise
+SOMMELIER|Conseiller en vins
+BEIGNET|Pâte frite sucrée
+MIJOTER|Cuire à feu doux
+MARGARINE|Graisse végétale
+THEIERE|Pot à thé
+VELOUTE|Potage onctueux
+SPATULE|Ustensile plat
+GIGOT|Rôti d'agneau
+NOUGAT|Douceur de Montélimar
+GAUFRE|Gâteau quadrillé
+COULIS|Sauce aux fruits
+SAKE|Alcool de riz
+SORBET|Glace aux fruits
+CANTAL|Fromage auvergnat
+PARMENTIER|Hachis gratiné
+BENTO|Boîte-repas japonaise
+FRIANDISE|Douceur
+MUFFIN|Petit gâteau américain
+BROWNIE|Gâteau fondant au chocolat
+HOUMOUS|Purée de pois chiches
+TOURTE|Tarte couverte
+CARBONARA|Pâtes aux lardons
+CASSOULET|Haricots et saucisses
+MERINGUE|Blancs d'œufs cuits
+USTENSILE|Objet de cuisine
+HACHOIR|Appareil à viande hachée
+INFUSER|Faire une tisane
+CRACKER|Biscuit salé
+CROQUETTE|Boulette panée
+MICHE|Gros pain rond
+GUACAMOLE|Purée d'avocat
+TARTIFLETTE|Gratin au reblochon
+BECHAMEL|Sauce des lasagnes
+MARMELADE|Confiture d'oranges
+BRETZEL|Biscuit en nœud
+POLENTA|Bouillie de maïs
+SANGRIA|Vin aux fruits espagnol
+BLANQUETTE|Veau en sauce blanche
+MILLEFEUILLE|Feuilleté à la crème
+MINUTEUR|Il sonne la fin de cuisson
+HACHIS|Viande hachée
+MARGHERITA|Pizza tomate-mozzarella
+CAVISTE|Marchand de vins
+MILKSHAKE|Lait frappé
+PRALINE|Amande caramélisée
+BOUILLABAISSE|Soupe marseillaise
+GROG|Boisson chaude au rhum
+PETRIR|Travailler la pâte
+TAPAS|Bouchées espagnoles
+PLANCHA|Plaque de cuisson
+CHAPELURE|Pain sec émietté
+LARDON|Dé de lard
+REBLOCHON|Fromage de Savoie
+CLAFOUTIS|Gâteau aux cerises
+ENTREMETS|Dessert à étages
+POIVRE|Il pique en grains
+CHUTNEY|Condiment aigre-doux
+GASPACHO|Soupe froide
+POTEE|Plat de chou et de porc
+FETA|Fromage grec
+MASCARPONE|Fromage du tiramisu
+OENOLOGUE|Expert en vins
+CROUTON|Pain grillé dans la soupe
+ROGNON|Rein cuisiné
+AIOLI|Sauce à l'ail
+MECHOUI|Agneau à la broche
+SAUCIER|Cuisinier des sauces
+PAPILLOTE|Cuisson enveloppée
+PISTOU|Soupe niçoise
+BISQUE|Potage de homard
+PILAF|Riz au bouillon
+MOUSSAKA|Gratin grec
+FOUGASSE|Pain provençal
+SASHIMI|Poisson cru en tranches
+PANURE|Enrobage croustillant
+PROFITEROLE|Chou glacé au chocolat
+POULET|Volaille rôtie du dimanche
+JAMBON|Charcuterie blanche ou crue
+SAUCISSE|Viande en boyau
+OEUF|À la coque ou au plat
+LAIT|Boisson blanche du petit déjeuner
+THE|Boisson anglaise de cinq heures
+EAU|Boisson plate ou gazeuse
+SIROP|Grenadine ou menthe
+GLACE|Dessert en cornet
+BONBON|Petite douceur sucrée
+SANDWICH|Casse-croûte
+HAMBURGER|Steak dans un pain rond
+HOTDOG|Saucisse en pain
+BAGUETTE|Pain long
+SALADE|Plat de feuilles assaisonnées
+POELE|Ustensile pour les crêpes
+FOUR|On y cuit les gâteaux
+FRIGO|Réfrigérateur
+FOURCHETTE|Couvert à dents
+COUTEAU|Couvert pour couper
+CUILLERE|Couvert à soupe
+ASSIETTE|Plat individuel
+VERRE|On y verse le vin
+TASSE|Récipient du café
+BOL|Récipient du petit déjeuner
+PLAT|Mets principal
+REPAS|Moment où l'on mange
+DEJEUNER|Repas du midi
+DINER|Repas du soir
+PETITDEJEUNER|Repas du matin
+PIQUENIQUE|Repas sur l'herbe
+RECETTE|Mode d'emploi d'un plat
+INGREDIENT|Composant d'une recette
+GOURMAND|Amateur de bonnes choses
+FAIM|Besoin de manger
+SOIF|Besoin de boire
+MOUTARDE|Condiment de Dijon
+MAYONNAISE|Sauce aux œufs et à l'huile
+VINAIGRE|Liquide acide
+CORNICHON|Petit concombre au vinaigre
+CHAMPAGNE|Vin à bulles
+WHISKY|Alcool écossais
+RHUM|Alcool des Antilles
+COGNAC|Eau-de-vie charentaise
+TEQUILA|Alcool mexicain
+VODKA|Alcool russe
+CAMEMBERT|Fromage de Normandie
+GRUYERE|Fromage à trous, dit-on
+PARMESAN|Fromage râpé italien
+BOULANGER|Artisan du pain
+BOULANGERIE|Commerce du pain
+BOUCHERIE|Commerce de la viande
+CHARCUTERIE|Saucisson et jambon
+EPICERIE|Petit commerce alimentaire
+BRASSERIE|Grand café-restaurant
+SERVEUR|Garçon de café
+POURBOIRE|Gratification du serveur
+NAPPE|Linge de table
+SERVIETTE|Linge pour s'essuyer la bouche
+TIREBOUCHON|Outil pour déboucher le vin
+DECAPSULEUR|Ouvre-bouteille
+ECONOME|Couteau éplucheur
+FOUET|Ustensile pour battre
+PASSOIRE|Égouttoir à trous
+RAPE|Ustensile à fromage
+ROULEAU|Il étale la pâte
+BALANCE|Elle pèse la farine
+LOUCHE|Cuillère à soupe géante
+COCOTTE|Marmite en fonte
+MARMITE|Grand récipient de cuisson
+WOK|Poêle asiatique
+GRILLE|Support du barbecue
+CONGELATEUR|Il conserve les surgelés
+MICROONDES|Four rapide
+CAFETIERE|Appareil à café
+GRILLEPAIN|Toasteur
+EPLUCHER|Peler un légume
+EMINCER|Couper finement
+HACHER|Réduire en petits morceaux
+FOUETTER|Battre la crème
+DORER|Faire colorer
+GRILLER|Cuire sur le gril
+ROTIR|Cuire au four
+POCHER|Cuire dans l'eau frémissante
+FLAMBER|Enflammer à l'alcool
+SAUPOUDRER|Parsemer de sucre
+NAPPER|Couvrir de sauce
+GLACER|Recouvrir de sucre brillant
+ASSAISONNER|Saler et poivrer
+MARINER|Faire tremper avant cuisson
+SAVEUR|Goût
+AMER|Goût du café noir
+PIQUANT|Très épicé
+FADE|Sans goût
+SAIGNANT|Peu cuit
+APOINT|Cuit comme il faut
+ALDENTE|Pâtes fermes
+CURRY|Épice jaune indienne
+VANILLE|Gousse des desserts
+MUSCADE|Noix râpée
+CUMIN|Épice orientale
+GINGEMBRE|Racine piquante
+CLOU|___ de girofle : épice du pot-au-feu
+THYM|Herbe de Provence
+BASILIC|Herbe du pesto
+CIBOULETTE|Herbe à goût d'oignon
+LAURIER|Feuille du bouquet garni
+ESTRAGON|Herbe de la béarnaise
+CORIANDRE|Herbe asiatique
+MENTHE|Herbe du thé marocain
+PESTO|Sauce verte italienne
+LASAGNES|Pâtes en couches
+SPAGHETTIS|Longues pâtes fines
+RAVIOLIS|Pâtes farcies
+GNOCCHIS|Boulettes de pomme de terre
+COQUILLETTES|Petites pâtes
+CANNELLONIS|Tubes farcis
+CROQUEMBOUCHE|Pièce montée
+PIECEMONTEE|Gâteau de mariage
+BUCHE|Gâteau de Noël
+FORETNOIRE|Gâteau aux cerises
+PARISBREST|Couronne pralinée
+TARTETATIN|Tarte renversée
+FINANCIER|Petit gâteau aux amandes
+CANNELE|Spécialité bordelaise
+KOUIGNAMANN|Gâteau breton
+CALISSON|Douceur d'Aix
+DRAGEE|Amande sucrée de baptême
+GUIMAUVE|Bonbon moelleux
+SUCETTE|Bonbon sur bâton
+CHEWINGGUM|Gomme à mâcher
+PANCAKE|Crêpe épaisse
+CHOCOLATINE|Pain au chocolat du Sud-Ouest
+VIENNOISERIE|Croissant ou brioche
+FEUILLETE|Pâte en couches
+CHAUSSON|Feuilleté aux pommes
+CROQUANT|Qui croustille
+MOELLEUX|Tendre
+FONDANT|Qui fond
+GOURMANDISE|Péché mignon
+DIETETIQUE|Alimentation saine
+VEGETARIEN|Sans viande
+VEGAN|Sans produit animal
+BIO|Sans pesticide
+RESTAURATEUR|Patron de restaurant
+TRAITEUR|Vendeur de plats préparés
+CANTINE|Restaurant scolaire
+SELF|Libre-service
+FASTFOOD|Restauration rapide
+BRUNCH|Repas de fin de matinée
+BUFFET|Repas en libre-service
+VENDANGES|Récolte du raisin
+VIGNERON|Cultivateur de vigne
+VIGNOBLE|Domaine viticole
+CEPAGE|Variété de raisin
+BEAUJOLAIS|Vin nouveau de novembre
+BOUCHON|Fermeture en liège
+TONNEAU|Fût de vin
+CARAFE|Pichet en verre
+APERO|Moment de convivialité
+TRINQUER|Choquer les verres
+IVRE|Soûl
+CHOPE|Verre à bière
+BLONDE|Bière claire
+MOJITO|Cocktail cubain
+SPRITZ|Apéritif orange
+KIR|Vin blanc au cassis
+PANACHE|Bière et limonade
+SMOOTHIE|Boisson de fruits mixés
+CAPPUCCINO|Café mousseux
+EXPRESSO|Café serré
+DECA|Café sans caféine
+TISANE|Infusion de plantes
+CHOCOLATCHAUD|Boisson chaude au cacao
+BRUNOISE|Petits dés de légumes
+JULIENNE|Bâtonnets de légumes
+CHIFFONNADE|Fines lanières
+MIREPOIX|Dés de légumes aromatiques
+BOUQUETGARNI|Fagot d'herbes
+BEARNAISE|Sauce à l'estragon
+HOLLANDAISE|Sauce au beurre et au citron
+FUMET|Bouillon de poisson
+DEGLACER|Décoller les sucs
+BLANCHIR|Ébouillanter rapidement
+REDUIRE|Épaissir une sauce
+FONCER|Garnir un moule de pâte
+ZESTER|Râper l'écorce d'un agrume
+BRAISER|Cuire à couvert
+DESOSSER|Retirer les os
+CARAMELISER|Dorer au sucre
+TORREFIER|Griller le café
+MACERER|Laisser tremper
+DECANTER|Aérer le vin
+CHAMBRER|Mettre le vin à température
+AMUSEBOUCHE|Mise en bouche
+TERRINE|Pâté en plat
+RILLETTES|Pâté de porc effiloché
+ANDOUILLETTE|Saucisse de Troyes
+BOUDIN|Charcuterie au sang
+MAGRET|Filet de canard
+FOIEGRAS|Mets du réveillon
+CARPACCIO|Bœuf cru tranché
+TARTARE|Viande crue hachée
+CEVICHE|Poisson mariné au citron
+TEMPURA|Beignet japonais
+RAMEN|Soupe de nouilles
+NEM|Rouleau frit vietnamien
+FALAFEL|Boulette de pois chiches
+TABOULE|Salade de semoule
+BRANDADE|Purée de morue
+PISSALADIERE|Tarte aux oignons niçoise
+SOCCA|Galette de pois chiches
+KOUGLOF|Gâteau alsacien
+BABA|Gâteau au rhum
+VACHERIN|Dessert glacé meringué
+SAINTHONORE|Gâteau de choux
+GANACHE|Crème au chocolat
+NOUGATINE|Caramel aux amandes
+TRUFFE|Chocolat roulé dans le cacao
+CREMEBRULEE|Crème caramélisée
+ILEFLOTTANTE|Neige sur crème anglaise
+CREMEANGLAISE|Crème à la vanille
+CRUMBLE|Fruits sous pâte sablée
+CHEESECAKE|Gâteau au fromage
+WAFFLE|Gaufre, en anglais
+BRIOCHER|Rendre moelleux
+LEVAIN|Ferment du pain
+FOURNIL|Atelier du boulanger
+PETRIN|Machine à pétrir
+PATISSIER|Artisan des gâteaux
+CONFISEUR|Artisan des bonbons
+CHOCOLATIER|Artisan du chocolat
+FROMAGER|Marchand de fromages
+AFFINEUR|Il fait mûrir les fromages
+BRASSEUR|Fabricant de bière
+DISTILLERIE|Usine d'alcool
+ALAMBIC|Appareil à distiller
+EAUDEVIE|Alcool de fruits
+CALVADOS|Eau-de-vie de pommes
+ARMAGNAC|Eau-de-vie gasconne
+CHARTREUSE|Liqueur des moines
+GENEPI|Liqueur des Alpes
+ANISETTE|Liqueur anisée
+DIGESTIF|Alcool d'après repas
+CROISSANT|Viennoiserie du matin

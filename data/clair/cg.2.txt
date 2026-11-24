@@ -1,0 +1,437 @@
+MAISON|Demeure
+APPARTEMENT|Logement en étage
+IMMEUBLE|Bâtiment collectif
+CHAMBRE|Pièce du lit
+SALON|Pièce du canapé
+SALLEDEBAIN|Pièce de la douche
+GRENIER|Combles
+ESCALIER|Marches
+ETAGE|Niveau
+TOIT|Couverture de maison
+FENETRE|Baie vitrée
+PORTE|Entrée
+MUR|Cloison
+PLAFOND|Haut de pièce
+PLANCHER|Parquet
+CHEMINEE|Âtre
+BALCON|Terrasse suspendue
+VOLET|Persienne
+SERRURE|Mécanisme de porte
+SONNETTE|Carillon d'entrée
+LIT|Couche
+OREILLER|Coussin de lit
+COUETTE|Édredon
+DRAP|Linge de lit
+TABLE|Meuble à repas
+CHAISE|Siège
+FAUTEUIL|Siège à accoudoirs
+ARMOIRE|Penderie
+COMMODE|Meuble à tiroirs
+TIROIR|Casier coulissant
+ETAGERE|Rayonnage
+LAMPE|Luminaire
+BOUGIE|Chandelle
+TAPIS|Moquette
+COUSSIN|Petit oreiller
+REVEIL|Il sonne à l'aube
+BAIGNOIRE|Bac à bain
+DOUCHE|Jet d'eau
+LAVABO|Vasque
+SAVON|Pain moussant
+SHAMPOING|Lavage de cheveux
+BROSSEADENTS|Outil d'hygiène buccale
+DENTIFRICE|Pâte dentaire
+PEIGNE|Démêloir
+ASPIRATEUR|Appareil ménager
+BALAI|Brosse à manche
+POUSSIERE|Moutons sous le lit
+MACHINEALAVER|Lave-linge
+LINGE|Lessive
+VETEMENT|Habit
+PANTALON|Culotte longue
+JUPE|Vêtement féminin
+ROBE|Vêtement de femme
+CHEMISE|Haut boutonné
+PULL|Tricot
+TEESHIRT|Maillot
+MANTEAU|Pardessus
+VESTE|Veston
+BLOUSON|Veste courte
+JEAN|Denim
+SHORT|Bermuda
+CHAUSSETTE|Bas
+CHAUSSURE|Soulier
+SANDALE|Nu-pieds
+PANTOUFLE|Chausson
+CHAPEAU|Couvre-chef
+CASQUETTE|Couvre-chef à visière
+BONNET|Couvre-chef en laine
+ECHARPE|Cache-nez
+GANT|Moufle
+PYJAMA|Tenue de nuit
+MAILLOTDEBAIN|Tenue de plage
+CRAVATE|Accessoire de costume
+POCHE|Compartiment de vêtement
+BIJOU|Parure
+BAGUE|Anneau
+COLLIER|Rivière de perles
+BRACELET|Bijou de poignet
+SAC|Besace
+PARAPLUIE|Pépin
+PORTEFEUILLE|Porte-billets
+PERE|Papa
+MERE|Maman
+PAPA|Père
+MAMAN|Mère
+FILS|Garçon de la famille
+FILLE|Enfant féminin
+FRERE|Frangin
+SOEUR|Frangine
+GRANDPERE|Papi
+GRANDMERE|Mamie
+ONCLE|Tonton
+TANTE|Tata
+COUSIN|Parent de même génération
+NEVEU|Fils du frère
+NIECE|Fille de la sœur
+PARRAIN|Il tient l'enfant sur les fonts baptismaux
+MARRAINE|Celle de Cendrillon est une fée
+JUMEAU|Double
+MARI|Époux
+EPOUSE|Femme mariée
+FIANCE|Promis
+BELLEMERE|Mère du conjoint
+GENDRE|Beau-fils
+BRU|Belle-fille
+ENFANT|Petit
+GARCON|Gamin
+ADULTE|Grande personne
+ADOLESCENT|Ado
+VIEILLARD|Aïeul
+AMI|Camarade
+COPAIN|Pote
+ANNIVERSAIRE|Jour des bougies
+CADEAU|Présent
+FETE|Célébration
+INVITATION|Carton envoyé pour convier à une fête
+NOUVELAN|Jour de l'an
+JOUR|Période de lumière entre l'aube et le crépuscule
+NUIT|Obscurité
+MATIN|Aube
+MIDI|Mi-journée
+SOIR|Fin de journée
+SEMAINE|Sept jours
+MOIS|Trente jours environ
+ANNEE|365 jours
+HEURE|Soixante minutes
+MINUTE|Soixante secondes
+LUNDI|Début de semaine
+MARDI|Jour de Mars
+MERCREDI|Jour de Mercure
+JEUDI|Jour de Jupiter
+VENDREDI|Jour de Vénus
+SAMEDI|Jour du week-end
+DIMANCHE|Jour du repos
+JANVIER|Mois de l'an neuf
+FEVRIER|Mois de la Chandeleur
+JUILLET|Mois du 14
+AOUT|Mois des vacances
+DECEMBRE|Mois de Noël
+ETE|Saison chaude
+HIVER|Saison froide
+HIER|La veille
+DEMAIN|Le lendemain
+AUJOURDHUI|Ce jour
+WEEKEND|Fin de semaine
+ROUGE|Couleur du sang
+BLEU|Couleur de l'azur
+VERT|Couleur de l'espoir
+JAUNE|Couleur du soleil
+NOIR|Couleur de la nuit
+BLANC|Couleur de la neige
+VIOLET|Couleur de la lavande
+GRIS|Couleur de la souris
+BEIGE|Couleur sable
+TURQUOISE|Bleu-vert
+INDIGO|Bleu profond
+POURPRE|Rouge sombre
+ECARLATE|Rouge éclatant
+JOIE|Gaieté
+TRISTESSE|Chagrin
+PEUR|Frayeur
+COLERE|Fureur
+AMOUR|Passion
+HAINE|Aversion
+JALOUSIE|Envie
+FIERTE|Orgueil
+HONTE|Gêne
+SURPRISE|Étonnement
+ENNUI|Lassitude
+CONFIANCE|Assurance
+COURAGE|Bravoure
+PATIENCE|Calme
+TIMIDE|Réservé
+GENTIL|Aimable
+MECHANT|Malveillant
+CURIEUX|Fouineur
+GENEREUX|Prodigue
+AVARE|Radin
+HONNETE|Intègre
+MENTEUR|Affabulateur
+POLI|Courtois
+DROLE|Amusant
+SERIEUX|Grave
+GRAND|Élevé
+PETIT|Minuscule
+GROS|Corpulent
+MINCE|Svelte
+JEUNE|Juvénile
+VIEUX|Âgé
+BEAU|Joli
+LAID|Moche
+RAPIDE|Véloce
+LENT|Lambin
+CHAUD|Brûlant
+DOUX|Moelleux
+DUR|Solide
+LOURD|Pesant
+LEGER|Aérien
+PROPRE|Net
+VIDE|Désert
+PLEIN|Rempli
+FACILE|Simple
+DIFFICILE|Ardu
+SILENCIEUX|Muet
+BRUYANT|Tapageur
+COURIR|Filer
+SAUTER|Bondir
+NAGER|Se mouvoir dans l'eau
+DORMIR|Sommeiller
+MANGER|Se nourrir
+BOIRE|Se désaltérer
+PARLER|Causer
+RIRE|S'esclaffer
+PLEURER|Sangloter
+REGARDER|Observer
+ECOUTER|Entendre attentivement
+OUBLIER|Omettre
+CHERCHER|Fouiller
+TROUVER|Dénicher
+OUVRIR|Déverrouiller
+FERMER|Clore
+ACHETER|Acquérir
+VENDRE|Céder
+DONNER|Offrir
+PRETER|Avancer pour un temps
+EMPRUNTER|Prendre en prêt
+ATTENDRE|Patienter
+VOYAGER|Partir loin
+RANGER|Ordonner
+NETTOYER|Laver
+REPARER|Raccommoder
+CONSTRUIRE|Bâtir
+DETRUIRE|Démolir
+GAGNER|Vaincre
+PERDRE|Égarer
+APPRENDRE|Étudier
+ENSEIGNER|Instruire
+COMPTER|Dénombrer
+DESSINER|Croquer
+CHANTONNER|Fredonner
+SOURIRE|Rictus joyeux
+EMBRASSER|Faire la bise
+SALUER|Dire bonjour
+REMERCIER|Dire merci
+EXCUSER|Pardonner
+MENTIR|Tromper
+PROMETTRE|Jurer
+DECIDER|Trancher
+REFLECHIR|Penser
+COMPRENDRE|Saisir
+SAVOIR|Connaître
+CROIRE|Penser vrai
+REVER|Songer
+RUE|Voie urbaine
+AVENUE|Boulevard
+PLACE|Esplanade
+PARC|Jardin public
+QUARTIER|Secteur de ville
+BANLIEUE|Périphérie
+CENTREVILLE|Cœur de ville
+POSTE|Bureau de courrier
+TUNNEL|Souterrain
+FONTAINE|Bassin public
+CHANTIER|Site de construction
+OBJET|Chose
+BOITE|Coffret
+BOUTEILLE|Flacon
+CISEAUX|Outil à deux lames
+COLLE|Adhésif
+VIS|Pièce à visser
+TOURNEVIS|Outil à vis
+SCIE|Outil dentelé
+SEAU|Récipient à anse
+ALLUMETTE|Bâtonnet inflammable
+BRIQUET|Allume-feu
+LAMPEDEPOCHE|Torche
+FEU|Flammes
+FUMEE|Vapeur grise
+CENDRE|Résidu de feu
+AIR|Atmosphère
+OMBRE|Zone sombre
+BRUIT|Son
+COULEUR|Teinte
+FORME|Silhouette
+TAILLE|Stature
+AGE|Années de vie
+PRENOM|Petit nom
+ADRESSE|Domicile
+NUMERO|Chiffre
+SECRET|Confidence
+QUESTION|Interrogation
+REPONSE|Réplique
+IDEE|Pensée
+PROBLEME|Souci
+ERREUR|Faute
+CHANCE|Veine
+HASARD|Sort
+AVENTURE|Péripétie
+VOYOU|Racaille
+MONSTRE|Bête effrayante
+CALME|Tranquillité
+PAIX|Harmonie
+VERITE|Réalité
+MENSONGE|Bobard
+PROMESSE|Serment
+PUNITION|Sanction
+RECOMPENSE|Prix
+EPHEMERE|Fugace
+SAGACE|Perspicace
+PERSPICACE|Clairvoyant
+NONCHALANT|Indolent
+DESINVOLTE|Cavalier
+ACARIATRE|Revêche
+FACETIEUX|Farceur
+PUSILLANIME|Craintif
+INTREPIDE|Hardi
+OPINIATRE|Obstiné
+VELLEITAIRE|Indécis
+MAGNANIME|Clément
+ALTRUISTE|Généreux
+EGOISTE|Personnel
+VANITEUX|Prétentieux
+HAUTAIN|Arrogant
+BOUGON|Grognon
+GRINCHEUX|Ronchon
+TETU|Entêté
+NAIF|Ingénu
+RUSE|Malin
+MALICIEUX|Taquin
+ESPIEGLE|Coquin
+ETOURDI|Tête en l'air
+DISTRAIT|Inattentif
+MALADROIT|Gauche
+ADROIT|Habile
+HABILE|Doué
+INGENIEUX|Astucieux
+FRIVOLE|Futile
+FRUGAL|Sobre
+SOBRE|Modéré
+PRODIGUE|Dépensier
+RANCUNIER|Vindicatif
+SUSCEPTIBLE|Ombrageux
+JOVIAL|Enjoué
+AFFABLE|Avenant
+LOQUACE|Bavard
+TACITURNE|Silencieux
+MELANCOLIQUE|Triste et rêveur
+NOSTALGIE|Mal du passé
+SERENDIPITE|Heureux hasard
+QUIETUDE|Paix intérieure
+SERENITE|Tranquillité d'esprit
+ALLEGRESSE|Liesse
+EUPHORIE|Exaltation
+DESARROI|Détresse
+DESESPOIR|Abattement
+ANGOISSE|Anxiété
+EMOI|Agitation
+STUPEUR|Sidération
+EFFROI|Épouvante
+RANCOEUR|Ressentiment
+REMORDS|Regret
+DILEMME|Alternative
+PARADOXE|Contradiction
+ENIGME|Devinette
+MYSTERE|Secret
+CHIMERE|Rêve fou
+UTOPIQUE|Irréaliste
+ILLUSION|Leurre
+MIRAGE|Hallucination
+REVERIE|Songe
+INSOUCIANCE|Légèreté
+NONCHALANCE|Mollesse
+FLANER|Musarder
+LAMBINER|Traîner
+TERGIVERSER|Atermoyer
+PROCRASTINER|Repousser
+RESSASSER|Rabâcher
+CHUCHOTEMENT|Murmure
+BROUHAHA|Rumeur
+VACARME|Tapage
+TINTAMARRE|Charivari
+CAPHARNAUM|Bazar
+FOUILLIS|Fatras
+PAGAILLE|Bazar
+TOHUBOHU|Chahut
+BRIBE|Fragment
+BIBELOT|Babiole
+BRICABRAC|Fatras d'objets
+BABIOLE|Bricole
+FRIPERIE|Boutique d'occasion
+BROCANTE|Vide-grenier
+AUBE|Point du jour
+NOCTAMBULE|Oiseau de nuit
+SOMNAMBULE|Marcheur endormi
+INSOMNIAQUE|Personne qui dort mal
+FESTIN|Repas de fête
+RIPAILLE|Bombance
+BANQUET|Grand repas
+AGAPES|Festin entre amis
+HOSPITALITE|Accueil
+CONVIVIAL|Chaleureux
+CHALEUREUX|Accueillant
+EBAHI|Stupéfait
+ABASOURDI|Sidéré
+INTERLOQUE|Décontenancé
+PANTOIS|Bouche bée
+EMERVEILLE|Ébloui
+EBLOUI|Émerveillé
+FASCINE|Captivé
+PERPLEXE|Hésitant
+DUBITATIF|Sceptique
+SCEPTIQUE|Incrédule
+CREDULE|Naïf
+CANDIDE|Innocent
+INGENU|Naïf
+ROUBLARD|Malin
+FILOU|Escroc
+CHENAPAN|Vaurien
+GALOPIN|Gamin
+GARNEMENT|Polisson
+POLISSON|Garnement
+BAMBIN|Tout petit enfant
+MARMOT|Mioche
+BAMBOCHE|Noce
+GUINGUETTE|Bal populaire
+KERMESSE|Fête foraine
+FLONFLON|Musique de fanfare
+COTILLON|Accessoire de fête
+CONFETTI|Rondelles de papier
+SERPENTIN|Ruban de fête
+CARNAVAL|Mardi gras
+DEGUISEMENT|Costume
+MASQUE|Loup
+FARCE|Plaisanterie
+BLAGUE|Histoire drôle
+PLAISANTERIE|Boutade
+CANULAR|Poisson d'avril

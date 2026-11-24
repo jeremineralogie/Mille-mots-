@@ -1,0 +1,200 @@
+DIEU|Le Créateur, pour les croyants
+DEESSE|Aphrodite en est une
+DIVINITE|Être adoré
+RELIGION|Foi organisée
+CROYANCE|Conviction religieuse
+FOI|Confiance en Dieu
+PRIERE|Oraison
+PRIER|Implorer Dieu
+EGLISE|Lieu de culte chrétien
+CHAPELLE|Petit lieu de culte
+TEMPLE|Lieu de culte antique
+MOSQUEE|Lieu de culte à minaret
+SYNAGOGUE|Lieu de culte juif
+PAGODE|Temple asiatique
+PRETRE|Homme d'Église
+CURE|Prêtre de paroisse
+EVEQUE|Prélat à crosse et mitre
+CARDINAL|Prince de l'Église
+PAPE|Souverain pontife
+VATICAN|État du pape
+RELIGIEUSE|Sœur
+NONNE|Religieuse cloîtrée
+COUVENT|Maison de religieux
+IMAM|Guide de la prière musulmane
+RABBIN|Maître religieux juif
+MESSE|Office du dimanche
+BAPTEME|Premier sacrement
+COMMUNION|Sacrement de l'hostie
+MARIAGE|Union célébrée
+BIBLE|Écritures saintes
+CORAN|Livre de l'islam
+TORAH|Loi juive
+EVANGILE|Bonne nouvelle
+APOTRE|Disciple de Jésus
+JESUS|Christ
+MARIE|Vierge
+MOISE|Homme des Tables de la Loi
+NOE|Homme de l'arche
+ADAM|Premier homme
+EVE|Première femme
+ABRAHAM|Patriarche
+PROPHETE|Messager divin
+ANGE|Être céleste ailé
+ARCHANGE|Gabriel ou Michel
+DEMON|Esprit malin
+DIABLE|Lucifer
+SATAN|Prince des ténèbres
+ENFER|Lieu des damnés
+PARADIS|Ciel des justes
+PURGATOIRE|Antichambre du paradis
+AME|Esprit immortel
+SAINT|Personne canonisée
+MIRACLE|Prodige divin
+PARDON|Absolution
+CHRETIEN|Disciple du Christ
+CATHOLIQUE|Fidèle du pape
+PROTESTANT|Fidèle de Luther
+ORTHODOXE|Chrétien d'Orient
+MUSULMAN|Fidèle de l'islam
+ISLAM|Religion du Coran
+JUIF|Fidèle du judaïsme
+JUDAISME|Religion de Moïse
+BOUDDHISME|Religion de Bouddha
+BOUDDHA|Sage éveillé
+HINDOUISME|Religion de l'Inde
+RAMADAN|Jeûne musulman
+NOEL|Fête du 25 décembre
+PAQUES|Fête des œufs en chocolat
+TOUSSAINT|Fête du 1er novembre
+CAREME|Jeûne chrétien
+CRECHE|Scène de la Nativité
+ROISMAGES|Gaspard, Melchior et Balthazar
+CROIX|Symbole chrétien
+CHAPELET|Collier de prière
+CIERGE|Grande bougie d'église
+AUTEL|Table sacrée
+CLOCHER|Tour de l'église
+CLOCHE|Elle sonne l'angélus
+LOURDES|Ville de pèlerinage
+JERUSALEM|Ville trois fois sainte
+LAMECQUE|Ville sainte de l'islam
+MYTHOLOGIE|Légendes divines
+MYTHE|Légende
+ZEUS|Roi de l'Olympe
+HERA|Reine de l'Olympe
+ATHENA|Déesse aux yeux pers
+APOLLON|Dieu solaire
+ARTEMIS|Chasseresse divine
+ARES|Dieu guerrier
+APHRODITE|Déesse de la beauté
+HERMES|Messager ailé
+POSEIDON|Dieu des mers
+HADES|Maître des Enfers
+DIONYSOS|Dieu du vin
+DEMETER|Déesse des récoltes
+HEPHAISTOS|Dieu forgeron
+PROMETHEE|Voleur du feu
+OLYMPE|Mont des dieux
+TITAN|Géant divin
+HERCULE|Héros aux douze travaux
+ULYSSE|Héros rusé
+ACHILLE|Héros au talon fragile
+PERSEE|Vainqueur de Méduse
+THESEE|Vainqueur du Minotaure
+JASON|Héros de la Toison d'or
+ORPHEE|Musicien des Enfers
+ICARE|Homme aux ailes de cire
+PANDORE|Ouvreuse de boîte
+NARCISSE|Amoureux de lui-même
+MINOTAURE|Homme-taureau
+CYCLOPE|Géant à un œil
+CENTAURE|Homme-cheval
+PEGASE|Cheval ailé
+HYDRE|Serpent à têtes
+CERBERE|Chien des Enfers
+SIRENE|Femme-poisson
+NYMPHE|Divinité des sources
+SATYRE|Être à pattes de bouc
+LABYRINTHE|Dédale
+TROIE|Ville du cheval de bois
+ODYSSEE|Voyage d'Ulysse
+ILIADE|Épopée de la guerre de Troie
+HOMERE|Poète aveugle
+JUNON|Héra romaine
+MINERVE|Athéna romaine
+VULCAIN|Héphaïstos romain
+CUPIDON|Archer de l'amour
+ODIN|Père des dieux nordiques
+THOR|Dieu au marteau
+LOKI|Dieu farceur
+WALKYRIE|Vierge guerrière
+VALHALLA|Séjour des héros vikings
+OSIRIS|Dieu des morts égyptien
+ANUBIS|Dieu chacal
+ISIS|Déesse mère égyptienne
+HORUS|Dieu faucon
+DRAGON|Monstre cracheur de feu
+LICORNE|Cheval à corne
+PHENIX|Oiseau immortel
+GRIFFON|Aigle-lion
+FEE|Marraine magique
+ELFE|Esprit des bois
+LUTIN|Farfadet
+GNOME|Nain de la terre
+TROLL|Créature nordique
+OGRE|Mangeur d'enfants
+SORCIER|Mage
+SORCIERE|Magicienne au balai
+MAGICIEN|Enchanteur
+MAGIE|Sorcellerie
+SORTILEGE|Envoûtement
+ENCHANTEUR|Merlin en est un
+MERLIN|Magicien d'Arthur
+ARTHUR|Roi de Camelot
+EXCALIBUR|Épée dans le rocher
+GRAAL|Coupe sacrée
+LANCELOT|Chevalier du Lac
+FANTOME|Revenant
+SPECTRE|Apparition
+VAMPIRE|Buveur de sang
+LOUPGAROU|Homme-loup
+ZOMBIE|Mort-vivant
+GOLEM|Créature d'argile
+YETI|Homme des neiges
+GENIE|Esprit de la lampe
+ORACLE|Prédiction divine
+PROPHETIE|Prédiction
+DESTIN|Sort
+TALISMAN|Porte-bonheur
+AMULETTE|Gri-gri
+SUPERSTITION|Croyance irrationnelle
+HOROSCOPE|Prévision astrale
+ZODIAQUE|Douze signes
+ASTROLOGIE|Lecture des astres
+VOYANTE|Diseuse de bonne aventure
+ALCHIMIE|Art de l'or
+ALCHIMISTE|Chercheur de pierre philosophale
+ELIXIR|Breuvage magique
+POTION|Philtre
+CULTE|Adoration
+RITE|Cérémonie
+OFFRANDE|Don aux dieux
+SACRIFICE|Immolation
+IDOLE|Statue adorée
+PAIEN|Non chrétien
+DIVIN|Céleste
+ETERNITE|Temps sans fin
+RESURRECTION|Retour à la vie
+REINCARNATION|Renaissance
+KARMA|Loi des actes
+NIRVANA|Paix ultime
+MEDITATION|Recueillement
+ERMITE|Solitaire
+MARTYR|Mort pour sa foi
+CANONISER|Faire saint
+BENIR|Appeler la grâce de Dieu
+AMEN|Ainsi soit-il
+ALLELUIA|Louange
+HALO|Auréole
+AUREOLE|Cercle doré

@@ -1,0 +1,323 @@
+HISTOIRE|Matière scolaire qui raconte le passé
+ROI|Monarque couronné
+REINE|Souveraine
+PRINCE|Héritier d'un roi
+PRINCESSE|Fille de souverain
+EMPEREUR|Napoléon en fut un
+EMPIRE|Grand État dirigé par un empereur
+ROYAUME|Terres d'un roi
+CHATEAU|Demeure de seigneur
+CHEVALIER|Noble guerrier en armure
+SEIGNEUR|Maître d'un domaine au Moyen Âge
+NOBLE|Aristocrate
+NOBLESSE|Aristocratie
+DUC|Noble au-dessus du marquis
+COMTE|Titre de Monte-Cristo
+MARQUIS|Titre de noblesse au-dessus du comte
+BARON|Petit noble
+VICOMTE|Noble sous le comte
+VASSAL|Homme lié à un seigneur
+FIEF|Domaine d'un vassal
+SERF|Paysan non libre
+FEODALITE|Système des seigneurs et des vassaux
+MOYENAGE|Époque des châteaux forts
+ANTIQUITE|Époque des Grecs et des Romains
+PREHISTOIRE|Époque des cavernes
+RENAISSANCE|Époque de Léonard de Vinci
+REVOLUTION|Celle de 1789 a renversé la monarchie
+GUERRE|Conflit armé
+BATAILLE|Affrontement militaire
+ARMEE|Troupes d'un pays
+SOLDAT|Militaire du rang
+GENERAL|Chef d'armée
+OFFICIER|Gradé de l'armée
+CAPORAL|Petit gradé
+SERGENT|Sous-officier
+COLONEL|Chef de régiment
+MARECHAL|Plus haute dignité militaire
+REGIMENT|Unité militaire
+CASERNE|Logement des soldats
+UNIFORME|Tenue militaire
+LANCE|Arme des chevaliers en tournoi
+BOUCLIER|Protection du guerrier
+ARMURE|Carapace de métal
+CASQUE|Protection de la tête
+ARC|Arme de Robin des Bois
+FLECHE|Trait de l'archer
+CATAPULTE|Lance-pierres géant
+CANON|Arme à boulets
+FUSIL|Arme à feu
+REMPART|Mur de défense
+DONJON|Tour maîtresse
+PONTLEVIS|Pont mobile du château
+DOUVES|Fossés pleins d'eau
+CREMEAUX|Créneaux, autrement dit
+BLASON|Écu armorié
+ARMOIRIES|Emblème héraldique
+HERALDIQUE|Science des blasons
+COURONNE|Symbole du roi
+SCEPTRE|Bâton royal
+TRONE|Siège royal
+SACRE|Couronnement religieux
+DYNASTIE|Lignée royale
+MONARCHIE|Régime royal
+REPUBLIQUE|Régime sans roi
+DICTATURE|Pouvoir absolu
+TYRAN|Despote
+PHARAON|Roi d'Égypte
+PYRAMIDE|Tombeau de Khéops
+MOMIE|Corps embaumé
+HIEROGLYPHE|Écriture égyptienne
+SARCOPHAGE|Cercueil de pierre
+SPHINX|Gardien des pyramides
+CLEOPATRE|Reine d'Égypte
+TOUTANKHAMON|Pharaon au masque d'or
+ROMAIN|Citoyen de Rome
+GLADIATEUR|Combattant de l'arène
+COLISEE|Amphithéâtre romain
+LEGION|Armée romaine
+LEGIONNAIRE|Soldat romain
+CENTURION|Officier romain
+CESAR|Jules, conquérant des Gaules
+AUGUSTE|Premier empereur de Rome
+NERON|Empereur incendiaire
+SENAT|Assemblée romaine
+TOGE|Vêtement romain
+AQUEDUC|Pont-canal romain
+GAULE|Ancienne France
+GAULOIS|Ancêtre des Français
+VERCINGETORIX|Chef arverne
+ALESIA|Défaite gauloise
+DRUIDE|Prêtre gaulois
+CELTE|Peuple ancien d'Europe
+VIKING|Navigateur scandinave
+DRAKKAR|Bateau viking
+BARBARE|Envahisseur de l'Empire romain
+HUNS|Peuple d'Attila
+ATTILA|Fléau de Dieu
+CLOVIS|Roi des Francs baptisé à Reims
+CHARLEMAGNE|Empereur à la barbe fleurie
+CAROLINGIEN|De la famille de Charlemagne
+MEROVINGIEN|De la famille de Clovis
+CAPETIEN|De la famille d'Hugues Capet
+SAINTLOUIS|Louis IX
+CROISADE|Guerre sainte vers Jérusalem
+CROISE|Soldat de la croisade
+TEMPLIER|Moine-soldat
+JEANNEDARC|Pucelle d'Orléans
+PESTE|Mort noire
+FRANCOISIER|Roi de la Renaissance
+MARIGNAN|Victoire de 1515
+HENRIIV|Le bon roi Henri
+LOUISXIV|Roi-Soleil
+VERSAILLES|Château du Roi-Soleil
+LOUISXVI|Dernier roi d'Ancien Régime
+BASTILLE|Prison prise en 1789
+GUILLOTINE|Machine à couper les têtes
+TERREUR|Période de Robespierre
+ROBESPIERRE|L'Incorruptible
+DANTON|Révolutionnaire tribun
+SANSCULOTTE|Révolutionnaire du peuple
+MARSEILLAISE|Hymne français
+NAPOLEON|Empereur corse
+BONAPARTE|Général devenu empereur
+WATERLOO|Morne plaine
+AUSTERLITZ|Victoire de 1805
+JOSEPHINE|Impératrice
+GROGNARD|Vieux soldat de l'Empire
+SAINTEHELENE|Île d'exil de Napoléon
+DREYFUS|Capitaine injustement condamné
+POILU|Soldat de 14-18
+TRANCHEE|Fossé de 14-18
+VERDUN|Bataille de 1916
+ARMISTICE|Fin des combats
+RESISTANCE|Lutte clandestine
+RESISTANT|Combattant de l'ombre
+OCCUPATION|Présence de l'ennemi
+DEBARQUEMENT|Jour J
+LIBERATION|Fin de l'occupation
+DEGAULLE|Général du 18 Juin
+HITLER|Dictateur nazi
+CHURCHILL|Premier ministre britannique
+STALINE|Dictateur soviétique
+HOLOCAUSTE|Shoah
+GUERREFROIDE|Tension Est-Ouest
+MURDEBERLIN|Rideau de fer
+URSS|Union soviétique
+GANDHI|Mahatma
+MANDELA|Madiba
+APARTHEID|Ségrégation
+LINCOLN|Abolitionniste américain
+ESCLAVAGE|Traite des Noirs
+COLONIE|Territoire soumis
+COLONISATION|Conquête de terres lointaines
+INDEPENDANCE|Liberté d'un pays
+CONQUISTADOR|Conquérant espagnol
+INCA|Peuple du Machu Picchu
+AZTEQUE|Peuple du Mexique ancien
+MAYA|Peuple du Yucatán
+MAGELLAN|Navigateur portugais
+EXPLORATEUR|Découvreur
+DECOUVERTE|Trouvaille
+SAMOURAI|Guerrier japonais
+SHOGUN|Chef militaire japonais
+SULTAN|Souverain ottoman
+CALIFE|Successeur du Prophète
+TSAR|Empereur russe
+ARCHEOLOGIE|Science des fouilles
+ARCHEOLOGUE|Fouilleur du passé
+FOUILLE|Chantier archéologique
+VESTIGE|Reste du passé
+RUINE|Bâtiment écroulé
+TOMBEAU|Sépulture
+CIVILISATION|Culture d'un peuple
+SILEX|Pierre taillée
+MAMMOUTHS|Proies préhistoriques
+LASCAUX|Grotte ornée
+CROMAGNON|Homme préhistorique
+NEANDERTAL|Homme disparu
+MENHIR|Pierre dressée
+DOLMEN|Table de pierre
+CARNAC|Alignements bretons
+STONEHENGE|Cercle de pierres
+NEOLITHIQUE|Âge de la pierre polie
+PALEOLITHIQUE|Âge de la pierre taillée
+AGEDUFER|Époque du fer
+CHRONOLOGIE|Ordre du temps
+FRISE|Ligne du temps
+SIECLE|Cent ans
+EPOQUE|Période
+DATE|Jour précis
+ANCETRE|Aïeul
+HERITAGE|Legs du passé
+PATRIMOINE|Biens hérités
+MONUMENT|Édifice remarquable
+TRAITE|Accord signé
+ALLIANCE|Pacte
+ALLIES|Camp ami
+ENNEMI|Adversaire
+INVASION|Envahissement
+SIEGE|Encerclement d'une ville
+CONQUETE|Prise d'un territoire
+ASSAUT|Attaque
+TREVE|Pause des combats
+CAPITULATION|Reddition
+REDDITION|Capitulation
+TRAHISON|Félonie
+ESPION|Agent secret
+VETERAN|Ancien combattant
+DRAPEAU|Étendard
+TRICOLORE|Bleu, blanc, rouge
+DEVISE|Liberté, Égalité, Fraternité
+MARIANNE|Symbole de la République
+BICENTENAIRE|Deux cents ans
+CENTENAIRE|Cent ans
+COMMEMORATION|Cérémonie du souvenir
+TOMBEINCONNU|Sépulture de l'Arc de triomphe
+ARCDETRIOMPHE|Monument de l'Étoile
+INVALIDES|Tombeau de Napoléon
+PANTHEON|Temple des grands hommes
+TUDOR|Famille d'Henri VIII
+WINDSOR|Famille royale anglaise
+HABSBOURG|Famille impériale autrichienne
+MEDICIS|Famille florentine
+BOURBON|Famille d'Henri IV
+VALOIS|Famille de François Ier
+ORLEANS|Ville de Jeanne d'Arc
+RICHELIEU|Cardinal rouge
+MAZARIN|Cardinal italien
+COLBERT|Ministre de Louis XIV
+MOUSQUETAIRE|D'Artagnan en était un
+MOUSQUET|Vieux fusil
+HALLEBARDE|Arme à long manche
+ARBALETE|Arc mécanique
+TREBUCHET|Machine de siège
+COTTEDEMAILLE|Armure d'anneaux
+HEAUME|Casque de chevalier
+ECUYER|Serviteur du chevalier
+TROUBADOUR|Poète du Moyen Âge
+MENESTREL|Musicien ambulant
+BOUFFON|Fou du roi
+COURTISAN|Homme de cour
+COUR|Entourage royal
+FAVORITE|Maîtresse royale
+REGENT|Gouvernant provisoire
+HERITIER|Successeur
+ABDIQUER|Renoncer au trône
+DETRONER|Renverser un roi
+EXIL|Bannissement
+REVOLTE|Rébellion
+EMEUTE|Soulèvement
+BARRICADE|Obstacle de rue
+INSURRECTION|Soulèvement armé
+JACQUERIE|Révolte paysanne
+GABELLE|Impôt sur le sel
+DIME|Impôt de l'Église
+TIERSETAT|Peuple sous l'Ancien Régime
+PRIVILEGE|Avantage des nobles
+ETATSGENERAUX|Assemblée de 1789
+PHILOSOPHE|Penseur des Lumières
+LUMIERES|Siècle de Voltaire
+ENCYCLOPEDIE|Œuvre de Diderot
+COLOMB|Découvreur de l'Amérique
+CENTANS|Guerre de ___ : conflit franco-anglais
+PIRATE|Bandit des mers
+TRESOR|Butin caché
+CORSAIRE|Pirate du roi
+FORTERESSE|Citadelle
+PRISON|Geôle
+CACHOT|Cellule sombre
+BOURREAU|Exécuteur
+PAYSAN|Cultivateur
+PEUPLE|Nation
+ESCLAVE|Personne privée de liberté
+SOUVERAIN|Monarque
+REGNE|Période de pouvoir
+REGNER|Gouverner
+COURONNEMENT|Sacre
+GUERRIER|Combattant
+COMBAT|Lutte armée
+COMBATTANT|Soldat
+VAINQUEUR|Gagnant de la bataille
+CONQUERANT|Bâtisseur d'empire
+ARMES|Épées et fusils
+POUDRE|Explosif
+BOULET|Projectile de canon
+CHAR|Tank
+BOMBE|Engin explosif
+SOUVENIR|Mémoire
+ARCHIVES|Vieux documents
+PARCHEMIN|Peau écrite
+CALENDRIER|Almanach
+MILLENAIRE|Mille ans
+AUTREFOIS|Jadis
+ANCIEN|Vieux
+LEGENDE|Récit merveilleux
+CHATEAUFORT|Forteresse médiévale
+DEMOISELLE|Jeune noble
+CHEVALERIE|Ordre des chevaliers
+ROITELET|Petit roi
+VILAIN|Paysan libre
+BOURGEOIS|Citadin aisé
+BOURG|Gros village
+CLERGE|Religieux
+MONASTERE|Couvent de moines
+MOINE|Frère
+ABBAYE|Monastère
+CATHEDRALE|Église de l'évêque
+PELERIN|Voyageur vers un lieu saint
+PELERINAGE|Voyage sacré
+INQUISITION|Tribunal de l'Église
+BUCHER|Feu des condamnés
+DRAGONS|Cavaliers-fantassins
+CAVALERIE|Troupe à cheval
+INFANTERIE|Troupe à pied
+ARTILLERIE|Canons
+FLOTTE|Marine de guerre
+AMIRAL|Chef de flotte
+GALERE|Navire à rames
+CARAVELLE|Bateau de Colomb
+GALION|Navire espagnol
+ARMADA|Flotte espagnole
+TITANIC|Paquebot englouti
+JOYAUX|Trésors de la Couronne

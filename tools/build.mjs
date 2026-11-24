@@ -53,6 +53,14 @@ for (const t of THEMES) {
     w.clair = t.id; w.lvl = +lv - 1; w.themes.add(t.id);
     defs.forEach(c => addClue(w, t.id, c, `clair/${t.id}:${ln + 1}`));
   });
+  // définitions supplémentaires : data/clair/<thème>.2.txt (MOT|définition)
+  const f2 = path.join(ROOT, 'data/clair', t.id + '.2.txt');
+  if (fs.existsSync(f2)) fs.readFileSync(f2, 'utf8').split('\n').forEach((line, ln) => {
+    line = line.trim(); if (!line || line.startsWith('#')) return;
+    const [m, ...defs] = line.split('|'); const w = byA.get(norm(m));
+    if (!w || w.clair !== t.id) { warnings.push(`clair/${t.id}.2:${ln + 1} mot inconnu dans ce thème : ${m}`); return }
+    defs.forEach(c => addClue(w, t.id, c, `clair/${t.id}.2:${ln + 1}`));
+  });
 }
 // une définition manuelle n'est reprise que si elle est explicite (pas de devinette « Il… », pas de texte à trous)
 const explicit = c => c.split(/\s+/).length >= 4 && !c.includes('___') && !/^(Il|Elle|Ils|Elles|On|Sa|Son|Ses|Celui|Celle)\b/.test(c);
@@ -107,7 +115,8 @@ const clueUse = new Map();
 const wordUse = new Uint8Array(WORDS.length);
 const MODE_USE = {};            // un mot de thème peut revenir, mais dans un autre mode de jeu
 let CUR_MODE = 'cache';
-const modeUse = () => MODE_USE[CUR_MODE] || (MODE_USE[CUR_MODE] = new Uint8Array(WORDS.length));
+let CUR_NS = '';                 // le Grand mélange a son propre compteur : il ne prive pas les thèmes de leurs mots
+const modeUse = () => { const k = CUR_NS + CUR_MODE; return MODE_USE[k] || (MODE_USE[k] = new Uint8Array(WORDS.length)) };
 const useOf = c => clueUse.get(clueKey(c)) || 0;
 const free = w => modeUse()[w.id] < 1 && w.clues.some(c => useOf(c) < CLUE_CAP);   // jamais deux fois dans le même mode
 
@@ -124,7 +133,7 @@ function pickClue(w, r, taken, short) {
   const top = Math.max(...best.map(readable));
   best = best.filter(c => readable(c) === top);
   const c = w.hand ? best[0] : best[Math.floor(r() * Math.min(2, best.length))]; // les premières définitions sont les sens principaux
-  if (readable(c) >= 3) return c;
+  if (readable(c) >= 3 || w.clair) return c;   // les définitions réécrites se suffisent à elles-mêmes
   // définition trop courte : on lui adjoint une deuxième définition du même mot
   const k = clueKey(c);
   const other = avail.filter(x => x !== c && x.length <= 50 && !clueKey(x).includes(k) && !k.includes(clueKey(x)))
@@ -374,7 +383,7 @@ while (slots.some(s => !s.done)) {
   for (const s of slots) {
     if (s.done) continue;
     const r = rng(hashStr(`${s.t}|${s.m}|${s.d}|${s.out.length}|${s.fail}`));
-    CUR_MODE = s.m;
+    CUR_MODE = s.m; CUR_NS = s.t === 'mix' ? 'mix:' : '';
     const res = s.m === 'cache' ? genCache(s.t, r, s.d) : s.m === 'meles' ? genMeles(s.t, r, s.d) : s.m === 'ana' ? genAna(s.t, r, s.d) : genGrid(s.m, s.t, r, s.d);
     if (res) { commit(res.words, res.clues); s.out.push(res.level); total++; s.fail = 0; if (s.out.length >= MAX_PER_SLOT) s.done = true }
     else if (++s.fail >= 4) { s.done = true; s.doneAt = round }

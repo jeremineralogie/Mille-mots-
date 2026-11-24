@@ -1,0 +1,415 @@
+POISSON|Animal à écailles et à nageoires
+OURS|Gros mammifère qui hiberne et adore le miel
+POULE|Volaille qui caquette dans la basse-cour
+AILE|Partie du corps de l'oiseau couverte de plumes
+VACHE|Ruminant qui meugle dans les prés
+LAPIN|Rongeur aux grandes oreilles qui mange des carottes
+CHOUETTE|Rapace nocturne qui hulule
+SERPENT|Reptile qui rampe et siffle
+PROIE|Victime d'un prédateur
+SINGE|Primate qui aime les bananes
+MOUTON|Animal à laine qui bêle
+COCHON|Animal de la ferme qui grogne
+NID|Maison des oiseaux faite de brindilles
+MOUCHE|Insecte qui se pose sur la nourriture
+PAPILLON|Insecte issu d'une chenille
+CHEVRE|Animal qui bêle et grimpe partout
+COQ|Oiseau qui chante cocorico
+TAUREAU|Bovin mâle de la corrida
+ANE|Animal têtu aux longues oreilles
+REQUIN|Poisson redouté des Dents de la mer
+ELEPHANT|Pachyderme d'Afrique ou d'Asie
+SAUMON|Poisson rose que l'on mange fumé
+VER|Animal de terre que l'on accroche à l'hameçon
+PIGEON|Oiseau voyageur des villes
+CORNE|Pointe dure sur la tête du rhinocéros
+BOUC|Chèvre mâle à barbiche
+GUEPARD|Félin sprinteur de la savane
+BALEINE|Géant des océans
+COLIBRI|Oiseau-mouche
+FOURMI|Insecte travailleur
+LIBELLULE|Insecte des étangs
+COCCINELLE|Bête à bon Dieu
+KOALA|Marsupial des eucalyptus
+LOUP|Animal qui hurle à la lune
+CERF|Animal des forêts qui brame en automne
+HIPPOPOTAME|Gros animal des fleuves africains
+RHINOCEROS|Animal à corne sur le nez
+PHOQUE|Mammifère des banquises
+JAGUAR|Félin d'Amazonie
+ESCARGOT|Gastéropode à coquille
+CHAUVESOURIS|Mammifère qui dort la tête en bas
+PAON|Oiseau qui fait la roue
+CHAT|Animal domestique qui miaule
+CHEVAL|Monture du cavalier
+OIE|Grand oiseau de basse-cour qui cacarde
+DINDE|Volaille de Noël
+RAT|Rongeur des égouts
+ARA|Perroquet coloré d'Amérique
+YAK|Bœuf poilu du Tibet
+TOUCAN|Oiseau au bec coloré
+GRILLON|Insecte chanteur
+MEUTE|Troupe de loups
+SCORPION|Arachnide à dard venimeux
+GIBIER|Animaux que l'on chasse
+TAUPE|Animal qui creuse des galeries
+PREDATEUR|Chasseur d'autres animaux
+SANGLIER|Animal d'Obélix
+POUSSIN|Petit poulet jaune
+FAUVE|Grand félin
+PANDA|Ours mangeur de bambou
+RUCHE|Maison des abeilles
+BELIER|Mouton mâle à cornes enroulées
+GRIFFE|Ongle du chat
+MOUSTIQUE|Insecte qui pique la nuit
+ARETE|Os de poisson
+CRABE|Crustacé qui marche de côté
+LEOPARD|Félin tacheté
+BICHE|Femelle du cerf
+VOLAILLE|Poulet, canard ou dinde
+CARAPACE|Maison de la tortue
+PANTHERE|Grand félin noir ou tacheté
+CHAMEAU|Animal du désert à deux bosses
+HOMARD|Crustacé à pinces
+REPAIRE|Tanière
+CARPE|Poisson des étangs
+LEZARD|Petit reptile du soleil
+ECUREUIL|Rongeur des noisettes
+TERRIER|Trou du lapin
+FLAIR|Odorat du chien
+HIBOU|Rapace nocturne à aigrettes
+AUTRUCHE|Grand oiseau coureur
+PINGOUIN|Oiseau des mers froides
+LYNX|Félin aux oreilles en pinceau
+CREVETTE|Petit crustacé
+HAMSTER|Rongeur domestique
+MULE|Femelle stérile de l'âne et de la jument
+GORILLE|Grand singe d'Afrique
+HERISSON|Animal à piquants
+CAMELEON|Lézard qui change de couleur
+MEDUSE|Animal marin transparent qui pique
+BLAIREAU|Animal au museau rayé
+FOUINE|Petit carnassier
+PLUMAGE|Plumes d'un oiseau
+MAMMOUTH|Éléphant laineux disparu
+SABOT|Pied du cheval
+CRINIERE|Poils du cou du lion
+KANGOUROU|Animal sauteur d'Australie
+BOA|Serpent constricteur
+GUEPE|Insecte rayé qui pique
+VIPERE|Serpent venimeux
+COBAYE|Cochon d'Inde
+ZEBRE|Équidé rayé
+ECLORE|Sortir de l'œuf
+MARMOTTE|Rongeur qui hiberne
+HUITRE|Coquillage à perle
+IBIS|Oiseau sacré d'Égypte
+BERGERIE|Abri des moutons
+HERMINE|Fourrure blanche
+MOINEAU|Petit oiseau commun
+LOUTRE|Nageuse joueuse
+MOUETTE|Oiseau de mer
+CIGALE|Insecte qui chante l'été
+HIBERNATION|Sommeil d'hiver
+MARTINET|Oiseau rapide
+MULET|Hybride mâle de l'âne et de la jument
+ESSAIM|Nuée d'abeilles
+RONGEUR|Souris ou écureuil
+CHIEN|Meilleur ami de l'homme
+CHIOT|Petit chien
+CHATON|Petit chat
+LION|Roi de la savane
+LIONNE|Chasseuse de la savane
+TIGRE|Félin rayé
+GIRAFE|Animal au long cou
+DAUPHIN|Mammifère marin joueur
+TORTUE|Animal lent à carapace
+GRENOUILLE|Amphibien qui coasse
+CRAPAUD|Amphibien pustuleux
+SOURIS|Petit rongeur gris
+ABEILLE|Insecte du miel
+CANARD|Oiseau qui fait coin-coin
+CYGNE|Oiseau blanc gracieux
+AIGLE|Roi des oiseaux
+FAUCON|Rapace rapide
+VAUTOUR|Rapace charognard
+CORBEAU|Oiseau noir de la fable
+PIE|Oiseau voleur
+MERLE|Oiseau noir siffleur
+ROUGEGORGE|Petit oiseau à poitrine rouge
+HIRONDELLE|Oiseau migrateur du printemps
+PERROQUET|Oiseau qui parle
+PERRUCHE|Petit perroquet
+CANARI|Oiseau jaune chanteur
+FLAMANT|Oiseau rose
+CIGOGNE|Oiseau qui apporte les bébés, dit-on
+HERON|Échassier pêcheur
+PELICAN|Oiseau à poche
+MANCHOT|Oiseau de l'Antarctique
+ALBATROS|Grand oiseau des mers
+CORMORAN|Oiseau plongeur
+GOELAND|Grand oiseau de mer
+RAPACE|Oiseau chasseur
+BUSE|Rapace des campagnes
+EPERVIER|Petit rapace
+CHARDONNERET|Oiseau coloré
+MESANGE|Oiseau des jardins
+ROSSIGNOL|Oiseau au beau chant
+COUCOU|Oiseau parasite
+PIVERT|Oiseau qui tape les arbres
+GEAI|Oiseau bleu et brun
+ETOURNEAU|Oiseau grégaire
+CAILLE|Petit gibier
+FAISAN|Gibier à longue queue
+PERDRIX|Gibier des champs
+PINTADE|Volaille tachetée
+COLOMBE|Oiseau de la paix
+VEAU|Petit de la vache
+AGNEAU|Petit du mouton
+BREBIS|Mouton femelle
+CHEVREAU|Bébé chèvre
+POULAIN|Bébé cheval
+JUMENT|Cheval femelle
+PORCELET|Petit cochon
+TRUIE|Cochon femelle
+LAPEREAU|Bébé lapin
+LOUVETEAU|Bébé loup
+OURSON|Bébé ours
+LIONCEAU|Bébé lion
+FAON|Bébé biche
+CANETON|Bébé canard
+TETARD|Bébé grenouille
+CHENILLE|Future papillon
+LARVE|Jeune insecte
+COCON|Enveloppe de chenille
+MUE|Changement de peau
+TROUPEAU|Groupe de bêtes
+ETABLE|Abri des vaches
+ECURIE|Abri des chevaux
+POULAILLER|Abri des poules
+CLAPIER|Cage à lapins
+NICHE|Abri du chien
+AQUARIUM|Bocal à poissons
+ZOO|Parc animalier
+VETERINAIRE|Médecin des bêtes
+ELEVEUR|Personne qui élève des bêtes
+APICULTEUR|Éleveur d'abeilles
+DRESSEUR|Éducateur d'animaux
+SOIGNEUR|Gardien de zoo
+ABOYER|Cri du chien
+MIAULER|Cri du chat
+MEUGLER|Cri de la vache
+BELER|Cri du mouton
+HENNIR|Cri du cheval
+RUGIR|Cri du lion
+BRAMER|Cri du cerf
+HULULER|Cri de la chouette
+COASSER|Cri de la grenouille
+BARRIR|Cri de l'éléphant
+CAQUETER|Cri de la poule
+RONRONNER|Bruit du chat content
+PATTE|Membre d'animal
+MUSEAU|Nez d'animal
+QUEUE|Appendice arrière
+PELAGE|Poils d'un animal
+FOURRURE|Poil épais
+PLUME|Elle couvre l'oiseau
+BEC|Bouche d'oiseau
+ECAILLE|Plaque de poisson
+NAGEOIRE|Membre du poisson
+BRANCHIES|Organes respiratoires des poissons
+TROMPE|Nez de l'éléphant
+DEFENSE|Dent d'ivoire
+BOSSE|Réserve du chameau
+ANTENNE|Organe de l'insecte
+DARD|Aiguillon de l'abeille
+VENIN|Poison de serpent
+PINCE|Outil du crabe
+TENTACULE|Bras de pieuvre
+VENTOUSE|Disque adhésif de la pieuvre
+CARNIVORE|Mangeur de viande
+HERBIVORE|Mangeur d'herbe
+OMNIVORE|Mangeur de tout
+MAMMIFERE|Animal qui allaite
+REPTILE|Animal à écailles
+AMPHIBIEN|Animal de l'eau et de la terre
+INSECTE|Animal à six pattes
+ARAIGNEE|Tisseuse de toile
+MOLLUSQUE|Animal à corps mou
+CRUSTACE|Animal à carapace aquatique
+MARSUPIAL|Animal à poche
+FELIN|Chat ou lion
+CANIDE|Chien ou loup
+PRIMATE|Singe ou homme
+CETACE|Baleine ou dauphin
+PIEUVRE|Poulpe
+CALMAR|Encornet
+SEICHE|Mollusque à encre
+ETOILEDEMER|Animal à cinq branches
+OURSIN|Animal marin à piquants
+MOULE|Coquillage noir
+COQUILLAGE|Animal à coquille
+LANGOUSTE|Crustacé sans pinces
+THON|Gros poisson de mer
+SARDINE|Petit poisson en boîte
+TRUITE|Poisson des rivières
+BROCHET|Poisson carnassier
+ANGUILLE|Poisson serpent
+MORUE|Cabillaud salé
+RAIE|Poisson plat
+ESPADON|Poisson-épée
+HIPPOCAMPE|Cheval de mer
+PIRANHA|Poisson vorace
+POISSONROUGE|Poisson de bocal
+ORQUE|Baleine tueuse
+NARVAL|Licorne des mers
+MORSE|Mammifère à défenses
+OTARIE|Phoque à oreilles
+LAMANTIN|Vache de mer
+CROCODILE|Reptile du Nil
+ALLIGATOR|Crocodile américain
+IGUANE|Lézard vert
+VARAN|Grand lézard
+COBRA|Serpent à capuchon
+PYTHON|Grand serpent
+COULEUVRE|Serpent inoffensif
+SALAMANDRE|Amphibien tacheté
+TRITON|Amphibien des mares
+DINOSAURE|Reptile géant disparu
+TARENTULE|Araignée velue
+MILLEPATTES|Animal aux nombreuses pattes
+PUCE|Insecte sauteur
+POU|Parasite des cheveux
+TIQUE|Acarien suceur de sang
+PUNAISE|Insecte malodorant
+TERMITE|Rongeur de bois
+SAUTERELLE|Insecte sauteur vert
+CRIQUET|Insecte des nuées
+MANTE|Insecte prieur
+FRELON|Grosse guêpe
+BOURDON|Insecte velu
+LUCIOLE|Insecte lumineux
+SCARABEE|Insecte à carapace
+HANNETON|Insecte de mai
+LIMACE|Mollusque sans coquille
+LOMBRIC|Ver de terre
+SANGSUE|Ver suceur
+RENARD|Animal rusé des fables
+LIEVRE|Animal de la fable de La Fontaine avec la tortue
+CHEVREUIL|Petit cervidé
+ELAN|Cervidé du Nord
+RENNE|Animal du père Noël
+BISON|Bœuf des prairies américaines
+BUFFLE|Bœuf d'Afrique
+CHAMOIS|Animal des sommets
+BOUQUETIN|Chèvre des Alpes
+LAMA|Animal des Andes qui crache
+DROMADAIRE|Chameau à une bosse
+CASTOR|Bâtisseur de barrages
+RATON|Laveur à masque
+MOUFFETTE|Animal puant
+PUTOIS|Petit carnassier odorant
+BELETTE|Petit carnassier fin
+TATOU|Animal à carapace
+PARESSEUX|Animal très lent
+FOURMILIER|Mangeur de fourmis
+ORNITHORYNQUE|Mammifère à bec de canard
+OPOSSUM|Marsupial américain
+CHIMPANZE|Singe malin
+ORANGOUTAN|Singe roux
+BABOUIN|Singe d'Afrique
+OURSBLANC|Ours polaire
+GRIZZLI|Ours brun d'Amérique
+HYENE|Animal qui ricane
+CHACAL|Canidé sauvage
+COYOTE|Loup des prairies
+SURICATE|Sentinelle du désert
+GAZELLE|Antilope gracieuse
+ANTILOPE|Ruminant rapide
+GNOU|Antilope migratrice
+OKAPI|Cousin de la girafe
+TAPIR|Animal à petite trompe
+ZEBU|Bœuf à bosse
+GAUR|Bœuf sauvage d'Inde
+GIBBON|Singe aux longs bras
+MANDRILL|Singe coloré
+OUISTITI|Petit singe
+LEMURIEN|Primate de Madagascar
+CAPYBARA|Rongeur géant
+CHINCHILLA|Rongeur des Andes
+GERBOISE|Rongeur sauteur
+LOIR|Rongeur dormeur
+MULOT|Souris des champs
+CAMPAGNOL|Rongeur des champs
+MUSARAIGNE|Petit mammifère insectivore
+GENETTE|Carnassier tacheté
+MANGOUSTE|Ennemie des serpents
+OCELOT|Félin d'Amérique
+PUMA|Couguar
+CARACAL|Félin aux oreilles noires
+SERVAL|Félin de la savane
+DINGO|Chien sauvage australien
+WOMBAT|Marsupial fouisseur
+WALLABY|Petit kangourou
+DUGONG|Mammifère marin herbivore
+CACHALOT|Baleine à dents
+BELUGA|Baleine blanche
+MARSOUIN|Petit cétacé
+EPAULARD|Orque
+MURENE|Poisson des rochers
+BAUDROIE|Poisson à grosse tête
+LOTTE|Poisson à chair ferme
+DORADE|Poisson doré
+MAQUEREAU|Poisson rayé
+HARENG|Poisson fumé
+ANCHOIS|Petit poisson salé
+SOLE|Poisson plat
+TURBOT|Grand poisson plat
+MERLAN|Poisson à chair fine
+GOUJON|Petit poisson de rivière
+SILURE|Poisson à moustaches
+ESTURGEON|Poisson du caviar
+POISSONCLOWN|Poisson orange de l'anémone
+ECREVISSE|Crustacé d'eau douce
+TOURTEAU|Gros crabe
+ARAIGNEEDEMER|Crabe aux longues pattes
+BIGORNEAU|Petit coquillage
+PALOURDE|Coquillage du sable
+NAUTILE|Mollusque à coquille spiralée
+CORAIL|Animal des récifs
+EPONGE|Animal marin poreux
+ANEMONEDEMER|Animal fixé aux rochers
+PLANCTON|Nourriture des baleines
+KRILL|Petites crevettes
+CONDOR|Vautour des Andes
+FAUCONNIER|Dresseur de rapaces
+GRANDDUC|Grand hibou
+EFFRAIE|Chouette blanche
+MILAN|Rapace à queue fourchue
+BALBUZARD|Rapace pêcheur
+EMEU|Oiseau coureur d'Australie
+NANDOU|Oiseau coureur d'Amérique
+CASOAR|Oiseau à casque
+DODO|Oiseau disparu
+MACAREUX|Oiseau au bec coloré
+GRUE|Échassier migrateur
+BECASSE|Oiseau au long bec
+PLUVIER|Oiseau des rivages
+HUPPE|Oiseau à crête
+LORIOT|Oiseau jaune
+BOUVREUIL|Oiseau à poitrine rose
+PINSON|Oiseau chanteur
+TOURTERELLE|Oiseau qui roucoule
+ALOUETTE|Oiseau des champs
+CORNEILLE|Oiseau noir
+COLVERT|Canard sauvage
+SARCELLE|Petit canard
+OUTARDE|Oiseau des steppes
+MITE|Papillon des placards
+PHASME|Insecte-brindille
+CHRYSALIDE|Nymphe du papillon
+ACARIEN|Animal de la poussière
+FOURMILIERE|Cité des fourmis
+GARENNE|Lapin sauvage
+TANIERE|Repaire
+BAUGE|Lieu boueux du sanglier

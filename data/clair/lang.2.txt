@@ -1,0 +1,184 @@
+MOT|Élément d'une phrase
+LETTRE|Caractère
+ALPHABET|Abécédaire
+VOYELLE|A, E, I, O, U ou Y
+CONSONNE|B, C, D...
+SYLLABE|Morceau de mot
+PHRASE|Suite de mots
+TEXTE|Écrit
+PARAGRAPHE|Alinéa
+LANGUE|Idiome
+LANGAGE|Parole
+VOCABULAIRE|Lexique
+DICTIONNAIRE|Larousse ou Robert
+DEFINITION|Sens d'un mot
+GRAMMAIRE|Règles de la langue
+ORTHOGRAPHE|Bonne écriture
+CONJUGAISON|Formes du verbe
+VERBE|Mot d'action
+NOM|Substantif
+ADJECTIF|Qualificatif
+ADVERBE|Mot invariable
+PRONOM|Il ou elle
+DETERMINANT|Le ou la
+PREPOSITION|À, de, pour
+CONJONCTION|Mais, ou, et
+INTERJECTION|Oh ! ou Ah !
+SUJET|Celui qui fait l'action
+COMPLEMENT|Mot qui complète
+ATTRIBUT|Qualité du sujet
+INFINITIF|Forme non conjuguée
+PARTICIPE|Forme verbale
+PRESENT|Temps de maintenant
+PASSECOMPOSE|Temps du passé
+IMPARFAIT|Temps de la description
+FUTUR|Temps de demain
+CONDITIONNEL|Mode du souhait
+SUBJONCTIF|Mode après « que »
+IMPERATIF|Mode de l'ordre
+INDICATIF|Mode du réel
+PASSESIMPLE|Temps du récit
+AUXILIAIRE|Être ou avoir
+SINGULIER|Un seul
+PLURIEL|Plusieurs
+MASCULIN|Genre de « il »
+FEMININ|Genre de « elle »
+SYNONYME|Mot de même sens
+ANTONYME|Contraire
+CONTRAIRE|Opposé
+HOMONYME|Mot qui sonne pareil
+PREFIXE|Début de mot
+SUFFIXE|Fin de mot
+RADICAL|Racine de mot
+ETYMOLOGIE|Origine des mots
+NEOLOGISME|Mot nouveau
+ABREVIATION|Forme raccourcie
+SIGLE|Initiales
+ACRONYME|Sigle prononçable
+ANAGRAMME|Mélange de lettres
+PALINDROME|Mot réversible
+ONOMATOPEE|Mot-bruit
+VERLAN|Argot à l'envers
+ARGOT|Langage populaire
+PATOIS|Parler local
+DIALECTE|Variante régionale
+ACCENT|Prononciation régionale
+ACCENTAIGU|Accent de « é »
+CEDILLE|Petit crochet du ç
+TREMA|Deux points sur une voyelle
+CIRCONFLEXE|Chapeau sur une voyelle
+APOSTROPHE|Signe d'élision
+TIRET|Petit trait
+TRAITDUNION|Trait entre deux mots
+PONCTUATION|Signes de la phrase
+POINT|Fin de phrase
+VIRGULE|Petite pause
+GUILLEMETS|Signes de citation
+PARENTHESE|Signe d'aparté
+MAJUSCULE|Capitale
+MINUSCULE|Petite lettre
+INTERROGATION|Point de question
+EXCLAMATION|Point d'étonnement
+POINTVIRGULE|Signe de pause moyenne
+DEUXPOINTS|Signe d'annonce
+EXPRESSION|Locution
+PROVERBE|Sagesse populaire
+DICTON|Adage
+CITATION|Phrase célèbre
+MAXIME|Sentence
+METAPHORE|Image
+COMPARAISON|Rapprochement
+HYPERBOLE|Exagération
+EUPHEMISME|Atténuation
+LITOTE|Dire moins pour dire plus
+OXYMORE|Alliance de contraires
+ALLITERATION|Répétition de consonnes
+ANTITHESE|Opposition d'idées
+JEUDEMOTS|Calembour
+CALEMBOUR|Jeu sur les sons
+CONTREPETERIE|Inversion de sons
+LECTURE|Action de lire
+ECRITURE|Action d'écrire
+LIRE|Déchiffrer
+ECRIRE|Rédiger
+EPELER|Dire lettre par lettre
+PRONONCER|Articuler
+PRONONCIATION|Diction
+DICTEE|Exercice d'orthographe
+REDACTION|Composition
+RESUME|Synthèse
+BROUILLON|Premier jet
+CAHIER|Carnet d'école
+STYLO|Instrument d'écriture
+ENCRE|Liquide du stylo
+GOMME|Effaceur
+CALLIGRAPHIER|Écrire joliment
+CURSIVE|Écriture liée
+FRANCAIS|Langue de Molière
+ANGLAIS|Langue de Shakespeare
+ESPAGNOL|Langue de Cervantes
+ALLEMAND|Langue de Goethe
+ITALIEN|Langue de Dante
+ARABE|Langue du Coran
+CHINOIS|Langue de Pékin
+JAPONAIS|Langue de Tokyo
+RUSSE|Langue de Tolstoï
+LATIN|Langue de César
+GREC|Langue d'Homère
+BRETON|Langue celtique
+OCCITAN|Langue d'oc
+CREOLE|Langue des Antilles
+ESPERANTO|Langue universelle
+BILINGUE|Qui parle deux langues
+POLYGLOTTE|Qui parle beaucoup de langues
+TRADUCTION|Version
+TRADUCTEUR|Translateur
+INTERPRETE|Traducteur oral
+BRAILLE|Écriture tactile
+HIEROGLYPHES|Écriture des pharaons
+CYRILLIQUE|Alphabet russe
+IDEOGRAMME|Caractère chinois
+ACADEMIE|Gardienne de la langue
+IMMORTEL|Académicien
+LAROUSSE|Dictionnaire illustré
+BESCHERELLE|Livre des conjugaisons
+ROBERT|Dictionnaire
+LEXIQUE|Vocabulaire
+JARGON|Langage technique
+FAMILIER|Courant
+SOUTENU|Recherché
+VULGAIRE|Grossier
+GROSMOT|Juron
+INJURE|Insulte
+COMPLIMENT|Éloge
+POLITESSE|Bonnes manières
+BONJOUR|Salut
+MERCI|Remerciement
+BAVARD|Moulin à paroles
+CHUCHOTER|Murmurer
+CRIER|Hurler
+BEGAYER|Bredouiller
+BAFOUILLER|Parler confusément
+DISCOURS|Allocution
+DIALOGUE|Échange
+CONVERSATION|Discussion
+MONOLOGUE|Tirade solitaire
+DEBAT|Discussion contradictoire
+ARGUMENT|Raison
+RHETORIQUE|Art oratoire
+ELOQUENCE|Art de convaincre
+ORATEUR|Tribun
+MESSAGE|Information
+LETTRES|Études littéraires
+COURRIER|Lettre
+ENVELOPPE|Pli
+TIMBRE|Vignette postale
+CARTEPOSTALE|Carte de vacances
+TELEGRAMME|Message urgent d'autrefois
+SMS|Texto
+MOTCROISE|Grille de mots
+MOTSFLECHES|Grille à flèches
+ORTHOPHONISTE|Rééducateur du langage
+DYSLEXIE|Trouble de la lecture
+ILLETTRISME|Difficulté à lire
+ANALPHABETE|Qui ne sait pas lire

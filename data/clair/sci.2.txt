@@ -1,0 +1,297 @@
+SCIENCE|Savoir rigoureux
+SCIENTIFIQUE|Savant
+LABORATOIRE|Labo
+EXPERIENCE|Essai scientifique
+CHERCHEUR|Savant qui fait des découvertes
+INVENTION|Création nouvelle
+INVENTEUR|Créateur
+ATOME|Brique de la matière
+MOLECULE|Groupe d'atomes
+ELECTRON|Particule négative
+PROTON|Particule positive
+NEUTRON|Particule neutre
+OXYGENE|Gaz vital
+HYDROGENE|Gaz le plus léger
+CARBONE|Élément du vivant
+AZOTE|Gaz majoritaire de l'air
+HELIUM|Gaz des ballons
+GAZ|État de l'air
+LIQUIDE|État de l'eau
+SOLIDE|État de la glace
+VAPEUR|Eau gazeuse
+ACIDE|Substance corrosive
+CHIMIE|Science des réactions
+CHIMISTE|Savant des réactions
+PHYSIQUE|Science de la matière
+PHYSICIEN|Savant de la physique
+BIOLOGIE|Science du vivant
+BIOLOGISTE|Savant du vivant
+CELLULE|Unité du vivant
+ADN|Code génétique
+GENE|Unité d'hérédité
+MICROBE|Germe
+BACTERIE|Micro-organisme
+VIRUS|Agent infectieux
+MICROSCOPE|Instrument grossissant
+LOUPE|Verre grossissant
+EVOLUTION|Théorie de Darwin
+DARWIN|Naturaliste anglais
+EINSTEIN|Génie de la relativité
+NEWTON|Savant de la gravitation
+GALILEE|Astronome italien
+PASTEUR|Savant de la rage
+CURIE|Marie, découvreuse du radium
+ARCHIMEDE|Savant du bain
+PYTHAGORE|Mathématicien grec
+EUREKA|J'ai trouvé
+NOBEL|Prix scientifique
+MATHEMATIQUES|Maths
+CALCUL|Opération
+NOMBRE|Quantité
+CHIFFRE|De 0 à 9
+ADDITION|Somme
+SOUSTRACTION|Différence
+DIVISION|Partage
+FRACTION|Partie d'un tout
+EQUATION|Égalité à résoudre
+INCONNUE|Valeur x
+ALGEBRE|Calcul avec des lettres
+GEOMETRIE|Étude des figures
+TRIANGLE|Figure à trois côtés
+CARRE|Figure à quatre côtés égaux
+RECTANGLE|Figure à angles droits
+CERCLE|Figure ronde
+LOSANGE|Figure en diamant
+TRAPEZE|Quadrilatère à deux côtés parallèles
+HEXAGONE|Figure à six côtés
+PENTAGONE|Figure à cinq côtés
+POLYGONE|Figure à côtés multiples
+CUBE|Solide à six faces
+SPHERE|Boule
+CYLINDRE|Tube
+ANGLE|Coin
+DIAMETRE|Ligne qui coupe le cercle en deux
+RAYON|Moitié du diamètre
+PERIMETRE|Tour d'une figure
+SURFACE|Aire
+VOLUME|Contenance
+PARALLELE|Droites qui ne se croisent pas
+THEOREME|Proposition démontrée
+COMPAS|Outil à cercles
+EQUERRE|Outil à angle droit
+RAPPORTEUR|Outil à angles
+REGLE|Outil à traits
+POURCENTAGE|Taux sur cent
+STATISTIQUE|Science des données
+PROBABILITE|Chance chiffrée
+MOYENNE|Note obtenue en divisant la somme des notes par leur nombre
+INFINI|Sans limite
+ZERO|Rien
+MILLION|Mille milliers
+MILLIARD|Mille millions
+DECIMAL|À virgule
+PAIR|Divisible par deux
+IMPAIR|Non divisible par deux
+PREMIER|Nombre divisible seulement par un et par lui-même
+METRE|Cent centimètres
+KILOMETRE|Mille mètres
+CENTIMETRE|Petite mesure
+LITRE|Mesure de liquide
+GRAMME|Mesure de masse
+KILOGRAMME|Mille grammes
+SECONDE|Unité de temps
+DEGRE|Unité de température
+VOLT|Unité de tension
+WATT|Unité de puissance
+AMPERE|Unité de courant
+JOULE|Unité d'énergie
+HERTZ|Unité de fréquence
+ENERGIE|Puissance d'action
+ELECTRICITE|Courant électrique
+COURANT|Flux d'électricité
+PILE|Source d'électricité portative
+AMPOULE|Lampe
+AIMANT|Objet qui attire le fer
+MAGNETISME|Force des aimants
+LUMIERE|Clarté
+SON|Vibration audible
+VITESSE|Rapidité
+FORCE|Puissance
+POIDS|Pesanteur
+MASSE|Quantité de matière
+PRESSION|Force sur une surface
+TEMPERATURE|Degré de chaleur
+CHALEUR|Énergie thermique
+FROID|Basse température
+FUSION|Passage à l'état liquide
+EBULLITION|Bouillonnement
+EVAPORATION|Passage en vapeur
+CONDENSATION|Passage en liquide
+CONGELATION|Passage en glace
+DENSITE|Masse volumique
+GRAVITE|Pesanteur
+FRICTION|Frottement
+LEVIER|Barre de soulèvement
+POULIE|Roue à corde
+ENGRENAGE|Roues dentées
+RESSORT|Spirale élastique
+MOTEUR|Machine motrice
+TURBINE|Roue à aubes
+MACHINE|Appareil
+ROBOT|Automate
+TECHNOLOGIE|Technique moderne
+RADAR|Détecteur à ondes
+LASER|Rayon concentré
+RADIOACTIVITE|Rayonnement atomique
+NUCLEAIRE|Atomique
+CENTRALE|Usine électrique
+EOLIENNE|Moulin à électricité
+BARRAGE|Mur d'eau
+ONDE|Vibration
+PRISME|Verre qui décompose la lumière
+MIROIR|Glace
+REFLET|Image renvoyée
+ORDINATEUR|PC
+CLAVIER|Touches
+ECRAN|Moniteur
+IMPRIMANTE|Machine à imprimer
+LOGICIEL|Programme
+INTERNET|La Toile
+SITE|Page web
+EMAIL|Courriel
+MOTDEPASSE|Code secret
+FICHIER|Document numérique
+DOSSIER|Répertoire
+TELECHARGER|Récupérer en ligne
+CLIQUER|Appuyer sur la souris
+CURSEUR|Flèche de l'écran
+ICONE|Petite image cliquable
+APPLICATION|Appli
+SMARTPHONE|Téléphone intelligent
+TABLETTE|Écran tactile
+WIFI|Sans fil
+BLUETOOTH|Liaison sans fil
+USB|Clé de stockage
+BUG|Erreur de programme
+ALGORITHME|Méthode de calcul
+PROGRAMME|Logiciel
+CODE|Langage de programmation
+INFORMATIQUE|Science des ordinateurs
+INFORMATICIEN|Expert en ordinateurs
+NUMERIQUE|Digital
+BINAIRE|Zéros et uns
+OCTET|Huit bits
+PROCESSEUR|Puce de calcul
+MEMOIRE|Stockage
+RESEAU|Connexion
+DRONE|Aéronef sans pilote
+GPS|Guidage par satellite
+TELEPHONE|Combiné
+TELEVISION|Télé
+RADIO|Poste
+APPAREILPHOTO|Boîtier photographique
+CALCULATRICE|Machine à calculer
+MONTRE|Elle donne l'heure au poignet
+HORLOGE|Pendule
+THERMOSTAT|Régulateur de chaleur
+CAPTEUR|Détecteur
+ELECTRONIQUE|Technique des circuits
+TRANSISTOR|Composant électronique
+FIL|Câble
+PRISE|Branchement
+INTERRUPTEUR|Bouton de lumière
+FUSIBLE|Sécurité électrique
+MECANIQUE|Science des machines
+INGENIEUR|Concepteur technique
+TECHNICIEN|Spécialiste
+HYPOTHESE|Supposition
+THEORIE|Explication
+FORMULE|Écriture scientifique
+RESULTAT|Aboutissement
+OBSERVATION|Examen attentif
+ECHANTILLON|Prélèvement
+ELEMENT|Corps simple
+MENDELEIEV|Chimiste russe
+ALLIAGE|Mélange de métaux
+ACIER|Fer et carbone
+BRONZE|Cuivre et étain
+LAITON|Cuivre et zinc
+ALUMINIUM|Métal léger
+PLOMB|Métal lourd
+ZINC|Métal gris
+URANIUM|Métal radioactif
+CALCIUM|Élément des os
+SODIUM|Élément du sel
+CHLORE|Désinfectant
+SOUFRE|Élément jaune
+PLASTIQUE|Matière synthétique
+CAOUTCHOUC|Matière élastique
+OXYDATION|Réaction à l'oxygène
+ROUILLE|Oxyde de fer
+COMBUSTION|Réaction du feu
+RESPIRATION|Échange gazeux
+DIGESTION|Transformation des aliments
+ECOSYSTEME|Milieu naturel
+ESPECE|Groupe d'êtres vivants
+CLONAGE|Copie génétique
+GENETIQUE|Science des gènes
+HEREDITE|Transmission
+CHROMOSOME|Porteur de gènes
+MUTATION|Changement génétique
+VACCIN|Protection
+ANTIBIOTIQUE|Médicament antibactérien
+ISOTOPE|Variante d'élément
+PARTICULE|Grain de matière
+QUANTIQUE|Physique microscopique
+RELATIVITE|Théorie d'Einstein
+CATALYSEUR|Accélérateur de réaction
+SOLUTION|Mélange liquide
+DISSOUDRE|Faire fondre dans l'eau
+DISTILLATION|Séparation par chauffage
+FILTRATION|Séparation par filtre
+CENTRIFUGEUSE|Séparateur rotatif
+PIPETTE|Tube compte-gouttes
+EPROUVETTE|Tube à essai
+OSCILLOSCOPE|Écran de signaux
+SPECTROSCOPE|Analyseur de lumière
+INERTIE|Résistance au mouvement
+ACCELERATION|Hausse de vitesse
+FREQUENCE|Nombre de vibrations
+AMPLITUDE|Taille d'une onde
+ULTRASON|Son inaudible
+INFRAROUGE|Rayon de chaleur
+ULTRAVIOLET|Rayon bronzant
+RAYONX|Rayon de radiographie
+ELECTROAIMANT|Aimant électrique
+ISOLANT|Matériau non conducteur
+DYNAMO|Générateur de vélo
+ALTERNATEUR|Générateur de courant
+SILICIUM|Élément des puces
+ROBOTIQUE|Science des robots
+DOMOTIQUE|Maison connectée
+CYBERNETIQUE|Science du pilotage
+CRYPTOGRAPHIE|Codage secret
+PIXEL|Point d'image
+RESOLUTION|Netteté d'image
+BANDEPASSANTE|Débit
+CLOUD|Nuage numérique
+HACKER|Pirate du web
+ANTIVIRUS|Protection logicielle
+SPAM|Pourriel
+HASHTAG|Mot-dièse
+EMOJI|Frimousse
+SELFIE|Autoportrait au téléphone
+STREAMING|Diffusion en ligne
+PODCAST|Émission audio
+HYPOTENUSE|Plus grand côté du triangle rectangle
+TANGENTE|Droite qui frôle une courbe
+PARABOLE|Courbe en U
+ELLIPSE|Ovale
+LOGARITHME|Fonction mathématique
+EXPOSANT|Puissance
+VECTEUR|Flèche mathématique
+COORDONNEES|Position sur un graphique
+ABSCISSE|Axe horizontal
+ORDONNEE|Axe vertical
+GRAPHIQUE|Diagramme
+HISTOGRAMME|Graphique à barres
