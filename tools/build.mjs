@@ -55,12 +55,13 @@ const dicoPath = path.join(ROOT, 'data/dico.tsv.gz');
 if (fs.existsSync(dicoPath)) {
   for (const line of zlib.gunzipSync(fs.readFileSync(dicoPath)).toString('utf8').split('\n')) {
     if (!line) continue;
-    const [a, z, th, defs] = line.split('\t');
+    const [a, z, th, defs, raw] = line.split('\t');
     const w = getW(a); dicoN++;
-    w.z = Math.max(w.z ?? 0, +z);
+    // un mot écrit à la main garde la fréquence réelle du mot : ses définitions visent le sens courant
+    w.z = Math.max(w.z ?? 0, w.hand && raw ? +raw : +z);
     const t = th.split(',')[0];
     if (!w.hand || t !== 'cg') w.themes.add(t);
-    defs.split('|').forEach(c => addClue(w, t, c, null));
+    if (!(w.hand && (w.src.get(t) || []).length)) defs.split('|').forEach(c => addClue(w, t, c, null));   // mot écrit à la main : ses propres définitions suffisent
   }
 }
 // un seul thème par mot (le premier thème spécialisé, sinon la Culture générale), avec uniquement les définitions de ce thème

@@ -158,6 +158,7 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         if not lemma or not lemma[0].islower() or re.search(r"[\s'’\-.0-9]", lemma): continue
         try: z = float(row['zipf_frequency'] or 0)
         except ValueError: z = 0.0
+        zraw = z
         rare = z < 1.0          # mot hors des corpus de fréquence : accepté seulement s'il est clairement thématique
         if rare and row['scrabble_valid'] != '1': continue
         if not rare and row['scrabble_valid'] != '1' and z < 2: continue
@@ -172,14 +173,19 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         if not (3 <= len(ans) <= 13): continue
         try: defs = json.loads(row['definitions'] or '[]')
         except ValueError: defs = [row['definition']]
+        try: exs = json.loads(row['examples'] or '[]')
+        except ValueError: exs = []
+        nex = [len(x) if isinstance(x, list) else 0 for x in exs]
+        maxex = max(nex[:8], default=0)
+        exn = {}                                   # nombre de citations du sens : les sens courants sont les mieux attestés
         good = []
-        for d in defs[:8]:
+        for i, d in enumerate(defs[:8]):
             raw = re.sub(r'^\s*(\([^()]*\)\s*)+', '', d)
             if raw[:1].islower(): continue                     # suite d'une définition coupée
             d = clean_def(d)
             if pos == 'verb' and re.match(r"^(Un|Une|Le|La|Les|L'|Des|Du|De|Sa|Son|Ses|Quelqu)\b", d): continue
             if z < 2.5 and re.match(r"^(Langue|Dialecte|Peuple|Ethnie)\b.*\b(parlée?|vivant|habitant|établi)", d): continue   # langues et peuples obscurs
-            if ok_def(d, ans, lemma) and d not in good: good.append(d)
+            if ok_def(d, ans, lemma) and d not in good: good.append(d); exn[d] = nex[i] if i < len(nex) else 0
         if not good: continue
         good.sort(key=lambda x: x.lower().startswith('synonyme de'))   # « Synonyme de … » en dernier recours
         if len(ans) == 3 and (z < 3 or re.match(r'(organisme|sigle|acronyme|abréviation)', good[0], re.I)): continue
@@ -206,6 +212,19 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
         if len(themes) > 1:   # un seul thème : celui de la définition principale
             first = min(themes, key=lambda t: good.index(tdef[t][0]))
             themes = {first}
+        # Difficulté : un mot courant ne garde en Facile/Moyen que ses sens courants ;
+        # s'il ne reste qu'un sens rare (ex. GISEMENT « situation des côtes »), le mot passe en Difficile
+        cur = (lambda d: maxex == 0 or exn.get(d, 0) >= min(2, maxex))
+        pool = tdef[next(iter(themes))] if themes else good
+        top = (lambda d: maxex == 0 or exn.get(d, 0) >= maxex)
+        if z >= 3.3 and not any(top(d) for d in pool):
+            z = 3.2                                  # pas le sens le plus courant : au mieux Moyen
+        if z >= 2.3:
+            mains = [d for d in pool if cur(d)]
+            if mains: pool = mains
+            else: z = min(z, 2.2)
+        if themes: tdef[next(iter(themes))] = pool
+        else: good = pool
         if themes:
             t = next(iter(themes))
             good = tdef[t][:3]
@@ -229,21 +248,23 @@ with gzip.open(SRC, 'rt', encoding='utf-8') as fh:
             z = 0.5
         w = words.get(ans)
         if w is None:
-            words[ans] = w = {'z': z, 't': set(), 'd': [], 'td': None}
-        w['z'] = max(w['z'], z)
+            words[ans] = w = {'z': z, 't': set(), 'd': [], 'dz': [], 'td': None, 'raw': 0.0}
+        w['z'] = max(w['z'], z); w['raw'] = max(w['raw'], zraw)
         if themes and w['td'] is None:          # la première entrée thématique (la plus fréquente) fixe le thème
-            w['td'] = (next(iter(themes)), good)
+            w['td'] = (next(iter(themes)), good, z)
         for d in good:
-            if len(w['d']) < 4 and d not in w['d']: w['d'].append(d)
+            if len(w['d']) < 4 and d not in w['d']: w['d'].append(d); w['dz'].append(z)
 
 # Un seul thème par mot ; un mot thématique ne garde que ses définitions thématiques
 for w in words.values():
-    if w['td']: w['t'] = {w['td'][0]}; w['d'] = w['td'][1][:3]
-    else: w['t'] = {'cg'}
+    if w['td']: w['t'] = {w['td'][0]}; w['d'] = w['td'][1][:3]; w['z'] = w['td'][2]   # difficulté de l'entrée dont vient la définition
+    else:
+        # vocabulaire général : on ne garde que les définitions de l'entrée la plus courante, pour que le niveau corresponde
+        w['t'] = {'cg'}; w['z'] = max(w['dz'] or [w['z']]); w['d'] = [d for d, dz in zip(w['d'], w['dz']) if dz == w['z']]
 
 with gzip.open(OUT, 'wt', encoding='utf-8') as out:
     for a, w in words.items():
-        out.write(f"{a}\t{w['z']:.2f}\t{','.join(sorted(w['t']))}\t{'|'.join(x.replace('|', '/') for x in w['d'])}\n")
+        out.write(f"{a}\t{w['z']:.2f}\t{','.join(sorted(w['t']))}\t{'|'.join(x.replace('|', '/') for x in w['d'])}\t{w['raw']:.2f}\n")
 
 tc = collections.Counter(t for w in words.values() for t in w['t'])
 zc = collections.Counter('facile' if w['z'] >= 3.3 else 'moyen' if w['z'] >= 2.3 else 'difficile' for w in words.values())
